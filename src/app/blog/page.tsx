@@ -2,11 +2,12 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
-import { posts } from "./posts";
+import blogContent from "@/content/blog.json";
+import postsContent from "@/content/posts.json";
 
 export const metadata: Metadata = {
-  title: "MSNeuro Blog",
-  description: "Insights and practical guides on neuroscience, EEG workflows, and BCI projects.",
+  title: blogContent.metadata.title,
+  description: blogContent.metadata.description,
 };
 
 export default function BlogPage() {
@@ -15,15 +16,13 @@ export default function BlogPage() {
       <Header />
       <main className="mx-auto max-w-5xl px-6 pb-16 pt-14">
         <section className="mb-10">
-          <p className="text-sm uppercase tracking-wider text-sky-300">Blog</p>
-          <h1 className="mt-2 text-4xl font-semibold text-white md:text-5xl">Latest neuroscience articles</h1>
-          <p className="mt-4 max-w-2xl text-slate-300">
-            Practical notes on EEG preprocessing, neuro-ML workflows, and project design.
-          </p>
+          <p className="text-sm uppercase tracking-wider text-sky-300">{blogContent.tag}</p>
+          <h1 className="mt-2 text-4xl font-semibold text-white md:text-5xl">{blogContent.heading}</h1>
+          <p className="mt-4 max-w-2xl text-slate-300">{blogContent.intro}</p>
         </section>
 
         <div className="grid gap-5">
-          {posts.map((post) => (
+          {postsContent.posts.map((post) => (
             <article
               key={post.slug}
               className="rounded-2xl border border-white/10 bg-slate-900/50 p-6 transition hover:border-sky-300/35 hover:bg-slate-900/80"
@@ -39,7 +38,7 @@ export default function BlogPage() {
                 href={`/blog/${post.slug}`}
                 className="mt-5 inline-block text-sm font-medium text-sky-300 transition hover:text-sky-200"
               >
-                Read article →
+                {blogContent.readMoreLabel} →
               </Link>
             </article>
           ))}

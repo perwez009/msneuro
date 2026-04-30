@@ -1,0 +1,28 @@
+{
+  "fundamentals": {
+    "title": "Fundamentals of Neuroscience",
+    "description": "The scientific study of the nervous system."
+  },
+  "preprocessing": {
+    "title": "Data Preprocessing",
+    "description": "Transforming raw neural recordings into clean, analyzable data."
+  },
+  "resources": {
+    "title": "Curated Resources",
+    "description": "A collection of essential tools, libraries, and learning materials."
+  },
+  "datasets": {
+    "title": "Public Datasets",
+    "description": "Explore a directory of publicly available neuroscience datasets."
+  },
+  "opportunities": {
+    "title": "Opportunities",
+    "description": "Find research positions, internships, and collaborations."
+  },
+  "forum": {
+    "title": "Community Forum",
+    "description": "Our community forum is coming soon!",
+    "cardTitle": "Stay Tuned!",
+    "cardDescription": "We are working hard to bring you a dedicated space for discussion."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "brandName": "MSNeuro",
+  "navItems": [
+    { "href": "/fundamentals", "label": "Fundamentals" },
+    { "href": "/preprocessing", "label": "Preprocessing" },
+    { "href": "/resources", "label": "Resources" },
+    { "href": "/datasets", "label": "Datasets" },
+    { "href": "/opportunities", "label": "Opportunities" },
+    { "href": "/blog", "label": "Blog" }
+  ]
+}

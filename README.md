@@ -56,3 +56,15 @@ It provides a clean, responsive interface for learning neuroscience topics, expl
 - `/blog`
 - `/blog/getting-started-with-eeg-preprocessing` (example post)
 
+## Update Website Content (JSON)
+
+You can now update most website text from JSON files in `src/content/`:
+
+- `site.json` – global metadata
+- `navigation.json` – header brand + menu links
+- `footer.json` – footer text + links
+- `home.json` – homepage badge, title, description, CTAs, section cards
+- `pages.json` – titles/descriptions for fundamentals, preprocessing, resources, datasets, opportunities, forum
+- `blog.json` – blog page labels/headings
+- `posts.json` – all blog posts and article content
+

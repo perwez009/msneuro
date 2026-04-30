@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "title": "MSNeuro Blog",
+    "description": "Insights and practical guides on neuroscience, EEG workflows, and BCI projects."
+  },
+  "tag": "Blog",
+  "heading": "Latest neuroscience articles",
+  "intro": "Practical notes on EEG preprocessing, neuro-ML workflows, and project design.",
+  "readMoreLabel": "Read article",
+  "backLabel": "Back to blog",
+  "notFoundTitle": "Article not found | MSNeuro Blog"
+}

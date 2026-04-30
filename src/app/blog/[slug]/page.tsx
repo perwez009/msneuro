@@ -3,7 +3,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
-import { posts } from "../posts";
+import blogContent from "@/content/blog.json";
+import postsContent from "@/content/posts.json";
 
 type BlogPostPageProps = {
   params: Promise<{ slug: string }>;
@@ -11,10 +12,10 @@ type BlogPostPageProps = {
 
 export async function generateMetadata({ params }: BlogPostPageProps): Promise<Metadata> {
   const { slug } = await params;
-  const post = posts.find((item) => item.slug === slug);
+  const post = postsContent.posts.find((item) => item.slug === slug);
 
   if (!post) {
-    return { title: "Article not found | MSNeuro Blog" };
+    return { title: blogContent.notFoundTitle };
   }
 
   return {
@@ -24,12 +25,12 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
 }
 
 export async function generateStaticParams() {
-  return posts.map((post) => ({ slug: post.slug }));
+  return postsContent.posts.map((post) => ({ slug: post.slug }));
 }
 
 export default async function BlogPostPage({ params }: BlogPostPageProps) {
   const { slug } = await params;
-  const post = posts.find((item) => item.slug === slug);
+  const post = postsContent.posts.find((item) => item.slug === slug);
 
   if (!post) {
     notFound();
@@ -40,7 +41,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
       <Header />
       <main className="mx-auto max-w-3xl px-6 pb-16 pt-14">
         <Link href="/blog" className="text-sm text-sky-300 transition hover:text-sky-200">
-          ← Back to blog
+          ← {blogContent.backLabel}
         </Link>
         <article className="mt-6 rounded-2xl border border-white/10 bg-slate-900/50 p-8">
           <div className="mb-4 flex flex-wrap items-center gap-3 text-xs text-slate-300">

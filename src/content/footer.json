@@ -1,0 +1,8 @@
+{
+  "copyrightPrefix": "All rights reserved.",
+  "links": [
+    { "href": "/blog", "label": "Blog" },
+    { "href": "/resources", "label": "Resources" },
+    { "href": "/opportunities", "label": "Opportunities" }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "badge": "Modern neuroscience learning hub",
+  "title": "World of Neurons",
+  "description": "MSNeuro helps students and researchers learn faster with curated modules, practical EEG workflows, and a blog section focused on real-world applications.",
+  "primaryCta": {
+    "href": "/blog",
+    "label": "Read the Blog"
+  },
+  "secondaryCta": {
+    "href": "/fundamentals",
+    "label": "Start Learning"
+  },
+  "sections": [
+    {
+      "href": "/fundamentals",
+      "title": "Fundamentals",
+      "description": "Build strong neuroscience foundations with structured concepts and visuals."
+    },
+    {
+      "href": "/preprocessing",
+      "title": "Preprocessing",
+      "description": "Learn practical EEG cleaning, filtering, artifact removal, and feature prep."
+    },
+    {
+      "href": "/resources",
+      "title": "Resources",
+      "description": "Get curated tools, libraries, papers, and learning material in one place."
+    },
+    {
+      "href": "/datasets",
+      "title": "Public Datasets",
+      "description": "Browse open datasets useful for BCI experiments and ML model building."
+    },
+    {
+      "href": "/opportunities",
+      "title": "Opportunities",
+      "description": "Discover labs, internships, and research collaborations in neurotech."
+    },
+    {
+      "href": "/blog",
+      "title": "Blog",
+      "description": "Read practical posts on neuroscience workflows and project ideas."
+    }
+  ]
+}

@@ -1,5 +1,6 @@
-import Header from '@/components/Header';
-import Footer from '@/components/Footer';
+import Footer from "@/components/Footer";
+import Header from "@/components/Header";
+import pagesContent from "@/content/pages.json";
 
 export default function FundamentalsPage() {
     return (
@@ -8,8 +9,8 @@ export default function FundamentalsPage() {
             <main className="container mx-auto px-6 py-16">
                 <div className="max-w-4xl mx-auto">
                     <div className="text-center mb-12">
-                        <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">Fundamentals of Neuroscience</h2>
-                        <p className="text-lg text-gray-400">The scientific study of the nervous system.</p>
+                        <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">{pagesContent.fundamentals.title}</h2>
+                        <p className="text-lg text-gray-400">{pagesContent.fundamentals.description}</p>
                     </div>
                     {/* ... (rest of the page content is the same) */}
                 </div>

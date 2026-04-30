@@ -1,15 +1,16 @@
-import type { Metadata } from 'next'
-import './globals.css'
+import type { Metadata } from "next";
+import siteContent from "@/content/site.json";
+import "./globals.css";
 
 export const metadata: Metadata = {
-  title: 'MSNeuro - Neuroscience Hub',
-  description: 'Your comprehensive resource for Neuroscience, Brain-Computer Interfaces, and EEG Data Processing',
-}
+  title: siteContent.metadata.title,
+  description: siteContent.metadata.description,
+};
 
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode
+  children: React.ReactNode;
 }) {
   return (
     <html lang="en">
@@ -17,5 +18,5 @@ export default function RootLayout({
         {children}
       </body>
     </html>
-  )
+  );
 }

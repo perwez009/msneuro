@@ -2,15 +2,7 @@
 
 import Link from "next/link";
 import { useState } from "react";
-
-const navItems = [
-  { href: "/fundamentals", label: "Fundamentals" },
-  { href: "/preprocessing", label: "Preprocessing" },
-  { href: "/resources", label: "Resources" },
-  { href: "/datasets", label: "Datasets" },
-  { href: "/opportunities", label: "Opportunities" },
-  { href: "/blog", label: "Blog" },
-];
+import navigationContent from "@/content/navigation.json";
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -19,11 +11,11 @@ export default function Header() {
     <header className="sticky top-0 z-50 border-b border-white/10 bg-slate-950/75 backdrop-blur-xl">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
         <Link href="/" className="text-xl font-semibold text-white">
-          MSNeuro
+          {navigationContent.brandName}
         </Link>
 
         <nav className="hidden items-center gap-6 md:flex">
-          {navItems.map((item) => (
+          {navigationContent.navItems.map((item) => (
             <Link
               key={item.href}
               href={item.href}
@@ -60,7 +52,7 @@ export default function Header() {
       {mobileMenuOpen && (
         <nav className="border-t border-white/10 px-6 py-3 md:hidden">
           <div className="flex flex-col gap-1">
-            {navItems.map((item) => (
+            {navigationContent.navItems.map((item) => (
               <Link
                 key={item.href}
                 href={item.href}
