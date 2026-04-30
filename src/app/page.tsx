@@ -54,7 +54,7 @@ export default function HomePage() {
               Modern neuroscience learning hub
             </span>
             <h1 className="mt-5 max-w-3xl text-4xl font-semibold tracking-tight text-white md:text-6xl">
-              Explore neuroscience with a modern React + Tailwind experience.
+              World of Neurons
             </h1>
             <p className="mt-5 max-w-2xl text-base text-slate-300 md:text-lg">
               MSNeuro helps students and researchers learn faster with curated modules, practical EEG workflows,
