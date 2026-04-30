@@ -5,7 +5,46 @@
   },
   "preprocessing": {
     "title": "Data Preprocessing",
-    "description": "Transforming raw neural recordings into clean, analyzable data."
+    "description": "Transforming raw neural recordings into clean, analyzable data.",
+    "stepsHeading": "EEG Data Preprocessing Steps",
+    "steps": [
+      {
+        "title": "Import Raw Data",
+        "details": "Load EEG data into software (e.g., MATLAB, Python with MNE-Python)."
+      },
+      {
+        "title": "Remove Bad Channels",
+        "details": "Identify and remove noisy or faulty electrodes."
+      },
+      {
+        "title": "Filtering",
+        "details": "Apply high-pass filter (0.5-1 Hz) to remove slow drift, low-pass filter (40-50 Hz) to remove high-frequency noise, and remove power-line noise (50/60 Hz)."
+      },
+      {
+        "title": "Re-referencing",
+        "details": "Convert data to a common reference (e.g., average reference)."
+      },
+      {
+        "title": "Artifact Removal",
+        "details": "Remove artifacts like eye blinks and muscle activity using Independent Component Analysis (ICA)."
+      },
+      {
+        "title": "Epoching (Segmentation)",
+        "details": "Divide continuous EEG into time-locked segments around events (e.g., -1 to 2 sec)."
+      },
+      {
+        "title": "Baseline Correction",
+        "details": "Subtract mean activity of pre-stimulus period from each epoch."
+      },
+      {
+        "title": "Reject Bad Epochs",
+        "details": "Remove trials with excessive noise or amplitude."
+      },
+      {
+        "title": "Feature Extraction (Optional)",
+        "details": "Extract useful information like power, frequency bands, or ERD/ERS."
+      }
+    ]
   },
   "resources": {
     "title": "Curated Resources",
