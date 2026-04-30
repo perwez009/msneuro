@@ -1,82 +1,58 @@
-# MSNeuro - Interactive Neuroscience Hub
+# MSNeuro
 
-> **A vibrant, animated platform for neuroscience education, EEG data processing, and brain-computer interface exploration**
+MSNeuro is a modern neuroscience website built with **Next.js**, **React**, and **Tailwind CSS**.  
+It provides a clean, responsive interface for learning neuroscience topics, exploring resources, and reading blog content.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://msneuro.vercel.app)
-[![Built with Next.js](https://img.shields.io/badge/Built%20with-Next.js%2015-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![Styled with Tailwind](https://img.shields.io/badge/Styled%20with-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+## Features
 
-##  **Live Demo**
+- Modern landing page with gradient visual styling
+- Responsive navigation and mobile menu
+- Structured sections for:
+  - Fundamentals
+  - Preprocessing
+  - Resources
+  - Datasets
+  - Opportunities
+- Blog section with:
+  - Blog listing page
+  - Dynamic post pages (`/blog/[slug]`)
 
-**Visit:** [msneuro.vercel.app](https://msneuro.vercel.app)
+## Tech Stack
 
----
+- Next.js (App Router)
+- React
+- TypeScript
+- Tailwind CSS
 
-## **What is MSNeuro?**
+## Getting Started
 
-MSNeuro is a **comprehensive, interactive neuroscience education platform** that combines cutting-edge web technology with brain science. It's designed for students, researchers, and enthusiasts who want to explore:
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Run development server:
+   ```bash
+   npm run dev
+   ```
+3. Open:
+   `http://localhost:3000`
 
-- 🧬 **Neuroscience Fundamentals** - Brain anatomy, neural networks, and cognitive functions
-- 🤖 **Brain-Computer Interfaces (BCI)** - Mind-controlled technology and applications  
-- 📊 **EEG Data Processing** - Signal analysis, filtering, and interpretation tools
-- 🌈 **Interactive Visualizations** - Real-time brain activity animations
+## Scripts
 
----
+- `npm run dev` – start local development server
+- `npm run build` – create production build
+- `npm run start` – run production build locally
+- `npm run lint` – run lint checks
 
-## ✨ **Key Features**
+## Main Routes
 
-### 🎨 **Vibrant Visual Experience**
-- **Colorful gradient backgrounds** with purple, blue, and teal themes
-- **Animated EEG waveforms** that pulse and move in real-time
-- **Interactive hover effects** with scaling and rotation animations
-- **Emoji-rich interface** that makes neuroscience fun and engaging
-
-### 📊 **Live EEG Data Visualizations**
-- **Real-time brain wave displays** for Alpha, Beta, Gamma, and Theta frequencies
-- **Animated neural activity monitor** with 50+ pulsing data bars
-- **Interactive processing pipeline** with color-coded steps
-- **Professional EEG visualization** similar to clinical monitoring systems
-
-### 🛠️ **Professional EEG Processing Tools**
-Direct links to industry-standard neuroscience software:
-
-| Tool | Description | Link |
-|------|-------------|------|
-| 🔬 **EEGLab Processor** | Advanced MATLAB-based EEG analysis | [eeglab.org](https://eeglab.org/) |
-| 🐍 **MNE-Python** | Python toolkit for MEG/EEG analysis | [mne.tools](https://mne.tools/) |
-| ⚡ **FieldTrip** | MATLAB software for EEG/MEG analysis | [fieldtriptoolbox.org](https://www.fieldtriptoolbox.org/) |
-| 👁️ **BrainVision Analyzer** | Professional EEG analysis software | Clinical-grade processing |
-| 🎮 **OpenViBE** | Real-time neurotechnology platform | [openvibe.inria.fr](http://openvibe.inria.fr/) |
-| 🧠 **BESA Research** | Source analysis and connectivity | Advanced brain modeling |
-
-### 🎯 **Interactive Learning Modules**
-- **Step-by-step EEG pipeline** with clickable tools
-- **Brain anatomy exploration** with animated components
-- **BCI demo sections** for hands-on learning
-- **Color-coded neural frequency bands**
-
----
-
-## 🚀 **Technologies Used**
-
-### **Frontend Framework**
-- ⚡ **Next.js 15.4.5** - React framework with App Router
-- ⚛️ **React 19** - Latest version for optimal performance
-- 📱 **TypeScript** - Type-safe development
-
-### **Styling & Animation**
-- 🎨 **Tailwind CSS 3.4.1** - Utility-first CSS framework
-- 🌈 **Custom gradient backgrounds** and color schemes
-- ✨ **CSS animations** - Pulse, bounce, spin, and scale effects
-- 📐 **Responsive design** for all device sizes
-
-### **Development & Deployment**
-- 🔧 **ESLint** - Code quality and consistency
-- 🚀 **Vercel** - Automatic deployments from GitHub
-- 📦 **PostCSS & Autoprefixer** - CSS processing
-- 🔄 **Git** - Version control with GitHub
-
----
-
-## 📁 **Project Structure**
+- `/` – Home
+- `/fundamentals`
+- `/preprocessing`
+- `/resources`
+- `/datasets`
+- `/opportunities`
+- `/forum`
+- `/blog`
+- `/blog/getting-started-with-eeg-preprocessing` (example post)
 

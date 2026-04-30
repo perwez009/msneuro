@@ -1,13 +1,5 @@
-import React from 'react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-
-const InfoCard = ({ title, children }) => (
-    <div className="bg-gray-800/50 backdrop-filter backdrop-blur-sm p-6 rounded-lg">
-        <h3 className="text-xl font-bold text-cyan-400 mb-3">{title}</h3>
-        <p className="text-gray-400">{children}</p>
-    </div>
-);
 
 export default function FundamentalsPage() {
     return (

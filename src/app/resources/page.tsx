@@ -1,13 +1,5 @@
-import React from 'react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-
-const ResourceCard = ({ title, children, link }) => (
-    <a href={link} target="_blank" rel="noopener noreferrer" className="block bg-gray-800/50 p-6 rounded-lg transition hover:bg-gray-800/80">
-        <h4 className="text-xl font-bold text-cyan-400 mb-2">{title}</h4>
-        <p className="text-gray-400">{children}</p>
-    </a>
-);
 
 export default function ResourcesPage() {
     return (

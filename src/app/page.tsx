@@ -1,55 +1,96 @@
-"use client"; // This directive is crucial for components using React Hooks
-import React, { useEffect, useRef } from 'react';
-import * as THREE from 'three';
-import Header from '@/components/Header';
-import Footer from '@/components/Footer';
+import Link from "next/link";
+import Footer from "@/components/Footer";
+import Header from "@/components/Header";
 
-const SectionCard = ({ href, title, children }) => (
-    <a href={href} className="block section-card bg-gray-800/50 backdrop-filter backdrop-blur-sm p-8 rounded-lg transition hover:transform hover:-translate-y-1 hover:shadow-xl hover:shadow-cyan-500/10">
-        <h2 className="text-2xl font-bold text-white mb-3">{title}</h2>
-        <p className="text-gray-400">{children}</p>
-    </a>
-);
+type Section = {
+  href: string;
+  title: string;
+  description: string;
+};
+
+const sections: Section[] = [
+  {
+    href: "/fundamentals",
+    title: "Fundamentals",
+    description: "Build strong neuroscience foundations with structured concepts and visuals.",
+  },
+  {
+    href: "/preprocessing",
+    title: "Preprocessing",
+    description: "Learn practical EEG cleaning, filtering, artifact removal, and feature prep.",
+  },
+  {
+    href: "/resources",
+    title: "Resources",
+    description: "Get curated tools, libraries, papers, and learning material in one place.",
+  },
+  {
+    href: "/datasets",
+    title: "Public Datasets",
+    description: "Browse open datasets useful for BCI experiments and ML model building.",
+  },
+  {
+    href: "/opportunities",
+    title: "Opportunities",
+    description: "Discover labs, internships, and research collaborations in neurotech.",
+  },
+  {
+    href: "/blog",
+    title: "Blog",
+    description: "Read modern, practical posts on neuroscience workflows and project ideas.",
+  },
+];
 
 export default function HomePage() {
-    const mountRef = useRef(null);
-
-    useEffect(() => {
-        if (typeof window === 'undefined' || !mountRef.current) return;
-        const mount = mountRef.current;
-        if (mount.childElementCount > 0) return;
-
-        const scene = new THREE.Scene();
-        const camera = new THREE.PerspectiveCamera(75, mount.clientWidth / mount.clientHeight, 1, 10000);
-        camera.position.z = 1000;
-        const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
-        renderer.setSize(mount.clientWidth, mount.clientHeight);
-        renderer.setClearColor(0x000000, 0);
-        mount.appendChild(renderer.domElement);
-        // ... (rest of the animation code is the same)
-    }, []);
-
-    return (
-        <div style={{ fontFamily: "'Inter', sans-serif" }} className="bg-gray-900 text-gray-300">
-            <div ref={mountRef} style={{ position: 'fixed', top: 0, left: 0, width: '100%', height: '100%', zIndex: 0 }} />
-            <div className="relative z-10">
-                <Header />
-                <main className="container mx-auto px-6 py-16">
-                    <section id="hero" className="text-center mb-24">
-                        <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">Exploring the Frontiers of Neuroscience</h1>
-                        <p className="text-lg md:text-xl text-gray-400 max-w-3xl mx-auto">A curated platform for students and researchers in computational neuroscience.</p>
-                    </section>
-                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                        <SectionCard href="/fundamentals" title="Fundamentals of Neuroscience">Build a strong foundation with core concepts in neuroscience.</SectionCard>
-                        <SectionCard href="/preprocessing" title="Data Preprocessing">Learn essential techniques for cleaning and preparing neural data.</SectionCard>
-                        <SectionCard href="/resources" title="Resources">Access a curated collection of tools, libraries, and learning materials.</SectionCard>
-                        <SectionCard href="/opportunities" title="Opportunities">Discover research positions, internships, and collaborations.</SectionCard>
-                        <SectionCard href="/forum" title="Forum">Engage with a community of peers, mentors, and experts.</SectionCard>
-                        <SectionCard href="/datasets" title="Public Datasets">Explore a directory of publicly available neuroscience datasets.</SectionCard>
-                    </div>
-                </main>
-                <Footer />
+  return (
+    <div className="min-h-screen">
+      <Header />
+      <main className="mx-auto max-w-7xl px-6 pb-16 pt-14">
+        <section className="relative overflow-hidden rounded-3xl border border-white/10 bg-white/5 p-8 shadow-2xl shadow-sky-900/20 md:p-14">
+          <div className="pointer-events-none absolute -right-24 -top-24 h-64 w-64 rounded-full bg-sky-400/30 blur-3xl" />
+          <div className="pointer-events-none absolute -bottom-24 left-0 h-64 w-64 rounded-full bg-blue-500/20 blur-3xl" />
+          <div className="relative">
+            <span className="inline-flex rounded-full border border-sky-300/25 bg-sky-400/10 px-3 py-1 text-xs font-medium text-sky-200">
+              Modern neuroscience learning hub
+            </span>
+            <h1 className="mt-5 max-w-3xl text-4xl font-semibold tracking-tight text-white md:text-6xl">
+              Explore neuroscience with a modern React + Tailwind experience.
+            </h1>
+            <p className="mt-5 max-w-2xl text-base text-slate-300 md:text-lg">
+              MSNeuro helps students and researchers learn faster with curated modules, practical EEG workflows,
+              and a new blog section focused on real-world applications.
+            </p>
+            <div className="mt-8 flex flex-wrap gap-3">
+              <Link
+                href="/blog"
+                className="rounded-lg bg-sky-500 px-5 py-3 text-sm font-medium text-white transition hover:bg-sky-400"
+              >
+                Read the Blog
+              </Link>
+              <Link
+                href="/fundamentals"
+                className="rounded-lg border border-white/20 px-5 py-3 text-sm font-medium text-slate-100 transition hover:bg-white/10"
+              >
+                Start Learning
+              </Link>
             </div>
-        </div>
-    );
+          </div>
+        </section>
+
+        <section className="mt-10 grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3">
+          {sections.map((section) => (
+            <Link
+              key={section.href}
+              href={section.href}
+              className="rounded-2xl border border-white/10 bg-slate-900/40 p-6 transition hover:-translate-y-1 hover:border-sky-300/40 hover:bg-slate-900/70"
+            >
+              <h2 className="text-xl font-semibold text-white">{section.title}</h2>
+              <p className="mt-3 text-sm leading-6 text-slate-300">{section.description}</p>
+            </Link>
+          ))}
+        </section>
+      </main>
+      <Footer />
+    </div>
+  );
 }
