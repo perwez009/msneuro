@@ -40,6 +40,7 @@ It provides a clean, responsive interface for learning neuroscience topics, expl
 ## Scripts
 
 - `npm run dev` – start local development server
+- `npm run update:opportunities` – refresh neuroscience opportunities from supported job sources
 - `npm run build` – create production build
 - `npm run start` – run production build locally
 - `npm run lint` – run lint checks
@@ -65,6 +66,22 @@ You can now update most website text from JSON files in `src/content/`:
 - `footer.json` – footer text + links
 - `home.json` – homepage badge, title, description, CTAs, section cards
 - `pages.json` – titles/descriptions for fundamentals, preprocessing, resources, datasets, opportunities, forum
+- `opportunities.json` – generated opportunities feed (job source, posting date, apply-by date)
 - `blog.json` – blog page labels/headings
 - `posts.json` – all blog posts and article content
+
+## Opportunities automation
+
+The opportunities page uses a generated feed from these job sources:
+- Remotive
+- Neuralink Jobs (Greenhouse)
+- NeuroPace Careers (Greenhouse)
+- Arbeitnow
+
+Automation entrypoint:
+```bash
+npm run update:opportunities
+```
+
+The build process also refreshes this feed automatically via `prebuild`.
 
