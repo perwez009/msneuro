@@ -66,6 +66,7 @@ You can now update most website text from JSON files in `src/content/`:
 - `footer.json` – footer text + links
 - `home.json` – homepage badge, title, description, CTAs, section cards
 - `pages.json` – titles/descriptions for fundamentals, preprocessing, resources, datasets, opportunities, forum
+- `datasets.json` – curated public dataset catalog (EEG, fNIRS, fMRI, MEG, EMG, EOG, ECoG)
 - `opportunities.json` – generated opportunities feed (job source, posting date, apply-by date)
 - `blog.json` – blog page labels/headings
 - `posts.json` – all blog posts and article content

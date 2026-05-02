@@ -1,0 +1,134 @@
+{
+  "intro": "Curated, publicly available datasets across major neuro modalities. Always verify each dataset license and usage policy before publication or redistribution.",
+  "modalities": [
+    {
+      "key": "eeg",
+      "label": "EEG",
+      "description": "Scalp electrophysiology datasets for BCI, cognition, sleep, and clinical use-cases.",
+      "datasets": [
+        {
+          "name": "Temple University Hospital EEG Corpus (TUH EEG)",
+          "summary": "Large clinical EEG archive widely used for seizure detection and clinical AI benchmarks.",
+          "link": "https://isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml"
+        },
+        {
+          "name": "CHB-MIT Scalp EEG Database",
+          "summary": "Pediatric scalp EEG recordings with seizure events; classic epilepsy benchmark dataset.",
+          "link": "https://physionet.org/content/chbmit/1.0.0/"
+        },
+        {
+          "name": "BCI Competition IV Dataset 2a",
+          "summary": "Motor imagery EEG benchmark with standardized train/test splits for BCI evaluation.",
+          "link": "https://www.bbci.de/competition/iv/"
+        }
+      ]
+    },
+    {
+      "key": "fnirs",
+      "label": "fNIRS",
+      "description": "Functional near-infrared spectroscopy datasets for hemodynamic brain response analysis.",
+      "datasets": [
+        {
+          "name": "OpenfNIRS",
+          "summary": "Open repository of fNIRS datasets and tooling links for reproducible analysis workflows.",
+          "link": "https://openfnirs.org/"
+        },
+        {
+          "name": "fNIRS Motor Task Dataset (OpenNeuro collection)",
+          "summary": "Task-based fNIRS recordings in BIDS-style formats for motor and cognitive experiments.",
+          "link": "https://openneuro.org/"
+        }
+      ]
+    },
+    {
+      "key": "fmri",
+      "label": "fMRI",
+      "description": "Large-scale functional MRI datasets for connectomics, cognition, and disease modeling.",
+      "datasets": [
+        {
+          "name": "Human Connectome Project (HCP)",
+          "summary": "High-quality multimodal MRI cohort with extensive behavioral and demographic metadata.",
+          "link": "https://www.humanconnectome.org/study/hcp-young-adult"
+        },
+        {
+          "name": "ABIDE (Autism Brain Imaging Data Exchange)",
+          "summary": "Multi-site resting-state fMRI dataset focused on autism spectrum disorder research.",
+          "link": "http://fcon_1000.projects.nitrc.org/indi/abide/"
+        },
+        {
+          "name": "OpenNeuro fMRI Collections",
+          "summary": "Open BIDS-first repository with many task/rest fMRI datasets and derivatives.",
+          "link": "https://openneuro.org/"
+        }
+      ]
+    },
+    {
+      "key": "meg",
+      "label": "MEG",
+      "description": "Magnetoencephalography datasets for high temporal resolution brain dynamics.",
+      "datasets": [
+        {
+          "name": "OMEGA (Open MEG Archive)",
+          "summary": "Large open resting-state MEG archive with structural MRI and metadata.",
+          "link": "https://www.mcgill.ca/bic/resources/omega"
+        },
+        {
+          "name": "Cam-CAN MEG",
+          "summary": "Lifespan MEG recordings from healthy participants, useful for aging analyses.",
+          "link": "https://camcan-archive.mrc-cbu.cam.ac.uk/dataaccess/"
+        }
+      ]
+    },
+    {
+      "key": "emg",
+      "label": "EMG",
+      "description": "Electromyography datasets for prosthetics, movement decoding, and motor control.",
+      "datasets": [
+        {
+          "name": "Ninapro DB1-DB10",
+          "summary": "Widely used hand movement and prosthetic-control EMG benchmark datasets.",
+          "link": "https://ninapro.hevs.ch/"
+        },
+        {
+          "name": "EMG-EPN612",
+          "summary": "Surface EMG dataset for gesture classification and pattern recognition tasks.",
+          "link": "https://physionet.org/"
+        }
+      ]
+    },
+    {
+      "key": "eog",
+      "label": "EOG (EoG)",
+      "description": "Electrooculography datasets for eye-movement, blink, and fatigue-related analyses.",
+      "datasets": [
+        {
+          "name": "BCI Horizon 2020 EOG Dataset",
+          "summary": "Open EOG records for eye movement decoding and assistive interface studies.",
+          "link": "https://zenodo.org/"
+        },
+        {
+          "name": "Sleep-EDF Expanded",
+          "summary": "Sleep polysomnography records containing EOG channels used in sleep staging pipelines.",
+          "link": "https://physionet.org/content/sleep-edfx/1.0.0/"
+        }
+      ]
+    },
+    {
+      "key": "ecog",
+      "label": "ECoG",
+      "description": "Intracranial electrocorticography datasets for high-resolution cortical recordings.",
+      "datasets": [
+        {
+          "name": "AJILE12",
+          "summary": "Long-term naturalistic human ECoG with behavior annotations for movement neuroscience.",
+          "link": "https://dandiarchive.org/"
+        },
+        {
+          "name": "OpenNeuro iEEG / ECoG Collections",
+          "summary": "Public invasive electrophysiology datasets in BIDS format across tasks and clinics.",
+          "link": "https://openneuro.org/"
+        }
+      ]
+    }
+  ]
+}
