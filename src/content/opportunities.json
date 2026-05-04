@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T08:28:47.635Z",
+  "generatedAt": "2026-05-04T13:58:57.325Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva29vcGVyYXRpdmUtdGF0ZWluaGVpdC1nbWJoLW1hZ2RlYnVyZy9kaXNwb25lbnQtZXZlbnRwZXJzb25hbC1pbi1tYWdkZWJ1cmctMzc1NDgwfGRpc3BvbmVudCAobS93L2QpIGV2ZW50cGVyc29uYWwgaW4gbWFnZGVidXJnfGtvb3BlcmF0aXZlIHRhdGVpbmhlaXQgZ21iaCBtYWdkZWJ1cmc",
+      "title": "Disponent (m/w/d) Eventpersonal in Magdeburg",
+      "company": "Kooperative Tateinheit GmbH Magdeburg",
+      "location": "Magdeburg",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-04T11:00:46.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/kooperative-tateinheit-gmbh-magdeburg/disponent-eventpersonal-in-magdeburg-375480"
+    },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzIyMDE1MDAzP2doX2ppZD03NzIyMDE1MDAzfHByZWNsaW5pY2FsIHN0dWR5IGNvb3JkaW5hdG9yfG5ldXJhbGluaw",
       "title": "Preclinical Study Coordinator",
@@ -86,19 +99,6 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/7720290003?gh_jid=7720290003"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVycmEtb25lLWNsaW1hdGUtc29sdXRpb25zLWdtYmgvaGVhZC1vZi1wb3dlci1vcGVyYXRpb25zLWJlcmxpbi0zMzI2fGhlYWQgb2YgcG93ZXIgb3BlcmF0aW9uc3x0ZXJyYSBvbmUgY2xpbWF0ZSBzb2x1dGlvbnMgZ21iaA",
-      "title": "Head of Power Operations",
-      "company": "Terra One Climate Solutions GmbH",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-04-29T14:59:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/terra-one-climate-solutions-gmbh/head-of-power-operations-berlin-3326"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzE1MTE5MDAzP2doX2ppZD03NzE1MTE5MDAzfGl0IHN5c3RlbXMgYWRtaW5pc3RyYXRvcnxuZXVyYWxpbms",
       "title": "IT Systems Administrator",
       "company": "Neuralink",
@@ -110,19 +110,6 @@
       "postedDate": "2026-04-29T14:57:59.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7715119003?gh_jid=7715119003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9yc2FuLWdtYmgvaXQtc3lzdGVtYWRtaW5pc3RyYXRvci1jbG91ZC11bmQtYW53ZW5kZXJzdXBwb3J0LWJlcmxpbi0zOTUxOHxpdC1zeXN0ZW1hZG1pbmlzdHJhdG9yIChtL3cvZCkgY2xvdWQtIHVuZCBhbndlbmRlcnN1cHBvcnR8bm9yc2FuIChnbWJoKQ",
-      "title": "IT-Systemadministrator (m/w/d) Cloud- und Anwendersupport",
-      "company": "NORSAN (GmbH)",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-04-29T08:30:47.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/norsan-gmbh/it-systemadministrator-cloud-und-anwendersupport-berlin-39518"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzE4ODU2MDAzP2doX2ppZD03NzE4ODU2MDAzfGFuYWxvZyBpYyBsYXlvdXQgZW5naW5lZXJ8bmV1cmFsaW5r",
