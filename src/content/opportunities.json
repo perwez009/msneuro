@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T14:08:59.583Z",
+  "generatedAt": "2026-05-06T19:45:14.644Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD01OTY4NjI3MDA0fHJlZ2lvbmFsIHNhbGVzIG1hbmFnZXIgLSBzb3V0aGVhc3R8bmV1cm9wYWNl",
+      "title": "Regional Sales Manager - Southeast",
+      "company": "NeuroPace",
+      "location": "Charlotte, NC",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "NeuroPace Careers",
+      "sourceUrl": "https://boards.greenhouse.io/neuropace",
+      "postedDate": "2026-05-06T19:37:10.000Z",
+      "applyBy": null,
+      "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=5968627004"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzI2NDE0MDAzP2doX2ppZD03NzI2NDE0MDAzfG1hdGVyaWFscyBlbmdpbmVlcnxuZXVyYWxpbms",
+      "title": "Materials Engineer",
+      "company": "Neuralink",
+      "location": "Fremont, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-05-06T17:57:24.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7726414003?gh_jid=7726414003"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvdGVhbS1tYW5hZ2VyLWN1c3RvbWVyLWNhcmUtYjJjLWhhbWJ1cmctMTE2NTQ0fHRlYW0gbWFuYWdlciBjdXN0b21lciBjYXJlIGIyYyAobS93L2QpfDFrb21tYTXLmg",
+      "title": "Team Manager Customer Care B2C (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-06T16:01:12.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/team-manager-customer-care-b2c-hamburg-116544"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvc2VuaW9yLWFuYWx5dGljcy1lbmdpbmVlci1ncm93dGgtYmVybGluLTM1NTk0N3xzZW5pb3IgYW5hbHl0aWNzIGVuZ2luZWVyIC0gZ3Jvd3RoIChtL2YvZCl8MWtvbW1hNcua",
+      "title": "Senior Analytics Engineer - Growth (m/f/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-06T16:01:12.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-analytics-engineer-growth-berlin-355947"
+    },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzI1MjU2MDAzP2doX2ppZD03NzI1MjU2MDAzfGZhY2lsaXRpZXMgdGVjaG5pY2lhbnxuZXVyYWxpbms",
       "title": "Facilities Technician",
