@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T14:06:17.664Z",
+  "generatedAt": "2026-05-07T19:43:02.025Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYnJpZGdlbmN5LWhyLW1hbmFnZW1lbnQtZ2JyL3Nlbmlvci1haS1jb25zdWx0YW50LW1hY2hpbmUtbGVhcm5pbmctZW5naW5lZXItcHVibGljLXNlY3Rvci05MC1yZW1vdGUtdXNpbmdlbi05NDA3N3xzZW5pb3IgYWkgY29uc3VsdGFudCAvIG1hY2hpbmUgbGVhcm5pbmcgZW5naW5lZXIgKG0vdy9kKSBwdWJsaWMgc2VjdG9yIHwgPjkwJSByZW1vdGV8YnJpZGdlbmN5IGhyIG1hbmFnZW1lbnQgZ2Jy",
+      "title": "Senior AI Consultant / Machine Learning Engineer (m/w/d) Public Sector | >90% REMOTE",
+      "company": "Bridgency HR Management GbR",
+      "location": "Usingen",
+      "workModel": "Remote",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-07T18:30:34.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/bridgency-hr-management-gbr/senior-ai-consultant-machine-learning-engineer-public-sector-90-remote-usingen-94077"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGV1dHNjaGVyLWJhdXNlcnZpY2UtZ21iaC9wcm9qZWt0ZW50d2lja2xlci1mdXItZXJuZXVlcmJhcmUtZW5lcmdpZW4tbW9sYmVyZ2VuLTI4ODQ1M3xwcm9qZWt0ZW50d2lja2xlciAobS93L2QpIGbDvHIgZXJuZXVlcmJhcmUgZW5lcmdpZW58ZGV1dHNjaGVyIGJhdXNlcnZpY2UgZ21iaA",
+      "title": "Projektentwickler (m/w/d) für erneuerbare Energien",
+      "company": "Deutscher Bauservice GmbH",
+      "location": "Molbergen",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-07T14:00:30.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-288453"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbGlrZS1pdC1tZWRpYS1nbWJoL25hdGl2ZS1tZWRpYS1idXllci1mdXJ0aC0xMTk1OTJ8bmF0aXZlIG1lZGlhIGJ1eWVyICh3L20vZCl8bGlrZSBpdCBtZWRpYSBnbWJo",
       "title": "Native Media Buyer (w/m/d)",
@@ -162,19 +188,6 @@
       "postedDate": "2026-05-05T14:31:49.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/good-hood-gmbh-nebenande/content-marketing-managerin-elternzeitvertretung-ab-sofort-bis-januar-2027-berlin-174380"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva29vcGVyYXRpdmUtdGF0ZWluaGVpdC1nbWJoLW1hZ2RlYnVyZy9kaXNwb25lbnQtZXZlbnRwZXJzb25hbC1pbi1tYWdkZWJ1cmctMzc1NDgwfGRpc3BvbmVudCAobS93L2QpIGV2ZW50cGVyc29uYWwgaW4gbWFnZGVidXJnfGtvb3BlcmF0aXZlIHRhdGVpbmhlaXQgZ21iaCBtYWdkZWJ1cmc",
-      "title": "Disponent (m/w/d) Eventpersonal in Magdeburg",
-      "company": "Kooperative Tateinheit GmbH Magdeburg",
-      "location": "Magdeburg",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-04T11:00:46.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/kooperative-tateinheit-gmbh-magdeburg/disponent-eventpersonal-in-magdeburg-375480"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzIyMDE1MDAzP2doX2ppZD03NzIyMDE1MDAzfHByZWNsaW5pY2FsIHN0dWR5IGNvb3JkaW5hdG9yfG5ldXJhbGluaw",
