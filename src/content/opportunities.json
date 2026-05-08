@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T07:29:27.199Z",
+  "generatedAt": "2026-05-08T13:46:02.231Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaHlncmFwaC9wcm9kdWN0LW1hbmFnZXItYmVybGluLWdlcm1hbnktNDI5MDgwfHByb2R1Y3QgbWFuYWdlciAoZi9tL2QpIC0gYmVybGluLCBnZXJtYW55fGh5Z3JhcGg",
+      "title": "Product Manager (f/m/d) - Berlin, Germany",
+      "company": "Hygraph",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-08T09:20:15.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/hygraph/product-manager-berlin-germany-429080"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9yc2FuLWdtYmgvZ3JhZmlrZXItZ3JhZmlrZGVzaWduZXItbWVkaWVuZ2VzdGFsdGVyLWJlcmxpbi0zMjQzMjN8Z3JhZmlrZXIvZ3JhZmlrZGVzaWduZXIvbWVkaWVuZ2VzdGFsdGVyIChtL3cvZCl8bm9yc2FuIChnbWJoKQ",
+      "title": "Grafiker/Grafikdesigner/Mediengestalter (m/w/d)",
+      "company": "NORSAN (GmbH)",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-08T06:30:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/norsan-gmbh/grafiker-grafikdesigner-mediengestalter-berlin-324323"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYnJpZGdlbmN5LWhyLW1hbmFnZW1lbnQtZ2JyL3Nlbmlvci1haS1jb25zdWx0YW50LW1hY2hpbmUtbGVhcm5pbmctZW5naW5lZXItcHVibGljLXNlY3Rvci05MC1yZW1vdGUtdXNpbmdlbi05NDA3N3xzZW5pb3IgYWkgY29uc3VsdGFudCAvIG1hY2hpbmUgbGVhcm5pbmcgZW5naW5lZXIgKG0vdy9kKSBwdWJsaWMgc2VjdG9yIHwgPjkwJSByZW1vdGV8YnJpZGdlbmN5IGhyIG1hbmFnZW1lbnQgZ2Jy",
       "title": "Senior AI Consultant / Machine Learning Engineer (m/w/d) Public Sector | >90% REMOTE",
@@ -149,6 +175,19 @@
       "postedDate": "2026-05-05T20:41:54.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7725256003?gh_jid=7725256003"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGhlZmFtaWx5Z3JvdXAvZ3Jvd3RoLWVuZ2luZS1idWlsZGVyLW93bi1wZXJmb3JtYW5jZS1hY3Jvc3MtbXVsdGlwbGUtYnJhbmRzLWNvbG9nbmUtOTUwNDJ8Z3Jvd3RoIGVuZ2luZSBidWlsZGVyOiBvd24gcGVyZm9ybWFuY2UgYWNyb3NzIG11bHRpcGxlIGJyYW5kc3x0aGVmYW1pbHlncm91cA",
+      "title": "Growth Engine Builder: Own Performance Across Multiple Brands",
+      "company": "TheFamilyGroup",
+      "location": "Cologne",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-05T20:00:40.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/thefamilygroup/growth-engine-builder-own-performance-across-multiple-brands-cologne-95042"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzIxOTAwMDAzP2doX2ppZD03NzIxOTAwMDAzfG1hbnVmYWN0dXJpbmcgdGVjaG5pY2lhbiwgc3VyZ2VyeSBjb25zdW1hYmxlc3xuZXVyYWxpbms",
