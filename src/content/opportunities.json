@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T09:37:56.813Z",
+  "generatedAt": "2026-05-11T14:48:50.986Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWVnYWRldi1nbWJoL3RlYW0tbGVhZC1zb2Z0d2FyZS1kZXZlbG9wbWVudC1hbGwtZ2VuZGVycy1tdW5pY2gtMjM1MjEwfHRlYW0gbGVhZCBzb2Z0d2FyZSBkZXZlbG9wbWVudCAoYWxsIGdlbmRlcnMpfG1lZ2FkZXYgZ21iaA",
+      "title": "Team Lead Software Development (all genders)",
+      "company": "MegaDev GmbH",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-11T11:30:48.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/megadev-gmbh/team-lead-software-development-all-genders-munich-235210"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY3JheWFkcy9tb3Rpb24tZGVzaWduZXItc29jaWFsLWFkcy1tdW5pY2gtMTE1NTh8bW90aW9uIGRlc2lnbmVyIC0gc29jaWFsIGFkcyAobS93L2QpfGNyYXlhZHM",
       "title": "Motion Designer - Social Ads (m/w/d)",
@@ -162,32 +175,6 @@
       "postedDate": "2026-05-06T17:57:24.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7726414003?gh_jid=7726414003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvdGVhbS1tYW5hZ2VyLWN1c3RvbWVyLWNhcmUtYjJjLWhhbWJ1cmctMTE2NTQ0fHRlYW0gbWFuYWdlciBjdXN0b21lciBjYXJlIGIyYyAobS93L2QpfDFrb21tYTXLmg",
-      "title": "Team Manager Customer Care B2C (m/w/d)",
-      "company": "1KOMMA5˚",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-06T16:01:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/team-manager-customer-care-b2c-hamburg-116544"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvc2VuaW9yLWFuYWx5dGljcy1lbmdpbmVlci1ncm93dGgtYmVybGluLTM1NTk0N3xzZW5pb3IgYW5hbHl0aWNzIGVuZ2luZWVyIC0gZ3Jvd3RoIChtL2YvZCl8MWtvbW1hNcua",
-      "title": "Senior Analytics Engineer - Growth (m/f/d)",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-06T16:01:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-analytics-engineer-growth-berlin-355947"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzI1MjU2MDAzP2doX2ppZD03NzI1MjU2MDAzfGZhY2lsaXRpZXMgdGVjaG5pY2lhbnxuZXVyYWxpbms",
