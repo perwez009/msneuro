@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T03:26:58.007Z",
+  "generatedAt": "2026-05-11T09:37:56.813Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY3JheWFkcy9tb3Rpb24tZGVzaWduZXItc29jaWFsLWFkcy1tdW5pY2gtMTE1NTh8bW90aW9uIGRlc2lnbmVyIC0gc29jaWFsIGFkcyAobS93L2QpfGNyYXlhZHM",
+      "title": "Motion Designer - Social Ads (m/w/d)",
+      "company": "CrayAds",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-11T07:31:01.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/crayads/motion-designer-social-ads-munich-11558"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY3JheWFkcy9ncmFmaWstZGVzaWduZXItc29jaWFsLWFkcy1tdW5pY2gtNDAxNTQ0fGdyYWZpayBkZXNpZ25lciAtIHNvY2lhbCBhZHMgKG0vdy9kKXxjcmF5YWRz",
+      "title": "Grafik Designer - Social Ads (m/w/d)",
+      "company": "CrayAds",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-11T07:31:01.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/crayads/grafik-designer-social-ads-munich-401544"
+    },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzI5NTAwMDAzP2doX2ppZD03NzI5NTAwMDAzfHNvZnR3YXJlIGVuZ2luZWVyLCBhZ2VudGljIGFpfG5ldXJhbGluaw",
       "title": "Software Engineer, Agentic AI",
