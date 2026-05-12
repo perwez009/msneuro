@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T19:45:44.904Z",
+  "generatedAt": "2026-05-12T02:52:43.715Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -71,45 +71,6 @@
       "postedDate": "2026-05-08T09:20:15.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/hygraph/product-manager-berlin-germany-429080"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9yc2FuLWdtYmgvZ3JhZmlrZXItZ3JhZmlrZGVzaWduZXItbWVkaWVuZ2VzdGFsdGVyLWJlcmxpbi0zMjQzMjN8Z3JhZmlrZXIvZ3JhZmlrZGVzaWduZXIvbWVkaWVuZ2VzdGFsdGVyIChtL3cvZCl8bm9yc2FuIChnbWJoKQ",
-      "title": "Grafiker/Grafikdesigner/Mediengestalter (m/w/d)",
-      "company": "NORSAN (GmbH)",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-08T06:30:35.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/norsan-gmbh/grafiker-grafikdesigner-mediengestalter-berlin-324323"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYnJpZGdlbmN5LWhyLW1hbmFnZW1lbnQtZ2JyL3Nlbmlvci1haS1jb25zdWx0YW50LW1hY2hpbmUtbGVhcm5pbmctZW5naW5lZXItcHVibGljLXNlY3Rvci05MC1yZW1vdGUtdXNpbmdlbi05NDA3N3xzZW5pb3IgYWkgY29uc3VsdGFudCAvIG1hY2hpbmUgbGVhcm5pbmcgZW5naW5lZXIgKG0vdy9kKSBwdWJsaWMgc2VjdG9yIHwgPjkwJSByZW1vdGV8YnJpZGdlbmN5IGhyIG1hbmFnZW1lbnQgZ2Jy",
-      "title": "Senior AI Consultant / Machine Learning Engineer (m/w/d) Public Sector | >90% REMOTE",
-      "company": "Bridgency HR Management GbR",
-      "location": "Usingen",
-      "workModel": "Remote",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-07T18:30:34.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/bridgency-hr-management-gbr/senior-ai-consultant-machine-learning-engineer-public-sector-90-remote-usingen-94077"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGV1dHNjaGVyLWJhdXNlcnZpY2UtZ21iaC9wcm9qZWt0ZW50d2lja2xlci1mdXItZXJuZXVlcmJhcmUtZW5lcmdpZW4tbW9sYmVyZ2VuLTI4ODQ1M3xwcm9qZWt0ZW50d2lja2xlciAobS93L2QpIGbDvHIgZXJuZXVlcmJhcmUgZW5lcmdpZW58ZGV1dHNjaGVyIGJhdXNlcnZpY2UgZ21iaA",
-      "title": "Projektentwickler (m/w/d) für erneuerbare Energien",
-      "company": "Deutscher Bauservice GmbH",
-      "location": "Molbergen",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-07T14:00:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-288453"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD01OTczMTMyMDA0fHNlbmlvciB0aGVyYXB5IGNvbnN1bHRhbnQgLSBhcml6b25hfG5ldXJvcGFjZQ",
@@ -801,6 +762,19 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/6613706003?gh_jid=6613706003"
     },
     {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy82NjA3Mzk4MDAzP2doX2ppZD02NjA3Mzk4MDAzfGVsZWN0cmljYWwgZW5naW5lZXIgaW50ZXJuLCByb2JvdGljcyBhbmQgc3VyZ2VyeSBlbmdpbmVlcmluZ3xuZXVyYWxpbms",
+      "title": "Electrical Engineer Intern, Robotics and Surgery Engineering",
+      "company": "Neuralink",
+      "location": "Fremont, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2025-06-13T16:43:35.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003"
+    },
+    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy82NTk2MzY1MDAzP2doX2ppZD02NTk2MzY1MDAzfHNvZnR3YXJlIGVuZ2luZWVyLCBiY2kgYXBwbGljYXRpb25zfG5ldXJhbGluaw",
       "title": "Software Engineer, BCI Applications",
       "company": "Neuralink",
@@ -960,7 +934,7 @@
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy82NDk4Mzk3MDAzP2doX2ppZD02NDk4Mzk3MDAzfHJlY3J1aXRpbmcgY29vcmRpbmF0b3J8bmV1cmFsaW5r",
       "title": "Recruiting Coordinator",
       "company": "Neuralink",
-      "location": "Austin, Texas, United States; Fremont, California, United States",
+      "location": "Fremont, California, United States",
       "workModel": "On-site",
       "opportunityType": "Full-time",
       "source": "Neuralink Jobs",
