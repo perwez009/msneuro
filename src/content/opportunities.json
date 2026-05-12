@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T14:24:04.885Z",
+  "generatedAt": "2026-05-12T19:51:04.164Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzMyMTgxMDAzP2doX2ppZD03NzMyMTgxMDAzfGlhY3VjIGFkbWluaXN0cmF0b3J8bmV1cmFsaW5r",
+      "title": "IACUC Administrator",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-05-12T16:05:50.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7732181003?gh_jid=7732181003"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29kZW1hbnVmYWt0dXItZ21iaC93ZXJrc3R1ZGVudC1tYXJrZXRpbmctZXJsYW5nZW4tMTMyOTU5fHdlcmtzdHVkZW50IChtL3cvZCkgbWFya2V0aW5nfGNvZGVtYW51ZmFrdHVyIGdtYmg",
+      "title": "Werkstudent (m/w/d) Marketing",
+      "company": "codemanufaktur GmbH",
+      "location": "Erlangen",
+      "workModel": "On-site",
+      "opportunityType": "Working student, hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-12T14:30:49.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/codemanufaktur-gmbh/werkstudent-marketing-erlangen-132959"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWVnYWRldi1nbWJoL3RlYW0tbGVhZC1zb2Z0d2FyZS1kZXZlbG9wbWVudC1hbGwtZ2VuZGVycy1tdW5pY2gtMjM1MjEwfHRlYW0gbGVhZCBzb2Z0d2FyZSBkZXZlbG9wbWVudCAoYWxsIGdlbmRlcnMpfG1lZ2FkZXYgZ21iaA",
       "title": "Team Lead Software Development (all genders)",
@@ -786,6 +812,19 @@
       "postedDate": "2025-05-30T23:47:45.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy82NTk0MjYxMDAzP2doX2ppZD02NTk0MjYxMDAzfG1hY2hpbmUgbGVhcm5pbmcgZW5naW5lZXIgaW50ZXJufG5ldXJhbGluaw",
+      "title": "Machine Learning Engineer Intern",
+      "company": "Neuralink",
+      "location": "Fremont, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2025-05-30T22:30:33.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy82NTg3NzE5MDAzP2doX2ppZD02NTg3NzE5MDAzfG1lY2hhbmljYWwgZW5naW5lZXIsIHJvYm90aWNzIChjb252b3kpfG5ldXJhbGluaw",
