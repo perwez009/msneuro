@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T08:43:39.566Z",
+  "generatedAt": "2026-05-13T14:32:17.513Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD01ODM2NjE4MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSBkYWxsYXN8bmV1cm9wYWNl",
+      "title": "Associate Therapy Consultant - Dallas",
+      "company": "NeuroPace",
+      "location": "Dallas, TX",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "NeuroPace Careers",
+      "sourceUrl": "https://boards.greenhouse.io/neuropace",
+      "postedDate": "2026-05-13T13:42:05.000Z",
+      "applyBy": null,
+      "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=5836618004"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGV1dHNjaGVyLWJhdXNlcnZpY2UtZ21iaC9wcm9qZWt0ZW50d2lja2xlci1mdXItZXJuZXVlcmJhcmUtZW5lcmdpZW4tbW9sYmVyZ2VuLTQzNjA2OHxwcm9qZWt0ZW50d2lja2xlciAobS93L2QpIGbDvHIgZXJuZXVlcmJhcmUgZW5lcmdpZW58ZGV1dHNjaGVyIGJhdXNlcnZpY2UgZ21iaA",
+      "title": "Projektentwickler (m/w/d) für erneuerbare Energien",
+      "company": "Deutscher Bauservice GmbH",
+      "location": "Molbergen",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-13T11:30:32.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-436068"
+    },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzMyMTgxMDAzP2doX2ppZD03NzMyMTgxMDAzfGlhY3VjIGFkbWluaXN0cmF0b3J8bmV1cmFsaW5r",
       "title": "IACUC Administrator",
