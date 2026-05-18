@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T15:30:39.118Z",
+  "generatedAt": "2026-05-18T19:43:56.285Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzM4MjQwMDAzP2doX2ppZD03NzM4MjQwMDAzfHNvZnR3YXJlIGRlc2lnbiBjb250cm9sIGVuZ2luZWVyfG5ldXJhbGluaw",
+      "title": "Software Design Control Engineer",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-05-18T19:20:08.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7738240003?gh_jid=7738240003"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW52aWEtZmxpZ2h0cy1nZXJtYW55LWdtYmgvc2VuaW9yLXVpLXV4LWRlc2lnbmVyLWFwcC1kZXNpZ24tZmx1ZWdlZGUtbGVpcHppZy0zNTczOTl8KHNlbmlvcikgdWkvdXggZGVzaWduZXIgKG0vdy9kKSAtIGFwcCBkZXNpZ24gLyBmbHVlZ2UuZGV8aW52aWEgZmxpZ2h0cyBnZXJtYW55IGdtYmg",
+      "title": "(Senior) UI/UX Designer (m/w/d) - App Design / fluege.de",
+      "company": "Invia Flights Germany GmbH",
+      "location": "Leipzig",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-18T18:00:32.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/invia-flights-germany-gmbh/senior-ui-ux-designer-app-design-fluegede-leipzig-357399"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW52aWEtZmxpZ2h0cy1nZXJtYW55LWdtYmgvbGVhZC1hY2NvdW50YW50LWZsdWVnZWRlLWxlaXB6aWctMzk1OTU3fGxlYWQgYWNjb3VudGFudCAobS93L2QpIC8gZmx1ZWdlLmRlfGludmlhIGZsaWdodHMgZ2VybWFueSBnbWJo",
+      "title": "Lead Accountant (m/w/d) / fluege.de",
+      "company": "Invia Flights Germany GmbH",
+      "location": "Leipzig",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-18T18:00:31.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/invia-flights-germany-gmbh/lead-accountant-fluegede-leipzig-395957"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW52aWEtZmxpZ2h0cy1nZXJtYW55LWdtYmgvZmluYW5jaWFsLWNvbnRyb2xsZXItZmx1ZWdlZGUtbGVpcHppZy00NzM1MjR8ZmluYW5jaWFsIGNvbnRyb2xsZXIgKG0vdy9kKSAvIGZsdWVnZS5kZXxpbnZpYSBmbGlnaHRzIGdlcm1hbnkgZ21iaA",
+      "title": "Financial Controller (m/w/d) / fluege.de",
+      "company": "Invia Flights Germany GmbH",
+      "location": "Leipzig",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-18T17:30:41.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/invia-flights-germany-gmbh/financial-controller-fluegede-leipzig-473524"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9yc2FuLWdtYmgvbWFya2V0aW5nLW1hbmFnZXItb25saW5lLXVuZC1vZmZsaW5lLWJlcmxpbi0xNDgzM3xtYXJrZXRpbmcgbWFuYWdlciAtIG9ubGluZSB1bmQgb2ZmbGluZSAobS93L2QpIC0gYmVybGlufG5vcnNhbiAoZ21iaCk",
       "title": "Marketing Manager - Online und Offline (m/w/d) - Berlin",
@@ -513,19 +565,6 @@
       "postedDate": "2026-02-10T20:13:21.000Z",
       "applyBy": null,
       "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=5790002004"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NjE5MTU0MDAzP2doX2ppZD03NjE5MTU0MDAzfGRlc2lnbiBjb250cm9scyBlbmdpbmVlcnxuZXVyYWxpbms",
-      "title": "Design Controls Engineer",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-02-04T18:28:33.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7619154003?gh_jid=7619154003"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NjE1NzE1MDAzP2doX2ppZD03NjE1NzE1MDAzfHF1YWxpdHkgc3lzdGVtcyBlbmdpbmVlcnxuZXVyYWxpbms",
