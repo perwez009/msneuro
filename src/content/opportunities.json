@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T03:36:18.885Z",
+  "generatedAt": "2026-05-18T10:01:59.666Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9yc2FuLWdtYmgvbWFya2V0aW5nLW1hbmFnZXItb25saW5lLXVuZC1vZmZsaW5lLWJlcmxpbi0xNDgzM3xtYXJrZXRpbmcgbWFuYWdlciAtIG9ubGluZSB1bmQgb2ZmbGluZSAobS93L2QpIC0gYmVybGlufG5vcnNhbiAoZ21iaCk",
+      "title": "Marketing Manager - Online und Offline (m/w/d) - Berlin",
+      "company": "NORSAN (GmbH)",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-18T08:01:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/norsan-gmbh/marketing-manager-online-und-offline-berlin-14833"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2V2ZW5sYWIvc2V2ZW5sYWItYWNjb3VudC1leGVjdXRpdmUtYmlqLWFpLWRldmVsb3BtZW50LWFnZW5jeS1oYW1idXJnLTYyMTc3fHNldmVubGFiIGFjY291bnQgZXhlY3V0aXZlIGJpaiBhaSBkZXZlbG9wbWVudCBhZ2VuY3l8c2V2ZW5sYWI",
+      "title": "SevenLab Account Executive bij AI development agency",
+      "company": "SevenLab",
+      "location": "Hamburg",
+      "workModel": "Remote",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-18T08:01:26.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/sevenlab/sevenlab-account-executive-bij-ai-development-agency-hamburg-62177"
+    },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzM2Mjc2MDAzP2doX2ppZD03NzM2Mjc2MDAzfGl0IHN5c3RlbXMgYWRtaW5pc3RyYXRvciBpbnRlcm58bmV1cmFsaW5r",
       "title": "IT Systems Administrator Intern",
@@ -71,19 +97,6 @@
       "postedDate": "2026-05-12T16:05:50.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7732181003?gh_jid=7732181003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29kZW1hbnVmYWt0dXItZ21iaC93ZXJrc3R1ZGVudC1tYXJrZXRpbmctZXJsYW5nZW4tMTMyOTU5fHdlcmtzdHVkZW50IChtL3cvZCkgbWFya2V0aW5nfGNvZGVtYW51ZmFrdHVyIGdtYmg",
-      "title": "Werkstudent (m/w/d) Marketing",
-      "company": "codemanufaktur GmbH",
-      "location": "Erlangen",
-      "workModel": "On-site",
-      "opportunityType": "Working student, hilfstätigkeit / student",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-12T14:30:49.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/codemanufaktur-gmbh/werkstudent-marketing-erlangen-132959"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzI5NTAwMDAzP2doX2ppZD03NzI5NTAwMDAzfHNvZnR3YXJlIGVuZ2luZWVyLCBhZ2VudGljIGFpfG5ldXJhbGluaw",
