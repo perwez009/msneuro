@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T19:43:56.285Z",
+  "generatedAt": "2026-05-19T03:29:27.291Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW52aWEtZmxpZ2h0cy1nZXJtYW55LWdtYmgvZmluYW5jaWFsLWNvbnRyb2xsZXItZmx1ZWdlZGUtbGVpcHppZy00NzM1MjR8ZmluYW5jaWFsIGNvbnRyb2xsZXIgKG0vdy9kKSAvIGZsdWVnZS5kZXxpbnZpYSBmbGlnaHRzIGdlcm1hbnkgZ21iaA",
+      "title": "Financial Controller (m/w/d) / fluege.de",
+      "company": "Invia Flights Germany GmbH",
+      "location": "Leipzig",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-18T21:59:02.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/invia-flights-germany-gmbh/financial-controller-fluegede-leipzig-473524"
+    },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzM4MjQwMDAzP2doX2ppZD03NzM4MjQwMDAzfHNvZnR3YXJlIGRlc2lnbiBjb250cm9sIGVuZ2luZWVyfG5ldXJhbGluaw",
       "title": "Software Design Control Engineer",
@@ -45,19 +58,6 @@
       "postedDate": "2026-05-18T18:00:31.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/invia-flights-germany-gmbh/lead-accountant-fluegede-leipzig-395957"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW52aWEtZmxpZ2h0cy1nZXJtYW55LWdtYmgvZmluYW5jaWFsLWNvbnRyb2xsZXItZmx1ZWdlZGUtbGVpcHppZy00NzM1MjR8ZmluYW5jaWFsIGNvbnRyb2xsZXIgKG0vdy9kKSAvIGZsdWVnZS5kZXxpbnZpYSBmbGlnaHRzIGdlcm1hbnkgZ21iaA",
-      "title": "Financial Controller (m/w/d) / fluege.de",
-      "company": "Invia Flights Germany GmbH",
-      "location": "Leipzig",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-18T17:30:41.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/invia-flights-germany-gmbh/financial-controller-fluegede-leipzig-473524"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9yc2FuLWdtYmgvbWFya2V0aW5nLW1hbmFnZXItb25saW5lLXVuZC1vZmZsaW5lLWJlcmxpbi0xNDgzM3xtYXJrZXRpbmcgbWFuYWdlciAtIG9ubGluZSB1bmQgb2ZmbGluZSAobS93L2QpIC0gYmVybGlufG5vcnNhbiAoZ21iaCk",
@@ -149,19 +149,6 @@
       "postedDate": "2026-05-09T20:23:57.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7729500003?gh_jid=7729500003"
-    },
-    {
-      "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD01OTczMTMyMDA0fHNlbmlvciB0aGVyYXB5IGNvbnN1bHRhbnQgLSBhcml6b25hfG5ldXJvcGFjZQ",
-      "title": "Senior Therapy Consultant - Arizona",
-      "company": "NeuroPace",
-      "location": "Phoenix, AZ",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "NeuroPace Careers",
-      "sourceUrl": "https://boards.greenhouse.io/neuropace",
-      "postedDate": "2026-05-06T22:13:31.000Z",
-      "applyBy": null,
-      "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=5973132004"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD01OTY4NjI3MDA0fHJlZ2lvbmFsIHNhbGVzIG1hbmFnZXIgLSBzb3V0aGVhc3R8bmV1cm9wYWNl",
