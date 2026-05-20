@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T15:18:18.181Z",
+  "generatedAt": "2026-05-20T20:13:45.200Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzQxNjg4MDAzP2doX2ppZD03NzQxNjg4MDAzfHJlZ3VsYXRvcnkgZW5naW5lZXJ8bmV1cmFsaW5r",
+      "title": "Regulatory Engineer",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-05-20T16:13:25.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7741688003?gh_jid=7741688003"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcmV2ZXJpb24tZ21iaC9pbmR1c3RyaWFsLWVuZ2luZWVyLXByb2R1a3Rpb25zZW50d2lja2x1bmctYXVzYmF1LWVyZXNpbmctMjI0MTgyfGluZHVzdHJpYWwgZW5naW5lZXIgKGQvdy9tKSB8IHByb2R1a3Rpb25zZW50d2lja2x1bmcvLWF1c2JhdXxyZXZlcmlvbiBnbWJo",
+      "title": "Industrial Engineer (d/w/m) | Produktionsentwicklung/-ausbau",
+      "company": "Reverion GmbH",
+      "location": "Eresing",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-20T15:00:28.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/reverion-gmbh/industrial-engineer-produktionsentwicklung-ausbau-eresing-224182"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvay10cm9uaWstZ21iaC9jbG91ZC1jdXJzb3Itc3VwcG9ydC1taXRhcmJlaXRlci1tdW5pY2gtNDYwNDExfGNsb3VkIChjdXJzb3IpIHN1cHBvcnQgbWl0YXJiZWl0ZXIgKG0vdy94KXxrLXRyb25payBnbWJo",
       "title": "Cloud (Cursor) Support Mitarbeiter (m/w/x)",
