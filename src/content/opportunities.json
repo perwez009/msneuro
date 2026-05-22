@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T03:35:08.192Z",
+  "generatedAt": "2026-05-22T09:21:03.133Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -138,19 +138,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/kleiser-medical/marketing-mitarbeiterin-brand-growth-digital-sauldorf-245285"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW52aWEtZmxpZ2h0cy1nZXJtYW55LWdtYmgvZmluYW5jaWFsLWNvbnRyb2xsZXItZmx1ZWdlZGUtbGVpcHppZy00NzM1MjR8ZmluYW5jaWFsIGNvbnRyb2xsZXIgKG0vdy9kKSAvIGZsdWVnZS5kZXxpbnZpYSBmbGlnaHRzIGdlcm1hbnkgZ21iaA",
-      "title": "Financial Controller (m/w/d) / fluege.de",
-      "company": "Invia Flights Germany GmbH",
-      "location": "Leipzig",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-18T21:59:02.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/invia-flights-germany-gmbh/financial-controller-fluegede-leipzig-473524"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzM4MjQwMDAzP2doX2ppZD03NzM4MjQwMDAzfHNvZnR3YXJlIGRlc2lnbiBjb250cm9sIGVuZ2luZWVyfG5ldXJhbGluaw",
       "title": "Software Design Control Engineer",
       "company": "Neuralink",
@@ -162,32 +149,6 @@
       "postedDate": "2026-05-18T19:20:08.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7738240003?gh_jid=7738240003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW52aWEtZmxpZ2h0cy1nZXJtYW55LWdtYmgvc2VuaW9yLXVpLXV4LWRlc2lnbmVyLWFwcC1kZXNpZ24tZmx1ZWdlZGUtbGVpcHppZy0zNTczOTl8KHNlbmlvcikgdWkvdXggZGVzaWduZXIgKG0vdy9kKSAtIGFwcCBkZXNpZ24gLyBmbHVlZ2UuZGV8aW52aWEgZmxpZ2h0cyBnZXJtYW55IGdtYmg",
-      "title": "(Senior) UI/UX Designer (m/w/d) - App Design / fluege.de",
-      "company": "Invia Flights Germany GmbH",
-      "location": "Leipzig",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-18T18:00:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/invia-flights-germany-gmbh/senior-ui-ux-designer-app-design-fluegede-leipzig-357399"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW52aWEtZmxpZ2h0cy1nZXJtYW55LWdtYmgvbGVhZC1hY2NvdW50YW50LWZsdWVnZWRlLWxlaXB6aWctMzk1OTU3fGxlYWQgYWNjb3VudGFudCAobS93L2QpIC8gZmx1ZWdlLmRlfGludmlhIGZsaWdodHMgZ2VybWFueSBnbWJo",
-      "title": "Lead Accountant (m/w/d) / fluege.de",
-      "company": "Invia Flights Germany GmbH",
-      "location": "Leipzig",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-18T18:00:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/invia-flights-germany-gmbh/lead-accountant-fluegede-leipzig-395957"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzM2Mjc2MDAzP2doX2ppZD03NzM2Mjc2MDAzfGl0IHN5c3RlbXMgYWRtaW5pc3RyYXRvciBpbnRlcm58bmV1cmFsaW5r",
