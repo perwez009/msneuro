@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T14:37:17.515Z",
+  "generatedAt": "2026-05-22T19:43:27.071Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW52aWEtZmxpZ2h0cy1nZXJtYW55LWdtYmgvaW5mb3JtYXRpb24tc2VjdXJpdHktb2ZmaWNlci1mbHVlZ2VkZS1sZWlwemlnLTE5ODUyMnxpbmZvcm1hdGlvbiBzZWN1cml0eSBvZmZpY2VyIChtL3cvZCkgLyBmbHVlZ2UuZGV8aW52aWEgZmxpZ2h0cyBnZXJtYW55IGdtYmg",
+      "title": "Information Security Officer (m/w/d) / fluege.de",
+      "company": "Invia Flights Germany GmbH",
+      "location": "Leipzig",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-22T16:00:43.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/invia-flights-germany-gmbh/information-security-officer-fluegede-leipzig-198522"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1ncm93dGgtbWFya2V0aW5nLWJlcmxpbi0yNzM0NjZ8d2Vya3N0dWRlbnQ6aW4gZ3Jvd3RoIG1hcmtldGluZyAobS93L2QpfDFrb21tYTXLmg",
+      "title": "Werkstudent:in Growth Marketing (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Working student, hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-22T14:00:32.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-growth-marketing-berlin-273466"
+    },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzQzMDg5MDAzP2doX2ppZD03NzQzMDg5MDAzfHNvZnR3YXJlIGVuZ2luZWVyLCBjaS9jZHxuZXVyYWxpbms",
       "title": "Software Engineer, CI/CD",
@@ -84,19 +110,6 @@
       "postedDate": "2026-05-20T15:00:28.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/reverion-gmbh/industrial-engineer-produktionsentwicklung-ausbau-eresing-224182"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvay10cm9uaWstZ21iaC9jbG91ZC1jdXJzb3Itc3VwcG9ydC1taXRhcmJlaXRlci1tdW5pY2gtNDYwNDExfGNsb3VkIChjdXJzb3IpIHN1cHBvcnQgbWl0YXJiZWl0ZXIgKG0vdy94KXxrLXRyb25payBnbWJo",
-      "title": "Cloud (Cursor) Support Mitarbeiter (m/w/x)",
-      "company": "K-tronik GmbH",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-20T08:30:45.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/cloud-cursor-support-mitarbeiter-munich-460411"
     },
     {
       "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvbWlkLXNlbmlvci1haS1jaW5lbWF0aWMtdmlkZW8tZWRpdG9yLWZ1bGwtcmVtb3RlLXdvcmxkd2lkZS0yMDkwODg3fG1pZC9zZW5pb3IgYWkgY2luZW1hdGljIHZpZGVvIGVkaXRvciAoZnVsbCByZW1vdGUgLSB3b3JsZHdpZGUpfGV2ZXJhaQ",
@@ -968,19 +981,6 @@
       "postedDate": "2025-03-15T00:47:13.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/6510680003?gh_jid=6510680003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy82NDk4Mzk3MDAzP2doX2ppZD02NDk4Mzk3MDAzfHJlY3J1aXRpbmcgY29vcmRpbmF0b3J8bmV1cmFsaW5r",
-      "title": "Recruiting Coordinator",
-      "company": "Neuralink",
-      "location": "South San Francisco, California, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2025-03-04T20:52:11.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/6498397003?gh_jid=6498397003"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy82MzUzNDE3MDAzP2doX2ppZD02MzUzNDE3MDAzfHNvZnR3YXJlIGVuZ2luZWVyLCBpbXBsYW50IG1hbnVmYWN0dXJpbmd8bmV1cmFsaW5r",
