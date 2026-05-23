@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T02:52:43.377Z",
+  "generatedAt": "2026-05-23T08:18:48.128Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -58,6 +58,19 @@
       "postedDate": "2026-05-21T19:00:15.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7743087003?gh_jid=7743087003"
+    },
+    {
+      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvcHJvZHVjdC9zdGFmZi1wcm9kdWN0LWVuZ2luZWVyLTIwOTA4OTB8c3RhZmYgcHJvZHVjdCBlbmdpbmVlcnxsYXduc3RhcnRlcg",
+      "title": "Staff Product Engineer",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Remotive",
+      "sourceUrl": "https://remotive.com",
+      "postedDate": "2026-05-21T16:42:09.000Z",
+      "applyBy": null,
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-2090890"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGV1dHNjaGVyLWJhdXNlcnZpY2UtZ21iaC9wcm9qZWt0ZW50d2lja2xlci1mdXItZXJuZXVlcmJhcmUtZW5lcmdpZW4tbW9sYmVyZ2VuLTE1NzQ3NXxwcm9qZWt0ZW50d2lja2xlciAobS93L2QpIGbDvHIgZXJuZXVlcmJhcmUgZW5lcmdpZW58ZGV1dHNjaGVyIGJhdXNlcnZpY2UgZ21iaA",
@@ -331,19 +344,6 @@
       "postedDate": "2026-04-24T08:15:19.000Z",
       "applyBy": null,
       "url": "https://remotive.com/remote-jobs/marketing/senior-ai-video-artist-2089994"
-    },
-    {
-      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvYWktZW5naW5lZXItMjA4OTk1OHxhaSBlbmdpbmVlcnxkcnkgZ3JvdW5kIGFp",
-      "title": "AI Engineer",
-      "company": "Dry Ground AI",
-      "location": "Brazil, Colombia, Philippines",
-      "workModel": "Remote",
-      "opportunityType": "Full-time",
-      "source": "Remotive",
-      "sourceUrl": "https://remotive.com",
-      "postedDate": "2026-04-21T08:16:20.000Z",
-      "applyBy": null,
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzAyNTI3MDAzP2doX2ppZD03NzAyNTI3MDAzfGVsZWN0cmljYWwgZW5naW5lZXIgaW50ZXJuLCBpbXBsYW50IGVtYmVkZGVkIHN5c3RlbXN8bmV1cmFsaW5r",
