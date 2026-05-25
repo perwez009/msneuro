@@ -9,6 +9,8 @@ const outputPath = path.resolve(__dirname, "..", "src", "content", "opportunitie
 const MAX_ITEMS = 200;
 const MAX_ARBEITNOW_PAGES = 5;
 const REQUEST_TIMEOUT_MS = 20000;
+const MAX_JOB_AGE_DAYS = 90;
+const MS_PER_DAY = 1000 * 60 * 60 * 24;
 
 const NEURO_KEYWORDS = [
   "neuro",
@@ -102,6 +104,29 @@ function normalizeOpportunityType(typeInput = "") {
 function stableId(source, url, title, company) {
   const raw = `${source}|${url}|${title}|${company}`.toLowerCase();
   return Buffer.from(raw).toString("base64url");
+}
+
+function isExpiredOpportunity(opportunity, now = new Date()) {
+  const nowTime = now.getTime();
+
+  if (opportunity?.applyBy) {
+    const applyByTime = new Date(opportunity.applyBy).getTime();
+    if (!Number.isNaN(applyByTime) && applyByTime < nowTime) {
+      return true;
+    }
+  }
+
+  if (opportunity?.postedDate) {
+    const postedTime = new Date(opportunity.postedDate).getTime();
+    if (!Number.isNaN(postedTime)) {
+      const ageDays = (nowTime - postedTime) / MS_PER_DAY;
+      if (ageDays > MAX_JOB_AGE_DAYS) {
+        return true;
+      }
+    }
+  }
+
+  return false;
 }
 
 async function getRemotiveJobs() {
@@ -209,7 +234,9 @@ function dedupeAndSort(items) {
     }
   }
 
+  const now = new Date();
   return [...byUrl.values()]
+    .filter((item) => !isExpiredOpportunity(item, now))
     .sort((a, b) => {
       const aTime = a.postedDate ? new Date(a.postedDate).getTime() : 0;
       const bTime = b.postedDate ? new Date(b.postedDate).getTime() : 0;
