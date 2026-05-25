@@ -15,17 +15,61 @@ const MS_PER_DAY = 1000 * 60 * 60 * 24;
 const NEURO_KEYWORDS = [
   "neuro",
   "neuroscience",
+  "neuroscientist",
   "neurotech",
+  "neurobiology",
+  "neurophysiology",
+  "neuropsychology",
+  "neuroengineering",
+  "neuroinformatics",
+  "neuromodulation",
+  "neuromorphic",
+  "neurodegeneration",
+  "neuroanatomy",
+  "neurochemistry",
+  "neuropharmacology",
+  "neurodevelopment",
+  "neurorehabilitation",
   "brain",
-  "cognitive",
   "neural",
+  "neuron",
+  "neuronal",
+  "synaptic",
+  "cortical",
+  "cortex",
+  "hippocampus",
+  "cerebral",
+  "cerebellum",
+  "cognitive",
+  "cognitive science",
+  "psychophysiology",
+  "electrophysiology",
   "eeg",
   "fmri",
   "meg",
   "bci",
+  "brain-computer",
+  "brain computer",
+  "brain computer interface",
   "neuroimaging",
   "neurology",
   "neuroprosthetic",
+  "neuroprosthetics",
+];
+
+const ROLE_KEYWORDS = [
+  /\bphd\b/,
+  /\bphd student\b/,
+  /\bdoctoral\b/,
+  /\bdoctoral researcher\b/,
+  /\bdoctoral student\b/,
+  /\bdoctorate\b/,
+  /\bpost-?doc\b/,
+  /\bpostdoctoral\b/,
+  /\bresearch assistant\b/,
+  /\bresearch associate\b/,
+  /\bresearch fellow\b/,
+  /\bresearch scientist\b/,
 ];
 
 function stripHtml(text = "") {
@@ -68,7 +112,11 @@ async function fetchJson(url) {
 
 function isRelevant(text) {
   const normalized = text.toLowerCase();
-  return NEURO_KEYWORDS.some((keyword) => normalized.includes(keyword));
+  if (NEURO_KEYWORDS.some((keyword) => normalized.includes(keyword))) {
+    return true;
+  }
+
+  return ROLE_KEYWORDS.some((pattern) => pattern.test(normalized));
 }
 
 function normalizeWorkModel(remoteFlag, location = "") {

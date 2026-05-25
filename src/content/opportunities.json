@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T05:49:10.065Z",
+  "generatedAt": "2026-05-25T06:05:13.117Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWJlcmxpbi1nZXJtYW55LTIwODY1MXxzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBiZXJsaW4sIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Software Engineer, Platform - Berlin, Germany",
+      "company": "Speechify",
+      "location": "Berlin, Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-24T13:45:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-berlin-germany-208651"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tc3R1dHRnYXJ0LWdlcm1hbnktMTI3NDM4fHNvZnR3YXJlIGVuZ2luZWVyLCBkYXRhIGluZnJhc3RydWN0dXJlICYgYWNxdWlzaXRpb24gLSBzdHV0dGdhcnQsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Stuttgart, Germany",
+      "company": "Speechify",
+      "location": "Stuttgart, Baden-Württemberg, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-24T13:45:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-stuttgart-germany-127438"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWQtcHVibGljYS1wdWJsaWMtcmVsYXRpb25zLWdtYmgvdHJhaW5lZS1oYW1idXJnLTE2NDI4NXx0cmFpbmVlIChtL3cvZCl8YWQgcHVibGljYSBwdWJsaWMgcmVsYXRpb25zIGdtYmg",
       "title": "Trainee (m/w/d)",
@@ -19,6 +45,110 @@
       "postedDate": "2026-05-24T12:59:03.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/ad-publica-public-relations-gmbh/trainee-hamburg-164285"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC1hbmRyb2lkLWNvcmUtcHJvZHVjdC1iZXJsaW4tZ2VybWFueS0xNTk3MTN8dGVjaCBsZWFkLCBhbmRyb2lkIGNvcmUgcHJvZHVjdCAtIGJlcmxpbiwgZ2VybWFueXxzcGVlY2hpZnk",
+      "title": "Tech Lead, Android Core Product - Berlin, Germany",
+      "company": "Speechify",
+      "location": "Berlin, Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-24T06:45:23.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-berlin-germany-159713"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tYmVybGluLWdlcm1hbnktODc2Nzd8c29mdHdhcmUgZW5naW5lZXIsIGRhdGEgaW5mcmFzdHJ1Y3R1cmUgJiBhY3F1aXNpdGlvbiAtIGJlcmxpbiwgZ2VybWFueXxzcGVlY2hpZnk",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Berlin, Germany",
+      "company": "Speechify",
+      "location": "Berlin, Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-24T06:45:23.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-berlin-germany-87677"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC13ZWItY29yZS1wcm9kdWN0LWNocm9tZS1leHRlbnNpb24tYmVybGluLWdlcm1hbnktMTgzNDcyfHRlY2ggbGVhZCwgd2ViIGNvcmUgcHJvZHVjdCAmIGNocm9tZSBleHRlbnNpb24gLSBiZXJsaW4sIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Tech Lead, Web Core Product & Chrome Extension - Berlin, Germany",
+      "company": "Speechify",
+      "location": "Berlin, Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-24T06:45:23.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-web-core-product-chrome-extension-berlin-germany-183472"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24taGFtYnVyZy1nZXJtYW55LTE3OTQwMHxzb2Z0d2FyZSBlbmdpbmVlciwgZGF0YSBpbmZyYXN0cnVjdHVyZSAmIGFjcXVpc2l0aW9uIC0gaGFtYnVyZywgZ2VybWFueXxzcGVlY2hpZnk",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Hamburg, Germany",
+      "company": "Speechify",
+      "location": "Hamburg, Hamburg, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-24T06:45:23.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-hamburg-germany-179400"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWR1c3NlbGRvcmYtZ2VybWFueS1kdXNzZWxkb3JmLTg5ODQxfHNvZnR3YXJlIGVuZ2luZWVyLCBwbGF0Zm9ybSAtIGTDvHNzZWxkb3JmLCBnZXJtYW55fHNwZWVjaGlmeQ",
+      "title": "Software Engineer, Platform - Düsseldorf, Germany",
+      "company": "Speechify",
+      "location": "Dusseldorf, North Rhine-Westphalia, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-24T06:45:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-dusseldorf-germany-dusseldorf-89841"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWhhbWJ1cmctZ2VybWFueS0zMTExNjF8c29mdHdhcmUgZW5naW5lZXIsIHBsYXRmb3JtIC0gaGFtYnVyZywgZ2VybWFueXxzcGVlY2hpZnk",
+      "title": "Software Engineer, Platform - Hamburg, Germany",
+      "company": "Speechify",
+      "location": "Hamburg, Hamburg, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-24T06:45:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-hamburg-germany-311161"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLW11bmljaC1nZXJtYW55LTI3Nzg3MHxzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBtdW5pY2gsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Software Engineer, Platform - Munich, Germany",
+      "company": "Speechify",
+      "location": "Munich, Bavaria, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-24T06:45:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-munich-germany-277870"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC13ZWItY29yZS1wcm9kdWN0LWNocm9tZS1leHRlbnNpb24tZHVzc2VsZG9yZi1nZXJtYW55LWR1c3NlbGRvcmYtMjIzODk2fHRlY2ggbGVhZCwgd2ViIGNvcmUgcHJvZHVjdCAmIGNocm9tZSBleHRlbnNpb24gLSBkw7xzc2VsZG9yZiwgZ2VybWFueXxzcGVlY2hpZnk",
+      "title": "Tech Lead, Web Core Product & Chrome Extension - Düsseldorf, Germany",
+      "company": "Speechify",
+      "location": "Dusseldorf, North Rhine-Westphalia, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-23T23:45:21.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-web-core-product-chrome-extension-dusseldorf-germany-dusseldorf-223896"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW52aWEtZmxpZ2h0cy1nZXJtYW55LWdtYmgvaW5mb3JtYXRpb24tc2VjdXJpdHktb2ZmaWNlci1mbHVlZ2VkZS1sZWlwemlnLTE5ODUyMnxpbmZvcm1hdGlvbiBzZWN1cml0eSBvZmZpY2VyIChtL3cvZCkgLyBmbHVlZ2UuZGV8aW52aWEgZmxpZ2h0cyBnZXJtYW55IGdtYmg",
@@ -97,6 +227,19 @@
       "postedDate": "2026-05-21T11:12:09.000Z",
       "applyBy": null,
       "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-2090890"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvanVuaW5pLWdtYmgvZm91bmRpbmctZW5naW5lZXItYmVybGluLTI5NDE4Nnxmb3VuZGluZyBlbmdpbmVlcnxqdW5pbmkgZ21iaA",
+      "title": "Founding Engineer",
+      "company": "Junini GmbH",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-21T09:31:47.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/junini-gmbh/founding-engineer-berlin-294186"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZWxpdGhlcmEtZ2VzdW5kaGVpdHN6ZW50cnVtLWNhbHcvcGh5c2lvdGhlcmFwZXV0aW4tYmVydWZzZWluc3RlaWdlci13aWxsa29tbWVuLWZsZXhpYmxlLWFyYmVpdHN6ZWl0ZW4tY2Fsdy0zOTh8cGh5c2lvdGhlcmFwZXV0KmluIOKAkyBiZXJ1ZnNlaW5zdGVpZ2VyIHdpbGxrb21tZW4gfCBmbGV4aWJsZSBhcmJlaXRzemVpdGVuIChtL3cvZCl8ZWxpdGhlcmEgZ2VzdW5kaGVpdHN6ZW50cnVtIGNhbHc",
