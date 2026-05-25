@@ -1,0 +1,126 @@
+{
+  "intro": "A practical map of the core concepts you will reuse across neuroscience research, neurotech prototyping, and data-driven analysis.",
+  "pillars": [
+    {
+      "title": "Neurons and synapses",
+      "summary": "Cellular building blocks that generate and transmit neural signals.",
+      "topics": [
+        "Membrane potential and ion channels",
+        "Action potentials and firing patterns",
+        "Synaptic transmission and plasticity",
+        "Neurotransmitters and receptors"
+      ]
+    },
+    {
+      "title": "Neural circuits and computation",
+      "summary": "How networks of neurons encode, transform, and route information.",
+      "topics": [
+        "Excitation and inhibition balance",
+        "Population coding and tuning",
+        "Temporal dynamics and oscillations",
+        "Learning rules and adaptation"
+      ]
+    },
+    {
+      "title": "Systems neuroscience",
+      "summary": "Large-scale organization of sensory, motor, and autonomic systems.",
+      "topics": [
+        "Sensory pathways and perception",
+        "Motor planning and control",
+        "Brainstem and spinal circuits",
+        "Integration across regions"
+      ]
+    },
+    {
+      "title": "Cognition and behavior",
+      "summary": "Higher-level processes that connect brain activity to decisions and actions.",
+      "topics": [
+        "Attention and working memory",
+        "Decision making and reward",
+        "Language and executive function",
+        "Learning and habit formation"
+      ]
+    },
+    {
+      "title": "Clinical and translational neuroscience",
+      "summary": "Applying neuroscience to health, disease, and therapy development.",
+      "topics": [
+        "Neurological and psychiatric disorders",
+        "Biomarkers and diagnostics",
+        "Neurostimulation and neuroprosthetics",
+        "Ethics and responsible research"
+      ]
+    }
+  ],
+  "modalities": [
+    {
+      "key": "eeg",
+      "label": "EEG",
+      "summary": "Scalp electrical recordings with high temporal resolution.",
+      "bestFor": [
+        "Event-related potentials",
+        "Sleep and vigilance",
+        "BCI and real-time decoding"
+      ]
+    },
+    {
+      "key": "meg",
+      "label": "MEG",
+      "summary": "Magnetic fields from neural activity with millisecond precision.",
+      "bestFor": [
+        "Time-resolved cognitive tasks",
+        "Source localization",
+        "Network dynamics"
+      ]
+    },
+    {
+      "key": "fmri",
+      "label": "fMRI",
+      "summary": "Hemodynamic responses with high spatial resolution.",
+      "bestFor": [
+        "Functional networks",
+        "Task-based activation",
+        "Resting-state connectivity"
+      ]
+    },
+    {
+      "key": "fnirs",
+      "label": "fNIRS",
+      "summary": "Portable optical measurement of cortical hemodynamics.",
+      "bestFor": [
+        "Naturalistic tasks",
+        "Pediatric studies",
+        "Mobile experiments"
+      ]
+    },
+    {
+      "key": "ieeg",
+      "label": "ECoG and iEEG",
+      "summary": "Intracranial recordings with high spatial and temporal resolution.",
+      "bestFor": [
+        "Clinical mapping",
+        "High-frequency oscillations",
+        "Precise decoding"
+      ]
+    }
+  ],
+  "learningPathHeading": "Suggested learning path",
+  "learningPath": [
+    {
+      "title": "Build the biological core",
+      "details": "Start with neurons, synapses, and the basic physiology of signaling."
+    },
+    {
+      "title": "Connect circuits to behavior",
+      "details": "Learn how circuits support perception, movement, and cognition."
+    },
+    {
+      "title": "Choose a primary modality",
+      "details": "Go deep on one measurement method and learn its analysis workflow."
+    },
+    {
+      "title": "Practice with real data",
+      "details": "Reproduce a published analysis or build a small decoding pipeline."
+    }
+  ]
+}

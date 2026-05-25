@@ -1,0 +1,189 @@
+{
+  "intro": "Curated tools, platforms, and references that cover core neuroscience workflows from data collection to analysis and sharing.",
+  "categories": [
+    {
+      "key": "analysis",
+      "label": "Analysis and signal processing",
+      "description": "Primary toolkits for preprocessing, cleaning, and interpreting neural signals.",
+      "resources": [
+        {
+          "name": "MNE-Python",
+          "summary": "End-to-end Python toolbox for MEG, EEG, and iEEG preprocessing, analysis, and visualization.",
+          "link": "https://mne.tools/stable/index.html",
+          "tags": [
+            "EEG",
+            "MEG",
+            "iEEG"
+          ]
+        },
+        {
+          "name": "EEGLAB",
+          "summary": "MATLAB environment for EEG preprocessing, ICA workflows, and event-related analyses.",
+          "link": "https://sccn.ucsd.edu/eeglab/index.php",
+          "tags": [
+            "EEG",
+            "MATLAB"
+          ]
+        },
+        {
+          "name": "FieldTrip",
+          "summary": "Open-source MATLAB toolbox for advanced EEG/MEG analysis and source localization.",
+          "link": "https://www.fieldtriptoolbox.org/",
+          "tags": [
+            "EEG",
+            "MEG",
+            "Source analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "imaging",
+      "label": "Neuroimaging and MRI",
+      "description": "Widely used suites for structural and functional MRI pipelines.",
+      "resources": [
+        {
+          "name": "FSL",
+          "summary": "Comprehensive suite for MRI preprocessing, registration, and statistical modeling.",
+          "link": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/",
+          "tags": [
+            "MRI",
+            "fMRI"
+          ]
+        },
+        {
+          "name": "SPM12",
+          "summary": "MATLAB-based toolbox for statistical analysis of fMRI, PET, and EEG/MEG imaging data.",
+          "link": "https://www.fil.ion.ucl.ac.uk/spm/",
+          "tags": [
+            "fMRI",
+            "PET",
+            "MATLAB"
+          ]
+        },
+        {
+          "name": "FreeSurfer",
+          "summary": "Automated cortical surface reconstruction and structural MRI analysis toolkit.",
+          "link": "https://surfer.nmr.mgh.harvard.edu/",
+          "tags": [
+            "Structural MRI",
+            "Cortical surfaces"
+          ]
+        },
+        {
+          "name": "Nilearn",
+          "summary": "Python library for statistical learning, visualization, and decoding on neuroimaging data.",
+          "link": "https://nilearn.github.io/",
+          "tags": [
+            "fMRI",
+            "Python",
+            "Machine learning"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bci",
+      "label": "BCI and real-time systems",
+      "description": "Platforms for online signal processing and closed-loop experiments.",
+      "resources": [
+        {
+          "name": "OpenViBE",
+          "summary": "Real-time BCI platform for signal acquisition, processing pipelines, and feedback control.",
+          "link": "https://openvibe.inria.fr/",
+          "tags": [
+            "BCI",
+            "Real-time"
+          ]
+        },
+        {
+          "name": "BCI2000",
+          "summary": "Complete BCI system for acquisition, signal processing, stimulus presentation, and feedback.",
+          "link": "https://www.bci2000.org/",
+          "tags": [
+            "BCI",
+            "Closed-loop"
+          ]
+        },
+        {
+          "name": "OpenBCI",
+          "summary": "Open-source biosensing hardware and software ecosystem for research and prototyping.",
+          "link": "https://openbci.com/",
+          "tags": [
+            "Hardware",
+            "EEG",
+            "BCI"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "standards",
+      "label": "Data standards and sharing",
+      "description": "Best practices for organizing, publishing, and reusing neuroscience data.",
+      "resources": [
+        {
+          "name": "BIDS",
+          "summary": "Community standard for organizing and describing neuroimaging datasets.",
+          "link": "https://bids.neuroimaging.io/",
+          "tags": [
+            "Standards",
+            "Metadata"
+          ]
+        },
+        {
+          "name": "DANDI Archive",
+          "summary": "Archive for neurophysiology data with rich metadata and dataset tooling.",
+          "link": "https://dandiarchive.org/",
+          "tags": [
+            "Neurophysiology",
+            "Sharing"
+          ]
+        },
+        {
+          "name": "OpenNeuro",
+          "summary": "Repository for BIDS datasets with public sharing and versioning support.",
+          "link": "https://openneuro.org/",
+          "tags": [
+            "BIDS",
+            "Open data"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "learning",
+      "label": "Learning and references",
+      "description": "Foundational references for neuroscience concepts and vocabulary.",
+      "resources": [
+        {
+          "name": "Neuroscience Online",
+          "summary": "Free online textbook covering core neuroscience topics and terminology.",
+          "link": "https://nba.uth.tmc.edu/neuroscience/",
+          "tags": [
+            "Textbook",
+            "Foundations"
+          ]
+        },
+        {
+          "name": "Allen Brain Atlas",
+          "summary": "Interactive brain anatomy and gene expression reference for research.",
+          "link": "https://portal.brain-map.org/",
+          "tags": [
+            "Atlas",
+            "Reference"
+          ]
+        },
+        {
+          "name": "BrainFacts",
+          "summary": "Clear explanations of key neuroscience concepts and discoveries.",
+          "link": "https://www.brainfacts.org/",
+          "tags": [
+            "Reference",
+            "Outreach"
+          ]
+        }
+      ]
+    }
+  ]
+}
