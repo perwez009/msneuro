@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T09:55:20.316Z",
+  "generatedAt": "2026-05-26T15:24:27.317Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYmF0Y2gtcm9ib3RpY3MtZ21iaC9zZW5pb3ItbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci1yb2JvdC1sZWFybmluZy1tdW5pY2gtMTg1MjU1fHNlbmlvciBtYWNoaW5lIGxlYXJuaW5nIGVuZ2luZWVyLCByb2JvdCBsZWFybmluZyAobS9mL2QpfGJhdGNoIHJvYm90aWNzIGdtYmg",
+      "title": "Senior Machine Learning Engineer, Robot Learning (m/f/d)",
+      "company": "Batch Robotics GmbH",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-26T11:30:31.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/batch-robotics-gmbh/senior-machine-learning-engineer-robot-learning-munich-185255"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmV1cmFsLWZyYW1lcy9iYWNrZW5kLXNvZnR3YXJlLWVuZ2luZWVyLWFpLW11c2ljLXZpZGVvLXBsYXRmb3JtLWJlcmxpbi0xMTQxMzR8YmFja2VuZCBzb2Z0d2FyZSBlbmdpbmVlciAvLyBhaSBtdXNpYyB2aWRlbyBwbGF0Zm9ybXxuZXVyYWwgZnJhbWVz",
+      "title": "Backend Software Engineer // AI Music Video Platform",
+      "company": "neural frames",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-26T11:00:43.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/neural-frames/backend-software-engineer-ai-music-video-platform-berlin-114134"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWJlcmxpbi1nZXJtYW55LTIwODY1MXxzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBiZXJsaW4sIGdlcm1hbnl8c3BlZWNoaWZ5",
       "title": "Software Engineer, Platform - Berlin, Germany",
@@ -227,19 +253,6 @@
       "postedDate": "2026-05-21T13:30:50.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-157475"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvanVuaW5pLWdtYmgvZm91bmRpbmctZW5naW5lZXItYmVybGluLTI5NDE4Nnxmb3VuZGluZyBlbmdpbmVlcnxqdW5pbmkgZ21iaA",
-      "title": "Founding Engineer",
-      "company": "Junini GmbH",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-21T09:31:47.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/junini-gmbh/founding-engineer-berlin-294186"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzQxNjg4MDAzP2doX2ppZD03NzQxNjg4MDAzfHJlZ3VsYXRvcnkgZW5naW5lZXJ8bmV1cmFsaW5r",
