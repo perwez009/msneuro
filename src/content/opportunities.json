@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T20:08:30.937Z",
+  "generatedAt": "2026-05-27T03:41:44.719Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVuc29yZHluZS93b3JraW5nLXN0dWRlbnQtYWktbWwtbXVuaWNoLTM0NTY2OHx3b3JraW5nIHN0dWRlbnQgYWkvbWx8dGVuc29yZHluZQ",
+      "title": "Working Student AI/ML",
+      "company": "Tensordyne",
+      "location": "Munich, Bavaria, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-26T20:45:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/tensordyne/working-student-ai-ml-munich-345668"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYmF0Y2gtcm9ib3RpY3MtZ21iaC9zZW5pb3ItbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci1yb2JvdC1sZWFybmluZy1tdW5pY2gtMTg1MjU1fHNlbmlvciBtYWNoaW5lIGxlYXJuaW5nIGVuZ2luZWVyLCByb2JvdCBsZWFybmluZyAobS9mL2QpfGJhdGNoIHJvYm90aWNzIGdtYmg",
       "title": "Senior Machine Learning Engineer, Robot Learning (m/f/d)",
