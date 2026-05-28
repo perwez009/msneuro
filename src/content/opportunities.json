@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T10:03:24.934Z",
+  "generatedAt": "2026-05-28T15:52:01.714Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGV1dHNjaGVyLWJhdXNlcnZpY2UtZ21iaC9wcm9qZWt0ZW50d2lja2xlci1mdXItZXJuZXVlcmJhcmUtZW5lcmdpZW4tbW9sYmVyZ2VuLTEyMTg4M3xwcm9qZWt0ZW50d2lja2xlciAobS93L2QpIGbDvHIgZXJuZXVlcmJhcmUgZW5lcmdpZW58ZGV1dHNjaGVyIGJhdXNlcnZpY2UgZ21iaA",
+      "title": "Projektentwickler (m/w/d) für erneuerbare Energien",
+      "company": "Deutscher Bauservice GmbH",
+      "location": "Molbergen",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-28T14:30:42.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-121883"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLXByb2R1Y3QtbWFuYWdlci1oYXJkd2FyZS1iZXJsaW4tMjc0NTc2fHNlbmlvciBwcm9kdWN0IG1hbmFnZXIgLSBoYXJkd2FyZXxzdW11cA",
+      "title": "Senior Product Manager - Hardware",
+      "company": "SumUp",
+      "location": "Berlin, Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-28T13:45:20.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-product-manager-hardware-berlin-274576"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvc2VuaW9yLXBlcmZvcm1hbmNlLWNyZWF0aXZlLWRlc2lnbmVyLXN0cmF0ZWdpc3QtaGFtYnVyZy00ODc2NjB8c2VuaW9yIHBlcmZvcm1hbmNlIGNyZWF0aXZlIGRlc2lnbmVyICYgc3RyYXRlZ2lzdCAobS93L2QpfDFrb21tYTXLmg",
+      "title": "Senior Performance Creative Designer & Strategist (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-28T11:30:33.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-performance-creative-designer-strategist-hamburg-487660"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXctdGVjLWluZHVzdHJpZXNlcnZpY2UtYW5sYWdlbnRlY2huaWstZ21iaC93ZXJrc3R1ZGVudC1nZW5lcmF0aXZlLWFpLWF1dG9tYXRpc2llcnVuZy12aWVyc2VuLTQ0NjkwMHx3ZXJrc3R1ZGVudCBnZW5lcmF0aXZlIGFpICYgYXV0b21hdGlzaWVydW5nIChtL3cvZCl8ZXctdGVjIGluZHVzdHJpZXNlcnZpY2UgJiBhbmxhZ2VudGVjaG5payBnbWJo",
+      "title": "Werkstudent Generative AI & Automatisierung (m/w/d)",
+      "company": "EW-Tec Industrieservice & Anlagentechnik GmbH",
+      "location": "Viersen",
+      "workModel": "On-site",
+      "opportunityType": "Working student, hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-28T10:00:37.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/ew-tec-industrieservice-anlagentechnik-gmbh/werkstudent-generative-ai-automatisierung-viersen-446900"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9yc2FuLWdtYmgvd2Vya3N0dWRlbnQtaW0tbWFya2V0aW5nLW9ubGluZS11bmQtb2ZmbGluZS1iZXJsaW4tMTE2NjAxfHdlcmtzdHVkZW50IGltIG1hcmtldGluZyAtIG9ubGluZSB1bmQgb2ZmbGluZSAobS93L2QpIGJlcmxpbnxub3JzYW4gKGdtYmgp",
+      "title": "Werkstudent im Marketing - Online und Offline (m/w/d) Berlin",
+      "company": "NORSAN (GmbH)",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Working student, hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-28T10:00:37.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/norsan-gmbh/werkstudent-im-marketing-online-und-offline-berlin-116601"
+    },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzUwMzA5MDAzP2doX2ppZD03NzUwMzA5MDAzfGVsZWN0cmljYWwgZW5naW5lZXIsIGNvbXB1dGUgYXJjaGl0ZWN0dXJlfG5ldXJhbGluaw",
       "title": "Electrical Engineer, Compute Architecture",
@@ -112,19 +177,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-stuttgart-germany-127438"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWQtcHVibGljYS1wdWJsaWMtcmVsYXRpb25zLWdtYmgvdHJhaW5lZS1oYW1idXJnLTE2NDI4NXx0cmFpbmVlIChtL3cvZCl8YWQgcHVibGljYSBwdWJsaWMgcmVsYXRpb25zIGdtYmg",
-      "title": "Trainee (m/w/d)",
-      "company": "ad publica Public Relations GmbH",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "berufseinstieg",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-24T12:59:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/ad-publica-public-relations-gmbh/trainee-hamburg-164285"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC1hbmRyb2lkLWNvcmUtcHJvZHVjdC1iZXJsaW4tZ2VybWFueS0xNTk3MTN8dGVjaCBsZWFkLCBhbmRyb2lkIGNvcmUgcHJvZHVjdCAtIGJlcmxpbiwgZ2VybWFueXxzcGVlY2hpZnk",
       "title": "Tech Lead, Android Core Product - Berlin, Germany",
       "company": "Speechify",
@@ -175,58 +227,6 @@
       "postedDate": "2026-05-24T06:45:23.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-hamburg-germany-179400"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWR1c3NlbGRvcmYtZ2VybWFueS1kdXNzZWxkb3JmLTg5ODQxfHNvZnR3YXJlIGVuZ2luZWVyLCBwbGF0Zm9ybSAtIGTDvHNzZWxkb3JmLCBnZXJtYW55fHNwZWVjaGlmeQ",
-      "title": "Software Engineer, Platform - Düsseldorf, Germany",
-      "company": "Speechify",
-      "location": "Dusseldorf, North Rhine-Westphalia, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-24T06:45:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-dusseldorf-germany-dusseldorf-89841"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWhhbWJ1cmctZ2VybWFueS0zMTExNjF8c29mdHdhcmUgZW5naW5lZXIsIHBsYXRmb3JtIC0gaGFtYnVyZywgZ2VybWFueXxzcGVlY2hpZnk",
-      "title": "Software Engineer, Platform - Hamburg, Germany",
-      "company": "Speechify",
-      "location": "Hamburg, Hamburg, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-24T06:45:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-hamburg-germany-311161"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLW11bmljaC1nZXJtYW55LTI3Nzg3MHxzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBtdW5pY2gsIGdlcm1hbnl8c3BlZWNoaWZ5",
-      "title": "Software Engineer, Platform - Munich, Germany",
-      "company": "Speechify",
-      "location": "Munich, Bavaria, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-24T06:45:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-munich-germany-277870"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC13ZWItY29yZS1wcm9kdWN0LWNocm9tZS1leHRlbnNpb24tZHVzc2VsZG9yZi1nZXJtYW55LWR1c3NlbGRvcmYtMjIzODk2fHRlY2ggbGVhZCwgd2ViIGNvcmUgcHJvZHVjdCAmIGNocm9tZSBleHRlbnNpb24gLSBkw7xzc2VsZG9yZiwgZ2VybWFueXxzcGVlY2hpZnk",
-      "title": "Tech Lead, Web Core Product & Chrome Extension - Düsseldorf, Germany",
-      "company": "Speechify",
-      "location": "Dusseldorf, North Rhine-Westphalia, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-23T23:45:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-web-core-product-chrome-extension-dusseldorf-germany-dusseldorf-223896"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzQzMDg5MDAzP2doX2ppZD03NzQzMDg5MDAzfHNvZnR3YXJlIGVuZ2luZWVyLCBjaS9jZHxuZXVyYWxpbms",
