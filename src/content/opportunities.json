@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T03:31:00.230Z",
+  "generatedAt": "2026-05-28T10:03:24.934Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -45,6 +45,19 @@
       "postedDate": "2026-05-26T20:45:25.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/tensordyne/working-student-ai-ml-munich-345668"
+    },
+    {
+      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvcHJvZHVjdC9zdGFmZi1wcm9kdWN0LWVuZ2luZWVyLWNhbXBpbmFzLTIwOTA5MDJ8c3RhZmYgcHJvZHVjdCBlbmdpbmVlciAoY2FtcGluYXMpfGxhd25zdGFydGVy",
+      "title": "Staff Product Engineer (Campinas)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Remotive",
+      "sourceUrl": "https://remotive.com",
+      "postedDate": "2026-05-26T19:33:21.000Z",
+      "applyBy": null,
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-campinas-2090902"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYmF0Y2gtcm9ib3RpY3MtZ21iaC9zZW5pb3ItbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci1yb2JvdC1sZWFybmluZy1tdW5pY2gtMTg1MjU1fHNlbmlvciBtYWNoaW5lIGxlYXJuaW5nIGVuZ2luZWVyLCByb2JvdCBsZWFybmluZyAobS9mL2QpfGJhdGNoIHJvYm90aWNzIGdtYmg",
@@ -216,19 +229,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-web-core-product-chrome-extension-dusseldorf-germany-dusseldorf-223896"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1ncm93dGgtbWFya2V0aW5nLWJlcmxpbi0yNzM0NjZ8d2Vya3N0dWRlbnQ6aW4gZ3Jvd3RoIG1hcmtldGluZyAobS93L2QpfDFrb21tYTXLmg",
-      "title": "Werkstudent:in Growth Marketing (m/w/d)",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Working student, hilfstätigkeit / student",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-22T14:00:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-growth-marketing-berlin-273466"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzQzMDg5MDAzP2doX2ppZD03NzQzMDg5MDAzfHNvZnR3YXJlIGVuZ2luZWVyLCBjaS9jZHxuZXVyYWxpbms",
       "title": "Software Engineer, CI/CD",
       "company": "Neuralink",
@@ -255,8 +255,8 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/7743087003?gh_jid=7743087003"
     },
     {
-      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvcHJvZHVjdC9zdGFmZi1wcm9kdWN0LWVuZ2luZWVyLTIwOTA4OTB8c3RhZmYgcHJvZHVjdCBlbmdpbmVlcnxsYXduc3RhcnRlcg",
-      "title": "Staff Product Engineer",
+      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvcHJvZHVjdC9zdGFmZi1wcm9kdWN0LWVuZ2luZWVyLXNhby1wYXVsby0yMDkwODkwfHN0YWZmIHByb2R1Y3QgZW5naW5lZXIgKHPDo28gcGF1bG8pfGxhd25zdGFydGVy",
+      "title": "Staff Product Engineer (São Paulo)",
       "company": "LawnStarter",
       "location": "Brazil",
       "workModel": "Remote",
@@ -265,7 +265,7 @@
       "sourceUrl": "https://remotive.com",
       "postedDate": "2026-05-21T16:42:09.000Z",
       "applyBy": null,
-      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-2090890"
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-sao-paulo-2090890"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzQxNjg4MDAzP2doX2ppZD03NzQxNjg4MDAzfHJlZ3VsYXRvcnkgZW5naW5lZXJ8bmV1cmFsaW5r",
