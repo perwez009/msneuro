@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T20:14:33.467Z",
+  "generatedAt": "2026-05-28T03:31:00.230Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzUwMzA5MDAzP2doX2ppZD03NzUwMzA5MDAzfGVsZWN0cmljYWwgZW5naW5lZXIsIGNvbXB1dGUgYXJjaGl0ZWN0dXJlfG5ldXJhbGluaw",
+      "title": "Electrical Engineer, Compute Architecture",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-05-27T22:03:02.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7750309003?gh_jid=7750309003"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW52aWEtZmxpZ2h0cy1nZXJtYW55LWdtYmgvc2VuaW9yLXVpLXV4LWRlc2lnbmVyLWFwcC1kZXNpZ24tZmx1ZWdlZGUtYmVybGluLTQxMjkzOHwoc2VuaW9yKSB1aS91eCBkZXNpZ25lciAobS93L2QpIC0gYXBwIGRlc2lnbiAvIGZsdWVnZS5kZXxpbnZpYSBmbGlnaHRzIGdlcm1hbnkgZ21iaA",
       "title": "(Senior) UI/UX Designer (m/w/d) - App Design / fluege.de",
@@ -643,19 +656,6 @@
       "postedDate": "2026-03-06T03:28:52.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7655221003?gh_jid=7655221003"
-    },
-    {
-      "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD01ODA4ODAwMDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSBuZXcgb3JsZWFuc3xuZXVyb3BhY2U",
-      "title": "Associate Therapy Consultant - New Orleans",
-      "company": "NeuroPace",
-      "location": "New Orleans",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "NeuroPace Careers",
-      "sourceUrl": "https://boards.greenhouse.io/neuropace",
-      "postedDate": "2026-02-26T20:25:01.000Z",
-      "applyBy": null,
-      "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=5808800004"
     }
   ]
 }
