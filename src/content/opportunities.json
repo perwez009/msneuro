@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T15:27:09.484Z",
+  "generatedAt": "2026-05-29T20:24:05.872Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9yZHJhbi10ZWNobm9sb2dpZXMvaGVhZC1vZi1yZC1haS1mYWN0b3J5LWluZnJhc3RydWN0dXJlLWJlcmxpbi0xNjY5OXxoZWFkIG9mIHImZCAtIGFpIGZhY3RvcnkgaW5mcmFzdHJ1Y3R1cmV8bm9yZHJhbiB0ZWNobm9sb2dpZXM",
+      "title": "Head of R&D - AI Factory Infrastructure",
+      "company": "Nordran Technologies",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "executive",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-29T15:30:42.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/nordran-technologies/head-of-rd-ai-factory-infrastructure-berlin-16699"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdmlzaW9uLW1hcmtldHMteW91ci1nbG9iYWwtZ3Jvd3RoLWluLW1hY2hpbmUtdmlzaW9uL2hlYWQtb2Yta2V5LWFjY291bnQtbWFuYWdlbWVudC12aXNpb24tc3lzdGVtcy1tdW5pY2gtMzAzNzQwfGhlYWQgb2Yga2V5IGFjY291bnQgbWFuYWdlbWVudCAobS9mL2QpIC0gdmlzaW9uIHN5c3RlbXN8dmlzaW9uIG1hcmtldHMgLSB5b3VyIGdsb2JhbCBncm93dGggaW4gbWFjaGluZSB2aXNpb24",
+      "title": "Head of Key Account Management (m/f/d) - Vision Systems",
+      "company": "Vision Markets - Your global growth in Machine Vision",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-29T14:00:42.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/vision-markets-your-global-growth-in-machine-vision/head-of-key-account-management-vision-systems-munich-303740"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbGlrZS1pdC1tZWRpYS1nbWJoL2dvb2dsZS1hZHMtbWVkaWEtYnV5ZXItZnVydGgtMjI5NjN8Z29vZ2xlIGFkcyBtZWRpYSBidXllciAody9tL2QpfGxpa2UgaXQgbWVkaWEgZ21iaA",
       "title": "Google Ads Media Buyer (w/m/d)",
@@ -162,19 +188,6 @@
       "postedDate": "2026-05-27T12:25:20.000Z",
       "applyBy": null,
       "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-porto-alegre-2090901"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVuc29yZHluZS93b3JraW5nLXN0dWRlbnQtYWktbWwtbXVuaWNoLTM0NTY2OHx3b3JraW5nIHN0dWRlbnQgYWkvbWx8dGVuc29yZHluZQ",
-      "title": "Working Student AI/ML",
-      "company": "Tensordyne",
-      "location": "Munich, Bavaria, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-26T20:45:25.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/tensordyne/working-student-ai-ml-munich-345668"
     },
     {
       "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvcHJvZHVjdC9zdGFmZi1wcm9kdWN0LWVuZ2luZWVyLWNhbXBpbmFzLTIwOTA5MDJ8c3RhZmYgcHJvZHVjdCBlbmdpbmVlciAoY2FtcGluYXMpfGxhd25zdGFydGVy",
