@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T20:21:41.539Z",
+  "generatedAt": "2026-05-29T03:31:24.344Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbGlrZS1pdC1tZWRpYS1nbWJoL2dvb2dsZS1hZHMtbWVkaWEtYnV5ZXItZnVydGgtMjI5NjN8Z29vZ2xlIGFkcyBtZWRpYSBidXllciAody9tL2QpfGxpa2UgaXQgbWVkaWEgZ21iaA",
+      "title": "Google Ads Media Buyer (w/m/d)",
+      "company": "Like It Media GmbH",
+      "location": "Fürth",
+      "workModel": "Remote",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-28T21:30:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/like-it-media-gmbh/google-ads-media-buyer-furth-22963"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzUxNjA1MDAzP2doX2ppZD03NzUxNjA1MDAzfG1lY2hhbmljYWwgZW5naW5lZXIsIHN1cmdlcnkgJiByb2JvdGljc3xuZXVyYWxpbms",
+      "title": "Mechanical Engineer, Surgery & Robotics",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-05-28T20:51:00.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7751605003?gh_jid=7751605003"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGV1dHNjaGVyLWJhdXNlcnZpY2UtZ21iaC9wcm9qZWt0ZW50d2lja2xlci1mdXItZXJuZXVlcmJhcmUtZW5lcmdpZW4tbW9sYmVyZ2VuLTEyMTg4M3xwcm9qZWt0ZW50d2lja2xlciAobS93L2QpIGbDvHIgZXJuZXVlcmJhcmUgZW5lcmdpZW58ZGV1dHNjaGVyIGJhdXNlcnZpY2UgZ21iaA",
       "title": "Projektentwickler (m/w/d) für erneuerbare Energien",
@@ -281,19 +307,6 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/7732181003?gh_jid=7732181003"
     },
     {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzI5NTAwMDAzP2doX2ppZD03NzI5NTAwMDAzfHNvZnR3YXJlIGVuZ2luZWVyLCBhZ2VudGljIGFpfG5ldXJhbGluaw",
-      "title": "Software Engineer, Agentic AI",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States; South San Francisco, California, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-05-09T20:23:57.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7729500003?gh_jid=7729500003"
-    },
-    {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD01OTY4NjI3MDA0fHJlZ2lvbmFsIHNhbGVzIG1hbmFnZXIgLSBzb3V0aGVhc3R8bmV1cm9wYWNl",
       "title": "Regional Sales Manager - Southeast",
       "company": "NeuroPace",
@@ -466,7 +479,7 @@
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Njg5NjQxMDAzP2doX2ppZD03Njg5NjQxMDAzfG1pY3JvZmFicmljYXRpb24gZW5naW5lZXIgKHImZCl8bmV1cmFsaW5r",
       "title": "Microfabrication Engineer (R&D)",
       "company": "Neuralink",
-      "location": "South San Francisco, California, United States",
+      "location": "Fremont, California, United States",
       "workModel": "On-site",
       "opportunityType": "Full-time",
       "source": "Neuralink Jobs",
