@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T09:53:11.850Z",
+  "generatedAt": "2026-05-29T15:27:09.484Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -190,32 +190,6 @@
       "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-campinas-2090902"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYmF0Y2gtcm9ib3RpY3MtZ21iaC9zZW5pb3ItbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci1yb2JvdC1sZWFybmluZy1tdW5pY2gtMTg1MjU1fHNlbmlvciBtYWNoaW5lIGxlYXJuaW5nIGVuZ2luZWVyLCByb2JvdCBsZWFybmluZyAobS9mL2QpfGJhdGNoIHJvYm90aWNzIGdtYmg",
-      "title": "Senior Machine Learning Engineer, Robot Learning (m/f/d)",
-      "company": "Batch Robotics GmbH",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-26T15:59:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/batch-robotics-gmbh/senior-machine-learning-engineer-robot-learning-munich-185255"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmV1cmFsLWZyYW1lcy9iYWNrZW5kLXNvZnR3YXJlLWVuZ2luZWVyLWFpLW11c2ljLXZpZGVvLXBsYXRmb3JtLWJlcmxpbi0xMTQxMzR8YmFja2VuZCBzb2Z0d2FyZSBlbmdpbmVlciAvLyBhaSBtdXNpYyB2aWRlbyBwbGF0Zm9ybXxuZXVyYWwgZnJhbWVz",
-      "title": "Backend Software Engineer // AI Music Video Platform",
-      "company": "neural frames",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-26T11:00:43.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/neural-frames/backend-software-engineer-ai-music-video-platform-berlin-114134"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzQzMDg5MDAzP2doX2ppZD03NzQzMDg5MDAzfHNvZnR3YXJlIGVuZ2luZWVyLCBjaS9jZHxuZXVyYWxpbms",
       "title": "Software Engineer, CI/CD",
       "company": "Neuralink",
@@ -383,19 +357,6 @@
       "postedDate": "2026-05-05T20:41:54.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7725256003?gh_jid=7725256003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzIxOTAwMDAzP2doX2ppZD03NzIxOTAwMDAzfG1hbnVmYWN0dXJpbmcgdGVjaG5pY2lhbiwgc3VyZ2VyeSBjb25zdW1hYmxlc3xuZXVyYWxpbms",
-      "title": "Manufacturing Technician, Surgery Consumables",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-05-05T17:46:29.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7721900003?gh_jid=7721900003"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzIyMDE1MDAzP2doX2ppZD03NzIyMDE1MDAzfHByZWNsaW5pY2FsIHN0dWR5IGNvb3JkaW5hdG9yfG5ldXJhbGluaw",
