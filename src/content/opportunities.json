@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T03:31:24.344Z",
+  "generatedAt": "2026-05-29T09:53:11.850Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -112,6 +112,19 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/7750309003?gh_jid=7750309003"
     },
     {
+      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvcHJvZHVjdC9zdGFmZi1wcm9kdWN0LWVuZ2luZWVyLWZsb3JpYW5vcG9saXMtMjA5MDg5OXxzdGFmZiBwcm9kdWN0IGVuZ2luZWVyIChmbG9yaWFuw7Nwb2xpcyl8bGF3bnN0YXJ0ZXI",
+      "title": "Staff Product Engineer (Florianópolis)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Remotive",
+      "sourceUrl": "https://remotive.com",
+      "postedDate": "2026-05-27T12:32:53.000Z",
+      "applyBy": null,
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2090899"
+    },
+    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW52aWEtZmxpZ2h0cy1nZXJtYW55LWdtYmgvc2VuaW9yLXVpLXV4LWRlc2lnbmVyLWFwcC1kZXNpZ24tZmx1ZWdlZGUtYmVybGluLTQxMjkzOHwoc2VuaW9yKSB1aS91eCBkZXNpZ25lciAobS93L2QpIC0gYXBwIGRlc2lnbiAvIGZsdWVnZS5kZXxpbnZpYSBmbGlnaHRzIGdlcm1hbnkgZ21iaA",
       "title": "(Senior) UI/UX Designer (m/w/d) - App Design / fluege.de",
       "company": "Invia Flights Germany GmbH",
@@ -123,6 +136,32 @@
       "postedDate": "2026-05-27T12:30:35.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/invia-flights-germany-gmbh/senior-ui-ux-designer-app-design-fluegede-berlin-412938"
+    },
+    {
+      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvcHJvZHVjdC9zdGFmZi1wcm9kdWN0LWVuZ2luZWVyLWJlbG8taG9yaXpvbnRlLTIwOTA5MDB8c3RhZmYgcHJvZHVjdCBlbmdpbmVlciAoYmVsbyBob3Jpem9udGUpfGxhd25zdGFydGVy",
+      "title": "Staff Product Engineer (Belo Horizonte)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Remotive",
+      "sourceUrl": "https://remotive.com",
+      "postedDate": "2026-05-27T12:27:46.000Z",
+      "applyBy": null,
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-belo-horizonte-2090900"
+    },
+    {
+      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvcHJvZHVjdC9zdGFmZi1wcm9kdWN0LWVuZ2luZWVyLXBvcnRvLWFsZWdyZS0yMDkwOTAxfHN0YWZmIHByb2R1Y3QgZW5naW5lZXIgKHBvcnRvIGFsZWdyZSl8bGF3bnN0YXJ0ZXI",
+      "title": "Staff Product Engineer (Porto Alegre)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Remotive",
+      "sourceUrl": "https://remotive.com",
+      "postedDate": "2026-05-27T12:25:20.000Z",
+      "applyBy": null,
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-porto-alegre-2090901"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVuc29yZHluZS93b3JraW5nLXN0dWRlbnQtYWktbWwtbXVuaWNoLTM0NTY2OHx3b3JraW5nIHN0dWRlbnQgYWkvbWx8dGVuc29yZHluZQ",
