@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T20:24:05.872Z",
+  "generatedAt": "2026-05-30T02:57:23.883Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLWJhY2tlbmQtZW5naW5lZXItZ29sYW5nLWJhbmstYmVybGluLTI3MzAwNHxzZW5pb3IgYmFja2VuZCBlbmdpbmVlciAoZ29sYW5nKSAtIGJhbmt8c3VtdXA",
+      "title": "Senior Backend Engineer (Golang) - Bank",
+      "company": "SumUp",
+      "location": "Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-29T23:45:19.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-golang-bank-berlin-273004"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzUzOTk5MDAzP2doX2ppZD03NzUzOTk5MDAzfGZpbmFuY2lhbCBhbmFseXN0fG5ldXJhbGluaw",
+      "title": "Financial Analyst",
+      "company": "Neuralink",
+      "location": "South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-05-29T21:07:36.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7753999003?gh_jid=7753999003"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9yZHJhbi10ZWNobm9sb2dpZXMvaGVhZC1vZi1yZC1haS1mYWN0b3J5LWluZnJhc3RydWN0dXJlLWJlcmxpbi0xNjY5OXxoZWFkIG9mIHImZCAtIGFpIGZhY3RvcnkgaW5mcmFzdHJ1Y3R1cmV8bm9yZHJhbiB0ZWNobm9sb2dpZXM",
       "title": "Head of R&D - AI Factory Infrastructure",
