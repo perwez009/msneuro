@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T03:43:30.994Z",
+  "generatedAt": "2026-05-31T08:43:50.072Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWFuZHJvaWQta21wLWJlcmxpbi02NzU0NHxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIGFuZHJvaWQgLSBrbXB8c3VtdXA",
+      "title": "Senior Software Engineer, Android - KMP",
+      "company": "SumUp",
+      "location": "Berlin, Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-05-31T06:45:21.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-software-engineer-android-kmp-berlin-67544"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLWJhY2tlbmQtZW5naW5lZXItZ29sYW5nLWJhbmstYmVybGluLTI3MzAwNHxzZW5pb3IgYmFja2VuZCBlbmdpbmVlciAoZ29sYW5nKSAtIGJhbmt8c3VtdXA",
       "title": "Senior Backend Engineer (Golang) - Bank",
