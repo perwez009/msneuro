@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T10:22:14.013Z",
+  "generatedAt": "2026-06-02T16:22:58.590Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaGFucy1icmFpbmZvb2QtZ21iaC9lLWNvbW1lcmNlLW1hbmFnZXItc2hvcG1hbmFnZXItaWQtZWNtMS1yZWdlbnNidXJnLTI2MzYxNXxlLWNvbW1lcmNlIG1hbmFnZXIgLyBzaG9wbWFuYWdlciAobS93L2QpIC0gaWQ6IGVjbTF8aGFucyBicmFpbmZvb2QgZ21iaA",
+      "title": "E-Commerce Manager / Shopmanager (m/w/d) - ID: ECM1",
+      "company": "HANS Brainfood GmbH",
+      "location": "Regensburg",
+      "workModel": "Remote",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-02T11:30:40.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/hans-brainfood-gmbh/e-commerce-manager-shopmanager-id-ecm1-regensburg-263615"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvam9icG9ydGFsL21vdGl2aWVydGVyLWVtYmVkZGVkLXNvZnR3YXJlZW50d2lja2xlci1iZWktZGVyLWVicy1rdW1rZW8tZ21iaC1nZXN1Y2h0LWtpZWwtMjAxMTh8bW90aXZpZXJ0ZXIgZW1iZWRkZWQgc29mdHdhcmVlbnR3aWNrbGVyIChtL3cvZCkgYmVpIGRlciBlYnMga3Vta2VvIGdtYmggZ2VzdWNodCF8am9icG9ydGFs",
+      "title": "Motivierter Embedded Softwareentwickler (m/w/d) bei der ebs kumkeo GmbH gesucht!",
+      "company": "Jobportal",
+      "location": "Kiel",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-02T09:30:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/jobportal/motivierter-embedded-softwareentwickler-bei-der-ebs-kumkeo-gmbh-gesucht-kiel-20118"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvYW5kcm9pZC1lbmdpbmVlci1rbXAtYmVybGluLTQ2MTgxNnxhbmRyb2lkIGVuZ2luZWVyIC0ga21wfHN1bXVw",
       "title": "Android Engineer - KMP",
@@ -19,19 +45,6 @@
       "postedDate": "2026-06-02T06:45:26.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/sumup/android-engineer-kmp-berlin-461816"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcmVkLXBlcHBlci1nZXNlbGxzY2hhZnQtZnVyLWJyYW5kaW5nLXRyYW5zZm9ybWF0aW9uLW1iaC93ZXJrc3R1ZGVudC1haS1vcGVyYXRpb25zLXdvcmtmbG93LWF1dG9tYXRpb24tYnJlbWVuLTM2NTcwN3x3ZXJrc3R1ZGVudCBhaSBvcGVyYXRpb25zICYgd29ya2Zsb3cgYXV0b21hdGlvbiAobS93L2QpfHJlZCBwZXBwZXIgZ2VzZWxsc2NoYWZ0IGbDvHIgYnJhbmRpbmcgJiB0cmFuc2Zvcm1hdGlvbiBtYmg",
-      "title": "Werkstudent AI Operations & Workflow Automation (m/w/d)",
-      "company": "red pepper Gesellschaft für Branding & Transformation mbH",
-      "location": "Bremen",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-01T15:29:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/red-pepper-gesellschaft-fur-branding-transformation-mbh/werkstudent-ai-operations-workflow-automation-bremen-365707"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWFuZHJvaWQta21wLWJlcmxpbi02NzU0NHxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIGFuZHJvaWQgLSBrbXB8c3VtdXA",
@@ -97,19 +110,6 @@
       "postedDate": "2026-05-29T14:00:42.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/vision-markets-your-global-growth-in-machine-vision/head-of-key-account-management-vision-systems-munich-303740"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbGlrZS1pdC1tZWRpYS1nbWJoL2dvb2dsZS1hZHMtbWVkaWEtYnV5ZXItZnVydGgtMjI5NjN8Z29vZ2xlIGFkcyBtZWRpYSBidXllciAody9tL2QpfGxpa2UgaXQgbWVkaWEgZ21iaA",
-      "title": "Google Ads Media Buyer (w/m/d)",
-      "company": "Like It Media GmbH",
-      "location": "Fürth",
-      "workModel": "Remote",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-28T21:30:29.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/like-it-media-gmbh/google-ads-media-buyer-furth-22963"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzUxNjA1MDAzP2doX2ppZD03NzUxNjA1MDAzfG1lY2hhbmljYWwgZW5naW5lZXIsIHN1cmdlcnkgJiByb2JvdGljc3xuZXVyYWxpbms",
