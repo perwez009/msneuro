@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T03:53:49.356Z",
+  "generatedAt": "2026-06-02T10:22:14.013Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvYW5kcm9pZC1lbmdpbmVlci1rbXAtYmVybGluLTQ2MTgxNnxhbmRyb2lkIGVuZ2luZWVyIC0ga21wfHN1bXVw",
+      "title": "Android Engineer - KMP",
+      "company": "SumUp",
+      "location": "Berlin, Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-02T06:45:26.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/android-engineer-kmp-berlin-461816"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcmVkLXBlcHBlci1nZXNlbGxzY2hhZnQtZnVyLWJyYW5kaW5nLXRyYW5zZm9ybWF0aW9uLW1iaC93ZXJrc3R1ZGVudC1haS1vcGVyYXRpb25zLXdvcmtmbG93LWF1dG9tYXRpb24tYnJlbWVuLTM2NTcwN3x3ZXJrc3R1ZGVudCBhaSBvcGVyYXRpb25zICYgd29ya2Zsb3cgYXV0b21hdGlvbiAobS93L2QpfHJlZCBwZXBwZXIgZ2VzZWxsc2NoYWZ0IGbDvHIgYnJhbmRpbmcgJiB0cmFuc2Zvcm1hdGlvbiBtYmg",
       "title": "Werkstudent AI Operations & Workflow Automation (m/w/d)",
@@ -110,19 +123,6 @@
       "postedDate": "2026-05-28T20:51:00.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7751605003?gh_jid=7751605003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGV1dHNjaGVyLWJhdXNlcnZpY2UtZ21iaC9wcm9qZWt0ZW50d2lja2xlci1mdXItZXJuZXVlcmJhcmUtZW5lcmdpZW4tbW9sYmVyZ2VuLTEyMTg4M3xwcm9qZWt0ZW50d2lja2xlciAobS93L2QpIGbDvHIgZXJuZXVlcmJhcmUgZW5lcmdpZW58ZGV1dHNjaGVyIGJhdXNlcnZpY2UgZ21iaA",
-      "title": "Projektentwickler (m/w/d) für erneuerbare Energien",
-      "company": "Deutscher Bauservice GmbH",
-      "location": "Molbergen",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-28T14:30:42.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-121883"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzUwMzA5MDAzP2doX2ppZD03NzUwMzA5MDAzfGVsZWN0cmljYWwgZW5naW5lZXIsIGNvbXB1dGUgYXJjaGl0ZWN0dXJlfG5ldXJhbGluaw",
