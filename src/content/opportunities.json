@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:22:58.590Z",
+  "generatedAt": "2026-06-02T20:47:55.915Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvemVwLWdtYmgvc2VuaW9yLXRlc3QtYXV0b21hdGlvbi1lbmdpbmVlci1haS1uYXRpdmUtcmVtb3RlLWRpdHppbmdlbi0yMTkxNTZ8KHNlbmlvcikgdGVzdCBhdXRvbWF0aW9uIGVuZ2luZWVyLCBhaS1uYXRpdmUgKGQvbS93KSAtIHJlbW90ZXx6ZXAgZ21iaA",
+      "title": "(Senior) Test Automation Engineer, AI-Native (d/m/w) - Remote",
+      "company": "ZEP GmbH",
+      "location": "Ditzingen",
+      "workModel": "Remote",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-02T16:00:39.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/zep-gmbh/senior-test-automation-engineer-ai-native-remote-ditzingen-219156"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9yZHJhbi10ZWNobm9sb2dpZXMvaGVhZC1vZi1yZC1iZXJsaW4tMjI4NTc0fGhlYWQgb2YgciZkfG5vcmRyYW4gdGVjaG5vbG9naWVz",
+      "title": "Head of R&D",
+      "company": "Nordran Technologies",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "executive",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-02T15:00:57.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/nordran-technologies/head-of-rd-berlin-228574"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaGFucy1icmFpbmZvb2QtZ21iaC9lLWNvbW1lcmNlLW1hbmFnZXItc2hvcG1hbmFnZXItaWQtZWNtMS1yZWdlbnNidXJnLTI2MzYxNXxlLWNvbW1lcmNlIG1hbmFnZXIgLyBzaG9wbWFuYWdlciAobS93L2QpIC0gaWQ6IGVjbTF8aGFucyBicmFpbmZvb2QgZ21iaA",
       "title": "E-Commerce Manager / Shopmanager (m/w/d) - ID: ECM1",
@@ -47,6 +73,19 @@
       "url": "https://www.arbeitnow.com/jobs/companies/sumup/android-engineer-kmp-berlin-461816"
     },
     {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcmVkLXBlcHBlci1nZXNlbGxzY2hhZnQtZnVyLWJyYW5kaW5nLXRyYW5zZm9ybWF0aW9uLW1iaC93ZXJrc3R1ZGVudC1haS1vcGVyYXRpb25zLXdvcmtmbG93LWF1dG9tYXRpb24tYnJlbWVuLTM2NTcwN3x3ZXJrc3R1ZGVudCBhaSBvcGVyYXRpb25zICYgd29ya2Zsb3cgYXV0b21hdGlvbiAobS93L2QpfHJlZCBwZXBwZXIgZ2VzZWxsc2NoYWZ0IGbDvHIgYnJhbmRpbmcgJiB0cmFuc2Zvcm1hdGlvbiBtYmg",
+      "title": "Werkstudent AI Operations & Workflow Automation (m/w/d)",
+      "company": "red pepper Gesellschaft für Branding & Transformation mbH",
+      "location": "Bremen",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-01T15:29:03.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/red-pepper-gesellschaft-fur-branding-transformation-mbh/werkstudent-ai-operations-workflow-automation-bremen-365707"
+    },
+    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWFuZHJvaWQta21wLWJlcmxpbi02NzU0NHxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIGFuZHJvaWQgLSBrbXB8c3VtdXA",
       "title": "Senior Software Engineer, Android - KMP",
       "company": "SumUp",
@@ -84,19 +123,6 @@
       "postedDate": "2026-05-29T21:07:36.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7753999003?gh_jid=7753999003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9yZHJhbi10ZWNobm9sb2dpZXMvaGVhZC1vZi1yZC1haS1mYWN0b3J5LWluZnJhc3RydWN0dXJlLWJlcmxpbi0xNjY5OXxoZWFkIG9mIHImZCAtIGFpIGZhY3RvcnkgaW5mcmFzdHJ1Y3R1cmV8bm9yZHJhbiB0ZWNobm9sb2dpZXM",
-      "title": "Head of R&D - AI Factory Infrastructure",
-      "company": "Nordran Technologies",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "executive",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-29T15:30:42.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/nordran-technologies/head-of-rd-ai-factory-infrastructure-berlin-16699"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdmlzaW9uLW1hcmtldHMteW91ci1nbG9iYWwtZ3Jvd3RoLWluLW1hY2hpbmUtdmlzaW9uL2hlYWQtb2Yta2V5LWFjY291bnQtbWFuYWdlbWVudC12aXNpb24tc3lzdGVtcy1tdW5pY2gtMzAzNzQwfGhlYWQgb2Yga2V5IGFjY291bnQgbWFuYWdlbWVudCAobS9mL2QpIC0gdmlzaW9uIHN5c3RlbXN8dmlzaW9uIG1hcmtldHMgLSB5b3VyIGdsb2JhbCBncm93dGggaW4gbWFjaGluZSB2aXNpb24",
