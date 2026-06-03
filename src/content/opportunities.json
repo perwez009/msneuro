@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T07:17:25.463Z",
+  "generatedAt": "2026-06-03T10:57:18.891Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -60,6 +60,58 @@
       "url": "https://www.arbeitnow.com/jobs/companies/jobportal/motivierter-embedded-softwareentwickler-bei-der-ebs-kumkeo-gmbh-gesucht-kiel-20118"
     },
     {
+      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvc29mdHdhcmUtZGV2ZWxvcG1lbnQvc3RhZmYtc29mdHdhcmUtZW5naW5lZXItcHJvZHVjdC1iZWxvLWhvcml6b250ZS0yMDkwOTEwfHN0YWZmIHNvZnR3YXJlIGVuZ2luZWVyLCBwcm9kdWN0IChiZWxvIGhvcml6b250ZSl8bGF3bnN0YXJ0ZXI",
+      "title": "Staff Software Engineer, Product (Belo Horizonte)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Remotive",
+      "sourceUrl": "https://remotive.com",
+      "postedDate": "2026-06-02T07:53:42.000Z",
+      "applyBy": null,
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-belo-horizonte-2090910"
+    },
+    {
+      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvc29mdHdhcmUtZGV2ZWxvcG1lbnQvc3RhZmYtc29mdHdhcmUtZW5naW5lZXItcHJvZHVjdC1mbG9yaWFub3BvbGlzLTIwOTA5MTF8c3RhZmYgc29mdHdhcmUgZW5naW5lZXIsIHByb2R1Y3QgKGZsb3JpYW7Ds3BvbGlzKXxsYXduc3RhcnRlcg",
+      "title": "Staff Software Engineer, Product (Florianópolis)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Remotive",
+      "sourceUrl": "https://remotive.com",
+      "postedDate": "2026-06-02T07:52:26.000Z",
+      "applyBy": null,
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-florianopolis-2090911"
+    },
+    {
+      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvc29mdHdhcmUtZGV2ZWxvcG1lbnQvc3RhZmYtc29mdHdhcmUtZW5naW5lZXItcHJvZHVjdC1wb3J0by1hbGVncmUtMjA5MDkwOXxzdGFmZiBzb2Z0d2FyZSBlbmdpbmVlciwgcHJvZHVjdCAocG9ydG8gYWxlZ3JlKXxsYXduc3RhcnRlcg",
+      "title": "Staff Software Engineer, Product (Porto Alegre)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Remotive",
+      "sourceUrl": "https://remotive.com",
+      "postedDate": "2026-06-02T07:51:05.000Z",
+      "applyBy": null,
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-porto-alegre-2090909"
+    },
+    {
+      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvc29mdHdhcmUtZGV2ZWxvcG1lbnQvc3RhZmYtc29mdHdhcmUtZW5naW5lZXItcHJvZHVjdC1zYW8tcGF1bG8tMjA5MDkxMnxzdGFmZiBzb2Z0d2FyZSBlbmdpbmVlciwgcHJvZHVjdCAoc8OjbyBwYXVsbyl8bGF3bnN0YXJ0ZXI",
+      "title": "Staff Software Engineer, Product (São Paulo)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Remotive",
+      "sourceUrl": "https://remotive.com",
+      "postedDate": "2026-06-02T07:49:18.000Z",
+      "applyBy": null,
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-sao-paulo-2090912"
+    },
+    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvYW5kcm9pZC1lbmdpbmVlci1rbXAtYmVybGluLTQ2MTgxNnxhbmRyb2lkIGVuZ2luZWVyIC0ga21wfHN1bXVw",
       "title": "Android Engineer - KMP",
       "company": "SumUp",
@@ -71,6 +123,19 @@
       "postedDate": "2026-06-02T06:45:26.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/sumup/android-engineer-kmp-berlin-461816"
+    },
+    {
+      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvc29mdHdhcmUtZGV2ZWxvcG1lbnQvc3RhZmYtc29mdHdhcmUtZW5naW5lZXItcHJvZHVjdC1jYW1waW5hcy0yMDkwOTEzfHN0YWZmIHNvZnR3YXJlIGVuZ2luZWVyLCBwcm9kdWN0IChjYW1waW5hcyl8bGF3bnN0YXJ0ZXI",
+      "title": "Staff Software Engineer, Product (Campinas)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Remotive",
+      "sourceUrl": "https://remotive.com",
+      "postedDate": "2026-06-02T06:28:34.000Z",
+      "applyBy": null,
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-campinas-2090913"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcmVkLXBlcHBlci1nZXNlbGxzY2hhZnQtZnVyLWJyYW5kaW5nLXRyYW5zZm9ybWF0aW9uLW1iaC93ZXJrc3R1ZGVudC1haS1vcGVyYXRpb25zLXdvcmtmbG93LWF1dG9tYXRpb24tYnJlbWVuLTM2NTcwN3x3ZXJrc3R1ZGVudCBhaSBvcGVyYXRpb25zICYgd29ya2Zsb3cgYXV0b21hdGlvbiAobS93L2QpfHJlZCBwZXBwZXIgZ2VzZWxsc2NoYWZ0IGbDvHIgYnJhbmRpbmcgJiB0cmFuc2Zvcm1hdGlvbiBtYmg",
@@ -125,19 +190,6 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/7753999003?gh_jid=7753999003"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdmlzaW9uLW1hcmtldHMteW91ci1nbG9iYWwtZ3Jvd3RoLWluLW1hY2hpbmUtdmlzaW9uL2hlYWQtb2Yta2V5LWFjY291bnQtbWFuYWdlbWVudC12aXNpb24tc3lzdGVtcy1tdW5pY2gtMzAzNzQwfGhlYWQgb2Yga2V5IGFjY291bnQgbWFuYWdlbWVudCAobS9mL2QpIC0gdmlzaW9uIHN5c3RlbXN8dmlzaW9uIG1hcmtldHMgLSB5b3VyIGdsb2JhbCBncm93dGggaW4gbWFjaGluZSB2aXNpb24",
-      "title": "Head of Key Account Management (m/f/d) - Vision Systems",
-      "company": "Vision Markets - Your global growth in Machine Vision",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-29T14:00:42.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/vision-markets-your-global-growth-in-machine-vision/head-of-key-account-management-vision-systems-munich-303740"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzUxNjA1MDAzP2doX2ppZD03NzUxNjA1MDAzfG1lY2hhbmljYWwgZW5naW5lZXIsIHN1cmdlcnkgJiByb2JvdGljc3xuZXVyYWxpbms",
       "title": "Mechanical Engineer, Surgery & Robotics",
       "company": "Neuralink",
@@ -172,7 +224,7 @@
       "opportunityType": "Full-time",
       "source": "Remotive",
       "sourceUrl": "https://remotive.com",
-      "postedDate": "2026-05-27T07:02:53.000Z",
+      "postedDate": "2026-05-27T12:32:53.000Z",
       "applyBy": null,
       "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2090899"
     },
@@ -185,7 +237,7 @@
       "opportunityType": "Full-time",
       "source": "Remotive",
       "sourceUrl": "https://remotive.com",
-      "postedDate": "2026-05-27T06:57:46.000Z",
+      "postedDate": "2026-05-27T12:27:46.000Z",
       "applyBy": null,
       "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-belo-horizonte-2090900"
     },
@@ -198,7 +250,7 @@
       "opportunityType": "Full-time",
       "source": "Remotive",
       "sourceUrl": "https://remotive.com",
-      "postedDate": "2026-05-27T06:55:20.000Z",
+      "postedDate": "2026-05-27T12:25:20.000Z",
       "applyBy": null,
       "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-porto-alegre-2090901"
     },
@@ -211,7 +263,7 @@
       "opportunityType": "Full-time",
       "source": "Remotive",
       "sourceUrl": "https://remotive.com",
-      "postedDate": "2026-05-26T14:03:21.000Z",
+      "postedDate": "2026-05-26T19:33:21.000Z",
       "applyBy": null,
       "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-campinas-2090902"
     },
@@ -250,7 +302,7 @@
       "opportunityType": "Full-time",
       "source": "Remotive",
       "sourceUrl": "https://remotive.com",
-      "postedDate": "2026-05-21T11:12:09.000Z",
+      "postedDate": "2026-05-21T16:42:09.000Z",
       "applyBy": null,
       "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-sao-paulo-2090890"
     },
@@ -268,6 +320,19 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/7741688003?gh_jid=7741688003"
     },
     {
+      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvbWlkLXNlbmlvci1haS1jaW5lbWF0aWMtdmlkZW8tZWRpdG9yLTIwOTA4ODd8bWlkL3NlbmlvciBhaSBjaW5lbWF0aWMgdmlkZW8gZWRpdG9yfGV2ZXJhaQ",
+      "title": "Mid/Senior AI Cinematic Video Editor",
+      "company": "EverAI",
+      "location": "Worldwide",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Remotive",
+      "sourceUrl": "https://remotive.com",
+      "postedDate": "2026-05-19T20:34:33.000Z",
+      "applyBy": null,
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887"
+    },
+    {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD01OTk1OTY5MDA0fGV4ZWN1dGl2ZSBhc3Npc3RhbnQgdG8gY2VvLCBjZm8gJiBnZW5lcmFsIGNvdW5zZWx8bmV1cm9wYWNl",
       "title": "Executive Assistant to CEO, CFO & General Counsel",
       "company": "NeuroPace",
@@ -279,19 +344,6 @@
       "postedDate": "2026-05-19T18:46:35.000Z",
       "applyBy": null,
       "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=5995969004"
-    },
-    {
-      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvbWlkLXNlbmlvci1haS1jaW5lbWF0aWMtdmlkZW8tZWRpdG9yLTIwOTA4ODd8bWlkL3NlbmlvciBhaSBjaW5lbWF0aWMgdmlkZW8gZWRpdG9yfGV2ZXJhaQ",
-      "title": "Mid/Senior AI Cinematic Video Editor",
-      "company": "EverAI",
-      "location": "Worldwide",
-      "workModel": "Remote",
-      "opportunityType": "Full-time",
-      "source": "Remotive",
-      "sourceUrl": "https://remotive.com",
-      "postedDate": "2026-05-19T15:04:33.000Z",
-      "applyBy": null,
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzM4MjQwMDAzP2doX2ppZD03NzM4MjQwMDAzfHNvZnR3YXJlIGRlc2lnbiBjb250cm9sIGVuZ2luZWVyfG5ldXJhbGluaw",
