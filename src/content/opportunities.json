@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T16:47:13.488Z",
+  "generatedAt": "2026-06-03T20:54:31.241Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzYyNzEyMDAzP2doX2ppZD03NzYyNzEyMDAzfGxvZ2lzdGljcyBjb29yZGluYXRvcnxuZXVyYWxpbms",
+      "title": "Logistics Coordinator",
+      "company": "Neuralink",
+      "location": "South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-06-03T18:13:57.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7762712003?gh_jid=7762712003"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbXV4b24vbGVhZC1zdHJ1Y3R1cmFsLWFuYWx5c2lzLWVuZ2luZWVyLXNwYWNlLW11bmljaC00ODgyMzd8bGVhZCBzdHJ1Y3R1cmFsIGFuYWx5c2lzIGVuZ2luZWVyIC0gc3BhY2V8bXV4b24",
       "title": "Lead Structural Analysis Engineer - Space",
