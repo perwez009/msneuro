@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T04:00:06.509Z",
+  "generatedAt": "2026-06-03T07:17:25.463Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -172,7 +172,7 @@
       "opportunityType": "Full-time",
       "source": "Remotive",
       "sourceUrl": "https://remotive.com",
-      "postedDate": "2026-05-27T12:32:53.000Z",
+      "postedDate": "2026-05-27T07:02:53.000Z",
       "applyBy": null,
       "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2090899"
     },
@@ -185,7 +185,7 @@
       "opportunityType": "Full-time",
       "source": "Remotive",
       "sourceUrl": "https://remotive.com",
-      "postedDate": "2026-05-27T12:27:46.000Z",
+      "postedDate": "2026-05-27T06:57:46.000Z",
       "applyBy": null,
       "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-belo-horizonte-2090900"
     },
@@ -198,7 +198,7 @@
       "opportunityType": "Full-time",
       "source": "Remotive",
       "sourceUrl": "https://remotive.com",
-      "postedDate": "2026-05-27T12:25:20.000Z",
+      "postedDate": "2026-05-27T06:55:20.000Z",
       "applyBy": null,
       "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-porto-alegre-2090901"
     },
@@ -211,7 +211,7 @@
       "opportunityType": "Full-time",
       "source": "Remotive",
       "sourceUrl": "https://remotive.com",
-      "postedDate": "2026-05-26T19:33:21.000Z",
+      "postedDate": "2026-05-26T14:03:21.000Z",
       "applyBy": null,
       "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-campinas-2090902"
     },
@@ -250,7 +250,7 @@
       "opportunityType": "Full-time",
       "source": "Remotive",
       "sourceUrl": "https://remotive.com",
-      "postedDate": "2026-05-21T16:42:09.000Z",
+      "postedDate": "2026-05-21T11:12:09.000Z",
       "applyBy": null,
       "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-sao-paulo-2090890"
     },
@@ -268,19 +268,6 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/7741688003?gh_jid=7741688003"
     },
     {
-      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvbWlkLXNlbmlvci1haS1jaW5lbWF0aWMtdmlkZW8tZWRpdG9yLTIwOTA4ODd8bWlkL3NlbmlvciBhaSBjaW5lbWF0aWMgdmlkZW8gZWRpdG9yfGV2ZXJhaQ",
-      "title": "Mid/Senior AI Cinematic Video Editor",
-      "company": "EverAI",
-      "location": "Worldwide",
-      "workModel": "Remote",
-      "opportunityType": "Full-time",
-      "source": "Remotive",
-      "sourceUrl": "https://remotive.com",
-      "postedDate": "2026-05-19T20:34:33.000Z",
-      "applyBy": null,
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887"
-    },
-    {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD01OTk1OTY5MDA0fGV4ZWN1dGl2ZSBhc3Npc3RhbnQgdG8gY2VvLCBjZm8gJiBnZW5lcmFsIGNvdW5zZWx8bmV1cm9wYWNl",
       "title": "Executive Assistant to CEO, CFO & General Counsel",
       "company": "NeuroPace",
@@ -292,6 +279,19 @@
       "postedDate": "2026-05-19T18:46:35.000Z",
       "applyBy": null,
       "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=5995969004"
+    },
+    {
+      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvbWlkLXNlbmlvci1haS1jaW5lbWF0aWMtdmlkZW8tZWRpdG9yLTIwOTA4ODd8bWlkL3NlbmlvciBhaSBjaW5lbWF0aWMgdmlkZW8gZWRpdG9yfGV2ZXJhaQ",
+      "title": "Mid/Senior AI Cinematic Video Editor",
+      "company": "EverAI",
+      "location": "Worldwide",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Remotive",
+      "sourceUrl": "https://remotive.com",
+      "postedDate": "2026-05-19T15:04:33.000Z",
+      "applyBy": null,
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzM4MjQwMDAzP2doX2ppZD03NzM4MjQwMDAzfHNvZnR3YXJlIGRlc2lnbiBjb250cm9sIGVuZ2luZWVyfG5ldXJhbGluaw",

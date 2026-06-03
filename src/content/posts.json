@@ -1,42 +1,44 @@
 {
   "posts": [
     {
-      "slug": "getting-started-with-eeg-preprocessing",
-      "title": "Getting Started with EEG Preprocessing",
-      "excerpt": "A practical checklist for cleaning EEG signals before machine learning and analysis.",
-      "date": "2026-04-22",
-      "readTime": "6 min read",
+      "slug": "eeg-preprocessing-simple-step-by-step-guide",
+      "title": "EEG Preprocessing: A Simple Step-by-Step Guide",
+      "excerpt": "By Md Shaheen Perwez.",
+      "date": "2026-06-03",
+      "readTime": "12 min read",
       "category": "EEG",
       "content": [
-        "Preprocessing is where neuroscience projects become reliable. Clean signals are the difference between trustworthy conclusions and noisy guesses.",
-        "Start with a clear pipeline: re-reference, filter, remove artifacts, epoch the signal, and normalize when needed. Keep each stage documented and reproducible.",
-        "The most common mistake is applying aggressive filtering too early. Keep transformations minimal until you inspect your data quality visually and statistically."
-      ]
-    },
-    {
-      "slug": "designing-a-bci-project-roadmap",
-      "title": "Designing a BCI Project Roadmap",
-      "excerpt": "How to structure a BCI project from data collection to model evaluation.",
-      "date": "2026-04-15",
-      "readTime": "8 min read",
-      "category": "BCI",
-      "content": [
-        "A strong BCI roadmap starts with one measurable goal: classification accuracy, latency, or user comfort. Pick one primary metric first.",
-        "Map your phases: task design, signal acquisition, preprocessing, feature engineering, modeling, and closed-loop testing. Each phase should have a clear exit criterion.",
-        "Publish your assumptions and failures. In neurotech, transparent iteration is often more valuable than a perfect first result."
-      ]
-    },
-    {
-      "slug": "open-datasets-for-neuro-ml",
-      "title": "Open Datasets for Neuro-ML Projects",
-      "excerpt": "A shortlist of public datasets to build and benchmark neuroscience ML ideas.",
-      "date": "2026-04-09",
-      "readTime": "5 min read",
-      "category": "Datasets",
-      "content": [
-        "Public datasets help you prototype faster and benchmark fairly. They are ideal for validating ideas before investing in custom data collection.",
-        "Choose datasets based on signal modality, subject count, and recording conditions. A small but clean dataset can outperform a larger, inconsistent one.",
-        "Document all preprocessing assumptions when comparing models across datasets to avoid hidden leakage and inflated scores."
+        "By Md Shaheen Perwez.",
+        "Electroencephalography (EEG) is a powerful and safe way to record the brain's electrical activity, but it can easily pick up unwanted noise (Delorme, 2023). Because the recording sensors are placed on the scalp's surface, the weak brain signals must travel through the brain's protective layers and the skull, making the data highly vulnerable to interference from the room's environment and the person's own body movements (Liu et al., 2005). To get clear, useful information from raw EEG recordings - whether you are building a Brain-Computer Interface (BCI) or studying how people imagine movements - researchers use a strict cleaning process called \"preprocessing\" (Bigdely-Shamlo et al., 2015). Here is a simple breakdown of the standard EEG cleaning pipeline.",
+        "Frequency Filtering: Removing Drifts and Interference",
+        "The very first step to clean the data is to apply frequency filters, which block out signal changes that have absolutely nothing to do with brain activity (Delorme, 2023).",
+        "High-Pass Filtering",
+        "This removes slow, rolling noises, such as those caused by sweating or changes in the way the sensors contact the skin. Applying a 0.5 Hz high-pass filter is generally considered the best way to remove these slow drifts without warping the important brain event data you want to study (Tanner et al., 2016).",
+        "Notch Filtering and Spatial-Spectral Algorithms",
+        "Normal electrical devices in the room produce a specific hum at 50 Hz or 60 Hz. In the past, researchers removed this by using a \"notch filter,\" which simply cuts a hole in the data at that exact frequency. Today, modern cleaning pipelines use smarter algorithms like ZapLine, which carefully estimate and remove only the electrical hum without losing real brain data or smearing the signal (de Cheveigne, 2020; Klug & Kloosterman, 2022).",
+        "Re-Referencing",
+        "EEG sensors measure the electrical difference between two points, meaning the reference point you choose completely changes how the brain signals look across the head (Lei & Liao, 2017). A widely accepted method is the Common Average Reference (CAR). This method calculates the average signal across all sensors and subtracts it from each individual sensor, which effectively suppresses noise shared across the scalp (Zheng et al., 2018). Alternatively, a surface Laplacian spatial filter can be used. This filter zooms in on very specific, local brain activity by calculating the difference between one specific channel and its closest physical neighbours (Kayser & Tenke, 2015).",
+        "Rejecting Biological Artefacts",
+        "Things the body does naturally, like blinking, heartbeats, and clenching the jaw or neck muscles, create massive electrical spikes that are up to ten times larger than true brain signals (Delorme, 2023).",
+        "Independent Component Analysis (ICA)",
+        "ICA is the gold standard for removing these body noises. It uses advanced math to untangle the jumbled, multichannel EEG data into separate, independent signal components (Delorme & Makeig, 2004). Once the data is untangled, the specific components that look and act like blinks or heartbeats can be deleted, and the remaining clean brain components are put back together.",
+        "Automated Classification",
+        "To avoid human error and bias when manually guessing which components are noise, modern pipelines use machine-learning plugins such as ADJUST and ICLabel. These computer programs automatically identify and discard noisy components based on their appearance and timing (Mognon et al., 2011; Pion-Tonachini et al., 2019).",
+        "Epoching and Baseline Correction",
+        "Once the long, continuous EEG stream is cleaned, it is chopped up into smaller, bite-sized time windows known as \"epochs\" or \"trials.\" These small windows are time-locked to a specific event, like when a picture flashes on a screen or a person begins to move (Delorme, 2023). Historically, the final step of this process was \"baseline correction,\" which meant finding a quiet resting period right before the event, calculating its average voltage, and subtracting that average from the entire trial to level it out (Delorme, 2023). However, recent studies have discovered a major catch: if the raw data has already been high-pass filtered at 0.5 Hz to correct for slow drifts, applying a traditional baseline correction on top can actually warp the data and significantly reduce the accuracy of your results (Tanner et al., 2016). Because of this, many modern pipelines now skip baseline removal entirely to preserve the brain's true electrical dynamics (Delorme, 2023).",
+        "References",
+        "Bigdely-Shamlo, N., Mullen, T., Kothe, C., Su, K.-M., & Robbins, K. A. (2015). The PREP pipeline: Standardized preprocessing for large-scale EEG analysis. Frontiers in Neuroinformatics, 9. https://doi.org/10.3389/fninf.2015.00016",
+        "de Cheveigne, A. (2020). ZapLine: A simple and effective method to remove power line artifacts. NeuroImage, 207, 116356. https://doi.org/10.1016/j.neuroimage.2019.116356",
+        "Delorme, A. (2023). EEG is better left alone. Scientific Reports, 13(1), 2372. https://doi.org/10.1038/s41598-023-27528-0",
+        "Delorme, A., & Makeig, S. (2004). EEGLAB: An open source toolbox for analysis of single-trial EEG dynamics including independent component analysis. Journal of Neuroscience Methods, 134(1), 9-21. https://doi.org/10.1016/j.jneumeth.2003.10.009",
+        "Kayser, J., & Tenke, C. E. (2015). On the benefits of using surface Laplacian (current source density) methodology in electrophysiology. International Journal of Psychophysiology, On the Benefits of Using Surface Laplacian (Current Source Density) Methodology in Electrophysiology, 97(3), 171-173. https://doi.org/10.1016/j.ijpsycho.2015.06.001",
+        "Klug, M., & Kloosterman, N. A. (2022). Zapline-plus: A Zapline extension for automatic and adaptive removal of frequency-specific noise artifacts in M/EEG. Human Brain Mapping, 43(9), 2743-2758. https://doi.org/10.1002/hbm.25832",
+        "Lei, X., & Liao, K. (2017). Understanding the Influences of EEG Reference: A Large-Scale Brain Network Perspective. Frontiers in Neuroscience, 11. https://doi.org/10.3389/fnins.2017.00205",
+        "Liu, J. Z., Yang, Q., Yao, B., Brown, R. W., & Yue, G. H. (2005). Linear correlation between fractal dimension of EEG signal and handgrip force. Biological Cybernetics, 93(2), 131-140. https://doi.org/10.1007/s00422-005-0561-3",
+        "Mognon, A., Jovicich, J., Bruzzone, L., & Buiatti, M. (2011). ADJUST: An automatic EEG artifact detector based on the joint use of spatial and temporal features. Psychophysiology, 48(2), 229-240. https://doi.org/10.1111/j.1469-8986.2010.01061.x",
+        "Pion-Tonachini, L., Kreutz-Delgado, K., & Makeig, S. (2019). ICLabel: An automated electroencephalographic independent component classifier, dataset, and website. NeuroImage, 198, 181-197. https://doi.org/10.1016/j.neuroimage.2019.05.026",
+        "Tanner, D., Norton, J. J. S., Morgan-Short, K., & Luck, S. J. (2016). On high-pass filter artifacts (they're real) and baseline correction (it's a good idea) in ERP/ERMF analysis. Journal of Neuroscience Methods, 266, 166-170. https://doi.org/10.1016/j.jneumeth.2016.01.002",
+        "Zheng, G., Qi, X., Li, Y., Zhang, W., & Yu, Y. (2018). A Comparative Study of Standardized Infinity Reference and Average Reference for EEG of Three Typical Brain States. Frontiers in Neuroscience, 12. https://doi.org/10.3389/fnins.2018.00158"
       ]
     }
   ]
