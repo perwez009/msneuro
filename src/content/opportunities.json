@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T10:57:18.891Z",
+  "generatedAt": "2026-06-03T16:47:13.488Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbXV4b24vbGVhZC1zdHJ1Y3R1cmFsLWFuYWx5c2lzLWVuZ2luZWVyLXNwYWNlLW11bmljaC00ODgyMzd8bGVhZCBzdHJ1Y3R1cmFsIGFuYWx5c2lzIGVuZ2luZWVyIC0gc3BhY2V8bXV4b24",
+      "title": "Lead Structural Analysis Engineer - Space",
+      "company": "Muxon",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-03T15:00:26.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/muxon/lead-structural-analysis-engineer-space-munich-488237"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1yZWNydWl0aW5nLXRhbGVudC1tYW5hZ2VtZW50LWhhbWJ1cmctODg3MzV8d2Vya3N0dWRlbnQ6aW4gcmVjcnVpdGluZy90YWxlbnQgbWFuYWdlbWVudCAobS93L2QpfDFrb21tYTXLmg",
+      "title": "Werkstudent:in Recruiting/Talent Management (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Hamburg",
+      "workModel": "Remote",
+      "opportunityType": "Working student, berufseinstieg",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-03T10:00:32.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-recruiting-talent-management-hamburg-88735"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvemVwLWdtYmgvc2VuaW9yLXRlc3QtYXV0b21hdGlvbi1lbmdpbmVlci1haS1uYXRpdmUtcmVtb3RlLWRpdHppbmdlbi0yMTkxNTZ8KHNlbmlvcikgdGVzdCBhdXRvbWF0aW9uIGVuZ2luZWVyLCBhaS1uYXRpdmUgKGQvbS93KSAtIHJlbW90ZXx6ZXAgZ21iaA",
       "title": "(Senior) Test Automation Engineer, AI-Native (d/m/w) - Remote",
@@ -162,19 +188,6 @@
       "postedDate": "2026-05-31T06:45:21.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-software-engineer-android-kmp-berlin-67544"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLWJhY2tlbmQtZW5naW5lZXItZ29sYW5nLWJhbmstYmVybGluLTI3MzAwNHxzZW5pb3IgYmFja2VuZCBlbmdpbmVlciAoZ29sYW5nKSAtIGJhbmt8c3VtdXA",
-      "title": "Senior Backend Engineer (Golang) - Bank",
-      "company": "SumUp",
-      "location": "Berlin, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-29T23:45:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-golang-bank-berlin-273004"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzUzOTk5MDAzP2doX2ppZD03NzUzOTk5MDAzfGZpbmFuY2lhbCBhbmFseXN0fG5ldXJhbGluaw",
