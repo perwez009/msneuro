@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T03:55:14.850Z",
+  "generatedAt": "2026-06-04T09:55:00.567Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZpaXQtZ21iaC9taW5pam9iLWNyZWF0aXZlLWNvbnRlbnQtY3JlYXRvci1zb2NpYWwtbWVkaWEtYWxscm91bmRlci1rYXlodWRlLTI1MDA0N3xtaW5pam9iOiBjcmVhdGl2ZSBjb250ZW50IGNyZWF0b3IgLyBzb2NpYWwgbWVkaWEgYWxscm91bmRlciAobS93L2QpfGV2aWl0IGdtYmg",
+      "title": "Minijob: Creative Content Creator / Social Media Allrounder (m/w/d)",
+      "company": "eviit GmbH",
+      "location": "Kayhude",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-04T06:30:40.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/eviit-gmbh/minijob-creative-content-creator-social-media-allrounder-kayhude-250047"
+    },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzYzMDg5MDAzP2doX2ppZD03NzYzMDg5MDAzfHN1cHBsaWVyIGluZHVzdHJpYWxpemF0aW9uIGVuZ2luZWVyfG5ldXJhbGluaw",
       "title": "Supplier Industrialization Engineer",
@@ -214,19 +227,6 @@
       "postedDate": "2026-06-01T15:29:03.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/red-pepper-gesellschaft-fur-branding-transformation-mbh/werkstudent-ai-operations-workflow-automation-bremen-365707"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWFuZHJvaWQta21wLWJlcmxpbi02NzU0NHxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIGFuZHJvaWQgLSBrbXB8c3VtdXA",
-      "title": "Senior Software Engineer, Android - KMP",
-      "company": "SumUp",
-      "location": "Berlin, Berlin, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-05-31T06:45:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-software-engineer-android-kmp-berlin-67544"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzUzOTk5MDAzP2doX2ppZD03NzUzOTk5MDAzfGZpbmFuY2lhbCBhbmFseXN0fG5ldXJhbGluaw",
