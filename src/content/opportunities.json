@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T14:58:43.620Z",
+  "generatedAt": "2026-06-04T20:05:14.608Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvcHJvZHVjdC1tYW5hZ2VyLWJ1c2luZXNzLWRldmVsb3BtZW50LWNlby1vZmZpY2UtYmVybGluLTI1MjcxNnxwcm9kdWN0IG1hbmFnZXIgYnVzaW5lc3MgZGV2ZWxvcG1lbnQgLSBjZW8gb2ZmaWNlIChtL3cvZCl8MWtvbW1hNcua",
+      "title": "Product Manager Business Development - CEO Office (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-04T16:31:55.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/product-manager-business-development-ceo-office-berlin-252716"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvc2VuaW9yLWRhdGEtYmktYW5hbHlzdC1vcGVyYXRpb25zLWhhbWJ1cmctNDQyMzAwfChzZW5pb3IpIGRhdGEgLyBiaSBhbmFseXN0IC0gb3BlcmF0aW9ucyAobS93L2QpfDFrb21tYTXLmg",
+      "title": "(Senior) Data / BI Analyst - Operations (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-04T15:00:30.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-data-bi-analyst-operations-hamburg-442300"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1wci1jb21tdW5pY2F0aW9ucy1jZW8tb2ZmaWNlLWhhbWJ1cmctMTc5NTU3fHdlcmtzdHVkZW50OmluIChtL3cvZCkgcHIgJiBjb21tdW5pY2F0aW9ucyAtIGNlbyBvZmZpY2V8MWtvbW1hNcua",
       "title": "Werkstudent:in (m/w/d) PR & Communications - CEO Office",
@@ -242,8 +268,8 @@
       "url": "https://www.arbeitnow.com/jobs/companies/red-pepper-gesellschaft-fur-branding-transformation-mbh/werkstudent-ai-operations-workflow-automation-bremen-365707"
     },
     {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzUzOTk5MDAzP2doX2ppZD03NzUzOTk5MDAzfGZpbmFuY2lhbCBhbmFseXN0fG5ldXJhbGluaw",
-      "title": "Financial Analyst",
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzUzOTk5MDAzP2doX2ppZD03NzUzOTk5MDAzfHN0cmF0ZWdpYyBmaW5hbmNlIGFuYWx5c3R8bmV1cmFsaW5r",
+      "title": "Strategic Finance Analyst",
       "company": "Neuralink",
       "location": "South San Francisco, California, United States",
       "workModel": "On-site",
