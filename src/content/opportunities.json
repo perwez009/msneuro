@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T20:54:31.241Z",
+  "generatedAt": "2026-06-04T03:55:14.850Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzYzMDg5MDAzP2doX2ppZD03NzYzMDg5MDAzfHN1cHBsaWVyIGluZHVzdHJpYWxpemF0aW9uIGVuZ2luZWVyfG5ldXJhbGluaw",
+      "title": "Supplier Industrialization Engineer",
+      "company": "Neuralink",
+      "location": "South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-06-03T21:27:54.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7763089003?gh_jid=7763089003"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzYzMDIxMDAzP2doX2ppZD03NzYzMDIxMDAzfGdsb2JhbCBzdXBwbHkgbWFuYWdlcnxuZXVyYWxpbms",
+      "title": "Global Supply Manager",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-06-03T20:58:46.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7763021003?gh_jid=7763021003"
+    },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzYyNzEyMDAzP2doX2ppZD03NzYyNzEyMDAzfGxvZ2lzdGljcyBjb29yZGluYXRvcnxuZXVyYWxpbms",
       "title": "Logistics Coordinator",
@@ -682,19 +708,6 @@
       "postedDate": "2026-03-07T00:40:21.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7656401003?gh_jid=7656401003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NjU1MjIxMDAzP2doX2ppZD03NjU1MjIxMDAzfHNvZnR3YXJlIGVuZ2luZWVyLCByb2JvdCBtYW51ZmFjdHVyaW5nfG5ldXJhbGluaw",
-      "title": "Software Engineer, Robot Manufacturing",
-      "company": "Neuralink",
-      "location": "South San Francisco, California, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-03-06T03:28:52.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7655221003?gh_jid=7655221003"
     }
   ]
 }
