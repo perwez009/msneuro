@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T20:05:14.608Z",
+  "generatedAt": "2026-06-05T03:39:50.252Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzY0MDg2MDAzP2doX2ppZD03NzY0MDg2MDAzfG1yaSAmIGN0IHRlY2hub2xvZ2lzdCAocGFydC10aW1lKXxuZXVyYWxpbms",
+      "title": "MRI & CT Technologist (Part-Time)",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-06-04T21:38:40.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7764086003?gh_jid=7764086003"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvcHJvZHVjdC1tYW5hZ2VyLWJ1c2luZXNzLWRldmVsb3BtZW50LWNlby1vZmZpY2UtYmVybGluLTI1MjcxNnxwcm9kdWN0IG1hbmFnZXIgYnVzaW5lc3MgZGV2ZWxvcG1lbnQgLSBjZW8gb2ZmaWNlIChtL3cvZCl8MWtvbW1hNcua",
       "title": "Product Manager Business Development - CEO Office (m/w/d)",
@@ -253,19 +266,6 @@
       "postedDate": "2026-06-02T06:28:34.000Z",
       "applyBy": null,
       "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-campinas-2090913"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcmVkLXBlcHBlci1nZXNlbGxzY2hhZnQtZnVyLWJyYW5kaW5nLXRyYW5zZm9ybWF0aW9uLW1iaC93ZXJrc3R1ZGVudC1haS1vcGVyYXRpb25zLXdvcmtmbG93LWF1dG9tYXRpb24tYnJlbWVuLTM2NTcwN3x3ZXJrc3R1ZGVudCBhaSBvcGVyYXRpb25zICYgd29ya2Zsb3cgYXV0b21hdGlvbiAobS93L2QpfHJlZCBwZXBwZXIgZ2VzZWxsc2NoYWZ0IGbDvHIgYnJhbmRpbmcgJiB0cmFuc2Zvcm1hdGlvbiBtYmg",
-      "title": "Werkstudent AI Operations & Workflow Automation (m/w/d)",
-      "company": "red pepper Gesellschaft für Branding & Transformation mbH",
-      "location": "Bremen",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-01T15:29:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/red-pepper-gesellschaft-fur-branding-transformation-mbh/werkstudent-ai-operations-workflow-automation-bremen-365707"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzUzOTk5MDAzP2doX2ppZD03NzUzOTk5MDAzfHN0cmF0ZWdpYyBmaW5hbmNlIGFuYWx5c3R8bmV1cmFsaW5r",
@@ -734,19 +734,6 @@
       "postedDate": "2026-03-10T20:44:31.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7660771003?gh_jid=7660771003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NjU2NDAxMDAzP2doX2ppZD03NjU2NDAxMDAzfHNvZnR3YXJlIGVuZ2luZWVyLCBwYXRob2xvZ3kgYW5kIGRpZ2l0YWwgaW1hZ2luZyB8bmV1cmFsaW5r",
-      "title": "Software Engineer, Pathology and Digital Imaging ",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-03-07T00:40:21.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7656401003?gh_jid=7656401003"
     }
   ]
 }
