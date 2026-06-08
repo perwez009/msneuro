@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T10:51:52.077Z",
+  "generatedAt": "2026-06-08T15:50:11.080Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdG9tb3Jyb3ctZWR1Y2F0aW9uLWdyb3VwLWdtYmgvc2VuaW9yLXNlYS10cmFja2luZy1tYW5hZ2VyLWFuZGVjaHMtMzg2NDYwfHNlbmlvciBzZWEgJiB0cmFja2luZyBtYW5hZ2VyIChtL3cvZCl8dG9tb3Jyb3cgZWR1Y2F0aW9uIGdyb3VwIGdtYmg",
+      "title": "Senior SEA & Tracking Manager (m/w/d)",
+      "company": "Tomorrow Education Group GmbH",
+      "location": "Andechs",
+      "workModel": "Remote",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-08T10:00:34.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/tomorrow-education-group-gmbh/senior-sea-tracking-manager-andechs-386460"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC13ZWItY29yZS1wcm9kdWN0LWNocm9tZS1leHRlbnNpb24tZ2VybWFueS01NzY3MXx0ZWNoIGxlYWQsIHdlYiBjb3JlIHByb2R1Y3QgJiBjaHJvbWUgZXh0ZW5zaW9ufHNwZWVjaGlmeQ",
       "title": "Tech Lead, Web Core Product & Chrome Extension",
