@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T15:50:11.080Z",
+  "generatedAt": "2026-06-08T20:13:22.801Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzY2MTI4MDAzP2doX2ppZD03NzY2MTI4MDAzfHN5c3RlbXMgJiBwcm9jZXNzIGVuZ2luZWVyIHxuZXVyYWxpbms",
+      "title": "Systems & Process Engineer ",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-06-08T16:04:38.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7766128003?gh_jid=7766128003"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdG9tb3Jyb3ctZWR1Y2F0aW9uLWdyb3VwLWdtYmgvc2VuaW9yLXNlYS10cmFja2luZy1tYW5hZ2VyLWFuZGVjaHMtMzg2NDYwfHNlbmlvciBzZWEgJiB0cmFja2luZyBtYW5hZ2VyIChtL3cvZCl8dG9tb3Jyb3cgZWR1Y2F0aW9uIGdyb3VwIGdtYmg",
       "title": "Senior SEA & Tracking Manager (m/w/d)",
@@ -201,19 +214,6 @@
       "postedDate": "2026-06-03T18:13:57.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7762712003?gh_jid=7762712003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbXV4b24vbGVhZC1zdHJ1Y3R1cmFsLWFuYWx5c2lzLWVuZ2luZWVyLXNwYWNlLW11bmljaC00ODgyMzd8bGVhZCBzdHJ1Y3R1cmFsIGFuYWx5c2lzIGVuZ2luZWVyIC0gc3BhY2V8bXV4b24",
-      "title": "Lead Structural Analysis Engineer - Space",
-      "company": "Muxon",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-03T15:00:26.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/muxon/lead-structural-analysis-engineer-space-munich-488237"
     },
     {
       "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvc29mdHdhcmUtZGV2ZWxvcG1lbnQvc3RhZmYtc29mdHdhcmUtZW5naW5lZXItcHJvZHVjdC1iZWxvLWhvcml6b250ZS0yMDkwOTEwfHN0YWZmIHNvZnR3YXJlIGVuZ2luZWVyLCBwcm9kdWN0IChiZWxvIGhvcml6b250ZSl8bGF3bnN0YXJ0ZXI",
