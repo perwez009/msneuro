@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T09:41:28.292Z",
+  "generatedAt": "2026-06-09T14:48:54.677Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,45 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLWJhY2tlbmQtZW5naW5lZXItYWN0aXZhdGlvbi1hbmQtcmV2ZW51ZS1iZXJsaW4tNzgzNzZ8c2VuaW9yIGJhY2tlbmQgZW5naW5lZXIgLSBhY3RpdmF0aW9uIGFuZCByZXZlbnVlfHN1bXVw",
+      "title": "Senior Backend Engineer - Activation and Revenue",
+      "company": "SumUp",
+      "location": "Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-09T13:45:26.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-activation-and-revenue-berlin-78376"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLWJhY2tlbmQtZW5naW5lZXItYWNjb3VudHMtYmVybGluLTE2Nzc2MHxzZW5pb3IgYmFja2VuZCBlbmdpbmVlciAtIGFjY291bnRzfHN1bXVw",
+      "title": "Senior Backend Engineer - Accounts",
+      "company": "SumUp",
+      "location": "Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-09T13:45:26.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-accounts-berlin-167760"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvbWVkaWVuZ2VzdGFsdGVyaW4taGFtYnVyZy0xODc3MDZ8bWVkaWVuZ2VzdGFsdGVyOmluIChtL3cvZCl8MWtvbW1hNcua",
+      "title": "Mediengestalter:in (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-09T11:00:34.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/mediengestalterin-hamburg-187706"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYnJhaW5lcnNodWItZ21iaC93ZXJrc3R1ZGVudC1wZXJmb3JtYW5jZS1tYXJrZXRlci1oYW1idXJnLTQxMDE4MHx3ZXJrc3R1ZGVudCBwZXJmb3JtYW5jZSBtYXJrZXRlciAobS93L2QpfGJyYWluZXJzaHViIGdtYmg",
       "title": "Werkstudent Performance Marketer (m/w/d)",
@@ -188,32 +227,6 @@
       "postedDate": "2026-06-04T15:00:30.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-data-bi-analyst-operations-hamburg-442300"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1wci1jb21tdW5pY2F0aW9ucy1jZW8tb2ZmaWNlLWhhbWJ1cmctMTc5NTU3fHdlcmtzdHVkZW50OmluIChtL3cvZCkgcHIgJiBjb21tdW5pY2F0aW9ucyAtIGNlbyBvZmZpY2V8MWtvbW1hNcua",
-      "title": "Werkstudent:in (m/w/d) PR & Communications - CEO Office",
-      "company": "1KOMMA5˚",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-04T11:00:33.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-pr-communications-ceo-office-hamburg-179557"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZpaXQtZ21iaC9taW5pam9iLWNyZWF0aXZlLWNvbnRlbnQtY3JlYXRvci1zb2NpYWwtbWVkaWEtYWxscm91bmRlci1rYXlodWRlLTI1MDA0N3xtaW5pam9iOiBjcmVhdGl2ZSBjb250ZW50IGNyZWF0b3IgLyBzb2NpYWwgbWVkaWEgYWxscm91bmRlciAobS93L2QpfGV2aWl0IGdtYmg",
-      "title": "Minijob: Creative Content Creator / Social Media Allrounder (m/w/d)",
-      "company": "eviit GmbH",
-      "location": "Kayhude",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-04T10:59:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/eviit-gmbh/minijob-creative-content-creator-social-media-allrounder-kayhude-250047"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzYzMDg5MDAzP2doX2ppZD03NzYzMDg5MDAzfHN1cHBsaWVyIGluZHVzdHJpYWxpemF0aW9uIGVuZ2luZWVyfG5ldXJhbGluaw",
