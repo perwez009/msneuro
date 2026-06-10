@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T09:58:06.670Z",
+  "generatedAt": "2026-06-10T15:32:48.672Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd29sdC1lbmdsaXNoL2FuYWx5dGljcy1tYW5hZ2VyLW1hcmtldGluZy1hbmFseXRpY3MtYmVybGluLTI3NTMwMXxhbmFseXRpY3MgbWFuYWdlciwgbWFya2V0aW5nIGFuYWx5dGljc3x3b2x0IC0gZW5nbGlzaA",
+      "title": "Analytics Manager, Marketing Analytics",
+      "company": "Wolt - English",
+      "location": "Berlin, Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-10T13:45:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/analytics-manager-marketing-analytics-berlin-275301"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdG9tb3Jyb3ctZWR1Y2F0aW9uLWdyb3VwLWdtYmgvc2VuaW9yLXNlYS10cmFja2luZy1tYW5hZ2VyLWFuZGVjaHMtMzg2NDYwfHNlbmlvciBzZWEgJiB0cmFja2luZyBtYW5hZ2VyIChtL3cvZCl8dG9tb3Jyb3cgZWR1Y2F0aW9uIGdyb3VwIGdtYmg",
+      "title": "Senior SEA & Tracking Manager (m/w/d)",
+      "company": "Tomorrow Education Group GmbH",
+      "location": "Andechs",
+      "workModel": "Remote",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-10T12:29:03.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/tomorrow-education-group-gmbh/senior-sea-tracking-manager-andechs-386460"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLWJhY2tlbmQtZW5naW5lZXItYWN0aXZhdGlvbi1hbmQtcmV2ZW51ZS1iZXJsaW4tNzgzNzZ8c2VuaW9yIGJhY2tlbmQgZW5naW5lZXIgLSBhY3RpdmF0aW9uIGFuZCByZXZlbnVlfHN1bXVw",
       "title": "Senior Backend Engineer - Activation and Revenue",
@@ -99,19 +125,6 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/7766128003?gh_jid=7766128003"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdG9tb3Jyb3ctZWR1Y2F0aW9uLWdyb3VwLWdtYmgvc2VuaW9yLXNlYS10cmFja2luZy1tYW5hZ2VyLWFuZGVjaHMtMzg2NDYwfHNlbmlvciBzZWEgJiB0cmFja2luZyBtYW5hZ2VyIChtL3cvZCl8dG9tb3Jyb3cgZWR1Y2F0aW9uIGdyb3VwIGdtYmg",
-      "title": "Senior SEA & Tracking Manager (m/w/d)",
-      "company": "Tomorrow Education Group GmbH",
-      "location": "Andechs",
-      "workModel": "Remote",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-08T10:00:34.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/tomorrow-education-group-gmbh/senior-sea-tracking-manager-andechs-386460"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC13ZWItY29yZS1wcm9kdWN0LWNocm9tZS1leHRlbnNpb24tZ2VybWFueS01NzY3MXx0ZWNoIGxlYWQsIHdlYiBjb3JlIHByb2R1Y3QgJiBjaHJvbWUgZXh0ZW5zaW9ufHNwZWVjaGlmeQ",
       "title": "Tech Lead, Web Core Product & Chrome Extension",
       "company": "Speechify",
@@ -162,19 +175,6 @@
       "postedDate": "2026-06-08T00:30:32.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/brainershub-gmbh/junior-performance-marketer-hamburg-293719"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva29vcGVyYXRpdmUtdGF0ZWluaGVpdC1nbWJoLW1hZ2RlYnVyZy9wZXJzb25hbGRpc3BvbmVudC1mdXItZXZlbnRwZXJzb25hbC1pbi1tYWdkZWJ1cmctdm9sbHplaXQtNDI1OTQ2fHBlcnNvbmFsZGlzcG9uZW50IGbDvHIgZXZlbnRwZXJzb25hbCAobS93L2QpIGluIG1hZ2RlYnVyZyB2b2xsemVpdHxrb29wZXJhdGl2ZSB0YXRlaW5oZWl0IGdtYmggbWFnZGVidXJn",
-      "title": "Personaldisponent für Eventpersonal (m/w/d) in Magdeburg vollzeit",
-      "company": "Kooperative Tateinheit GmbH Magdeburg",
-      "location": "Magdeburg",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-05T12:00:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/kooperative-tateinheit-gmbh-magdeburg/personaldisponent-fur-eventpersonal-in-magdeburg-vollzeit-425946"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzY0MDg2MDAzP2doX2ppZD03NzY0MDg2MDAzfG1yaSAmIGN0IHRlY2hub2xvZ2lzdCAocGFydC10aW1lKXxuZXVyYWxpbms",
@@ -695,19 +695,6 @@
       "postedDate": "2026-03-31T19:58:36.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7676313003?gh_jid=7676313003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Njg1NTE0MDAzP2doX2ppZD03Njg1NTE0MDAzfGNsaW5pY2FsIHByb2dyYW0gbWFuYWdlcnxuZXVyYWxpbms",
-      "title": "Clinical Program Manager",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-03-31T19:08:12.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7685514003?gh_jid=7685514003"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Njg0MzQ3MDAzP2doX2ppZD03Njg0MzQ3MDAzfGZpZWxkIGNsaW5pY2FsIGVuZ2luZWVyfG5ldXJhbGluaw",
