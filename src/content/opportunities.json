@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T03:53:47.475Z",
+  "generatedAt": "2026-06-11T10:21:59.014Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcm1kLXJoZWluLW1haW4tZGVwb25pZS1nbWJoL3Byb2pla3RzYWNoYmVhcmJlaXRlci1nYXN2ZXJzb3JndW5nLWZsb3JzaGVpbS1hbS1tYWluLTYyODAyfHByb2pla3RzYWNoYmVhcmJlaXRlciBnYXN2ZXJzb3JndW5nfHJtZCByaGVpbi1tYWluLWRlcG9uaWUgZ21iaA",
+      "title": "Projektsachbearbeiter Gasversorgung",
+      "company": "RMD Rhein-Main-Deponie GmbH",
+      "location": "Flörsheim am Main",
+      "workModel": "On-site",
+      "opportunityType": "berufseinstieg",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-11T08:01:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/rmd-rhein-main-deponie-gmbh/projektsachbearbeiter-gasversorgung-florsheim-am-main-62802"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tZ2VybWFueS0xNTUzNjB8c29mdHdhcmUgZW5naW5lZXIsIGRhdGEgaW5mcmFzdHJ1Y3R1cmUgJiBhY3F1aXNpdGlvbnxzcGVlY2hpZnk",
+      "title": "Software Engineer, Data Infrastructure & Acquisition",
+      "company": "Speechify",
+      "location": "Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-11T06:45:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-germany-155360"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLWdlcm1hbnktMjk4MDQ4fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciwgd2luZG93cy9kZXNrdG9wIGFwcGxpY2F0aW9uc3xzcGVlY2hpZnk",
+      "title": "Senior Software Engineer, Windows/Desktop Applications",
+      "company": "Speechify",
+      "location": "Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-11T06:45:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-germany-298048"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWlvcy1jb3JlLXByb2R1Y3QtZ2VybWFueS0zNDkyNzd8c29mdHdhcmUgZW5naW5lZXIsIGlvcyBjb3JlIHByb2R1Y3R8c3BlZWNoaWZ5",
+      "title": "Software Engineer, iOS Core Product",
+      "company": "Speechify",
+      "location": "Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-11T06:45:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-germany-349277"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWdlcm1hbnktMzcwMTgwfHNvZnR3YXJlIGVuZ2luZWVyLCBwbGF0Zm9ybXxzcGVlY2hpZnk",
+      "title": "Software Engineer, Platform",
+      "company": "Speechify",
+      "location": "Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-11T06:45:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-germany-370180"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd29sdC1lbmdsaXNoL2FuYWx5dGljcy1tYW5hZ2VyLW1hcmtldGluZy1hbmFseXRpY3MtYmVybGluLTI3NTMwMXxhbmFseXRpY3MgbWFuYWdlciwgbWFya2V0aW5nIGFuYWx5dGljc3x3b2x0IC0gZW5nbGlzaA",
       "title": "Analytics Manager, Marketing Analytics",
@@ -123,58 +188,6 @@
       "postedDate": "2026-06-08T16:04:38.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7766128003?gh_jid=7766128003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC13ZWItY29yZS1wcm9kdWN0LWNocm9tZS1leHRlbnNpb24tZ2VybWFueS01NzY3MXx0ZWNoIGxlYWQsIHdlYiBjb3JlIHByb2R1Y3QgJiBjaHJvbWUgZXh0ZW5zaW9ufHNwZWVjaGlmeQ",
-      "title": "Tech Lead, Web Core Product & Chrome Extension",
-      "company": "Speechify",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-08T06:45:25.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-web-core-product-chrome-extension-germany-57671"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC1hbmRyb2lkLWNvcmUtcHJvZHVjdC1nZXJtYW55LTMzMDY1MXx0ZWNoIGxlYWQsIGFuZHJvaWQgY29yZSBwcm9kdWN0fHNwZWVjaGlmeQ",
-      "title": "Tech Lead, Android Core Product",
-      "company": "Speechify",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-08T06:45:25.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-germany-330651"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC1hbmRyb2lkLWNvcmUtcHJvZHVjdC1iZXJsaW4tMTExMjJ8dGVjaCBsZWFkLCBhbmRyb2lkIGNvcmUgcHJvZHVjdHxzcGVlY2hpZnk",
-      "title": "Tech Lead, Android Core Product",
-      "company": "Speechify",
-      "location": "Berlin, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-08T06:45:25.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-berlin-11122"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYnJhaW5lcnNodWItZ21iaC9qdW5pb3ItcGVyZm9ybWFuY2UtbWFya2V0ZXItaGFtYnVyZy0yOTM3MTl8KGp1bmlvcikgcGVyZm9ybWFuY2UgbWFya2V0ZXIgKG0vdy9kKXxicmFpbmVyc2h1YiBnbWJo",
-      "title": "(Junior) Performance Marketer (m/w/d)",
-      "company": "BrainersHub GmbH",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-08T00:30:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/brainershub-gmbh/junior-performance-marketer-hamburg-293719"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzY0MDg2MDAzP2doX2ppZD03NzY0MDg2MDAzfG1yaSAmIGN0IHRlY2hub2xvZ2lzdCAocGFydC10aW1lKXxuZXVyYWxpbms",
