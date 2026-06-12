@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T14:56:37.129Z",
+  "generatedAt": "2026-06-12T20:09:21.170Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzcyMDQ5MDAzP2doX2ppZD03NzcyMDQ5MDAzfG5ldXJvc3VyZ2ljYWwgcm9ib3Qgb3BlcmF0b3IgKHBhcnQtdGltZSl8bmV1cmFsaW5r",
+      "title": "Neurosurgical Robot Operator (Part-Time)",
+      "company": "Neuralink",
+      "location": "South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Part-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-06-12T18:49:13.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7772049003?gh_jid=7772049003"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcGFydHNjbG91ZC1nbWJoL2ZvcndhcmQtZGVwbG95ZWQtZW5naW5lZXItYWxsLWdlbmRlcnMtc3R1dHRnYXJ0LTE5NTkzMHxmb3J3YXJkIGRlcGxveWVkIGVuZ2luZWVyIChhbGwgZ2VuZGVycyl8cGFydHNjbG91ZCBnbWJo",
       "title": "Forward Deployed Engineer (all genders)",
