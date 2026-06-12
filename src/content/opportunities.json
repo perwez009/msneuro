@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T03:52:52.830Z",
+  "generatedAt": "2026-06-12T10:11:34.979Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcXVhbnR1bS1zeXN0ZW1zLWdtYmgvZW1iZWRkZWQtc29mdHdhcmUtZW5naW5lZXItcHJvZHVjdGlvbi1lbmdpbmVlcmluZy1naWxjaGluZy0xNjEwOTR8ZW1iZWRkZWQgc29mdHdhcmUgZW5naW5lZXIg4oCTIHByb2R1Y3Rpb24gZW5naW5lZXJpbmcgKG0vZi9kKXxxdWFudHVtLSBzeXN0ZW1zIGdtYmg",
+      "title": "Embedded Software Engineer – Production Engineering (m/f/d)",
+      "company": "Quantum- Systems GmbH",
+      "location": "Gilching",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-12T07:20:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/embedded-software-engineer-production-engineering-gilching-161094"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGV1dHNjaGVyLWJhdXNlcnZpY2UtZ21iaC9wcm9qZWt0ZW50d2lja2xlci1mdXItZXJuZXVlcmJhcmUtZW5lcmdpZW4tbW9sYmVyZ2VuLTI4ODQyMXxwcm9qZWt0ZW50d2lja2xlciAobS93L2QpIGbDvHIgZXJuZXVlcmJhcmUgZW5lcmdpZW58ZGV1dHNjaGVyIGJhdXNlcnZpY2UgZ21iaA",
+      "title": "Projektentwickler (m/w/d) für erneuerbare Energien",
+      "company": "Deutscher Bauservice GmbH",
+      "location": "Molbergen",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-12T06:30:40.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-288421"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvc29jaWFsLW1lZGlhLW1hbmFnZXItc3BvcnQtY29udGVudC1jcmVhdG9yLWhhbWJ1cmctOTU5NzB8c29jaWFsIG1lZGlhIG1hbmFnZXIgJiBzcG9ydCBjb250ZW50IGNyZWF0b3IgKG0vdy9kKSAtIGhhbWJ1cmd8MWtvbW1hNcua",
       "title": "Social Media Manager & Sport Content Creator (m/w/d) - Hamburg",
@@ -162,45 +188,6 @@
       "postedDate": "2026-06-09T11:00:34.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/1komma50/mediengestalterin-hamburg-187706"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYnJhaW5lcnNodWItZ21iaC93ZXJrc3R1ZGVudC1wZXJmb3JtYW5jZS1tYXJrZXRlci1oYW1idXJnLTQxMDE4MHx3ZXJrc3R1ZGVudCBwZXJmb3JtYW5jZSBtYXJrZXRlciAobS93L2QpfGJyYWluZXJzaHViIGdtYmg",
-      "title": "Werkstudent Performance Marketer (m/w/d)",
-      "company": "BrainersHub GmbH",
-      "location": "Hamburg",
-      "workModel": "Remote",
-      "opportunityType": "Working student, berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-09T00:30:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/brainershub-gmbh/werkstudent-performance-marketer-hamburg-410180"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGFnbGljaHRlY2huaWsvbWluaWpvYi15b3V0dWJlLXN0cmF0ZWdlLXNrcmlwdC1hdXRvci1nZXN1Y2h0LW11bmljaC0yMTI3MzB8bWluaWpvYjogeW91dHViZS1zdHJhdGVnZSAmIHNrcmlwdC1hdXRvciAobS93L2QpIGdlc3VjaHQhfHTDpGdsaWNodGVjaG5paw",
-      "title": "Minijob: YouTube-Stratege & Skript-Autor (m/w/d) gesucht!",
-      "company": "TäglichTechnik",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Side",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-08T22:00:38.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/taglichtechnik/minijob-youtube-stratege-skript-autor-gesucht-munich-212730"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGFnbGljaHRlY2huaWsvbWluaWpvYi12aWRlby1lZGl0b3ItY3V0dGVyLWZ1ci15b3V0dWJlLWdlc3VjaHQtbXVuaWNoLTE5NjQxOXxtaW5pam9iOiB2aWRlbyBlZGl0b3IvY3V0dGVyIChtL3cvZCkgZsO8ciB5b3V0dWJlIGdlc3VjaHQhfHTDpGdsaWNodGVjaG5paw",
-      "title": "Minijob: Video Editor/Cutter (m/w/d) für YouTube gesucht!",
-      "company": "TäglichTechnik",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Side",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-08T21:30:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/taglichtechnik/minijob-video-editor-cutter-fur-youtube-gesucht-munich-196419"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzY2MTI4MDAzP2doX2ppZD03NzY2MTI4MDAzfHN5c3RlbXMgJiBwcm9jZXNzIGVuZ2luZWVyIHxuZXVyYWxpbms",
