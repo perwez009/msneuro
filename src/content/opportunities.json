@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T12:11:20.156Z",
+  "generatedAt": "2026-06-15T20:54:41.355Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVjaGJpei1nbG9iYWwtZ21iaC9zZW5pb3ItdmVyaWZpY2F0aW9uLWVuZ2luZWVyLWFhY2hlbi0zOTY0MTN8c2VuaW9yIHZlcmlmaWNhdGlvbiBlbmdpbmVlcnx0ZWNoYml6IGdsb2JhbCBnbWJo",
+      "title": "Senior Verification Engineer",
+      "company": "TechBiz Global GmbH",
+      "location": "Aachen",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-15T13:20:10.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/senior-verification-engineer-aachen-396413"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb24tcG9pbnQtY29ubmVjdC1nbWJoL3Nlbmlvci1zbm93Zmxha2UtY29uc3VsdGFudC1nZXJtYW4tc3BlYWtpbmctZHVzc2VsZG9yZi0yMTUzODZ8c2VuaW9yIHNub3dmbGFrZSBjb25zdWx0YW50IChtL3cvZCkgLSBnZXJtYW4gc3BlYWtpbmd8b24tcG9pbnQgY29ubmVjdCBnbWJo",
       "title": "Senior Snowflake Consultant (m/w/d) - German speaking",
@@ -214,84 +227,6 @@
       "postedDate": "2026-06-11T12:30:31.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/neural-frames/graphic-designer-working-student-ai-music-video-platform-berlin-383187"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcm1kLXJoZWluLW1haW4tZGVwb25pZS1nbWJoL3Byb2pla3RzYWNoYmVhcmJlaXRlci1nYXN2ZXJzb3JndW5nLWZsb3JzaGVpbS1hbS1tYWluLTYyODAyfHByb2pla3RzYWNoYmVhcmJlaXRlciBlbmVyZ2llZXJ6ZXVndW5nIHVuZCBnYXN2ZXJ3ZXJ0dW5nIChtL3cvZCl8cm1kIHJoZWluLW1haW4tZGVwb25pZSBnbWJo",
-      "title": "Projektsachbearbeiter Energieerzeugung und Gasverwertung (m/w/d)",
-      "company": "RMD Rhein-Main-Deponie GmbH",
-      "location": "Flörsheim am Main",
-      "workModel": "On-site",
-      "opportunityType": "berufseinstieg",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-11T12:29:02.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/rmd-rhein-main-deponie-gmbh/projektsachbearbeiter-gasversorgung-florsheim-am-main-62802"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWNjZW50dXJlL2FpLWRhdGEtc2VuaW9yLW1hbmFnZXItZmluYW5jaWFsLXNlcnZpY2VzLWFsbC1nZW5kZXJzLWZyYW5rZnVydC1hbS1tYWluLTM0NDgwNXxhaSAmIGRhdGEgc2VuaW9yIG1hbmFnZXIgZmluYW5jaWFsIHNlcnZpY2VzIChhbGwgZ2VuZGVycyl8YWNjZW50dXJl",
-      "title": "AI & Data Senior Manager Financial Services (all genders)",
-      "company": "Accenture",
-      "location": "Frankfurt am Main",
-      "workModel": "On-site",
-      "opportunityType": "teamleitung",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-11T09:00:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/accenture/ai-data-senior-manager-financial-services-all-genders-frankfurt-am-main-344805"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tZ2VybWFueS0xNTUzNjB8c29mdHdhcmUgZW5naW5lZXIsIGRhdGEgaW5mcmFzdHJ1Y3R1cmUgJiBhY3F1aXNpdGlvbnxzcGVlY2hpZnk",
-      "title": "Software Engineer, Data Infrastructure & Acquisition",
-      "company": "Speechify",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-11T06:45:29.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-germany-155360"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLWdlcm1hbnktMjk4MDQ4fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciwgd2luZG93cy9kZXNrdG9wIGFwcGxpY2F0aW9uc3xzcGVlY2hpZnk",
-      "title": "Senior Software Engineer, Windows/Desktop Applications",
-      "company": "Speechify",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-11T06:45:29.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-germany-298048"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWlvcy1jb3JlLXByb2R1Y3QtZ2VybWFueS0zNDkyNzd8c29mdHdhcmUgZW5naW5lZXIsIGlvcyBjb3JlIHByb2R1Y3R8c3BlZWNoaWZ5",
-      "title": "Software Engineer, iOS Core Product",
-      "company": "Speechify",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-11T06:45:29.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-germany-349277"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWdlcm1hbnktMzcwMTgwfHNvZnR3YXJlIGVuZ2luZWVyLCBwbGF0Zm9ybXxzcGVlY2hpZnk",
-      "title": "Software Engineer, Platform",
-      "company": "Speechify",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-11T06:45:29.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-germany-370180"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzY2MTI4MDAzP2doX2ppZD03NzY2MTI4MDAzfHN5c3RlbXMgJiBwcm9jZXNzIGVuZ2luZWVyIHxuZXVyYWxpbms",
