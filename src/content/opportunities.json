@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T11:08:44.875Z",
+  "generatedAt": "2026-06-16T16:49:53.903Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWVtb2Rpby9mdWxsc3RhY2stcHJvZHVjdC1lbmdpbmVlci1mb3ItZmx1dHRlci1ub2RlanMtMTAwLWhvbWVvZmZpY2UtcG90c2RhbS0yNTcxNzl8ZnVsbHN0YWNrIC8gcHJvZHVjdCBlbmdpbmVlciAoZi9tL2QpIGZvciBmbHV0dGVyICYgbm9kZS5qcyAoMTAwJSBob21lb2ZmaWNlKXxtZW1vZGlv",
+      "title": "Fullstack / Product Engineer (f/m/d) for Flutter & Node.js (100% Homeoffice)",
+      "company": "memodio",
+      "location": "Potsdam",
+      "workModel": "Remote",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-16T13:30:33.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/memodio/fullstack-product-engineer-for-flutter-nodejs-100-homeoffice-potsdam-257179"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVjaGJpei1nbG9iYWwtZ21iaC9zZW5pb3ItdmVyaWZpY2F0aW9uLWVuZ2luZWVyLWFhY2hlbi0zOTY0MTN8c2VuaW9yIHZlcmlmaWNhdGlvbiBlbmdpbmVlcnx0ZWNoYml6IGdsb2JhbCBnbWJo",
       "title": "Senior Verification Engineer",
@@ -201,19 +214,6 @@
       "postedDate": "2026-06-12T06:30:40.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-288421"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvc29jaWFsLW1lZGlhLW1hbmFnZXItc3BvcnQtY29udGVudC1jcmVhdG9yLWhhbWJ1cmctOTU5NzB8c29jaWFsIG1lZGlhIG1hbmFnZXIgJiBzcG9ydCBjb250ZW50IGNyZWF0b3IgKG0vdy9kKSAtIGhhbWJ1cmd8MWtvbW1hNcua",
-      "title": "Social Media Manager & Sport Content Creator (m/w/d) - Hamburg",
-      "company": "1KOMMA5˚",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-11T15:00:33.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/social-media-manager-sport-content-creator-hamburg-95970"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzY2MTI4MDAzP2doX2ppZD03NzY2MTI4MDAzfHN5c3RlbXMgJiBwcm9jZXNzIGVuZ2luZWVyIHxuZXVyYWxpbms",
