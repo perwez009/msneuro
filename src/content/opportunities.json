@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T16:49:53.903Z",
+  "generatedAt": "2026-06-16T20:49:28.435Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWktY291c3RpY3Mvc3lzdGVtcy1zb2Z0d2FyZS1lbmdpbmVlci1ydXN0LW1sLWluZmVyZW5jZS1iZXJsaW4tNDI3MDk4fHN5c3RlbXMgc29mdHdhcmUgZW5naW5lZXIgKHJ1c3QsIG1sIGluZmVyZW5jZSl8YWktY291c3RpY3M",
+      "title": "Systems Software Engineer (Rust, ML Inference)",
+      "company": "ai-coustics",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-16T17:00:39.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/ai-coustics/systems-software-engineer-rust-ml-inference-berlin-427098"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWVtb2Rpby9mdWxsc3RhY2stcHJvZHVjdC1lbmdpbmVlci1mb3ItZmx1dHRlci1ub2RlanMtMTAwLWhvbWVvZmZpY2UtcG90c2RhbS0yNTcxNzl8ZnVsbHN0YWNrIC8gcHJvZHVjdCBlbmdpbmVlciAoZi9tL2QpIGZvciBmbHV0dGVyICYgbm9kZS5qcyAoMTAwJSBob21lb2ZmaWNlKXxtZW1vZGlv",
       "title": "Fullstack / Product Engineer (f/m/d) for Flutter & Node.js (100% Homeoffice)",
