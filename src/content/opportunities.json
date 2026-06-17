@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T10:54:05.130Z",
+  "generatedAt": "2026-06-17T15:26:23.805Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcGxhbnRhY29ycC1nbWJoL3dvcmtpbmctc3R1ZGVudC1pdC1zeXN0ZW0tYWRtaW5pc3RyYXRvci1oYW1idXJnLTMzMDgwM3x3b3JraW5nIHN0dWRlbnQgaXQgc3lzdGVtIGFkbWluaXN0cmF0b3IgKGYvbS9kKXxwbGFudGFjb3JwIGdtYmg",
+      "title": "Working Student IT System Administrator (f/m/d)",
+      "company": "PlantaCorp GmbH",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Working student, no experience required / student",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-17T10:30:45.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/plantacorp-gmbh/working-student-it-system-administrator-hamburg-330803"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva2QtcGhhcm1hL2hyLXNwZWNpYWxpc3Qtb2ZmaWNlLW1hbmFnZW1lbnQtYmV4YmFjaC0xMTk1MTN8aHIgc3BlY2lhbGlzdCAobS9mL2QpIC0gb2ZmaWNlIG1hbmFnZW1lbnR8a2QgcGhhcm1h",
       "title": "HR Specialist (m/f/d) - Office Management",
@@ -45,19 +58,6 @@
       "postedDate": "2026-06-17T08:00:51.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/addfame-gmbh/werkstudent-campaign-management-influencer-marketing-munich-96106"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWktY291c3RpY3Mvc3lzdGVtcy1zb2Z0d2FyZS1lbmdpbmVlci1ydXN0LW1sLWluZmVyZW5jZS1iZXJsaW4tNDI3MDk4fHN5c3RlbXMgc29mdHdhcmUgZW5naW5lZXIgKHJ1c3QsIG1sIGluZmVyZW5jZSl8YWktY291c3RpY3M",
-      "title": "Systems Software Engineer (Rust, ML Inference)",
-      "company": "ai-coustics",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-16T17:00:39.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/ai-coustics/systems-software-engineer-rust-ml-inference-berlin-427098"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWVtb2Rpby9mdWxsc3RhY2stcHJvZHVjdC1lbmdpbmVlci1mb3ItZmx1dHRlci1ub2RlanMtMTAwLWhvbWVvZmZpY2UtcG90c2RhbS0yNTcxNzl8ZnVsbHN0YWNrIC8gcHJvZHVjdCBlbmdpbmVlciAoZi9tL2QpIGZvciBmbHV0dGVyICYgbm9kZS5qcyAoMTAwJSBob21lb2ZmaWNlKXxtZW1vZGlv",
@@ -177,32 +177,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-product-analyst-munchen-21748"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb2xpdmVyLWFnZW5jeS9zZW5pb3Itc2FsZXMtbWFuYWdlci1uZXRoZXJsYW5kcy1hbmQtZ2VybWFueS0yLXBvc2l0aW9ucy1hdmFpbGFibGUtc3R1dHRnYXJ0LTE2MDIwN3xzZW5pb3Igc2FsZXMgbWFuYWdlciAtIG5ldGhlcmxhbmRzIGFuZCBnZXJtYW55ICgyIHBvc2l0aW9ucyBhdmFpbGFibGUpfG9saXZlciBhZ2VuY3k",
-      "title": "Senior Sales Manager - Netherlands and Germany (2 positions available)",
-      "company": "OLIVER Agency",
-      "location": "Stuttgart, Baden-Württemberg, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-12T20:45:23.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/oliver-agency/senior-sales-manager-netherlands-and-germany-2-positions-available-stuttgart-160207"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb2xpdmVyLWFnZW5jeS9zZW5pb3Itc2FsZXMtbWFuYWdlci1uZXRoZXJsYW5kcy1hbmQtZ2VybWFueS0yLXBvc2l0aW9ucy1hdmFpbGFibGUtbXVuaWNoLTM0NDA2N3xzZW5pb3Igc2FsZXMgbWFuYWdlciAtIG5ldGhlcmxhbmRzIGFuZCBnZXJtYW55ICgyIHBvc2l0aW9ucyBhdmFpbGFibGUpfG9saXZlciBhZ2VuY3k",
-      "title": "Senior Sales Manager - Netherlands and Germany (2 positions available)",
-      "company": "OLIVER Agency",
-      "location": "Munich, Bavaria, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-12T20:45:23.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/oliver-agency/senior-sales-manager-netherlands-and-germany-2-positions-available-munich-344067"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb2xpdmVyLWFnZW5jeS9zZW5pb3Itc2FsZXMtbWFuYWdlci1uZXRoZXJsYW5kcy1hbmQtZ2VybWFueS0yLXBvc2l0aW9ucy1hdmFpbGFibGUtYmVybGluLTIxNTE2MXxzZW5pb3Igc2FsZXMgbWFuYWdlciAtIG5ldGhlcmxhbmRzIGFuZCBnZXJtYW55ICgyIHBvc2l0aW9ucyBhdmFpbGFibGUpfG9saXZlciBhZ2VuY3k",
       "title": "Senior Sales Manager - Netherlands and Germany (2 positions available)",
       "company": "OLIVER Agency",
@@ -227,32 +201,6 @@
       "postedDate": "2026-06-12T18:49:13.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7772049003?gh_jid=7772049003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcGFydHNjbG91ZC1nbWJoL2ZvcndhcmQtZGVwbG95ZWQtZW5naW5lZXItYWxsLWdlbmRlcnMtc3R1dHRnYXJ0LTE5NTkzMHxmb3J3YXJkIGRlcGxveWVkIGVuZ2luZWVyIChhbGwgZ2VuZGVycyl8cGFydHNjbG91ZCBnbWJo",
-      "title": "Forward Deployed Engineer (all genders)",
-      "company": "PARTSCLOUD GmbH",
-      "location": "Stuttgart",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-12T09:30:33.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/partscloud-gmbh/forward-deployed-engineer-all-genders-stuttgart-195930"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcXVhbnR1bS1zeXN0ZW1zLWdtYmgvZW1iZWRkZWQtc29mdHdhcmUtZW5naW5lZXItcHJvZHVjdGlvbi1lbmdpbmVlcmluZy1naWxjaGluZy0xNjEwOTR8ZW1iZWRkZWQgc29mdHdhcmUgZW5naW5lZXIg4oCTIHByb2R1Y3Rpb24gZW5naW5lZXJpbmcgKG0vZi9kKXxxdWFudHVtLSBzeXN0ZW1zIGdtYmg",
-      "title": "Embedded Software Engineer – Production Engineering (m/f/d)",
-      "company": "Quantum- Systems GmbH",
-      "location": "Gilching",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-12T07:20:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/embedded-software-engineer-production-engineering-gilching-161094"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzY2MTI4MDAzP2doX2ppZD03NzY2MTI4MDAzfHN5c3RlbXMgJiBwcm9jZXNzIGVuZ2luZWVyIHxuZXVyYWxpbms",
