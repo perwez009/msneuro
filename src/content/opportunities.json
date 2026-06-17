@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T04:02:12.362Z",
+  "generatedAt": "2026-06-17T10:54:05.130Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,45 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva2QtcGhhcm1hL2hyLXNwZWNpYWxpc3Qtb2ZmaWNlLW1hbmFnZW1lbnQtYmV4YmFjaC0xMTk1MTN8aHIgc3BlY2lhbGlzdCAobS9mL2QpIC0gb2ZmaWNlIG1hbmFnZW1lbnR8a2QgcGhhcm1h",
+      "title": "HR Specialist (m/f/d) - Office Management",
+      "company": "KD Pharma",
+      "location": "Bexbach",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-17T09:00:31.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/kd-pharma/hr-specialist-office-management-bexbach-119513"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva2QtcGhhcm1hL3BlcnNvbmFscmVmZXJlbnRpbi1vZmZpY2UtbWFuYWdlbWVudC1iZXhiYWNoLTM4NjMxOHxwZXJzb25hbHJlZmVyZW50KmluIChtL3cvZCkgLSBvZmZpY2UgbWFuYWdlbWVudHxrZCBwaGFybWE",
+      "title": "Personalreferent*in (m/w/d) - Office Management",
+      "company": "KD Pharma",
+      "location": "Bexbach",
+      "workModel": "On-site",
+      "opportunityType": "teamleitung",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-17T08:30:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/kd-pharma/personalreferentin-office-management-bexbach-386318"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWRkZmFtZS1nbWJoL3dlcmtzdHVkZW50LWNhbXBhaWduLW1hbmFnZW1lbnQtaW5mbHVlbmNlci1tYXJrZXRpbmctbXVuaWNoLTk2MTA2fHdlcmtzdHVkZW50IChtL3cvZCkgY2FtcGFpZ24gbWFuYWdlbWVudCAtIGluZmx1ZW5jZXIgbWFya2V0aW5nfGFkZGZhbWUgZ21iaA",
+      "title": "Werkstudent (m/w/d) Campaign Management - Influencer Marketing",
+      "company": "addfame GmbH",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Working student, berufseinstieg",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-17T08:00:51.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/addfame-gmbh/werkstudent-campaign-management-influencer-marketing-munich-96106"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWktY291c3RpY3Mvc3lzdGVtcy1zb2Z0d2FyZS1lbmdpbmVlci1ydXN0LW1sLWluZmVyZW5jZS1iZXJsaW4tNDI3MDk4fHN5c3RlbXMgc29mdHdhcmUgZW5naW5lZXIgKHJ1c3QsIG1sIGluZmVyZW5jZSl8YWktY291c3RpY3M",
       "title": "Systems Software Engineer (Rust, ML Inference)",
@@ -214,19 +253,6 @@
       "postedDate": "2026-06-12T07:20:17.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/embedded-software-engineer-production-engineering-gilching-161094"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGV1dHNjaGVyLWJhdXNlcnZpY2UtZ21iaC9wcm9qZWt0ZW50d2lja2xlci1mdXItZXJuZXVlcmJhcmUtZW5lcmdpZW4tbW9sYmVyZ2VuLTI4ODQyMXxwcm9qZWt0ZW50d2lja2xlciAobS93L2QpIGbDvHIgZXJuZXVlcmJhcmUgZW5lcmdpZW58ZGV1dHNjaGVyIGJhdXNlcnZpY2UgZ21iaA",
-      "title": "Projektentwickler (m/w/d) für erneuerbare Energien",
-      "company": "Deutscher Bauservice GmbH",
-      "location": "Molbergen",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-12T06:30:40.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-288421"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzY2MTI4MDAzP2doX2ppZD03NzY2MTI4MDAzfHN5c3RlbXMgJiBwcm9jZXNzIGVuZ2luZWVyIHxuZXVyYWxpbms",
