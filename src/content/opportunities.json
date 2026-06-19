@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T10:24:56.690Z",
+  "generatedAt": "2026-06-19T15:13:43.431Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvYXNzb2NpYXRlLWJ1c2luZXNzLWRldmVsb3BtZW50LWNlby1vZmZpY2UtYmVybGluLTM4OTk0MHxhc3NvY2lhdGUgYnVzaW5lc3MgZGV2ZWxvcG1lbnQgLSBjZW8gb2ZmaWNlIChtL3cvZCl8MWtvbW1hNcua",
+      "title": "Associate Business Development - CEO Office (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-19T12:30:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/associate-business-development-ceo-office-berlin-389940"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGV1dHNjaGVyLWJhdXNlcnZpY2UtZ21iaC9wcm9qZWt0ZW50d2lja2xlci1mdXItZXJuZXVlcmJhcmUtZW5lcmdpZW4tbW9sYmVyZ2VuLTI4NTMxfHByb2pla3RlbnR3aWNrbGVyIChtL3cvZCkgZsO8ciBlcm5ldWVyYmFyZSBlbmVyZ2llbnxkZXV0c2NoZXIgYmF1c2VydmljZSBnbWJo",
       "title": "Projektentwickler (m/w/d) für erneuerbare Energien",
@@ -136,19 +149,6 @@
       "postedDate": "2026-06-16T13:30:33.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/memodio/fullstack-product-engineer-for-flutter-nodejs-100-homeoffice-potsdam-257179"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVjaGJpei1nbG9iYWwtZ21iaC9zZW5pb3ItdmVyaWZpY2F0aW9uLWVuZ2luZWVyLWFhY2hlbi0zOTY0MTN8c2VuaW9yIHZlcmlmaWNhdGlvbiBlbmdpbmVlcnx0ZWNoYml6IGdsb2JhbCBnbWJo",
-      "title": "Senior Verification Engineer",
-      "company": "TechBiz Global GmbH",
-      "location": "Aachen",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-15T13:20:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/senior-verification-engineer-aachen-396413"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzcyMDQ5MDAzP2doX2ppZD03NzcyMDQ5MDAzfG5ldXJvc3VyZ2ljYWwgcm9ib3Qgb3BlcmF0b3IgKHBhcnQtdGltZSl8bmV1cmFsaW5r",
