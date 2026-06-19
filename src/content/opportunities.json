@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T04:13:15.050Z",
+  "generatedAt": "2026-06-19T10:24:56.690Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGV1dHNjaGVyLWJhdXNlcnZpY2UtZ21iaC9wcm9qZWt0ZW50d2lja2xlci1mdXItZXJuZXVlcmJhcmUtZW5lcmdpZW4tbW9sYmVyZ2VuLTI4NTMxfHByb2pla3RlbnR3aWNrbGVyIChtL3cvZCkgZsO8ciBlcm5ldWVyYmFyZSBlbmVyZ2llbnxkZXV0c2NoZXIgYmF1c2VydmljZSBnbWJo",
+      "title": "Projektentwickler (m/w/d) für erneuerbare Energien",
+      "company": "Deutscher Bauservice GmbH",
+      "location": "Molbergen",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-19T07:30:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-28531"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvam95L2Z1bGwtc3RhY2stZGV2ZWxvcGVyLWJlcmxpbi0zMzg3MDB8ZnVsbC1zdGFjayBkZXZlbG9wZXIgKG0vZi9kKXxqb3lf",
       "title": "Full-Stack Developer (m/f/d)",
@@ -136,19 +149,6 @@
       "postedDate": "2026-06-15T13:20:10.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/senior-verification-engineer-aachen-396413"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb24tcG9pbnQtY29ubmVjdC1nbWJoL3Nlbmlvci1zbm93Zmxha2UtY29uc3VsdGFudC1nZXJtYW4tc3BlYWtpbmctZHVzc2VsZG9yZi0yMTUzODZ8c2VuaW9yIHNub3dmbGFrZSBjb25zdWx0YW50IChtL3cvZCkgLSBnZXJtYW4gc3BlYWtpbmd8b24tcG9pbnQgY29ubmVjdCBnbWJo",
-      "title": "Senior Snowflake Consultant (m/w/d) - German speaking",
-      "company": "ON-POINT Connect GmbH",
-      "location": "Düsseldorf",
-      "workModel": "On-site",
-      "opportunityType": "teamleitung",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-15T09:30:34.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/on-point-connect-gmbh/senior-snowflake-consultant-german-speaking-dusseldorf-215386"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzcyMDQ5MDAzP2doX2ppZD03NzcyMDQ5MDAzfG5ldXJvc3VyZ2ljYWwgcm9ib3Qgb3BlcmF0b3IgKHBhcnQtdGltZSl8bmV1cmFsaW5r",
