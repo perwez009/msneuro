@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T04:07:25.421Z",
+  "generatedAt": "2026-06-21T09:48:35.002Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,45 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmJiLWNvbnRyb2xzLWNvbXBvbmVudHMtZ21iaC9lbWJlZGRlZC1zb2Z0d2FyZS1lbmdpbmVlci1mdXItaW5ub3ZhdGl2ZS1mdW5rbG9zdW5nZW4taW4tZGVyLW1hc2NoaW5lbnN0ZXVlcnVuZy1vbGJyb25uLWR1cnJuLTM0MzEzMXxlbWJlZGRlZCBzb2Z0d2FyZSBlbmdpbmVlciBmw7xyIGlubm92YXRpdmUgZnVua2zDtnN1bmdlbiBpbiBkZXIgbWFzY2hpbmVuc3RldWVydW5nfG5iYiBjb250cm9scyArIGNvbXBvbmVudHMgZ21iaA",
+      "title": "Embedded Software Engineer für innovative Funklösungen in der Maschinensteuerung",
+      "company": "NBB Controls + Components GmbH",
+      "location": "Ölbronn-Dürrn",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-21T08:30:45.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/nbb-controls-components-gmbh/embedded-software-engineer-fur-innovative-funklosungen-in-der-maschinensteuerung-olbronn-durrn-343131"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWlvcy1jb3JlLXByb2R1Y3QtZnJhbmtmdXJ0LWdlcm1hbnktNTg4MDV8c29mdHdhcmUgZW5naW5lZXIsIGlvcyBjb3JlIHByb2R1Y3QgLSBmcmFua2Z1cnQsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Software Engineer, iOS Core Product - Frankfurt, Germany",
+      "company": "Speechify",
+      "location": "Frankfurt, Hesse, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-21T06:45:55.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-frankfurt-germany-58805"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLWJlcmxpbi1nZXJtYW55LTIwOTc0MnxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIHdpbmRvd3MvZGVza3RvcCBhcHBsaWNhdGlvbnMgLSBiZXJsaW4sIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - Berlin, Germany",
+      "company": "Speechify",
+      "location": "Berlin, Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-21T06:45:55.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-berlin-germany-209742"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcXVhbnR1bS1zeXN0ZW1zLWdtYmgvY29tcHV0ZXItdmlzaW9uLWFpLWVuZ2luZWVyLW4zeHQtaW50ZXJjZXB0b3ItY3Vhcy1naWxjaGluZy0xOTE5NTJ8Y29tcHV0ZXIgdmlzaW9uICYgYWkgZW5naW5lZXIgLSBuM3h0IGludGVyY2VwdG9yIGPigJF1YXMgKG0vZi9kKXxxdWFudHVtLSBzeXN0ZW1zIGdtYmg",
       "title": "Computer Vision & AI Engineer - N3XT Interceptor C‑UAS (m/f/d)",
@@ -19,6 +58,19 @@
       "postedDate": "2026-06-19T21:20:10.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/computer-vision-ai-engineer-n3xt-interceptor-cuas-gilching-191952"
+    },
+    {
+      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvbWlkLXNlbmlvci1haS1jaW5lbWF0aWMtdmlkZW8tZWRpdG9yLTIwOTA4ODd8bWlkL3NlbmlvciBhaSBjaW5lbWF0aWMgdmlkZW8gZWRpdG9yfGV2ZXJhaQ",
+      "title": "Mid/Senior AI Cinematic Video Editor",
+      "company": "EverAI",
+      "location": "Worldwide",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Remotive",
+      "sourceUrl": "https://remotive.com",
+      "postedDate": "2026-06-19T19:46:09.000Z",
+      "applyBy": null,
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvYXNzb2NpYXRlLWJ1c2luZXNzLWRldmVsb3BtZW50LWNlby1vZmZpY2UtYmVybGluLTM4OTk0MHxhc3NvY2lhdGUgYnVzaW5lc3MgZGV2ZWxvcG1lbnQgLSBjZW8gb2ZmaWNlIChtL3cvZCl8MWtvbW1hNcua",
@@ -136,19 +188,6 @@
       "postedDate": "2026-06-17T08:00:51.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/addfame-gmbh/werkstudent-campaign-management-influencer-marketing-munich-96106"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWktY291c3RpY3Mvc3lzdGVtcy1zb2Z0d2FyZS1lbmdpbmVlci1ydXN0LW1sLWluZmVyZW5jZS1iZXJsaW4tNDI3MDk4fHN5c3RlbXMgc29mdHdhcmUgZW5naW5lZXIgKHJ1c3QsIG1sIGluZmVyZW5jZSl8YWktY291c3RpY3M",
-      "title": "Systems Software Engineer (Rust, ML Inference)",
-      "company": "ai-coustics",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-16T17:00:39.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/ai-coustics/systems-software-engineer-rust-ml-inference-berlin-427098"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzcyMDQ5MDAzP2doX2ppZD03NzcyMDQ5MDAzfG5ldXJvc3VyZ2ljYWwgcm9ib3Qgb3BlcmF0b3IgKHBhcnQtdGltZSl8bmV1cmFsaW5r",
