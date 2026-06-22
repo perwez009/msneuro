@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T11:52:06.851Z",
+  "generatedAt": "2026-06-22T16:54:34.928Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZ3JlZW50ZWNoLWNvcnBvcmF0ZS1zb2x1dGlvbnMtZ21iaC9iYXVsZWl0ZXJpbi1waG90b3ZvbHRhaWstaGFtYnVyZy0xMDEzNnxiYXVsZWl0ZXIqaW4gcGhvdG92b2x0YWlrfGdyZWVudGVjaCBjb3Jwb3JhdGUgc29sdXRpb25zIGdtYmg",
+      "title": "Bauleiter*in Photovoltaik",
+      "company": "greentech corporate solutions GmbH",
+      "location": "Hamburg",
+      "workModel": "Remote",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-22T12:00:57.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/greentech-corporate-solutions-gmbh/bauleiterin-photovoltaik-hamburg-10136"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYnJhaW5lcnNodWItZ21iaC9zZW5pb3ItY29uc3VsdGFudC1wcm9qZWN0cy1zb2x1dGlvbnMtaGFtYnVyZy0zNTc5NDN8c2VuaW9yIGNvbnN1bHRhbnQgcHJvamVjdHMgJiBzb2x1dGlvbnMgKG0vdy9kKXxicmFpbmVyc2h1YiBnbWJo",
       "title": "Senior Consultant Projects & Solutions (m/w/d)",
