@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T16:54:34.928Z",
+  "generatedAt": "2026-06-22T20:46:49.341Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvb2ZmaWNlLWZlZWxnb29kLW1hbmFnZXItbXVuY2hlbi1tdW5pY2gtNDc4MTg1fG9mZmljZSAmIGZlZWxnb29kIG1hbmFnZXIgKG0vdy9kKSAtIG3DvG5jaGVufDFrb21tYTXLmg",
+      "title": "Office & Feelgood Manager (m/w/d) - München",
+      "company": "1KOMMA5˚",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-22T19:00:30.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/office-feelgood-manager-munchen-munich-478185"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzgwMTcyMDAzP2doX2ppZD03NzgwMTcyMDAzfGFzc29jaWF0ZSBnZW5lcmFsIGNvdW5zZWwsIHByaXZhY3kgJiBjb21wbGlhbmNlfG5ldXJhbGluaw",
+      "title": "Associate General Counsel, Privacy & Compliance",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-06-22T17:02:55.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7780172003?gh_jid=7780172003"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZ3JlZW50ZWNoLWNvcnBvcmF0ZS1zb2x1dGlvbnMtZ21iaC9iYXVsZWl0ZXJpbi1waG90b3ZvbHRhaWstaGFtYnVyZy0xMDEzNnxiYXVsZWl0ZXIqaW4gcGhvdG92b2x0YWlrfGdyZWVudGVjaCBjb3Jwb3JhdGUgc29sdXRpb25zIGdtYmg",
       "title": "Bauleiter*in Photovoltaik",
@@ -123,19 +149,6 @@
       "postedDate": "2026-06-19T07:30:35.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-28531"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvam95L2Z1bGwtc3RhY2stZGV2ZWxvcGVyLWJlcmxpbi0zMzg3MDB8ZnVsbC1zdGFjayBkZXZlbG9wZXIgKG0vZi9kKXxqb3lf",
-      "title": "Full-Stack Developer (m/f/d)",
-      "company": "Joy_",
-      "location": "Berlin",
-      "workModel": "Remote",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-18T19:30:29.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/joy/full-stack-developer-berlin-338700"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzc2ODc3MDAzP2doX2ppZD03Nzc2ODc3MDAzfGlhY3VjIGNvb3JkaW5hdG9yfG5ldXJhbGluaw",
@@ -505,7 +518,7 @@
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzI1MjU2MDAzP2doX2ppZD03NzI1MjU2MDAzfGZhY2lsaXRpZXMgdGVjaG5pY2lhbnxuZXVyYWxpbms",
       "title": "Facilities Technician",
       "company": "Neuralink",
-      "location": "Austin, Texas, United States",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
       "workModel": "On-site",
       "opportunityType": "Full-time",
       "source": "Neuralink Jobs",
