@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T09:20:07.404Z",
+  "generatedAt": "2026-06-25T14:31:00.630Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGV1dHNjaGVyLWJhdXNlcnZpY2UtZ21iaC9wcm9qZWt0ZW50d2lja2xlci1mdXItZXJuZXVlcmJhcmUtZW5lcmdpZW4tbW9sYmVyZ2VuLTYxOTZ8cHJvamVrdGVudHdpY2tsZXIgKG0vdy9kKSBmw7xyIGVybmV1ZXJiYXJlIGVuZXJnaWVufGRldXRzY2hlciBiYXVzZXJ2aWNlIGdtYmg",
+      "title": "Projektentwickler (m/w/d) für erneuerbare Energien",
+      "company": "Deutscher Bauservice GmbH",
+      "location": "Molbergen",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-25T12:10:38.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-6196"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWlvcy1jb3JlLXByb2R1Y3Qtc3R1dHRnYXJ0LWdlcm1hbnktNDg0NDU5fHNvZnR3YXJlIGVuZ2luZWVyLCBpb3MgY29yZSBwcm9kdWN0IC0gc3R1dHRnYXJ0LCBnZXJtYW55fHNwZWVjaGlmeQ",
       "title": "Software Engineer, iOS Core Product - Stuttgart, Germany",
@@ -86,19 +99,6 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/7782560003?gh_jid=7782560003"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYnJhaW5lcnNodWItZ21iaC9zZW5pb3ItY29uc3VsdGFudC1wcm9qZWN0cy1zb2x1dGlvbnMtaGFtYnVyZy0zNTc5NDN8c2VuaW9yIGNvbnN1bHRhbnQgcHJvamVjdHMgJiBzb2x1dGlvbnMgKG0vdy9kKXxicmFpbmVyc2h1YiBnbWJo",
-      "title": "Senior Consultant Projects & Solutions (m/w/d)",
-      "company": "BrainersHub GmbH",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-23T14:59:02.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/brainershub-gmbh/senior-consultant-projects-solutions-hamburg-357943"
-    },
-    {
       "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvcHJvZHVjdC9zdGFmZi1wcm9kdWN0LWVuZ2luZWVyLXNhby1wYXVsby0yMDkxMDAwfHN0YWZmIHByb2R1Y3QgZW5naW5lZXIgKHPDo28gcGF1bG8pfGxhd25zdGFydGVy",
       "title": "Staff Product Engineer (São Paulo)",
       "company": "LawnStarter",
@@ -162,58 +162,6 @@
       "postedDate": "2026-06-22T12:00:57.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/greentech-corporate-solutions-gmbh/bauleiterin-photovoltaik-hamburg-10136"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmJiLWNvbnRyb2xzLWNvbXBvbmVudHMtZ21iaC9lbWJlZGRlZC1zb2Z0d2FyZS1lbmdpbmVlci1mdXItaW5ub3ZhdGl2ZS1mdW5rbG9zdW5nZW4taW4tZGVyLW1hc2NoaW5lbnN0ZXVlcnVuZy1vbGJyb25uLWR1cnJuLTM0MzEzMXxlbWJlZGRlZCBzb2Z0d2FyZSBlbmdpbmVlciBmw7xyIGlubm92YXRpdmUgZnVua2zDtnN1bmdlbiBpbiBkZXIgbWFzY2hpbmVuc3RldWVydW5nfG5iYiBjb250cm9scyArIGNvbXBvbmVudHMgZ21iaA",
-      "title": "Embedded Software Engineer für innovative Funklösungen in der Maschinensteuerung",
-      "company": "NBB Controls + Components GmbH",
-      "location": "Ölbronn-Dürrn",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-21T08:30:45.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/nbb-controls-components-gmbh/embedded-software-engineer-fur-innovative-funklosungen-in-der-maschinensteuerung-olbronn-durrn-343131"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWlvcy1jb3JlLXByb2R1Y3QtZnJhbmtmdXJ0LWdlcm1hbnktNTg4MDV8c29mdHdhcmUgZW5naW5lZXIsIGlvcyBjb3JlIHByb2R1Y3QgLSBmcmFua2Z1cnQsIGdlcm1hbnl8c3BlZWNoaWZ5",
-      "title": "Software Engineer, iOS Core Product - Frankfurt, Germany",
-      "company": "Speechify",
-      "location": "Frankfurt, Hesse, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-21T06:45:55.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-frankfurt-germany-58805"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLWJlcmxpbi1nZXJtYW55LTIwOTc0MnxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIHdpbmRvd3MvZGVza3RvcCBhcHBsaWNhdGlvbnMgLSBiZXJsaW4sIGdlcm1hbnl8c3BlZWNoaWZ5",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Berlin, Germany",
-      "company": "Speechify",
-      "location": "Berlin, Berlin, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-21T06:45:55.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-berlin-germany-209742"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcXVhbnR1bS1zeXN0ZW1zLWdtYmgvY29tcHV0ZXItdmlzaW9uLWFpLWVuZ2luZWVyLW4zeHQtaW50ZXJjZXB0b3ItY3Vhcy1naWxjaGluZy0xOTE5NTJ8Y29tcHV0ZXIgdmlzaW9uICYgYWkgZW5naW5lZXIgLSBuM3h0IGludGVyY2VwdG9yIGPigJF1YXMgKG0vZi9kKXxxdWFudHVtLSBzeXN0ZW1zIGdtYmg",
-      "title": "Computer Vision & AI Engineer - N3XT Interceptor C‑UAS (m/f/d)",
-      "company": "Quantum- Systems GmbH",
-      "location": "Gilching",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-19T21:20:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/computer-vision-ai-engineer-n3xt-interceptor-cuas-gilching-191952"
     },
     {
       "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvbWlkLXNlbmlvci1haS1jaW5lbWF0aWMtdmlkZW8tZWRpdG9yLTIwOTA4ODd8bWlkL3NlbmlvciBhaSBjaW5lbWF0aWMgdmlkZW8gZWRpdG9yfGV2ZXJhaQ",
