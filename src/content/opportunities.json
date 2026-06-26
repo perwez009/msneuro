@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T09:24:09.717Z",
+  "generatedAt": "2026-06-26T14:22:32.470Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29kZS1nYWlhL3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1mdWxsLXN0YWNrLWFsbC1nZW5kZXJzLWJlcmxpbi0zMzM0NDd8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyIGZ1bGwgc3RhY2sgKGFsbCBnZW5kZXJzKXxjb2RlIGdhaWE",
+      "title": "Senior Software Engineer Full Stack (all genders)",
+      "company": "Code Gaia",
+      "location": "Berlin",
+      "workModel": "Remote",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-26T11:30:43.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/code-gaia/senior-software-engineer-full-stack-all-genders-berlin-333447"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGV1dHNjaGVyLWJhdXNlcnZpY2UtZ21iaC9wcm9qZWt0ZW50d2lja2xlci1mdXItZXJuZXVlcmJhcmUtZW5lcmdpZW4tbW9sYmVyZ2VuLTYxOTZ8cHJvamVrdGVudHdpY2tsZXIgKG0vdy9kKSBmw7xyIGVybmV1ZXJiYXJlIGVuZXJnaWVufGRldXRzY2hlciBiYXVzZXJ2aWNlIGdtYmg",
       "title": "Projektentwickler (m/w/d) für erneuerbare Energien",
@@ -19,6 +32,32 @@
       "postedDate": "2026-06-25T12:10:38.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-6196"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWlvcy1jb3JlLXByb2R1Y3Qtc3R1dHRnYXJ0LWdlcm1hbnktNDg0NDU5fHNvZnR3YXJlIGVuZ2luZWVyLCBpb3MgY29yZSBwcm9kdWN0IC0gc3R1dHRnYXJ0LCBnZXJtYW55fHNwZWVjaGlmeQ",
+      "title": "Software Engineer, iOS Core Product - Stuttgart, Germany",
+      "company": "Speechify",
+      "location": "Stuttgart, Baden-Württemberg, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-24T20:45:31.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-stuttgart-germany-484459"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC1hbmRyb2lkLWNvcmUtcHJvZHVjdC1jb2xvZ25lLWdlcm1hbnktMTA1NDgwfHRlY2ggbGVhZCwgYW5kcm9pZCBjb3JlIHByb2R1Y3QgLSBjb2xvZ25lLCBnZXJtYW55fHNwZWVjaGlmeQ",
+      "title": "Tech Lead, Android Core Product - Cologne, Germany",
+      "company": "Speechify",
+      "location": "Cologne, North Rhine-Westphalia, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-24T20:45:31.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-cologne-germany-105480"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tY29sb2duZS1nZXJtYW55LTQ2MTgzNXxzb2Z0d2FyZSBlbmdpbmVlciwgZGF0YSBpbmZyYXN0cnVjdHVyZSAmIGFjcXVpc2l0aW9uIC0gY29sb2duZSwgZ2VybWFueXxzcGVlY2hpZnk",
@@ -110,19 +149,6 @@
       "postedDate": "2026-06-23T00:27:53.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7780708003?gh_jid=7780708003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvb2ZmaWNlLWZlZWxnb29kLW1hbmFnZXItbXVuY2hlbi1tdW5pY2gtNDc4MTg1fG9mZmljZSAmIGZlZWxnb29kIG1hbmFnZXIgKG0vdy9kKSAtIG3DvG5jaGVufDFrb21tYTXLmg",
-      "title": "Office & Feelgood Manager (m/w/d) - München",
-      "company": "1KOMMA5˚",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-22T19:00:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/office-feelgood-manager-munchen-munich-478185"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzgwMTcyMDAzP2doX2ppZD03NzgwMTcyMDAzfGFzc29jaWF0ZSBnZW5lcmFsIGNvdW5zZWwsIHByaXZhY3kgJiBjb21wbGlhbmNlfG5ldXJhbGluaw",
