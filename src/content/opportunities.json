@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T14:22:32.470Z",
+  "generatedAt": "2026-06-26T19:45:42.065Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -16,9 +16,22 @@
       "opportunityType": "professional / experienced",
       "source": "Arbeitnow",
       "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-26T11:30:43.000Z",
+      "postedDate": "2026-06-26T15:59:02.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/code-gaia/senior-software-engineer-full-stack-all-genders-berlin-333447"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb3B0YW5vLWdtYmgvYW5hbHl0aWNzLXNvZnR3YXJlLWVuZ2luZWVyLXBhZGVyYm9ybi0yMzA4MjF8YW5hbHl0aWNzIHNvZnR3YXJlIGVuZ2luZWVyIChtL3cvZCl8b3B0YW5vIGdtYmg",
+      "title": "Analytics Software Engineer (m/w/d)",
+      "company": "OPTANO GmbH",
+      "location": "Paderborn",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-26T14:30:32.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/optano-gmbh/analytics-software-engineer-paderborn-230821"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGV1dHNjaGVyLWJhdXNlcnZpY2UtZ21iaC9wcm9qZWt0ZW50d2lja2xlci1mdXItZXJuZXVlcmJhcmUtZW5lcmdpZW4tbW9sYmVyZ2VuLTYxOTZ8cHJvamVrdGVudHdpY2tsZXIgKG0vdy9kKSBmw7xyIGVybmV1ZXJiYXJlIGVuZXJnaWVufGRldXRzY2hlciBiYXVzZXJ2aWNlIGdtYmg",
