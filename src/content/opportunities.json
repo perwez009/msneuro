@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T03:36:00.340Z",
+  "generatedAt": "2026-06-26T09:24:09.717Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -19,32 +19,6 @@
       "postedDate": "2026-06-25T12:10:38.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-6196"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWlvcy1jb3JlLXByb2R1Y3Qtc3R1dHRnYXJ0LWdlcm1hbnktNDg0NDU5fHNvZnR3YXJlIGVuZ2luZWVyLCBpb3MgY29yZSBwcm9kdWN0IC0gc3R1dHRnYXJ0LCBnZXJtYW55fHNwZWVjaGlmeQ",
-      "title": "Software Engineer, iOS Core Product - Stuttgart, Germany",
-      "company": "Speechify",
-      "location": "Stuttgart, Baden-Württemberg, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-24T20:45:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-stuttgart-germany-484459"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC1hbmRyb2lkLWNvcmUtcHJvZHVjdC1jb2xvZ25lLWdlcm1hbnktMTA1NDgwfHRlY2ggbGVhZCwgYW5kcm9pZCBjb3JlIHByb2R1Y3QgLSBjb2xvZ25lLCBnZXJtYW55fHNwZWVjaGlmeQ",
-      "title": "Tech Lead, Android Core Product - Cologne, Germany",
-      "company": "Speechify",
-      "location": "Cologne, North Rhine-Westphalia, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-24T20:45:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-cologne-germany-105480"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tY29sb2duZS1nZXJtYW55LTQ2MTgzNXxzb2Z0d2FyZSBlbmdpbmVlciwgZGF0YSBpbmZyYXN0cnVjdHVyZSAmIGFjcXVpc2l0aW9uIC0gY29sb2duZSwgZ2VybWFueXxzcGVlY2hpZnk",
@@ -84,6 +58,19 @@
       "postedDate": "2026-06-24T17:12:16.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7784040003?gh_jid=7784040003"
+    },
+    {
+      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvYWxsLW90aGVycy9taWQtc2VuaW9yLWFpLWNpbmVtYXRpYy12aWRlby1lZGl0b3ItMjA5MTAzNXxtaWQvc2VuaW9yIGFpIGNpbmVtYXRpYyB2aWRlbyBlZGl0b3J8ZXZlcmFp",
+      "title": "Mid/Senior AI Cinematic Video Editor",
+      "company": "EverAI",
+      "location": "Worldwide",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Remotive",
+      "sourceUrl": "https://remotive.com",
+      "postedDate": "2026-06-24T11:41:57.000Z",
+      "applyBy": null,
+      "url": "https://remotive.com/remote-jobs/all-others/mid-senior-ai-cinematic-video-editor-2091035"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzgyNTYwMDAzP2doX2ppZD03NzgyNTYwMDAzfGNvbnN0cnVjdGlvbiBzdXBlcmludGVuZGVudHxuZXVyYWxpbms",
@@ -149,19 +136,6 @@
       "postedDate": "2026-06-22T17:02:55.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7780172003?gh_jid=7780172003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZ3JlZW50ZWNoLWNvcnBvcmF0ZS1zb2x1dGlvbnMtZ21iaC9iYXVsZWl0ZXJpbi1waG90b3ZvbHRhaWstaGFtYnVyZy0xMDEzNnxiYXVsZWl0ZXIqaW4gcGhvdG92b2x0YWlrfGdyZWVudGVjaCBjb3Jwb3JhdGUgc29sdXRpb25zIGdtYmg",
-      "title": "Bauleiter*in Photovoltaik",
-      "company": "greentech corporate solutions GmbH",
-      "location": "Hamburg",
-      "workModel": "Remote",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-22T12:00:57.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/greentech-corporate-solutions-gmbh/bauleiterin-photovoltaik-hamburg-10136"
     },
     {
       "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvbWlkLXNlbmlvci1haS1jaW5lbWF0aWMtdmlkZW8tZWRpdG9yLTIwOTA4ODd8bWlkL3NlbmlvciBhaSBjaW5lbWF0aWMgdmlkZW8gZWRpdG9yfGV2ZXJhaQ",
