@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T13:44:02.325Z",
+  "generatedAt": "2026-06-28T19:18:11.384Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYmFyYnJhaW4tZ21iaC9mb3VuZGVycy1hc3NvY2lhdGUtbXVuaWNoLTIwODIwNXxmb3VuZGVycyBhc3NvY2lhdGUgKG0vdy9kKXxiYXJicmFpbiBnbWJo",
+      "title": "Founders Associate (m/w/d)",
+      "company": "BarBrain GmbH",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-28T12:00:26.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/barbrain-gmbh/founders-associate-munich-208205"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29kZS1nYWlhL3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1mdWxsLXN0YWNrLWFsbC1nZW5kZXJzLWJlcmxpbi0zMzM0NDd8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyIGZ1bGwgc3RhY2sgKGFsbCBnZW5kZXJzKXxjb2RlIGdhaWE",
       "title": "Senior Software Engineer Full Stack (all genders)",
