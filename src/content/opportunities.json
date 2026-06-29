@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T10:57:00.965Z",
+  "generatedAt": "2026-06-29T15:43:52.847Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -151,6 +151,19 @@
       "url": "https://www.arbeitnow.com/jobs/companies/barbrain-gmbh/founders-associate-munich-208205"
     },
     {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29kZS1nYWlhL3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1mdWxsLXN0YWNrLWFsbC1nZW5kZXJzLWJlcmxpbi0zMzM0NDd8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyIGZ1bGwgc3RhY2sgKGFsbCBnZW5kZXJzKXxjb2RlIGdhaWE",
+      "title": "Senior Software Engineer Full Stack (all genders)",
+      "company": "Code Gaia",
+      "location": "Berlin",
+      "workModel": "Remote",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-26T15:59:02.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/code-gaia/senior-software-engineer-full-stack-all-genders-berlin-333447"
+    },
+    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb3B0YW5vLWdtYmgvYW5hbHl0aWNzLXNvZnR3YXJlLWVuZ2luZWVyLXBhZGVyYm9ybi0yMzA4MjF8YW5hbHl0aWNzIHNvZnR3YXJlIGVuZ2luZWVyIChtL3cvZCl8b3B0YW5vIGdtYmg",
       "title": "Analytics Software Engineer (m/w/d)",
       "company": "OPTANO GmbH",
@@ -175,58 +188,6 @@
       "postedDate": "2026-06-25T12:10:38.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-6196"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWlvcy1jb3JlLXByb2R1Y3Qtc3R1dHRnYXJ0LWdlcm1hbnktNDg0NDU5fHNvZnR3YXJlIGVuZ2luZWVyLCBpb3MgY29yZSBwcm9kdWN0IC0gc3R1dHRnYXJ0LCBnZXJtYW55fHNwZWVjaGlmeQ",
-      "title": "Software Engineer, iOS Core Product - Stuttgart, Germany",
-      "company": "Speechify",
-      "location": "Stuttgart, Baden-Württemberg, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-24T20:45:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-stuttgart-germany-484459"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC1hbmRyb2lkLWNvcmUtcHJvZHVjdC1jb2xvZ25lLWdlcm1hbnktMTA1NDgwfHRlY2ggbGVhZCwgYW5kcm9pZCBjb3JlIHByb2R1Y3QgLSBjb2xvZ25lLCBnZXJtYW55fHNwZWVjaGlmeQ",
-      "title": "Tech Lead, Android Core Product - Cologne, Germany",
-      "company": "Speechify",
-      "location": "Cologne, North Rhine-Westphalia, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-24T20:45:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-cologne-germany-105480"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tY29sb2duZS1nZXJtYW55LTQ2MTgzNXxzb2Z0d2FyZSBlbmdpbmVlciwgZGF0YSBpbmZyYXN0cnVjdHVyZSAmIGFjcXVpc2l0aW9uIC0gY29sb2duZSwgZ2VybWFueXxzcGVlY2hpZnk",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Cologne, Germany",
-      "company": "Speechify",
-      "location": "Cologne, North Rhine-Westphalia, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-24T20:45:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-cologne-germany-461835"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWJlcmxpbi1nZXJtYW55LTQ2ODUxOXxzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBiZXJsaW4sIGdlcm1hbnl8c3BlZWNoaWZ5",
-      "title": "Software Engineer, Platform - Berlin, Germany",
-      "company": "Speechify",
-      "location": "Berlin, Berlin, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-24T20:45:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-berlin-germany-468519"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzg0MDQwMDAzP2doX2ppZD03Nzg0MDQwMDAzfGFzc29jaWF0ZSBwcm9qZWN0IG1hbmFnZXIsIGNvbnN0cnVjdGlvbiBtYW5hZ2VtZW50fG5ldXJhbGluaw",
