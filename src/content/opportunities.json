@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T19:18:11.384Z",
+  "generatedAt": "2026-06-29T03:48:31.495Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -630,19 +630,6 @@
       "postedDate": "2026-03-31T19:58:36.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7676313003?gh_jid=7676313003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Njg0MzQ3MDAzP2doX2ppZD03Njg0MzQ3MDAzfGZpZWxkIGNsaW5pY2FsIGVuZ2luZWVyfG5ldXJhbGluaw",
-      "title": "Field Clinical Engineer",
-      "company": "Neuralink",
-      "location": "South San Francisco, California, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-03-30T20:52:04.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7684347003?gh_jid=7684347003"
     }
   ]
 }
