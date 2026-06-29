@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T15:43:52.847Z",
+  "generatedAt": "2026-06-29T19:55:54.628Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdm9pZHMtdGVjaG5vbG9neS1nbWJoL3Nlbmlvci1kYXRhLXNjaWVudGlzdC1kZW1hbmQtZm9yZWNhc3RpbmctaGFtYnVyZy0yNDUzMDV8c2VuaW9yIGRhdGEgc2NpZW50aXN0IC0gZGVtYW5kIGZvcmVjYXN0aW5nIChmL20vZCl8dm9pZHMgdGVjaG5vbG9neSBnbWJo",
+      "title": "Senior Data Scientist - Demand Forecasting (f/m/d)",
+      "company": "VOIDS Technology GmbH",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-29T17:30:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/voids-technology-gmbh/senior-data-scientist-demand-forecasting-hamburg-245305"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzg4NzU1MDAzP2doX2ppZD03Nzg4NzU1MDAzfGVuZ2luZWVyaW5nIHRlY2huaWNpYW4gLSBtYXRlcmlhbHN8bmV1cmFsaW5r",
+      "title": "Engineering Technician - Materials",
+      "company": "Neuralink",
+      "location": "South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-06-29T16:12:44.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7788755003?gh_jid=7788755003"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC13ZWItY29yZS1wcm9kdWN0LWNocm9tZS1leHRlbnNpb24tY29sb2duZS1nZXJtYW55LTIxMTYzN3x0ZWNoIGxlYWQsIHdlYiBjb3JlIHByb2R1Y3QgJiBjaHJvbWUgZXh0ZW5zaW9uIC0gY29sb2duZSwgZ2VybWFueXxzcGVlY2hpZnk",
       "title": "Tech Lead, Web Core Product & Chrome Extension - Cologne, Germany",
@@ -305,19 +331,6 @@
       "postedDate": "2026-06-12T18:49:13.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7772049003?gh_jid=7772049003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzY2MTI4MDAzP2doX2ppZD03NzY2MTI4MDAzfHN5c3RlbXMgJiBwcm9jZXNzIGVuZ2luZWVyIHxuZXVyYWxpbms",
-      "title": "Systems & Process Engineer ",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-06-08T16:04:38.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7766128003?gh_jid=7766128003"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzY0MDg2MDAzP2doX2ppZD03NzY0MDg2MDAzfG1yaSAmIGN0IHRlY2hub2xvZ2lzdCAocGFydC10aW1lKXxuZXVyYWxpbms",
