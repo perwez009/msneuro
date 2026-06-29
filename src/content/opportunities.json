@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T03:48:31.495Z",
+  "generatedAt": "2026-06-29T10:57:00.965Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,136 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC13ZWItY29yZS1wcm9kdWN0LWNocm9tZS1leHRlbnNpb24tY29sb2duZS1nZXJtYW55LTIxMTYzN3x0ZWNoIGxlYWQsIHdlYiBjb3JlIHByb2R1Y3QgJiBjaHJvbWUgZXh0ZW5zaW9uIC0gY29sb2duZSwgZ2VybWFueXxzcGVlY2hpZnk",
+      "title": "Tech Lead, Web Core Product & Chrome Extension - Cologne, Germany",
+      "company": "Speechify",
+      "location": "Cologne, North Rhine-Westphalia, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-29T06:45:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-web-core-product-chrome-extension-cologne-germany-211637"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC13ZWItY29yZS1wcm9kdWN0LWNocm9tZS1leHRlbnNpb24taGFtYnVyZy1nZXJtYW55LTc3Njc5fHRlY2ggbGVhZCwgd2ViIGNvcmUgcHJvZHVjdCAmIGNocm9tZSBleHRlbnNpb24gLSBoYW1idXJnLCBnZXJtYW55fHNwZWVjaGlmeQ",
+      "title": "Tech Lead, Web Core Product & Chrome Extension - Hamburg, Germany",
+      "company": "Speechify",
+      "location": "Hamburg, Hamburg, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-29T06:45:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-web-core-product-chrome-extension-hamburg-germany-77679"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC13ZWItY29yZS1wcm9kdWN0LWNocm9tZS1leHRlbnNpb24tbXVuaWNoLWdlcm1hbnktMzI2ODg4fHRlY2ggbGVhZCwgd2ViIGNvcmUgcHJvZHVjdCAmIGNocm9tZSBleHRlbnNpb24gLSBtdW5pY2gsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Tech Lead, Web Core Product & Chrome Extension - Munich, Germany",
+      "company": "Speechify",
+      "location": "Munich, Bavaria, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-29T06:45:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-web-core-product-chrome-extension-munich-germany-326888"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC1hbmRyb2lkLWNvcmUtcHJvZHVjdC1kdXNzZWxkb3JmLWdlcm1hbnktZHVzc2VsZG9yZi0xNTE4OTV8dGVjaCBsZWFkLCBhbmRyb2lkIGNvcmUgcHJvZHVjdCAtIGTDvHNzZWxkb3JmLCBnZXJtYW55fHNwZWVjaGlmeQ",
+      "title": "Tech Lead, Android Core Product - Düsseldorf, Germany",
+      "company": "Speechify",
+      "location": "Dusseldorf, North Rhine-Westphalia, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-29T06:45:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-dusseldorf-germany-dusseldorf-151895"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC1hbmRyb2lkLWNvcmUtcHJvZHVjdC1mcmFua2Z1cnQtZ2VybWFueS0yMjI5NTd8dGVjaCBsZWFkLCBhbmRyb2lkIGNvcmUgcHJvZHVjdCAtIGZyYW5rZnVydCwgZ2VybWFueXxzcGVlY2hpZnk",
+      "title": "Tech Lead, Android Core Product - Frankfurt, Germany",
+      "company": "Speechify",
+      "location": "Frankfurt, Hesse, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-29T06:45:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-frankfurt-germany-222957"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3RlY2gtbGVhZC1hbmRyb2lkLWNvcmUtcHJvZHVjdC1tdW5pY2gtZ2VybWFueS00OTA4MjJ8dGVjaCBsZWFkLCBhbmRyb2lkIGNvcmUgcHJvZHVjdCAtIG11bmljaCwgZ2VybWFueXxzcGVlY2hpZnk",
+      "title": "Tech Lead, Android Core Product - Munich, Germany",
+      "company": "Speechify",
+      "location": "Munich, Bavaria, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-29T06:45:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-munich-germany-490822"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tbXVuaWNoLWdlcm1hbnktNDIyOTkzfHNvZnR3YXJlIGVuZ2luZWVyLCBkYXRhIGluZnJhc3RydWN0dXJlICYgYWNxdWlzaXRpb24gLSBtdW5pY2gsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Munich, Germany",
+      "company": "Speechify",
+      "location": "Munich, Bavaria, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-29T06:45:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-munich-germany-422993"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLXN0dXR0Z2FydC1nZXJtYW55LTQzMDI5NHxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIHdpbmRvd3MvZGVza3RvcCBhcHBsaWNhdGlvbnMgLSBzdHV0dGdhcnQsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - Stuttgart, Germany",
+      "company": "Speechify",
+      "location": "Stuttgart, Baden-Württemberg, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-29T06:45:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-stuttgart-germany-430294"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLW11bmljaC1nZXJtYW55LTMxMTQ5MHxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIHdpbmRvd3MvZGVza3RvcCBhcHBsaWNhdGlvbnMgLSBtdW5pY2gsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - Munich, Germany",
+      "company": "Speechify",
+      "location": "Munich, Bavaria, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-29T06:45:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-munich-germany-311490"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLXN0dXR0Z2FydC1nZXJtYW55LTE0MzU5OXxzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBzdHV0dGdhcnQsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Software Engineer, Platform - Stuttgart, Germany",
+      "company": "Speechify",
+      "location": "Stuttgart, Baden-Württemberg, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-29T06:45:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-stuttgart-germany-143599"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYmFyYnJhaW4tZ21iaC9mb3VuZGVycy1hc3NvY2lhdGUtbXVuaWNoLTIwODIwNXxmb3VuZGVycyBhc3NvY2lhdGUgKG0vdy9kKXxiYXJicmFpbiBnbWJo",
       "title": "Founders Associate (m/w/d)",
@@ -19,19 +149,6 @@
       "postedDate": "2026-06-28T12:00:26.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/barbrain-gmbh/founders-associate-munich-208205"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29kZS1nYWlhL3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1mdWxsLXN0YWNrLWFsbC1nZW5kZXJzLWJlcmxpbi0zMzM0NDd8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyIGZ1bGwgc3RhY2sgKGFsbCBnZW5kZXJzKXxjb2RlIGdhaWE",
-      "title": "Senior Software Engineer Full Stack (all genders)",
-      "company": "Code Gaia",
-      "location": "Berlin",
-      "workModel": "Remote",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-26T15:59:02.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/code-gaia/senior-software-engineer-full-stack-all-genders-berlin-333447"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb3B0YW5vLWdtYmgvYW5hbHl0aWNzLXNvZnR3YXJlLWVuZ2luZWVyLXBhZGVyYm9ybi0yMzA4MjF8YW5hbHl0aWNzIHNvZnR3YXJlIGVuZ2luZWVyIChtL3cvZCl8b3B0YW5vIGdtYmg",
