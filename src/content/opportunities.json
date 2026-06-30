@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T09:33:20.454Z",
+  "generatedAt": "2026-06-30T14:16:24.076Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,45 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvanVuaW5pLWdtYmgvZm91bmRpbmctZW5naW5lZXItYmVybGluLTk4NTg2fGZvdW5kaW5nIGVuZ2luZWVyfGp1bmluaSBnbWJo",
+      "title": "Founding Engineer",
+      "company": "Junini GmbH",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-30T11:30:59.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/junini-gmbh/founding-engineer-berlin-98586"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2FwcGktZWhpbmdlbi1nbWJoL21hbmFnZXItb3BlcmF0aW9uLW1lY2hhbmlrLWVoaW5nZW4tMzE5NjI1fG1hbmFnZXIgb3BlcmF0aW9uIG1lY2hhbmlrIChtL3cvZCl8c2FwcGkgZWhpbmdlbiBnbWJo",
+      "title": "Manager Operation Mechanik (m/w/d)",
+      "company": "Sappi Ehingen GmbH",
+      "location": "Ehingen",
+      "workModel": "On-site",
+      "opportunityType": "teamleitung",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-30T10:30:31.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/sappi-ehingen-gmbh/manager-operation-mechanik-ehingen-319625"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmN0ZS1hZy93ZXJrc3R1ZGVudC1pbS1jb250cm9sbGluZy1vYmVyaGFjaGluZy05ODgzOXx3ZXJrc3R1ZGVudCBpbSBjb250cm9sbGluZyAobS93L2QpfG5jdGUgYWc",
+      "title": "Werkstudent im Controlling (m/w/d)",
+      "company": "NCTE AG",
+      "location": "Oberhaching",
+      "workModel": "On-site",
+      "opportunityType": "Working student, berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-30T09:00:33.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/ncte-ag/werkstudent-im-controlling-oberhaching-98839"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdm9pZHMtdGVjaG5vbG9neS1nbWJoL3Nlbmlvci1kYXRhLXNjaWVudGlzdC1kZW1hbmQtZm9yZWNhc3RpbmctaGFtYnVyZy0yNDUzMDV8c2VuaW9yIGRhdGEgc2NpZW50aXN0IC0gZGVtYW5kIGZvcmVjYXN0aW5nIChmL20vZCl8dm9pZHMgdGVjaG5vbG9neSBnbWJo",
       "title": "Senior Data Scientist - Demand Forecasting (f/m/d)",
@@ -164,6 +203,19 @@
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-stuttgart-germany-143599"
     },
     {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYmFyYnJhaW4tZ21iaC9mb3VuZGVycy1hc3NvY2lhdGUtbXVuaWNoLTIwODIwNXxmb3VuZGVycyBhc3NvY2lhdGUgKG0vdy9kKXxiYXJicmFpbiBnbWJo",
+      "title": "Founders Associate (m/w/d)",
+      "company": "BarBrain GmbH",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-06-28T12:00:26.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/barbrain-gmbh/founders-associate-munich-208205"
+    },
+    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29kZS1nYWlhL3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1mdWxsLXN0YWNrLWFsbC1nZW5kZXJzLWJlcmxpbi0zMzM0NDd8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyIGZ1bGwgc3RhY2sgKGFsbCBnZW5kZXJzKXxjb2RlIGdhaWE",
       "title": "Senior Software Engineer Full Stack (all genders)",
       "company": "Code Gaia",
@@ -188,19 +240,6 @@
       "postedDate": "2026-06-26T14:30:32.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/optano-gmbh/analytics-software-engineer-paderborn-230821"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGV1dHNjaGVyLWJhdXNlcnZpY2UtZ21iaC9wcm9qZWt0ZW50d2lja2xlci1mdXItZXJuZXVlcmJhcmUtZW5lcmdpZW4tbW9sYmVyZ2VuLTYxOTZ8cHJvamVrdGVudHdpY2tsZXIgKG0vdy9kKSBmw7xyIGVybmV1ZXJiYXJlIGVuZXJnaWVufGRldXRzY2hlciBiYXVzZXJ2aWNlIGdtYmg",
-      "title": "Projektentwickler (m/w/d) für erneuerbare Energien",
-      "company": "Deutscher Bauservice GmbH",
-      "location": "Molbergen",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-25T12:10:38.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-6196"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzg0MDQwMDAzP2doX2ppZD03Nzg0MDQwMDAzfGFzc29jaWF0ZSBwcm9qZWN0IG1hbmFnZXIsIGNvbnN0cnVjdGlvbiBtYW5hZ2VtZW50fG5ldXJhbGluaw",
