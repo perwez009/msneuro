@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T09:42:58.920Z",
+  "generatedAt": "2026-07-01T14:32:48.848Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbW90b3ItYWkvbGVhZC1ob21vbG9nYXRpb24tZW5naW5lZXItYmVybGluLTIzNzc0NXxsZWFkIGhvbW9sb2dhdGlvbiBlbmdpbmVlciAobS93L2QpfG1vdG9yIGFp",
+      "title": "Lead Homologation Engineer (m/w/d)",
+      "company": "MOTOR Ai",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-01T09:30:56.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/motor-ai/lead-homologation-engineer-berlin-237745"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcGxhbnRhY29ycC1nbWJoL3dlcmtzdHVkZW50LWJ1Y2hoYWx0dW5nLWZpbmFuY2UtaGFtYnVyZy0xOTg3NTJ8d2Vya3N0dWRlbnQgYnVjaGhhbHR1bmcgLyBmaW5hbmNlICh3L20vZCl8cGxhbnRhY29ycCBnbWJo",
+      "title": "Werkstudent Buchhaltung / Finance (w/m/d)",
+      "company": "PlantaCorp GmbH",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Working student, hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-01T08:31:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/plantacorp-gmbh/werkstudent-buchhaltung-finance-hamburg-198752"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGFnbGljaHRlY2huaWsvbWluaWpvYi1kb2t1LWF1dG9yaW4tcmVjaGVyY2hlLXNrcmlwdC1mdXIteW91dHViZS1nZXN1Y2h0LW11bmljaC0zNDQ0OTZ8bWluaWpvYjogZG9rdS1hdXRvcjppbiAvIHJlY2hlcmNoZSAmIHNrcmlwdCAobS93L2QpIGbDvHIgeW91dHViZSBnZXN1Y2h0IXx0w6RnbGljaHRlY2huaWs",
       "title": "Minijob: Doku-Autor:in / Recherche & Skript (m/w/d) für YouTube gesucht!",
@@ -240,19 +266,6 @@
       "postedDate": "2026-06-28T12:00:26.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/barbrain-gmbh/founders-associate-munich-208205"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29kZS1nYWlhL3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1mdWxsLXN0YWNrLWFsbC1nZW5kZXJzLWJlcmxpbi0zMzM0NDd8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyIGZ1bGwgc3RhY2sgKGFsbCBnZW5kZXJzKXxjb2RlIGdhaWE",
-      "title": "Senior Software Engineer Full Stack (all genders)",
-      "company": "Code Gaia",
-      "location": "Berlin",
-      "workModel": "Remote",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-26T15:59:02.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/code-gaia/senior-software-engineer-full-stack-all-genders-berlin-333447"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb3B0YW5vLWdtYmgvYW5hbHl0aWNzLXNvZnR3YXJlLWVuZ2luZWVyLXBhZGVyYm9ybi0yMzA4MjF8YW5hbHl0aWNzIHNvZnR3YXJlIGVuZ2luZWVyIChtL3cvZCl8b3B0YW5vIGdtYmg",
