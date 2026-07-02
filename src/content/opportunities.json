@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T13:57:50.390Z",
+  "generatedAt": "2026-07-02T19:22:47.769Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGV1dHNjaGVyLWJhdXNlcnZpY2UtZ21iaC9wcm9qZWt0ZW50d2lja2xlci1mdXItZXJuZXVlcmJhcmUtZW5lcmdpZW4tbW9sYmVyZ2VuLTQ4MjU0MHxwcm9qZWt0ZW50d2lja2xlciAobS93L2QpIGbDvHIgZXJuZXVlcmJhcmUgZW5lcmdpZW58ZGV1dHNjaGVyIGJhdXNlcnZpY2UgZ21iaA",
+      "title": "Projektentwickler (m/w/d) für erneuerbare Energien",
+      "company": "Deutscher Bauservice GmbH",
+      "location": "Molbergen",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-02T14:00:41.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-482540"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcmV2b3Rpb24tZ21iaC9lbWJlZGRlZC1zb2Z0d2FyZS1lbnR3aWNrbHVuZy12b2xsemVpdC1jLWVzcDMyLWJsZS1pb3QtZHVzc2VsZG9yZi0zNTcxMHxlbWJlZGRlZCBzb2Z0d2FyZS1lbnR3aWNrbHVuZyB2b2xsemVpdCAobS93L2QpIGMsIGVzcDMyLCBibGUsIGlvdHxyZXZvdGlvbiBnbWJo",
       "title": "Embedded Software-Entwicklung Vollzeit (M/W/D) C, ESP32, BLE, IoT",
