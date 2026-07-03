@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T14:01:12.475Z",
+  "generatedAt": "2026-07-03T19:20:21.016Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmVvbHltcC9jb250ZW50LXN0cmF0ZWdpc3QtZS1jb21tZXJjZS1iZXJsaW4tMTczMzg4fGNvbnRlbnQgc3RyYXRlZ2lzdCAobS93L2QpIGUtY29tbWVyY2V8bmVvbHltcA",
+      "title": "Content Strategist (m/w/d) E-Commerce",
+      "company": "Neolymp",
+      "location": "Berlin",
+      "workModel": "Remote",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-03T16:00:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/neolymp/content-strategist-e-commerce-berlin-173388"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZpZGVudC1ldXJvcGUtZ21iaC9zb2Z0d2FyZS1lbmdpbmVlci1jLXdpbmRvd3MtZGlnaXRhbC1taWNyb3Njb3B5LW11bnN0ZXItMjkwNzAxfHNvZnR3YXJlIGVuZ2luZWVyIGMrKyAod2luZG93cykgLSBkaWdpdGFsIG1pY3Jvc2NvcHkgKG0vZi9kKXxldmlkZW50IGV1cm9wZSBnbWJo",
       "title": "Software Engineer C++ (Windows) - Digital Microscopy (m/f/d)",
@@ -123,58 +136,6 @@
       "postedDate": "2026-06-30T21:00:30.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/taglichtechnik/minijob-doku-autorin-recherche-skript-fur-youtube-gesucht-munich-344496"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvanVuaW5pLWdtYmgvZm91bmRpbmctZW5naW5lZXItYmVybGluLTk4NTg2fGZvdW5kaW5nIGVuZ2luZWVyfGp1bmluaSBnbWJo",
-      "title": "Founding Engineer",
-      "company": "Junini GmbH",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-30T15:59:02.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/junini-gmbh/founding-engineer-berlin-98586"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29kZW1hbnVmYWt0dXItZ21iaC93ZXJrc3R1ZGVudC1tYXJrZXRpbmctZXJsYW5nZW4tMjg4OHx3ZXJrc3R1ZGVudCAobS93L2QpIG1hcmtldGluZ3xjb2RlbWFudWZha3R1ciBnbWJo",
-      "title": "Werkstudent (m/w/d) Marketing",
-      "company": "codemanufaktur GmbH",
-      "location": "Erlangen",
-      "workModel": "On-site",
-      "opportunityType": "Working student, hilfstätigkeit / student",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-30T15:30:36.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/codemanufaktur-gmbh/werkstudent-marketing-erlangen-2888"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2FwcGktZWhpbmdlbi1nbWJoL21hbmFnZXItb3BlcmF0aW9uLW1lY2hhbmlrLWVoaW5nZW4tMzE5NjI1fG1hbmFnZXIgb3BlcmF0aW9uIG1lY2hhbmlrIChtL3cvZCl8c2FwcGkgZWhpbmdlbiBnbWJo",
-      "title": "Manager Operation Mechanik (m/w/d)",
-      "company": "Sappi Ehingen GmbH",
-      "location": "Ehingen",
-      "workModel": "On-site",
-      "opportunityType": "teamleitung",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-30T10:30:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/sappi-ehingen-gmbh/manager-operation-mechanik-ehingen-319625"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmN0ZS1hZy93ZXJrc3R1ZGVudC1pbS1jb250cm9sbGluZy1vYmVyaGFjaGluZy05ODgzOXx3ZXJrc3R1ZGVudCBpbSBjb250cm9sbGluZyAobS93L2QpfG5jdGUgYWc",
-      "title": "Werkstudent im Controlling (m/w/d)",
-      "company": "NCTE AG",
-      "location": "Oberhaching",
-      "workModel": "On-site",
-      "opportunityType": "Working student, berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-30T09:00:33.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/ncte-ag/werkstudent-im-controlling-oberhaching-98839"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzg4NzU1MDAzP2doX2ppZD03Nzg4NzU1MDAzfGVuZ2luZWVyaW5nIHRlY2huaWNpYW4gLSBtYXRlcmlhbHN8bmV1cmFsaW5r",
