@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T09:16:11.489Z",
+  "generatedAt": "2026-07-03T14:01:12.475Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZpZGVudC1ldXJvcGUtZ21iaC9zb2Z0d2FyZS1lbmdpbmVlci1jLXdpbmRvd3MtZGlnaXRhbC1taWNyb3Njb3B5LW11bnN0ZXItMjkwNzAxfHNvZnR3YXJlIGVuZ2luZWVyIGMrKyAod2luZG93cykgLSBkaWdpdGFsIG1pY3Jvc2NvcHkgKG0vZi9kKXxldmlkZW50IGV1cm9wZSBnbWJo",
+      "title": "Software Engineer C++ (Windows) - Digital Microscopy (m/f/d)",
+      "company": "EVIDENT Europe GmbH",
+      "location": "Münster",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-03T12:00:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/evident-europe-gmbh/software-engineer-c-windows-digital-microscopy-munster-290701"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZmx1Z2hhZmVuLWZyaWVkcmljaHNoYWZlbi1nbWJoL2hyLW9wZXJhdGlvbnMtc3BlY2lhbGlzdC1mcmllZHJpY2hzaGFmZW4tMTcxMTM4fGhyIG9wZXJhdGlvbnMgc3BlY2lhbGlzdCAobS93L2QpfGZsdWdoYWZlbiBmcmllZHJpY2hzaGFmZW4gZ21iaA",
       "title": "HR Operations Specialist (m/w/d)",
@@ -86,6 +99,19 @@
       "url": "https://www.arbeitnow.com/jobs/companies/motor-ai/lead-homologation-engineer-berlin-237745"
     },
     {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcGxhbnRhY29ycC1nbWJoL3dlcmtzdHVkZW50LWJ1Y2hoYWx0dW5nLWZpbmFuY2UtaGFtYnVyZy0xOTg3NTJ8d2Vya3N0dWRlbnQgYnVjaGhhbHR1bmcgLyBmaW5hbmNlICh3L20vZCl8cGxhbnRhY29ycCBnbWJo",
+      "title": "Werkstudent Buchhaltung / Finance (w/m/d)",
+      "company": "PlantaCorp GmbH",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Working student, hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-01T08:31:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/plantacorp-gmbh/werkstudent-buchhaltung-finance-hamburg-198752"
+    },
+    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGFnbGljaHRlY2huaWsvbWluaWpvYi1kb2t1LWF1dG9yaW4tcmVjaGVyY2hlLXNrcmlwdC1mdXIteW91dHViZS1nZXN1Y2h0LW11bmljaC0zNDQ0OTZ8bWluaWpvYjogZG9rdS1hdXRvcjppbiAvIHJlY2hlcmNoZSAmIHNrcmlwdCAobS93L2QpIGbDvHIgeW91dHViZSBnZXN1Y2h0IXx0w6RnbGljaHRlY2huaWs",
       "title": "Minijob: Doku-Autor:in / Recherche & Skript (m/w/d) für YouTube gesucht!",
       "company": "TäglichTechnik",
@@ -149,19 +175,6 @@
       "postedDate": "2026-06-30T09:00:33.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/ncte-ag/werkstudent-im-controlling-oberhaching-98839"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdm9pZHMtdGVjaG5vbG9neS1nbWJoL3Nlbmlvci1kYXRhLXNjaWVudGlzdC1kZW1hbmQtZm9yZWNhc3RpbmctaGFtYnVyZy0yNDUzMDV8c2VuaW9yIGRhdGEgc2NpZW50aXN0IC0gZGVtYW5kIGZvcmVjYXN0aW5nIChmL20vZCl8dm9pZHMgdGVjaG5vbG9neSBnbWJo",
-      "title": "Senior Data Scientist - Demand Forecasting (f/m/d)",
-      "company": "VOIDS Technology GmbH",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-29T17:30:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/voids-technology-gmbh/senior-data-scientist-demand-forecasting-hamburg-245305"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzg4NzU1MDAzP2doX2ppZD03Nzg4NzU1MDAzfGVuZ2luZWVyaW5nIHRlY2huaWNpYW4gLSBtYXRlcmlhbHN8bmV1cmFsaW5r",
