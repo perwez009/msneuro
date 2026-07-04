@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T08:35:03.818Z",
+  "generatedAt": "2026-07-04T13:22:46.681Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9yZHJhbi10ZWNobm9sb2dpZXMvaGVhZC1vZi1yZC1iZXJsaW4tMTY3MjAyfGhlYWQgb2YgciZkfG5vcmRyYW4gdGVjaG5vbG9naWVz",
+      "title": "Head of R&D",
+      "company": "Nordran Technologies",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "executive",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-04T09:00:26.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/nordran-technologies/head-of-rd-berlin-167202"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVxeWFyZC9zZW5pb3ItZGF0YS1raS1hcmNoaXRla3QtYnJhdW5zY2h3ZWlnLTg3NTY5fChzZW5pb3IpIGRhdGEgJiBraSBhcmNoaXRla3QgKG0vdy9kKXx0ZXF5YXJk",
       "title": "(Senior) Data & KI Architekt (m/w/d)",
