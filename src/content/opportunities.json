@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T19:20:21.016Z",
+  "generatedAt": "2026-07-04T02:48:00.547Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVxeWFyZC9zZW5pb3ItZGF0YS1raS1hcmNoaXRla3QtYnJhdW5zY2h3ZWlnLTg3NTY5fChzZW5pb3IpIGRhdGEgJiBraSBhcmNoaXRla3QgKG0vdy9kKXx0ZXF5YXJk",
+      "title": "(Senior) Data & KI Architekt (m/w/d)",
+      "company": "TEQYARD",
+      "location": "Braunschweig",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-03T18:30:31.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/teqyard/senior-data-ki-architekt-braunschweig-87569"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmVvbHltcC9jb250ZW50LXN0cmF0ZWdpc3QtZS1jb21tZXJjZS1iZXJsaW4tMTczMzg4fGNvbnRlbnQgc3RyYXRlZ2lzdCAobS93L2QpIGUtY29tbWVyY2V8bmVvbHltcA",
       "title": "Content Strategist (m/w/d) E-Commerce",
@@ -123,19 +136,6 @@
       "postedDate": "2026-07-01T08:31:13.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/plantacorp-gmbh/werkstudent-buchhaltung-finance-hamburg-198752"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGFnbGljaHRlY2huaWsvbWluaWpvYi1kb2t1LWF1dG9yaW4tcmVjaGVyY2hlLXNrcmlwdC1mdXIteW91dHViZS1nZXN1Y2h0LW11bmljaC0zNDQ0OTZ8bWluaWpvYjogZG9rdS1hdXRvcjppbiAvIHJlY2hlcmNoZSAmIHNrcmlwdCAobS93L2QpIGbDvHIgeW91dHViZSBnZXN1Y2h0IXx0w6RnbGljaHRlY2huaWs",
-      "title": "Minijob: Doku-Autor:in / Recherche & Skript (m/w/d) für YouTube gesucht!",
-      "company": "TäglichTechnik",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-06-30T21:00:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/taglichtechnik/minijob-doku-autorin-recherche-skript-fur-youtube-gesucht-munich-344496"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzg4NzU1MDAzP2doX2ppZD03Nzg4NzU1MDAzfGVuZ2luZWVyaW5nIHRlY2huaWNpYW4gLSBtYXRlcmlhbHN8bmV1cmFsaW5r",
