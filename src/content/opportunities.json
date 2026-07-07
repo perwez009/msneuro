@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T19:54:34.617Z",
+  "generatedAt": "2026-07-07T02:58:29.167Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzk2MzYyMDAzP2doX2ppZD03Nzk2MzYyMDAzfGZpZWxkIGNsaW5pY2FsIGVuZ2luZWVyfG5ldXJhbGluaw",
+      "title": "Field Clinical Engineer",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-07-06T21:39:37.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7796362003?gh_jid=7796362003"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZmx1Z2hhZmVuLWZyaWVkcmljaHNoYWZlbi1nbWJoL2hyLW9wZXJhdGlvbnMtc3BlY2lhbGlzdC1mcmllZHJpY2hzaGFmZW4tMTcxMTM4fGhyIG9wZXJhdGlvbnMgc3BlY2lhbGlzdCAobS93L2QpfGZsdWdoYWZlbiBmcmllZHJpY2hzaGFmZW4gZ21iaA",
       "title": "HR Operations Specialist (m/w/d)",
@@ -294,19 +307,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-482540"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcmV2b3Rpb24tZ21iaC9lbWJlZGRlZC1zb2Z0d2FyZS1lbnR3aWNrbHVuZy12b2xsemVpdC1jLWVzcDMyLWJsZS1pb3QtZHVzc2VsZG9yZi0zNTcxMHxlbWJlZGRlZCBzb2Z0d2FyZS1lbnR3aWNrbHVuZyB2b2xsemVpdCAobS93L2QpIGMsIGVzcDMyLCBibGUsIGlvdHxyZXZvdGlvbiBnbWJo",
-      "title": "Embedded Software-Entwicklung Vollzeit (M/W/D) C, ESP32, BLE, IoT",
-      "company": "REVOTION GmbH",
-      "location": "Düsseldorf",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-02T12:00:36.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/revotion-gmbh/embedded-software-entwicklung-vollzeit-c-esp32-ble-iot-dusseldorf-35710"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzg4NzU1MDAzP2doX2ppZD03Nzg4NzU1MDAzfGVuZ2luZWVyaW5nIHRlY2huaWNpYW4gLSBtYXRlcmlhbHN8bmV1cmFsaW5r",
       "title": "Engineering Technician - Materials",
       "company": "Neuralink",
@@ -476,8 +476,8 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/7763021003?gh_jid=7763021003"
     },
     {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzYyNzEyMDAzP2doX2ppZD03NzYyNzEyMDAzfGxvZ2lzdGljcyBjb29yZGluYXRvcnxuZXVyYWxpbms",
-      "title": "Logistics Coordinator",
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzYyNzEyMDAzP2doX2ppZD03NzYyNzEyMDAzfHNoaXBwaW5nIGFuZCByZWNlaXZpbmcgYXNzb2NpYXRlIHxuZXVyYWxpbms",
+      "title": "Shipping and Receiving Associate ",
       "company": "Neuralink",
       "location": "South San Francisco, California, United States",
       "workModel": "On-site",
