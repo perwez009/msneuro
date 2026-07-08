@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T08:25:58.074Z",
+  "generatedAt": "2026-07-08T14:02:55.414Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -32,19 +32,6 @@
       "postedDate": "2026-07-07T19:39:22.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/medoplan-gmbh/it-administrator-systemadministrator-hamelin-131840"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWVkb3BsYW4tZ21iaC9tYXJrZXRpbmctY29tbXVuaWNhdGlvbnMtbWFuYWdlci1pbi12b2xsemVpdC10ZWlsemVpdC1vZGVyLWF1Zi1zdHVuZGVuYmFzaXMtaGFtZWxpbi01NjA2NHxtYXJrZXRpbmcgJiBjb21tdW5pY2F0aW9ucyBtYW5hZ2VyIChtL3cvZCkgaW4gdm9sbHplaXQsIHRlaWx6ZWl0IG9kZXIgYXVmIHN0dW5kZW5iYXNpc3xtZWRvcGxhbiBnbWJo",
-      "title": "Marketing & Communications Manager (m/w/d) in Vollzeit, Teilzeit oder auf Stundenbasis",
-      "company": "medoplan GmbH",
-      "location": "Hamelin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-07T19:39:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/medoplan-gmbh/marketing-communications-manager-in-vollzeit-teilzeit-oder-auf-stundenbasis-hamelin-56064"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaXN1cC1nbWJoL2ludGVydmlld2VyLWZhaHJnYXN0emFobGVyLWltLWxhbmRrcmVpcy1hbmhhbHQtYml0dGVyZmVsZC13aXR0ZW5iZXJnLW1pbmlqb2ItZGVzc2F1LXJvc3NsYXUtMjk1MzB8aW50ZXJ2aWV3ZXIgLyBmYWhyZ2FzdHrDpGhsZXIgaW0gbGFuZGtyZWlzIGFuaGFsdC1iaXR0ZXJmZWxkIC8gd2l0dGVuYmVyZyAody9tL2QpIC0gbWluaWpvYnxpc3VwIGdtYmg",
@@ -294,6 +281,19 @@
       "url": "https://www.arbeitnow.com/jobs/companies/nordran-technologies/head-of-rd-berlin-167202"
     },
     {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVxeWFyZC9zZW5pb3ItZGF0YS1raS1hcmNoaXRla3QtYnJhdW5zY2h3ZWlnLTg3NTY5fChzZW5pb3IpIGRhdGEgJiBraSBhcmNoaXRla3QgKG0vdy9kKXx0ZXF5YXJk",
+      "title": "(Senior) Data & KI Architekt (m/w/d)",
+      "company": "TEQYARD",
+      "location": "Braunschweig",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-03T18:30:31.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/teqyard/senior-data-ki-architekt-braunschweig-87569"
+    },
+    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmVvbHltcC9jb250ZW50LXN0cmF0ZWdpc3QtZS1jb21tZXJjZS1iZXJsaW4tMTczMzg4fGNvbnRlbnQgc3RyYXRlZ2lzdCAobS93L2QpIGUtY29tbWVyY2V8bmVvbHltcA",
       "title": "Content Strategist (m/w/d) E-Commerce",
       "company": "Neolymp",
@@ -305,19 +305,6 @@
       "postedDate": "2026-07-03T16:00:24.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/neolymp/content-strategist-e-commerce-berlin-173388"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZpZGVudC1ldXJvcGUtZ21iaC9zb2Z0d2FyZS1lbmdpbmVlci1jLXdpbmRvd3MtZGlnaXRhbC1taWNyb3Njb3B5LW11bnN0ZXItMjkwNzAxfHNvZnR3YXJlIGVuZ2luZWVyIGMrKyAod2luZG93cykgLSBkaWdpdGFsIG1pY3Jvc2NvcHkgKG0vZi9kKXxldmlkZW50IGV1cm9wZSBnbWJo",
-      "title": "Software Engineer C++ (Windows) - Digital Microscopy (m/f/d)",
-      "company": "EVIDENT Europe GmbH",
-      "location": "Münster",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-03T12:00:35.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/evident-europe-gmbh/software-engineer-c-windows-digital-microscopy-munster-290701"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzg4NzU1MDAzP2doX2ppZD03Nzg4NzU1MDAzfGVuZ2luZWVyaW5nIHRlY2huaWNpYW4gLSBtYXRlcmlhbHN8bmV1cmFsaW5r",
