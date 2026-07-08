@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T02:34:22.754Z",
+  "generatedAt": "2026-07-08T08:25:58.074Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW5wLWRldXRzY2hsYW5kLWdtYmgvd2Vya3N0dWRlbnQtbWFjaGluZS1sZWFybmluZy1uZXVyb25hbGUtbmV0emUtYXV0b21hdGlzaWVydW5nc3RlY2huaWstcm9tZXJiZXJnLTkwMTA3fHdlcmtzdHVkZW50IChtL3cvZCkgbWFjaGluZSBsZWFybmluZyAvIG5ldXJvbmFsZSBuZXR6ZSAvIGF1dG9tYXRpc2llcnVuZ3N0ZWNobmlrfGlucCBkZXV0c2NobGFuZCBnbWJo",
+      "title": "Werkstudent (m/w/d) Machine Learning / Neuronale Netze / Automatisierungstechnik",
+      "company": "INP Deutschland GmbH",
+      "location": "Römerberg",
+      "workModel": "On-site",
+      "opportunityType": "berufseinstieg",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-08T05:30:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/inp-deutschland-gmbh/werkstudent-machine-learning-neuronale-netze-automatisierungstechnik-romerberg-90107"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWVkb3BsYW4tZ21iaC9pdC1hZG1pbmlzdHJhdG9yLXN5c3RlbWFkbWluaXN0cmF0b3ItaGFtZWxpbi0xMzE4NDB8aXQtYWRtaW5pc3RyYXRvciAvIHN5c3RlbWFkbWluaXN0cmF0b3IgKG0vdy9kKXxtZWRvcGxhbiBnbWJo",
       "title": "IT-Administrator / Systemadministrator (m/w/d)",
@@ -279,19 +292,6 @@
       "postedDate": "2026-07-04T09:00:26.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/nordran-technologies/head-of-rd-berlin-167202"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVxeWFyZC9zZW5pb3ItZGF0YS1raS1hcmNoaXRla3QtYnJhdW5zY2h3ZWlnLTg3NTY5fChzZW5pb3IpIGRhdGEgJiBraSBhcmNoaXRla3QgKG0vdy9kKXx0ZXF5YXJk",
-      "title": "(Senior) Data & KI Architekt (m/w/d)",
-      "company": "TEQYARD",
-      "location": "Braunschweig",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-03T18:30:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/teqyard/senior-data-ki-architekt-braunschweig-87569"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmVvbHltcC9jb250ZW50LXN0cmF0ZWdpc3QtZS1jb21tZXJjZS1iZXJsaW4tMTczMzg4fGNvbnRlbnQgc3RyYXRlZ2lzdCAobS93L2QpIGUtY29tbWVyY2V8bmVvbHltcA",
