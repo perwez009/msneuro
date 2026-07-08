@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T14:02:55.414Z",
+  "generatedAt": "2026-07-08T19:23:20.756Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzk5MDg4MDAzP2doX2ppZD03Nzk5MDg4MDAzfG5ldXJvc3VyZ2ljYWwgcm9ib3Qgb3BlcmF0b3J8bmV1cmFsaW5r",
+      "title": "Neurosurgical Robot Operator",
+      "company": "Neuralink",
+      "location": "South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-07-08T18:30:48.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7799088003?gh_jid=7799088003"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzk5MDYzMDAzP2doX2ppZD03Nzk5MDYzMDAzfGVudmlyb25tZW50YWwgaGVhbHRoIGFuZCBzYWZldHkgc3BlY2lhbGlzdHxuZXVyYWxpbms",
+      "title": "Environmental Health and Safety Specialist",
+      "company": "Neuralink",
+      "location": "Fremont, California, United States; South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-07-08T18:06:58.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7799063003?gh_jid=7799063003"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYnJhaW5lcnNodWItZ21iaC9ncmFmaWtkZXNpZ24taGFtYnVyZy00MzgxMDN8Z3JhZmlrZGVzaWduIChtL3cvZCl8YnJhaW5lcnNodWIgZ21iaA",
+      "title": "Grafikdesign (m/w/d)",
+      "company": "BrainersHub GmbH",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-08T14:04:02.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/brainershub-gmbh/grafikdesign-hamburg-438103"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYnJhaW4tY2FwaXRhbC1nbWJoL21pdGFyYmVpdGVyaW4tYWNjb3VudGluZy10ZWlsemVpdC01MC03NS1tb250YWJhdXItMTk4MDI3fG1pdGFyYmVpdGVyOmluIGFjY291bnRpbmcgKG0vdy9kKSB0ZWlsemVpdCAoNTAtNzUlKXxicmFpbiBjYXBpdGFsIGdtYmg",
+      "title": "Mitarbeiter:in Accounting (m/w/d) Teilzeit (50-75%)",
+      "company": "Brain Capital GmbH",
+      "location": "Montabaur",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-08T14:03:59.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/brain-capital-gmbh/mitarbeiterin-accounting-teilzeit-50-75-montabaur-198027"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW5wLWRldXRzY2hsYW5kLWdtYmgvd2Vya3N0dWRlbnQtbWFjaGluZS1sZWFybmluZy1uZXVyb25hbGUtbmV0emUtYXV0b21hdGlzaWVydW5nc3RlY2huaWstcm9tZXJiZXJnLTkwMTA3fHdlcmtzdHVkZW50IChtL3cvZCkgbWFjaGluZSBsZWFybmluZyAvIG5ldXJvbmFsZSBuZXR6ZSAvIGF1dG9tYXRpc2llcnVuZ3N0ZWNobmlrfGlucCBkZXV0c2NobGFuZCBnbWJo",
       "title": "Werkstudent (m/w/d) Machine Learning / Neuronale Netze / Automatisierungstechnik",
@@ -32,6 +84,19 @@
       "postedDate": "2026-07-07T19:39:22.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/medoplan-gmbh/it-administrator-systemadministrator-hamelin-131840"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWVkb3BsYW4tZ21iaC9tYXJrZXRpbmctY29tbXVuaWNhdGlvbnMtbWFuYWdlci1pbi12b2xsemVpdC10ZWlsemVpdC1vZGVyLWF1Zi1zdHVuZGVuYmFzaXMtaGFtZWxpbi01NjA2NHxtYXJrZXRpbmcgJiBjb21tdW5pY2F0aW9ucyBtYW5hZ2VyIChtL3cvZCkgaW4gdm9sbHplaXQsIHRlaWx6ZWl0IG9kZXIgYXVmIHN0dW5kZW5iYXNpc3xtZWRvcGxhbiBnbWJo",
+      "title": "Marketing & Communications Manager (m/w/d) in Vollzeit, Teilzeit oder auf Stundenbasis",
+      "company": "medoplan GmbH",
+      "location": "Hamelin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-07T19:39:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/medoplan-gmbh/marketing-communications-manager-in-vollzeit-teilzeit-oder-auf-stundenbasis-hamelin-56064"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaXN1cC1nbWJoL2ludGVydmlld2VyLWZhaHJnYXN0emFobGVyLWltLWxhbmRrcmVpcy1hbmhhbHQtYml0dGVyZmVsZC13aXR0ZW5iZXJnLW1pbmlqb2ItZGVzc2F1LXJvc3NsYXUtMjk1MzB8aW50ZXJ2aWV3ZXIgLyBmYWhyZ2FzdHrDpGhsZXIgaW0gbGFuZGtyZWlzIGFuaGFsdC1iaXR0ZXJmZWxkIC8gd2l0dGVuYmVyZyAody9tL2QpIC0gbWluaWpvYnxpc3VwIGdtYmg",
@@ -279,32 +344,6 @@
       "postedDate": "2026-07-04T09:00:26.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/nordran-technologies/head-of-rd-berlin-167202"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVxeWFyZC9zZW5pb3ItZGF0YS1raS1hcmNoaXRla3QtYnJhdW5zY2h3ZWlnLTg3NTY5fChzZW5pb3IpIGRhdGEgJiBraSBhcmNoaXRla3QgKG0vdy9kKXx0ZXF5YXJk",
-      "title": "(Senior) Data & KI Architekt (m/w/d)",
-      "company": "TEQYARD",
-      "location": "Braunschweig",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-03T18:30:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/teqyard/senior-data-ki-architekt-braunschweig-87569"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmVvbHltcC9jb250ZW50LXN0cmF0ZWdpc3QtZS1jb21tZXJjZS1iZXJsaW4tMTczMzg4fGNvbnRlbnQgc3RyYXRlZ2lzdCAobS93L2QpIGUtY29tbWVyY2V8bmVvbHltcA",
-      "title": "Content Strategist (m/w/d) E-Commerce",
-      "company": "Neolymp",
-      "location": "Berlin",
-      "workModel": "Remote",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-03T16:00:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/neolymp/content-strategist-e-commerce-berlin-173388"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzg4NzU1MDAzP2doX2ppZD03Nzg4NzU1MDAzfGVuZ2luZWVyaW5nIHRlY2huaWNpYW4gLSBtYXRlcmlhbHN8bmV1cmFsaW5r",
