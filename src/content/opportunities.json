@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T02:52:45.510Z",
+  "generatedAt": "2026-07-09T09:36:49.960Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmV1cmFsLWZyYW1lcy9haS1jb250ZW50LWNyZWF0b3ItdmlkZW8tc2hvcnQtZm9ybS1haS1tdXNpYy12aWRlby1wbGF0Zm9ybS1iZXJsaW4tMTM2ODM2fGFpIGNvbnRlbnQgY3JlYXRvciAodmlkZW8gJiBzaG9ydC1mb3JtKSAvLyBhaSBtdXNpYyB2aWRlbyBwbGF0Zm9ybXxuZXVyYWwgZnJhbWVz",
+      "title": "AI Content Creator (Video & Short-Form) // AI Music Video Platform",
+      "company": "neural frames",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-09T07:31:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/neural-frames/ai-content-creator-video-short-form-ai-music-video-platform-berlin-136836"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbG95YW1vLWdtYmgvd2Vya3N0dWRlbnQtY29udGVudC1tYXJrZXRpbmctbXVuaWNoLTExNjQxNnx3ZXJrc3R1ZGVudCBjb250ZW50IG1hcmtldGluZyAobS93L2QpfGxveWFtbyBnbWJo",
+      "title": "Werkstudent Content Marketing (m/w/d)",
+      "company": "Loyamo GmbH",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-09T07:31:05.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/loyamo-gmbh/werkstudent-content-marketing-munich-116416"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tZHVzc2VsZG9yZi1nZXJtYW55LWR1c3NlbGRvcmYtMzM3MjEyfHNvZnR3YXJlIGVuZ2luZWVyLCBkYXRhIGluZnJhc3RydWN0dXJlICYgYWNxdWlzaXRpb24gLSBkw7xzc2VsZG9yZiwgZ2VybWFueXxzcGVlY2hpZnk",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Düsseldorf, Germany",
+      "company": "Speechify",
+      "location": "Dusseldorf, North Rhine-Westphalia, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-09T06:45:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-dusseldorf-germany-dusseldorf-337212"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLWZyYW5rZnVydC1nZXJtYW55LTI1MDU0fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciwgd2luZG93cy9kZXNrdG9wIGFwcGxpY2F0aW9ucyAtIGZyYW5rZnVydCwgZ2VybWFueXxzcGVlY2hpZnk",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - Frankfurt, Germany",
+      "company": "Speechify",
+      "location": "Frankfurt, Hesse, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-09T06:45:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-frankfurt-germany-25054"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWZyYW5rZnVydC1nZXJtYW55LTQ1NTYzM3xzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBmcmFua2Z1cnQsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Software Engineer, Platform - Frankfurt, Germany",
+      "company": "Speechify",
+      "location": "Frankfurt, Hesse, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-09T06:45:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-frankfurt-germany-455633"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29uY2FwZS9oZWFkLW9mLWdsb2JhbC10ZXN0LW1ldHJvbG9neS1zZW1pY29uZHVjdG9yLWluZHVzdHJ5LTEwMC1sb2NhdGlvbi1zd2l0emVybGFuZC11bG0tMjYxMTcyfGhlYWQgb2YgZ2xvYmFsIHRlc3QgJiBtZXRyb2xvZ3kgICAtIHNlbWljb25kdWN0b3IgaW5kdXN0cnkgLSAxMDAlIHwgbG9jYXRpb246IHN3aXR6ZXJsYW5kfGNvbmNhcGU",
       "title": "Head of Global Test & Metrology   - Semiconductor Industry - 100% | Location: Switzerland",
@@ -177,19 +242,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/horeich-gmbh/cto-im-bereich-elektronik-und-produktdesign-eingebetteter-monitoring-und-automatisierungssysteme-erlangen-54706"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbG92ZWxhbmUvc29jaWFsLW1lZGlhLWNvbnRlbnQtY3JlYXRvci1hcHAtc3RhcnQtdXAtdW5wYWlkLXJlbW90ZS11c2EtYmVybGluLTI2NzM2OHxzb2NpYWwgbWVkaWEgY29udGVudCBjcmVhdG9yIC0gYXBwIHN0YXJ0LXVwICh1bnBhaWQpIC0gcmVtb3RlIHVzYXxsb3ZlbGFuZQ",
-      "title": "Social media content creator - app start-up (unpaid) - remote USA",
-      "company": "LoveLane",
-      "location": "Berlin",
-      "workModel": "Remote",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-06T11:30:34.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/lovelane/social-media-content-creator-app-start-up-unpaid-remote-usa-berlin-267368"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1xdWFsaXR5LWNvbnRyb2wtYW5hbHlzdC13YXJtZXB1bXBlLWJlcmxpbi00OTY0MTl8d2Vya3N0dWRlbnQ6aW4gKG0vdy9kKSAtIHF1YWxpdHkgY29udHJvbCBhbmFseXN0ICh3w6RybWVwdW1wZSl8MWtvbW1hNcua",
       "title": "Werkstudent:in (m/w/d) - Quality Control Analyst (Wärmepumpe)",
       "company": "1KOMMA5˚",
@@ -344,19 +396,6 @@
       "postedDate": "2026-07-06T06:45:25.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-cologne-germany-147131"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9yZHJhbi10ZWNobm9sb2dpZXMvaGVhZC1vZi1yZC1iZXJsaW4tMTY3MjAyfGhlYWQgb2YgciZkfG5vcmRyYW4gdGVjaG5vbG9naWVz",
-      "title": "Head of R&D",
-      "company": "Nordran Technologies",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "executive",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-04T09:00:26.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/nordran-technologies/head-of-rd-berlin-167202"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzg4NzU1MDAzP2doX2ppZD03Nzg4NzU1MDAzfGVuZ2luZWVyaW5nIHRlY2huaWNpYW4gLSBtYXRlcmlhbHN8bmV1cmFsaW5r",
