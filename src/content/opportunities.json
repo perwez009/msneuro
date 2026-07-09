@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T14:56:05.415Z",
+  "generatedAt": "2026-07-09T19:44:13.392Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTEyNzY1MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSBsb3MgYW5nZWxlc3xuZXVyb3BhY2U",
+      "title": "Associate Therapy Consultant - Los Angeles",
+      "company": "NeuroPace",
+      "location": "Los Angeles, CA",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "NeuroPace Careers",
+      "sourceUrl": "https://boards.greenhouse.io/neuropace",
+      "postedDate": "2026-07-09T19:32:19.000Z",
+      "applyBy": null,
+      "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=6112765004"
+    },
+    {
+      "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTEwMDYwMDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSBuZXcgeW9yayBtZXRyb3xuZXVyb3BhY2U",
+      "title": "Associate Therapy Consultant - New York Metro",
+      "company": "NeuroPace",
+      "location": "New York, NY",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "NeuroPace Careers",
+      "sourceUrl": "https://boards.greenhouse.io/neuropace",
+      "postedDate": "2026-07-09T19:23:33.000Z",
+      "applyBy": null,
+      "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=6110060004"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW5nZWhldWVydC1nbWJoLXBlcnNvbmFsYmVyYXR1bmcvZW1iZWRkZWQtc29mdHdhcmUtZW5naW5lZXItbnVyZW1iZXJnLTI5MDAxMHxlbWJlZGRlZCBzb2Z0d2FyZSBlbmdpbmVlciAobS9mL2QpfGFuZ2VoZXVlcnQgZ21iaCBwZXJzb25hbGJlcmF0dW5n",
+      "title": "Embedded Software Engineer (m/f/d)",
+      "company": "ANGEHEUERT GmbH Personalberatung",
+      "location": "Nuremberg",
+      "workModel": "Remote",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-09T16:00:43.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh-personalberatung/embedded-software-engineer-nuremberg-290010"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmZvbi9yZXNlYXJjaGVyLWFwcGxpZWQtYWktYWxsLWdlbmRlcnMtYnJlbWVuLTI0ODAxMHxyZXNlYXJjaGVyIGFwcGxpZWQgYWkgKGFsbCBnZW5kZXJzKXxuZm9u",
+      "title": "Researcher Applied AI (all genders)",
+      "company": "NFON",
+      "location": "Bremen",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-09T16:00:42.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/nfon/researcher-applied-ai-all-genders-bremen-248010"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYmVkcm9wL3Nlbmlvci1uYXRpdmUtYWR2ZXJ0aXNpbmctbWFuYWdlci1tYW5uaGVpbS00MTY0MDh8c2VuaW9yIG5hdGl2ZSBhZHZlcnRpc2luZyBtYW5hZ2VyIChtL3cvZCl8YmVkcm9w",
+      "title": "Senior Native Advertising Manager (m/w/d)",
+      "company": "bedrop",
+      "location": "Mannheim",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-09T14:30:44.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/bedrop/senior-native-advertising-manager-mannheim-416408"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXVyaXZ1cy1nbWJoL3Byb2pla3RsZWl0ZXItaW5ub3ZhdGlvbi1mdXIta2VybnRlY2huaXNjaGUtYW5sYWdlbi1kZXV0c2NobGFuZHdlaXQtdWxtLTc5MTYxfHByb2pla3RsZWl0ZXIgKG0vdy9kKSBpbm5vdmF0aW9uIGbDvHIga2VybnRlY2huaXNjaGUgYW5sYWdlbiBkZXV0c2NobGFuZHdlaXR8YXVyaXZ1cyBnbWJo",
       "title": "Projektleiter (m/w/d) Innovation für kerntechnische Anlagen deutschlandweit",
@@ -266,58 +331,6 @@
       "postedDate": "2026-07-06T13:00:30.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/voids-technology-gmbh/senior-data-engineer-hamburg-116855"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaG9yZWljaC1nbWJoL2N0by1pbS1iZXJlaWNoLWVsZWt0cm9uaWstdW5kLXByb2R1a3RkZXNpZ24tZWluZ2ViZXR0ZXRlci1tb25pdG9yaW5nLXVuZC1hdXRvbWF0aXNpZXJ1bmdzc3lzdGVtZS1lcmxhbmdlbi01NDcwNnxjdG8gaW0gYmVyZWljaCBlbGVrdHJvbmlrIHVuZCBwcm9kdWt0ZGVzaWduIGVpbmdlYmV0dGV0ZXIgbW9uaXRvcmluZy0gdW5kIGF1dG9tYXRpc2llcnVuZ3NzeXN0ZW1lfGhvcmVpY2ggZ21iaA",
-      "title": "CTO im Bereich Elektronik und Produktdesign eingebetteter Monitoring- und Automatisierungssysteme",
-      "company": "HOREICH GmbH",
-      "location": "Erlangen",
-      "workModel": "On-site",
-      "opportunityType": "berufseinstieg",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-06T12:00:42.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/horeich-gmbh/cto-im-bereich-elektronik-und-produktdesign-eingebetteter-monitoring-und-automatisierungssysteme-erlangen-54706"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbG92ZWxhbmUvc29jaWFsLW1lZGlhLWNvbnRlbnQtY3JlYXRvci1hcHAtc3RhcnQtdXAtdW5wYWlkLXJlbW90ZS11c2EtYmVybGluLTI2NzM2OHxzb2NpYWwgbWVkaWEgY29udGVudCBjcmVhdG9yIC0gYXBwIHN0YXJ0LXVwICh1bnBhaWQpIC0gcmVtb3RlIHVzYXxsb3ZlbGFuZQ",
-      "title": "Social media content creator - app start-up (unpaid) - remote USA",
-      "company": "LoveLane",
-      "location": "Berlin",
-      "workModel": "Remote",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-06T11:30:34.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/lovelane/social-media-content-creator-app-start-up-unpaid-remote-usa-berlin-267368"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1xdWFsaXR5LWNvbnRyb2wtYW5hbHlzdC13YXJtZXB1bXBlLWJlcmxpbi00OTY0MTl8d2Vya3N0dWRlbnQ6aW4gKG0vdy9kKSAtIHF1YWxpdHkgY29udHJvbCBhbmFseXN0ICh3w6RybWVwdW1wZSl8MWtvbW1hNcua",
-      "title": "Werkstudent:in (m/w/d) - Quality Control Analyst (Wärmepumpe)",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "workModel": "Remote",
-      "opportunityType": "Working student, berufseinstieg",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-06T10:00:47.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-quality-control-analyst-warmepumpe-berlin-496419"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1xdWFsaXR5LWNvbnRyb2wtYW5hbHlzdC1waG90b3ZvbHRhaWstYmVybGluLTQ2MzkxNnx3ZXJrc3R1ZGVudDppbiAobS93L2QpIC0gcXVhbGl0eSBjb250cm9sIGFuYWx5c3QgKHBob3Rvdm9sdGFpayl8MWtvbW1hNcua",
-      "title": "Werkstudent:in (m/w/d) - Quality Control Analyst (Photovoltaik)",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "workModel": "Remote",
-      "opportunityType": "Working student, berufseinstieg",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-06T10:00:47.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-quality-control-analyst-photovoltaik-berlin-463916"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzg4NzU1MDAzP2doX2ppZD03Nzg4NzU1MDAzfGVuZ2luZWVyaW5nIHRlY2huaWNpYW4gLSBtYXRlcmlhbHN8bmV1cmFsaW5r",
