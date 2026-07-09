@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T19:23:20.756Z",
+  "generatedAt": "2026-07-09T02:52:45.510Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29uY2FwZS9oZWFkLW9mLWdsb2JhbC10ZXN0LW1ldHJvbG9neS1zZW1pY29uZHVjdG9yLWluZHVzdHJ5LTEwMC1sb2NhdGlvbi1zd2l0emVybGFuZC11bG0tMjYxMTcyfGhlYWQgb2YgZ2xvYmFsIHRlc3QgJiBtZXRyb2xvZ3kgICAtIHNlbWljb25kdWN0b3IgaW5kdXN0cnkgLSAxMDAlIHwgbG9jYXRpb246IHN3aXR6ZXJsYW5kfGNvbmNhcGU",
+      "title": "Head of Global Test & Metrology   - Semiconductor Industry - 100% | Location: Switzerland",
+      "company": "CONCAPE",
+      "location": "Ulm",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-08T21:00:36.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/concape/head-of-global-test-metrology-semiconductor-industry-100-location-switzerland-ulm-261172"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzk5MTk3MDAzP2doX2ppZD03Nzk5MTk3MDAzfGNoZW1pc3R8bmV1cmFsaW5r",
+      "title": "Chemist",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-07-08T20:27:41.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7799197003?gh_jid=7799197003"
+    },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzk5MDg4MDAzP2doX2ppZD03Nzk5MDg4MDAzfG5ldXJvc3VyZ2ljYWwgcm9ib3Qgb3BlcmF0b3J8bmV1cmFsaW5r",
       "title": "Neurosurgical Robot Operator",
@@ -318,19 +344,6 @@
       "postedDate": "2026-07-06T06:45:25.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-cologne-germany-147131"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZnJhbmNhdmlsbGEtZ2l1c2VwcGUvcmVtb3RlLW1hcmtldC1yZXNlYXJjaC1hc3Npc3RhbnQtZW50cnktbGV2ZWwtbXVuaWNoLTM2NDMyfHJlbW90ZSBtYXJrZXQgcmVzZWFyY2ggYXNzaXN0YW50IChlbnRyeS1sZXZlbCl8ZnJhbmNhdmlsbGEgZ2l1c2VwcGU",
-      "title": "Remote Market Research Assistant (Entry-Level)",
-      "company": "Francavilla Giuseppe",
-      "location": "Munich",
-      "workModel": "Remote",
-      "opportunityType": "Contract",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-04T18:31:02.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/francavilla-giuseppe/remote-market-research-assistant-entry-level-munich-36432"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9yZHJhbi10ZWNobm9sb2dpZXMvaGVhZC1vZi1yZC1iZXJsaW4tMTY3MjAyfGhlYWQgb2YgciZkfG5vcmRyYW4gdGVjaG5vbG9naWVz",
