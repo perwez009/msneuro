@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T14:23:37.272Z",
+  "generatedAt": "2026-07-10T19:25:22.599Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,45 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWFnYXppbm8tZ21iaC9yb2JvdC1wZXJjZXB0aW9uLW1sLWVuZ2luZWVyLWF1dG9ub21vdXMtbW9iaWxlLXJvYm90cy1tdW5pY2gtMzI3OTgzfHJvYm90IHBlcmNlcHRpb24vbWwgZW5naW5lZXIgKGYvbS9kKSBhdXRvbm9tb3VzIG1vYmlsZSByb2JvdHN8bWFnYXppbm8gZ21iaA",
+      "title": "Robot Perception/ML Engineer (f/m/d) Autonomous Mobile Robots",
+      "company": "Magazino GmbH",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Contract",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-10T14:30:36.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/magazino-gmbh/robot-perception-ml-engineer-autonomous-mobile-robots-munich-327983"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWFnYXppbm8tZ21iaC9yb2JvdC1wZXJjZXB0aW9uLW1sLWVuZ2luZWVyLWF1dG9ub21vdXMtbW9iaWxlLXJvYm90cy1tdW5pY2gtNDIzNTEwfHJvYm90IHBlcmNlcHRpb24vbWwgZW5naW5lZXIgKHcvZi9kKSBhdXRvbm9tb3VzIG1vYmlsZSByb2JvdHN8bWFnYXppbm8gZ21iaA",
+      "title": "Robot Perception/ML Engineer (w/f/d) Autonomous Mobile Robots",
+      "company": "Magazino GmbH",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Contract",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-10T14:30:36.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/magazino-gmbh/robot-perception-ml-engineer-autonomous-mobile-robots-munich-423510"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd29sdC1lbmdsaXNoL2FwcGxpZWQtc2NpZW50aXN0LW1hY2hpbmUtbGVhcm5pbmctZW5naW5lZXItYmVybGluLTM4OTI0MHxhcHBsaWVkIHNjaWVudGlzdCAvIG1hY2hpbmUgbGVhcm5pbmcgZW5naW5lZXJ8d29sdCAtIGVuZ2xpc2g",
+      "title": "Applied Scientist / Machine Learning Engineer",
+      "company": "Wolt - English",
+      "location": "Berlin, Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-10T13:45:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/applied-scientist-machine-learning-engineer-berlin-389240"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1lc2ctc3VzdGFpbmFiaWxpdHktaGFtYnVyZy0yMTA3OTB8d2Vya3N0dWRlbnQ6aW4gKG0vdy9kKSAtIGVzZyAmIHN1c3RhaW5hYmlsaXR5fDFrb21tYTXLmg",
       "title": "Werkstudent:in (m/w/d) - ESG & Sustainability",
@@ -279,58 +318,6 @@
       "postedDate": "2026-07-08T14:03:59.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/brain-capital-gmbh/mitarbeiterin-accounting-teilzeit-50-75-montabaur-198027"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW5wLWRldXRzY2hsYW5kLWdtYmgvd2Vya3N0dWRlbnQtbWFjaGluZS1sZWFybmluZy1uZXVyb25hbGUtbmV0emUtYXV0b21hdGlzaWVydW5nc3RlY2huaWstcm9tZXJiZXJnLTkwMTA3fHdlcmtzdHVkZW50IChtL3cvZCkgbWFjaGluZSBsZWFybmluZyAvIG5ldXJvbmFsZSBuZXR6ZSAvIGF1dG9tYXRpc2llcnVuZ3N0ZWNobmlrfGlucCBkZXV0c2NobGFuZCBnbWJo",
-      "title": "Werkstudent (m/w/d) Machine Learning / Neuronale Netze / Automatisierungstechnik",
-      "company": "INP Deutschland GmbH",
-      "location": "Römerberg",
-      "workModel": "On-site",
-      "opportunityType": "berufseinstieg",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-08T05:30:29.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/inp-deutschland-gmbh/werkstudent-machine-learning-neuronale-netze-automatisierungstechnik-romerberg-90107"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWVkb3BsYW4tZ21iaC9pdC1hZG1pbmlzdHJhdG9yLXN5c3RlbWFkbWluaXN0cmF0b3ItaGFtZWxpbi0xMzE4NDB8aXQtYWRtaW5pc3RyYXRvciAvIHN5c3RlbWFkbWluaXN0cmF0b3IgKG0vdy9kKXxtZWRvcGxhbiBnbWJo",
-      "title": "IT-Administrator / Systemadministrator (m/w/d)",
-      "company": "medoplan GmbH",
-      "location": "Hamelin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-07T19:39:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/medoplan-gmbh/it-administrator-systemadministrator-hamelin-131840"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWVkb3BsYW4tZ21iaC9tYXJrZXRpbmctY29tbXVuaWNhdGlvbnMtbWFuYWdlci1pbi12b2xsemVpdC10ZWlsemVpdC1vZGVyLWF1Zi1zdHVuZGVuYmFzaXMtaGFtZWxpbi01NjA2NHxtYXJrZXRpbmcgJiBjb21tdW5pY2F0aW9ucyBtYW5hZ2VyIChtL3cvZCkgaW4gdm9sbHplaXQsIHRlaWx6ZWl0IG9kZXIgYXVmIHN0dW5kZW5iYXNpc3xtZWRvcGxhbiBnbWJo",
-      "title": "Marketing & Communications Manager (m/w/d) in Vollzeit, Teilzeit oder auf Stundenbasis",
-      "company": "medoplan GmbH",
-      "location": "Hamelin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-07T19:39:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/medoplan-gmbh/marketing-communications-manager-in-vollzeit-teilzeit-oder-auf-stundenbasis-hamelin-56064"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaXN1cC1nbWJoL2ludGVydmlld2VyLWZhaHJnYXN0emFobGVyLWltLWxhbmRrcmVpcy1hbmhhbHQtYml0dGVyZmVsZC13aXR0ZW5iZXJnLW1pbmlqb2ItZGVzc2F1LXJvc3NsYXUtMjk1MzB8aW50ZXJ2aWV3ZXIgLyBmYWhyZ2FzdHrDpGhsZXIgaW0gbGFuZGtyZWlzIGFuaGFsdC1iaXR0ZXJmZWxkIC8gd2l0dGVuYmVyZyAody9tL2QpIC0gbWluaWpvYnxpc3VwIGdtYmg",
-      "title": "Interviewer / Fahrgastzähler im Landkreis Anhalt-Bitterfeld / Wittenberg (w/m/d) - Minijob",
-      "company": "ISUP GmbH",
-      "location": "Dessau-Roßlau",
-      "workModel": "On-site",
-      "opportunityType": "Side",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-07T19:39:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/isup-gmbh/interviewer-fahrgastzahler-im-landkreis-anhalt-bitterfeld-wittenberg-minijob-dessau-rosslau-29530"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzk2MzYyMDAzP2doX2ppZD03Nzk2MzYyMDAzfGZpZWxkIGNsaW5pY2FsIGVuZ2luZWVyfG5ldXJhbGluaw",
