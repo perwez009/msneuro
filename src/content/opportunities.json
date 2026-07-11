@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T13:16:04.160Z",
+  "generatedAt": "2026-07-11T19:01:31.564Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -346,6 +346,45 @@
       "url": "https://www.arbeitnow.com/jobs/companies/loyamo-gmbh/werkstudent-content-marketing-munich-116416"
     },
     {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tZHVzc2VsZG9yZi1nZXJtYW55LWR1c3NlbGRvcmYtMzM3MjEyfHNvZnR3YXJlIGVuZ2luZWVyLCBkYXRhIGluZnJhc3RydWN0dXJlICYgYWNxdWlzaXRpb24gLSBkw7xzc2VsZG9yZiwgZ2VybWFueXxzcGVlY2hpZnk",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Düsseldorf, Germany",
+      "company": "Speechify",
+      "location": "Dusseldorf, North Rhine-Westphalia, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-09T06:45:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-dusseldorf-germany-dusseldorf-337212"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLWZyYW5rZnVydC1nZXJtYW55LTI1MDU0fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciwgd2luZG93cy9kZXNrdG9wIGFwcGxpY2F0aW9ucyAtIGZyYW5rZnVydCwgZ2VybWFueXxzcGVlY2hpZnk",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - Frankfurt, Germany",
+      "company": "Speechify",
+      "location": "Frankfurt, Hesse, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-09T06:45:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-frankfurt-germany-25054"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWZyYW5rZnVydC1nZXJtYW55LTQ1NTYzM3xzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBmcmFua2Z1cnQsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Software Engineer, Platform - Frankfurt, Germany",
+      "company": "Speechify",
+      "location": "Frankfurt, Hesse, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-09T06:45:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-frankfurt-germany-455633"
+    },
+    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29uY2FwZS9oZWFkLW9mLWdsb2JhbC10ZXN0LW1ldHJvbG9neS1zZW1pY29uZHVjdG9yLWluZHVzdHJ5LTEwMC1sb2NhdGlvbi1zd2l0emVybGFuZC11bG0tMjYxMTcyfGhlYWQgb2YgZ2xvYmFsIHRlc3QgJiBtZXRyb2xvZ3kgICAtIHNlbWljb25kdWN0b3IgaW5kdXN0cnkgLSAxMDAlIHwgbG9jYXRpb246IHN3aXR6ZXJsYW5kfGNvbmNhcGU",
       "title": "Head of Global Test & Metrology   - Semiconductor Industry - 100% | Location: Switzerland",
       "company": "CONCAPE",
@@ -409,19 +448,6 @@
       "postedDate": "2026-07-08T14:04:02.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/brainershub-gmbh/grafikdesign-hamburg-438103"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYnJhaW4tY2FwaXRhbC1nbWJoL21pdGFyYmVpdGVyaW4tYWNjb3VudGluZy10ZWlsemVpdC01MC03NS1tb250YWJhdXItMTk4MDI3fG1pdGFyYmVpdGVyOmluIGFjY291bnRpbmcgKG0vdy9kKSB0ZWlsemVpdCAoNTAtNzUlKXxicmFpbiBjYXBpdGFsIGdtYmg",
-      "title": "Mitarbeiter:in Accounting (m/w/d) Teilzeit (50-75%)",
-      "company": "Brain Capital GmbH",
-      "location": "Montabaur",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-08T14:03:59.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/brain-capital-gmbh/mitarbeiterin-accounting-teilzeit-50-75-montabaur-198027"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzk2MzYyMDAzP2doX2ppZD03Nzk2MzYyMDAzfGZpZWxkIGNsaW5pY2FsIGVuZ2luZWVyfG5ldXJhbGluaw",
