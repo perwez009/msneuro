@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T19:25:22.599Z",
+  "generatedAt": "2026-07-11T02:32:19.320Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWFnYXppbm8tZ21iaC9yb2JvdC1wZXJjZXB0aW9uLW1sLWVuZ2luZWVyLWF1dG9ub21vdXMtbW9iaWxlLXJvYm90cy1tdW5pY2gtNDIzNTEwfHJvYm90IHBlcmNlcHRpb24vbWwgZW5naW5lZXIgKHcvbS9kKSBhdXRvbm9tb3VzIG1vYmlsZSByb2JvdHN8bWFnYXppbm8gZ21iaA",
+      "title": "Robot Perception/ML Engineer (w/m/d) Autonomous Mobile Robots",
+      "company": "Magazino GmbH",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Contract",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-10T19:29:03.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/magazino-gmbh/robot-perception-ml-engineer-autonomous-mobile-robots-munich-423510"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWFnYXppbm8tZ21iaC9yb2JvdC1wZXJjZXB0aW9uLW1sLWVuZ2luZWVyLWF1dG9ub21vdXMtbW9iaWxlLXJvYm90cy1tdW5pY2gtMzI3OTgzfHJvYm90IHBlcmNlcHRpb24vbWwgZW5naW5lZXIgKGYvbS9kKSBhdXRvbm9tb3VzIG1vYmlsZSByb2JvdHN8bWFnYXppbm8gZ21iaA",
       "title": "Robot Perception/ML Engineer (f/m/d) Autonomous Mobile Robots",
@@ -19,19 +32,6 @@
       "postedDate": "2026-07-10T14:30:36.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/magazino-gmbh/robot-perception-ml-engineer-autonomous-mobile-robots-munich-327983"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWFnYXppbm8tZ21iaC9yb2JvdC1wZXJjZXB0aW9uLW1sLWVuZ2luZWVyLWF1dG9ub21vdXMtbW9iaWxlLXJvYm90cy1tdW5pY2gtNDIzNTEwfHJvYm90IHBlcmNlcHRpb24vbWwgZW5naW5lZXIgKHcvZi9kKSBhdXRvbm9tb3VzIG1vYmlsZSByb2JvdHN8bWFnYXppbm8gZ21iaA",
-      "title": "Robot Perception/ML Engineer (w/f/d) Autonomous Mobile Robots",
-      "company": "Magazino GmbH",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Contract",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-10T14:30:36.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/magazino-gmbh/robot-perception-ml-engineer-autonomous-mobile-robots-munich-423510"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd29sdC1lbmdsaXNoL2FwcGxpZWQtc2NpZW50aXN0LW1hY2hpbmUtbGVhcm5pbmctZW5naW5lZXItYmVybGluLTM4OTI0MHxhcHBsaWVkIHNjaWVudGlzdCAvIG1hY2hpbmUgbGVhcm5pbmcgZW5naW5lZXJ8d29sdCAtIGVuZ2xpc2g",
