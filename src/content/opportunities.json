@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T14:31:25.588Z",
+  "generatedAt": "2026-07-13T19:21:25.936Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -16,9 +16,48 @@
       "opportunityType": "berufseinstieg",
       "source": "Arbeitnow",
       "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-13T11:30:29.000Z",
+      "postedDate": "2026-07-13T15:59:02.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/1komma50/junior-video-creator-videograph-post-production-hamburg-230868"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcGVyZWdyaW5lLXRlY2hub2xvZ2llcy1nbWJoL3Nlbmlvci1tYWNoaW5lLWxlYXJuaW5nLWVuZ2luZWVyLW0tZi1iZXJsaW4tNDIyNzk3fHNlbmlvciBtYWNoaW5lIGxlYXJuaW5nIGVuZ2luZWVyIChtL2YvKil8cGVyZWdyaW5lIHRlY2hub2xvZ2llcyBnbWJo",
+      "title": "Senior Machine Learning Engineer (m/f/*)",
+      "company": "Peregrine Technologies GmbH",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-13T15:31:00.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/peregrine-technologies-gmbh/senior-machine-learning-engineer-m-f-berlin-422797"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmFrb2EtZGlnaXRhbC1nbWJoL3dlcmtzdHVkZW50LXJldGFpbC1tZWRpYS1tYXJrZXRwbGFjZS1tdW5pY2gtMjMyOTYzfHdlcmtzdHVkZW50IHJldGFpbCBtZWRpYSAvIG1hcmtldHBsYWNlIChtL3cvZCl8bmFrb2EgZGlnaXRhbCBnbWJo",
+      "title": "Werkstudent Retail Media / Marketplace (m/w/d)",
+      "company": "Nakoa Digital GmbH",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Working student",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-13T15:31:00.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/nakoa-digital-gmbh/werkstudent-retail-media-marketplace-munich-232963"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2ltaS1yZWFsaXR5LW1vdGlvbi1zeXN0ZW1zLWdtYmgvcHJha3Rpa3VtLWltLWJlcmVpY2gtcHJvdG90eXBpbmctZGF0YS1mdXItYXV0b21vdGl2ZS1jb21wdXRlci12aXNpb24tdW50ZXJzY2hsZWlzc2hlaW0tMTk5MzExfHByYWt0aWt1bSBpbSBiZXJlaWNoIHByb3RvdHlwaW5nICYgZGF0YSBmw7xyIGF1dG9tb3RpdmUgY29tcHV0ZXIgdmlzaW9ufHNpbWkgcmVhbGl0eSBtb3Rpb24gc3lzdGVtcyBnbWJo",
+      "title": "Praktikum im Bereich Prototyping & Data für Automotive Computer Vision",
+      "company": "Simi Reality Motion Systems GmbH",
+      "location": "Unterschleißheim",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-13T14:00:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/simi-reality-motion-systems-gmbh/praktikum-im-bereich-prototyping-data-fur-automotive-computer-vision-unterschleissheim-199311"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWJlcmxpbi1nZXJtYW55LTQ3MTUyN3xzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBiZXJsaW4sIGdlcm1hbnl8c3BlZWNoaWZ5",
@@ -138,17 +177,17 @@
       "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=6110060004"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW5nZWhldWVydC1nbWJoLXBlcnNvbmFsYmVyYXR1bmcvZW1iZWRkZWQtc29mdHdhcmUtZW5naW5lZXItbnVyZW1iZXJnLTI5MDAxMHxlbWJlZGRlZCBzb2Z0d2FyZSBlbmdpbmVlciAobS9mL2QpfGFuZ2VoZXVlcnQgZ21iaCBwZXJzb25hbGJlcmF0dW5n",
-      "title": "Embedded Software Engineer (m/f/d)",
-      "company": "ANGEHEUERT GmbH Personalberatung",
-      "location": "Nuremberg",
-      "workModel": "Remote",
-      "opportunityType": "Unspecified",
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmZvbi9yZXNlYXJjaGVyLWFwcGxpZWQtYWktYWxsLWdlbmRlcnMtYnJlbWVuLTI0ODAxMHxyZXNlYXJjaGVyIGFwcGxpZWQgYWkgKGFsbCBnZW5kZXJzKXxuZm9u",
+      "title": "Researcher Applied AI (all genders)",
+      "company": "NFON",
+      "location": "Bremen",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
       "source": "Arbeitnow",
       "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-09T16:00:43.000Z",
+      "postedDate": "2026-07-09T16:00:42.000Z",
       "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh-personalberatung/embedded-software-engineer-nuremberg-290010"
+      "url": "https://www.arbeitnow.com/jobs/companies/nfon/researcher-applied-ai-all-genders-bremen-248010"
     },
     {
       "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvc29mdHdhcmUtZGV2ZWxvcG1lbnQvc3RhZmYtc29mdHdhcmUtZW5naW5lZXItcHJvZHVjdC1iZWxvLWhvcml6b250ZS0yMDkxMDU2fHN0YWZmIHNvZnR3YXJlIGVuZ2luZWVyLCBwcm9kdWN0IChiZWxvIGhvcml6b250ZSl8bGF3bnN0YXJ0ZXI",
@@ -318,58 +357,6 @@
       "postedDate": "2026-07-09T13:30:35.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/aurivus-gmbh/projektleiter-innovation-fur-kerntechnische-anlagen-deutschlandweit-ulm-79161"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9veGl0LWdtYmgvZnVsbC1zdGFjay1lbmdpbmVlci1iZXJsaW4tMzI3NzExfGZ1bGwgc3RhY2sgZW5naW5lZXJ8bm9veGl0IGdtYmg",
-      "title": "Full Stack Engineer",
-      "company": "Nooxit GmbH",
-      "location": "Berlin",
-      "workModel": "Remote",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-09T11:00:33.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/nooxit-gmbh/full-stack-engineer-berlin-327711"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMveW91ci1zaG93ZG93bi1nbWJoL3dlcmtzdHVkZW50aW4taW0taHItYmVybGluLTQ0NDAzfHdlcmtzdHVkZW50KmluIGltIGhyICh3L20vZCl8eW91ciBzaG93ZG93biBnbWJo",
-      "title": "Werkstudent*in im HR (w/m/d)",
-      "company": "Your Showdown GmbH",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Working student, hilfstätigkeit / student",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-09T10:00:40.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/your-showdown-gmbh/werkstudentin-im-hr-berlin-44403"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmV1cmFsLWZyYW1lcy9haS1jb250ZW50LWNyZWF0b3ItdmlkZW8tc2hvcnQtZm9ybS1haS1tdXNpYy12aWRlby1wbGF0Zm9ybS1iZXJsaW4tMTM2ODM2fGFpIGNvbnRlbnQgY3JlYXRvciAodmlkZW8gJiBzaG9ydC1mb3JtKSAvLyBhaSBtdXNpYyB2aWRlbyBwbGF0Zm9ybXxuZXVyYWwgZnJhbWVz",
-      "title": "AI Content Creator (Video & Short-Form) // AI Music Video Platform",
-      "company": "neural frames",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-09T07:31:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/neural-frames/ai-content-creator-video-short-form-ai-music-video-platform-berlin-136836"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbG95YW1vLWdtYmgvd2Vya3N0dWRlbnQtY29udGVudC1tYXJrZXRpbmctbXVuaWNoLTExNjQxNnx3ZXJrc3R1ZGVudCBjb250ZW50IG1hcmtldGluZyAobS93L2QpfGxveWFtbyBnbWJo",
-      "title": "Werkstudent Content Marketing (m/w/d)",
-      "company": "Loyamo GmbH",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-09T07:31:05.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/loyamo-gmbh/werkstudent-content-marketing-munich-116416"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzk5MTk3MDAzP2doX2ppZD03Nzk5MTk3MDAzfGNoZW1pc3R8bmV1cmFsaW5r",
