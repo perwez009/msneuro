@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T09:23:49.728Z",
+  "generatedAt": "2026-07-13T14:31:25.588Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvanVuaW9yLXZpZGVvLWNyZWF0b3ItdmlkZW9ncmFwaC1wb3N0LXByb2R1Y3Rpb24taGFtYnVyZy0yMzA4Njh8KGp1bmlvcikgdmlkZW8gY3JlYXRvciAvIHZpZGVvZ3JhcGggLyBwb3N0LXByb2R1Y3Rpb24gKG0vdy9kKXwxa29tbWE1y5o",
+      "title": "(Junior) Video Creator / Videograph / Post-Production (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "berufseinstieg",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-13T11:30:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/junior-video-creator-videograph-post-production-hamburg-230868"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWJlcmxpbi1nZXJtYW55LTQ3MTUyN3xzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBiZXJsaW4sIGdlcm1hbnl8c3BlZWNoaWZ5",
       "title": "Software Engineer, Platform - Berlin, Germany",
@@ -136,19 +149,6 @@
       "postedDate": "2026-07-09T16:00:43.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh-personalberatung/embedded-software-engineer-nuremberg-290010"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmZvbi9yZXNlYXJjaGVyLWFwcGxpZWQtYWktYWxsLWdlbmRlcnMtYnJlbWVuLTI0ODAxMHxyZXNlYXJjaGVyIGFwcGxpZWQgYWkgKGFsbCBnZW5kZXJzKXxuZm9u",
-      "title": "Researcher Applied AI (all genders)",
-      "company": "NFON",
-      "location": "Bremen",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-09T16:00:42.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/nfon/researcher-applied-ai-all-genders-bremen-248010"
     },
     {
       "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvc29mdHdhcmUtZGV2ZWxvcG1lbnQvc3RhZmYtc29mdHdhcmUtZW5naW5lZXItcHJvZHVjdC1iZWxvLWhvcml6b250ZS0yMDkxMDU2fHN0YWZmIHNvZnR3YXJlIGVuZ2luZWVyLCBwcm9kdWN0IChiZWxvIGhvcml6b250ZSl8bGF3bnN0YXJ0ZXI",
@@ -320,6 +320,19 @@
       "url": "https://www.arbeitnow.com/jobs/companies/aurivus-gmbh/projektleiter-innovation-fur-kerntechnische-anlagen-deutschlandweit-ulm-79161"
     },
     {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9veGl0LWdtYmgvZnVsbC1zdGFjay1lbmdpbmVlci1iZXJsaW4tMzI3NzExfGZ1bGwgc3RhY2sgZW5naW5lZXJ8bm9veGl0IGdtYmg",
+      "title": "Full Stack Engineer",
+      "company": "Nooxit GmbH",
+      "location": "Berlin",
+      "workModel": "Remote",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-09T11:00:33.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/nooxit-gmbh/full-stack-engineer-berlin-327711"
+    },
+    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMveW91ci1zaG93ZG93bi1nbWJoL3dlcmtzdHVkZW50aW4taW0taHItYmVybGluLTQ0NDAzfHdlcmtzdHVkZW50KmluIGltIGhyICh3L20vZCl8eW91ciBzaG93ZG93biBnbWJo",
       "title": "Werkstudent*in im HR (w/m/d)",
       "company": "Your Showdown GmbH",
@@ -357,58 +370,6 @@
       "postedDate": "2026-07-09T07:31:05.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/loyamo-gmbh/werkstudent-content-marketing-munich-116416"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tZHVzc2VsZG9yZi1nZXJtYW55LWR1c3NlbGRvcmYtMzM3MjEyfHNvZnR3YXJlIGVuZ2luZWVyLCBkYXRhIGluZnJhc3RydWN0dXJlICYgYWNxdWlzaXRpb24gLSBkw7xzc2VsZG9yZiwgZ2VybWFueXxzcGVlY2hpZnk",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Düsseldorf, Germany",
-      "company": "Speechify",
-      "location": "Dusseldorf, North Rhine-Westphalia, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-09T06:45:35.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-dusseldorf-germany-dusseldorf-337212"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLWZyYW5rZnVydC1nZXJtYW55LTI1MDU0fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciwgd2luZG93cy9kZXNrdG9wIGFwcGxpY2F0aW9ucyAtIGZyYW5rZnVydCwgZ2VybWFueXxzcGVlY2hpZnk",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Frankfurt, Germany",
-      "company": "Speechify",
-      "location": "Frankfurt, Hesse, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-09T06:45:35.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-frankfurt-germany-25054"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWZyYW5rZnVydC1nZXJtYW55LTQ1NTYzM3xzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBmcmFua2Z1cnQsIGdlcm1hbnl8c3BlZWNoaWZ5",
-      "title": "Software Engineer, Platform - Frankfurt, Germany",
-      "company": "Speechify",
-      "location": "Frankfurt, Hesse, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-09T06:45:35.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-frankfurt-germany-455633"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29uY2FwZS9oZWFkLW9mLWdsb2JhbC10ZXN0LW1ldHJvbG9neS1zZW1pY29uZHVjdG9yLWluZHVzdHJ5LTEwMC1sb2NhdGlvbi1zd2l0emVybGFuZC11bG0tMjYxMTcyfGhlYWQgb2YgZ2xvYmFsIHRlc3QgJiBtZXRyb2xvZ3kgICAtIHNlbWljb25kdWN0b3IgaW5kdXN0cnkgLSAxMDAlIHwgbG9jYXRpb246IHN3aXR6ZXJsYW5kfGNvbmNhcGU",
-      "title": "Head of Global Test & Metrology   - Semiconductor Industry - 100% | Location: Switzerland",
-      "company": "CONCAPE",
-      "location": "Ulm",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-08T21:00:36.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/concape/head-of-global-test-metrology-semiconductor-industry-100-location-switzerland-ulm-261172"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzk5MTk3MDAzP2doX2ppZD03Nzk5MTk3MDAzfGNoZW1pc3R8bmV1cmFsaW5r",
