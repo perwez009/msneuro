@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T02:40:26.223Z",
+  "generatedAt": "2026-07-13T09:23:49.728Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWJlcmxpbi1nZXJtYW55LTQ3MTUyN3xzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBiZXJsaW4sIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Software Engineer, Platform - Berlin, Germany",
+      "company": "Speechify",
+      "location": "Berlin, Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-13T06:45:26.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-berlin-germany-471527"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tc3R1dHRnYXJ0LWdlcm1hbnktMjc1ODU0fHNvZnR3YXJlIGVuZ2luZWVyLCBkYXRhIGluZnJhc3RydWN0dXJlICYgYWNxdWlzaXRpb24gLSBzdHV0dGdhcnQsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Stuttgart, Germany",
+      "company": "Speechify",
+      "location": "Stuttgart, Baden-Württemberg, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-13T06:45:26.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-stuttgart-germany-275854"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWFnYXppbm8tZ21iaC9yb2JvdC1wZXJjZXB0aW9uLW1sLWVuZ2luZWVyLWF1dG9ub21vdXMtbW9iaWxlLXJvYm90cy1tdW5pY2gtNDIzNTEwfHJvYm90IHBlcmNlcHRpb24vbWwgZW5naW5lZXIgKHcvbS9kKSBhdXRvbm9tb3VzIG1vYmlsZSByb2JvdHN8bWFnYXppbm8gZ21iaA",
       "title": "Robot Perception/ML Engineer (w/m/d) Autonomous Mobile Robots",
@@ -292,19 +318,6 @@
       "postedDate": "2026-07-09T13:30:35.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/aurivus-gmbh/projektleiter-innovation-fur-kerntechnische-anlagen-deutschlandweit-ulm-79161"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9veGl0LWdtYmgvZnVsbC1zdGFjay1lbmdpbmVlci1iZXJsaW4tMzI3NzExfGZ1bGwgc3RhY2sgZW5naW5lZXJ8bm9veGl0IGdtYmg",
-      "title": "Full Stack Engineer",
-      "company": "Nooxit GmbH",
-      "location": "Berlin",
-      "workModel": "Remote",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-09T11:00:33.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/nooxit-gmbh/full-stack-engineer-berlin-327711"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMveW91ci1zaG93ZG93bi1nbWJoL3dlcmtzdHVkZW50aW4taW0taHItYmVybGluLTQ0NDAzfHdlcmtzdHVkZW50KmluIGltIGhyICh3L20vZCl8eW91ciBzaG93ZG93biBnbWJo",
