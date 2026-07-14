@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T02:24:08.274Z",
+  "generatedAt": "2026-07-14T08:01:59.984Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tbXVuaWNoLWdlcm1hbnktMzgyOTAzfHNvZnR3YXJlIGVuZ2luZWVyLCBkYXRhIGluZnJhc3RydWN0dXJlICYgYWNxdWlzaXRpb24gLSBtdW5pY2gsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Munich, Germany",
+      "company": "Speechify",
+      "location": "Munich, Bavaria, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-14T06:45:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-munich-germany-382903"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLW11bmljaC1nZXJtYW55LTQ4NDU0NnxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIHdpbmRvd3MvZGVza3RvcCBhcHBsaWNhdGlvbnMgLSBtdW5pY2gsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - Munich, Germany",
+      "company": "Speechify",
+      "location": "Munich, Bavaria, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-14T06:45:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-munich-germany-484546"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLWR1c3NlbGRvcmYtZ2VybWFueS1kdXNzZWxkb3JmLTE2NDYwNnxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIHdpbmRvd3MvZGVza3RvcCBhcHBsaWNhdGlvbnMgLSBkw7xzc2VsZG9yZiwgZ2VybWFueXxzcGVlY2hpZnk",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - Düsseldorf, Germany",
+      "company": "Speechify",
+      "location": "Dusseldorf, North Rhine-Westphalia, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-14T06:45:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-dusseldorf-germany-dusseldorf-164606"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLWhhbWJ1cmctZ2VybWFueS02Mzg1MnxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIHdpbmRvd3MvZGVza3RvcCBhcHBsaWNhdGlvbnMgLSBoYW1idXJnLCBnZXJtYW55fHNwZWVjaGlmeQ",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - Hamburg, Germany",
+      "company": "Speechify",
+      "location": "Hamburg, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-14T06:45:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-hamburg-germany-63852"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb2xpdmVyLWFnZW5jeS9idXNpbmVzcy10cmFuc2Zvcm1hdGlvbi1kaXJlY3Rvci1hZHZlcnRpc2luZy1jcmVhdGl2ZS1vcGVyYXRpb25zLWZyYW5rZnVydC02NTEwN3xidXNpbmVzcyB0cmFuc2Zvcm1hdGlvbiBkaXJlY3RvciAoYWR2ZXJ0aXNpbmcgJiBjcmVhdGl2ZSBvcGVyYXRpb25zKXxvbGl2ZXIgYWdlbmN5",
       "title": "Business Transformation Director (Advertising & Creative Operations)",
@@ -307,19 +359,6 @@
       "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-mexico-city-2091057"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYmVkcm9wL3Nlbmlvci1uYXRpdmUtYWR2ZXJ0aXNpbmctbWFuYWdlci1tYW5uaGVpbS00MTY0MDh8c2VuaW9yIG5hdGl2ZSBhZHZlcnRpc2luZyBtYW5hZ2VyIChtL3cvZCl8YmVkcm9w",
-      "title": "Senior Native Advertising Manager (m/w/d)",
-      "company": "bedrop",
-      "location": "Mannheim",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-09T14:30:44.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/bedrop/senior-native-advertising-manager-mannheim-416408"
-    },
-    {
       "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvcHJvZHVjdC9zdGFmZi1wcm9kdWN0LWVuZ2luZWVyLW1vbnRldmlkZW8tMjA5MTA1NHxzdGFmZiBwcm9kdWN0IGVuZ2luZWVyIChtb250ZXZpZGVvKXxsYXduc3RhcnRlcg",
       "title": "Staff Product Engineer (Montevideo)",
       "company": "LawnStarter",
@@ -370,19 +409,6 @@
       "postedDate": "2026-07-09T14:24:28.000Z",
       "applyBy": null,
       "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2091051"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXVyaXZ1cy1nbWJoL3Byb2pla3RsZWl0ZXItaW5ub3ZhdGlvbi1mdXIta2VybnRlY2huaXNjaGUtYW5sYWdlbi1kZXV0c2NobGFuZHdlaXQtdWxtLTc5MTYxfHByb2pla3RsZWl0ZXIgKG0vdy9kKSBpbm5vdmF0aW9uIGbDvHIga2VybnRlY2huaXNjaGUgYW5sYWdlbiBkZXV0c2NobGFuZHdlaXR8YXVyaXZ1cyBnbWJo",
-      "title": "Projektleiter (m/w/d) Innovation für kerntechnische Anlagen deutschlandweit",
-      "company": "aurivus GmbH",
-      "location": "Ulm",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-09T13:30:35.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/aurivus-gmbh/projektleiter-innovation-fur-kerntechnische-anlagen-deutschlandweit-ulm-79161"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzk5MTk3MDAzP2doX2ppZD03Nzk5MTk3MDAzfGNoZW1pc3R8bmV1cmFsaW5r",
