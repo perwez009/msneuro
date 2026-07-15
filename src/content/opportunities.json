@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T13:40:48.701Z",
+  "generatedAt": "2026-07-15T19:08:29.864Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1jZm8tb2ZmaWNlLWJlcmxpbi05OTQ3OXx3ZXJrc3R1ZGVudDppbiAobS93L2QpIC0gY2ZvIG9mZmljZXwxa29tbWE1y5o",
+      "title": "Werkstudent:in (m/w/d) - CFO Office",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-15T16:00:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-cfo-office-berlin-99479"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1vZmZpY2UtZmVlbGdvb2QtbWFuYWdlbWVudC1iZXJsaW4tMjI0NDE3fHdlcmtzdHVkZW50OmluIG9mZmljZSAmIGZlZWxnb29kIG1hbmFnZW1lbnQgKG0vdy9kKSAtIGJlcmxpbnwxa29tbWE1y5o",
+      "title": "Werkstudent:in Office & Feelgood Management (m/w/d) - Berlin",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Working student, hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-15T12:30:38.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-office-feelgood-management-berlin-224417"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdml0YWwtZ3Jvd3RoLXVnLWhhZnR1bmdzYmVzY2hyYW5rdC9zZW5pb3ItcGVyZm9ybWFuY2UtbWFya2V0aW5nLW1hbmFnZXItbWVkaWEtYnV5ZXItbmF0aXZlLXRhYm9vbGEtb3V0YnJhaW4tdGVhZHMtbW9uaGVpbS1hbS1yaGVpbi0yMTQwOTJ8c2VuaW9yIHBlcmZvcm1hbmNlIG1hcmtldGluZyBtYW5hZ2VyIC8gbWVkaWEgYnV5ZXIgbmF0aXZlIC0gdGFib29sYSAmIG91dGJyYWluL3RlYWRzIChtL3cvZCl8dml0YWwgZ3Jvd3RoIHVnIChoYWZ0dW5nc2Jlc2NocsOkbmt0KQ",
       "title": "Senior Performance Marketing Manager / Media Buyer Native - Taboola & Outbrain/Teads (m/w/d)",
@@ -188,45 +214,6 @@
       "postedDate": "2026-07-13T06:45:26.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-stuttgart-germany-275854"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWFnYXppbm8tZ21iaC9yb2JvdC1wZXJjZXB0aW9uLW1sLWVuZ2luZWVyLWF1dG9ub21vdXMtbW9iaWxlLXJvYm90cy1tdW5pY2gtNDIzNTEwfHJvYm90IHBlcmNlcHRpb24vbWwgZW5naW5lZXIgKHcvbS9kKSBhdXRvbm9tb3VzIG1vYmlsZSByb2JvdHN8bWFnYXppbm8gZ21iaA",
-      "title": "Robot Perception/ML Engineer (w/m/d) Autonomous Mobile Robots",
-      "company": "Magazino GmbH",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Contract",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-10T19:29:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/magazino-gmbh/robot-perception-ml-engineer-autonomous-mobile-robots-munich-423510"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWFnYXppbm8tZ21iaC9yb2JvdC1wZXJjZXB0aW9uLW1sLWVuZ2luZWVyLWF1dG9ub21vdXMtbW9iaWxlLXJvYm90cy1tdW5pY2gtMzI3OTgzfHJvYm90IHBlcmNlcHRpb24vbWwgZW5naW5lZXIgKGYvbS9kKSBhdXRvbm9tb3VzIG1vYmlsZSByb2JvdHN8bWFnYXppbm8gZ21iaA",
-      "title": "Robot Perception/ML Engineer (f/m/d) Autonomous Mobile Robots",
-      "company": "Magazino GmbH",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Contract",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-10T14:30:36.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/magazino-gmbh/robot-perception-ml-engineer-autonomous-mobile-robots-munich-327983"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd29sdC1lbmdsaXNoL2FwcGxpZWQtc2NpZW50aXN0LW1hY2hpbmUtbGVhcm5pbmctZW5naW5lZXItYmVybGluLTM4OTI0MHxhcHBsaWVkIHNjaWVudGlzdCAvIG1hY2hpbmUgbGVhcm5pbmcgZW5naW5lZXJ8d29sdCAtIGVuZ2xpc2g",
-      "title": "Applied Scientist / Machine Learning Engineer",
-      "company": "Wolt - English",
-      "location": "Berlin, Berlin, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-10T13:45:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/applied-scientist-machine-learning-engineer-berlin-389240"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTEyNzY1MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSBsb3MgYW5nZWxlc3xuZXVyb3BhY2U",
