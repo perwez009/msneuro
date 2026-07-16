@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T08:10:32.076Z",
+  "generatedAt": "2026-07-16T13:47:09.394Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvcXVhbGl0eS1jb250cm9sLWV4cGVydC13YXJtZXB1bXBlLWJlcmxpbi0zNTUzOTF8cXVhbGl0eSBjb250cm9sIGV4cGVydCAod8Okcm1lcHVtcGUpIChtL3cvZCl8MWtvbW1hNcua",
+      "title": "Quality Control Expert (Wärmepumpe) (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "workModel": "Remote",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-16T10:00:30.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/quality-control-expert-warmepumpe-berlin-355391"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva2QtcGhhcm1hL2JsYW56YnVjaGhhbHRlci1iZXhiYWNoLTY3NjN8YmxhbnpidWNoaGFsdGVyIChtL3cvZCl8a2QgcGhhcm1h",
+      "title": "Blanzbuchhalter (m/w/d)",
+      "company": "KD Pharma",
+      "location": "Bexbach",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-16T07:30:34.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/kd-pharma/blanzbuchhalter-bexbach-6763"
+    },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTE3MDQ4MDA0fGRpcmVjdG9yIG9mIHJlaW1idXJzZW1lbnR8bmV1cm9wYWNl",
       "title": "Director of Reimbursement",
@@ -58,19 +84,6 @@
       "postedDate": "2026-07-15T12:30:38.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-office-feelgood-management-berlin-224417"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2ltaS1yZWFsaXR5LW1vdGlvbi1zeXN0ZW1zLWdtYmgvcHJha3Rpa3VtLWltLWJlcmVpY2gtcHJvdG90eXBpbmctZGF0YS1mdXItYXV0b21vdGl2ZS1jb21wdXRlci12aXNpb24tdW50ZXJzY2hsZWlzc2hlaW0tMTk5MzExfHByYWt0aWt1bSBpbSBiZXJlaWNoIHByb3RvdHlwaW5nICYgZGF0YSBmw7xyIGF1dG9tb3RpdmUgY29tcHV0ZXIgdmlzaW9ufHNpbWkgcmVhbGl0eSBtb3Rpb24gc3lzdGVtcyBnbWJo",
-      "title": "Praktikum im Bereich Prototyping & Data für Automotive Computer Vision",
-      "company": "Simi Reality Motion Systems GmbH",
-      "location": "Unterschleißheim",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-14T11:29:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/simi-reality-motion-systems-gmbh/praktikum-im-bereich-prototyping-data-fur-automotive-computer-vision-unterschleissheim-199311"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbW9uZGEtbGFicy9zdGFmZi1zb2Z0d2FyZS1lbmdpbmVlci1haS1kYXRhLXBsYXRmb3JtLXNub3dmbGFrZS1iZXJsaW4tNzU4NzR8c3RhZmYgc29mdHdhcmUgZW5naW5lZXIgLSBhaSBkYXRhIHBsYXRmb3JtICYgc25vd2ZsYWtlIChkL2YvbSwgYmVybGluKXxtb25kYSBsYWJz",
@@ -149,6 +162,19 @@
       "postedDate": "2026-07-13T20:45:24.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/oliver-agency/business-transformation-director-advertising-creative-operations-frankfurt-65107"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb2xpdmVyLWFnZW5jeS9idXNpbmVzcy10cmFuc2Zvcm1hdGlvbi1kaXJlY3Rvci1hZHZlcnRpc2luZy1jcmVhdGl2ZS1vcGVyYXRpb25zLWJlcmxpbi00MDg5ODJ8YnVzaW5lc3MgdHJhbnNmb3JtYXRpb24gZGlyZWN0b3IgKGFkdmVydGlzaW5nICYgY3JlYXRpdmUgb3BlcmF0aW9ucyl8b2xpdmVyIGFnZW5jeQ",
+      "title": "Business Transformation Director (Advertising & Creative Operations)",
+      "company": "OLIVER Agency",
+      "location": "Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-13T20:45:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/oliver-agency/business-transformation-director-advertising-creative-operations-berlin-408982"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvanVuaW9yLXZpZGVvLWNyZWF0b3ItdmlkZW9ncmFwaC1wb3N0LXByb2R1Y3Rpb24taGFtYnVyZy0yMzA4Njh8KGp1bmlvcikgdmlkZW8gY3JlYXRvciAvIHZpZGVvZ3JhcGggLyBwb3N0LXByb2R1Y3Rpb24gKG0vdy9kKXwxa29tbWE1y5o",
