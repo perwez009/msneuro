@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T08:07:51.533Z",
+  "generatedAt": "2026-07-17T13:24:53.405Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1vZmZpY2UtZmVlbGdvb2QtbWFuYWdlbWVudC1iZXJsaW4tMjI0NDE3fHdlcmtzdHVkZW50OmluIG9mZmljZSBtYW5hZ2VtZW50IChtL3cvZCkgLSBiZXJsaW58MWtvbW1hNcua",
+      "title": "Werkstudent:in Office Management (m/w/d) - Berlin",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Working student, hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-17T11:29:02.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-office-feelgood-management-berlin-224417"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvemVlZy9wcmFrdGlrYW50aW4tc29jaWFsLW1lZGlhLXZpZGVvLWVkaXRpbmctY29udGVudC1zdHJhdGVnaWUtYmVybGluLTM3NzI1NXxwcmFrdGlrYW50aW4gKG0vdy9kKSBzb2NpYWwgbWVkaWEsIHZpZGVvIGVkaXRpbmcgJiBjb250ZW50IHN0cmF0ZWdpZXx6ZWVn",
       "title": "Praktikantin (m/w/d) Social Media, Video Editing & Content Strategie",
@@ -99,32 +112,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-cfo-office-berlin-99479"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1vZmZpY2UtZmVlbGdvb2QtbWFuYWdlbWVudC1iZXJsaW4tMjI0NDE3fHdlcmtzdHVkZW50OmluIG9mZmljZSAmIGZlZWxnb29kIG1hbmFnZW1lbnQgKG0vdy9kKSAtIGJlcmxpbnwxa29tbWE1y5o",
-      "title": "Werkstudent:in Office & Feelgood Management (m/w/d) - Berlin",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Working student, hilfstätigkeit / student",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-15T12:30:38.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-office-feelgood-management-berlin-224417"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2ltaS1yZWFsaXR5LW1vdGlvbi1zeXN0ZW1zLWdtYmgvcHJha3Rpa3VtLWltLWJlcmVpY2gtcHJvdG90eXBpbmctZGF0YS1mdXItYXV0b21vdGl2ZS1jb21wdXRlci12aXNpb24tdW50ZXJzY2hsZWlzc2hlaW0tMTk5MzExfHByYWt0aWt1bSBpbSBiZXJlaWNoIHByb3RvdHlwaW5nICYgZGF0YSBmw7xyIGF1dG9tb3RpdmUgY29tcHV0ZXIgdmlzaW9ufHNpbWkgcmVhbGl0eSBtb3Rpb24gc3lzdGVtcyBnbWJo",
-      "title": "Praktikum im Bereich Prototyping & Data für Automotive Computer Vision",
-      "company": "Simi Reality Motion Systems GmbH",
-      "location": "Unterschleißheim",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-14T11:29:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/simi-reality-motion-systems-gmbh/praktikum-im-bereich-prototyping-data-fur-automotive-computer-vision-unterschleissheim-199311"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbW9uZGEtbGFicy9zdGFmZi1zb2Z0d2FyZS1lbmdpbmVlci1haS1kYXRhLXBsYXRmb3JtLXNub3dmbGFrZS1iZXJsaW4tNzU4NzR8c3RhZmYgc29mdHdhcmUgZW5naW5lZXIgLSBhaSBkYXRhIHBsYXRmb3JtICYgc25vd2ZsYWtlIChkL2YvbSwgYmVybGluKXxtb25kYSBsYWJz",
       "title": "Staff Software Engineer - AI Data Platform & Snowflake (d/f/m, Berlin)",
       "company": "Monda Labs",
@@ -188,58 +175,6 @@
       "postedDate": "2026-07-14T06:45:27.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-hamburg-germany-63852"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb2xpdmVyLWFnZW5jeS9idXNpbmVzcy10cmFuc2Zvcm1hdGlvbi1kaXJlY3Rvci1hZHZlcnRpc2luZy1jcmVhdGl2ZS1vcGVyYXRpb25zLWZyYW5rZnVydC02NTEwN3xidXNpbmVzcyB0cmFuc2Zvcm1hdGlvbiBkaXJlY3RvciAoYWR2ZXJ0aXNpbmcgJiBjcmVhdGl2ZSBvcGVyYXRpb25zKXxvbGl2ZXIgYWdlbmN5",
-      "title": "Business Transformation Director (Advertising & Creative Operations)",
-      "company": "OLIVER Agency",
-      "location": "Frankfurt, Hesse, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-13T20:45:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/oliver-agency/business-transformation-director-advertising-creative-operations-frankfurt-65107"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb2xpdmVyLWFnZW5jeS9idXNpbmVzcy10cmFuc2Zvcm1hdGlvbi1kaXJlY3Rvci1hZHZlcnRpc2luZy1jcmVhdGl2ZS1vcGVyYXRpb25zLWJlcmxpbi00MDg5ODJ8YnVzaW5lc3MgdHJhbnNmb3JtYXRpb24gZGlyZWN0b3IgKGFkdmVydGlzaW5nICYgY3JlYXRpdmUgb3BlcmF0aW9ucyl8b2xpdmVyIGFnZW5jeQ",
-      "title": "Business Transformation Director (Advertising & Creative Operations)",
-      "company": "OLIVER Agency",
-      "location": "Berlin, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-13T20:45:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/oliver-agency/business-transformation-director-advertising-creative-operations-berlin-408982"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcGVyZWdyaW5lLXRlY2hub2xvZ2llcy1nbWJoL3Nlbmlvci1tYWNoaW5lLWxlYXJuaW5nLWVuZ2luZWVyLW0tZi1iZXJsaW4tNDIyNzk3fHNlbmlvciBtYWNoaW5lIGxlYXJuaW5nIGVuZ2luZWVyIChtL2YvKil8cGVyZWdyaW5lIHRlY2hub2xvZ2llcyBnbWJo",
-      "title": "Senior Machine Learning Engineer (m/f/*)",
-      "company": "Peregrine Technologies GmbH",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-13T15:31:00.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/peregrine-technologies-gmbh/senior-machine-learning-engineer-m-f-berlin-422797"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmFrb2EtZGlnaXRhbC1nbWJoL3dlcmtzdHVkZW50LXJldGFpbC1tZWRpYS1tYXJrZXRwbGFjZS1tdW5pY2gtMjMyOTYzfHdlcmtzdHVkZW50IHJldGFpbCBtZWRpYSAvIG1hcmtldHBsYWNlIChtL3cvZCl8bmFrb2EgZGlnaXRhbCBnbWJo",
-      "title": "Werkstudent Retail Media / Marketplace (m/w/d)",
-      "company": "Nakoa Digital GmbH",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Working student",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-13T15:31:00.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/nakoa-digital-gmbh/werkstudent-retail-media-marketplace-munich-232963"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTEyNzY1MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSBsb3MgYW5nZWxlc3xuZXVyb3BhY2U",
