@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T13:24:53.405Z",
+  "generatedAt": "2026-07-17T19:05:35.920Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,45 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODA4MzU1MDAzP2doX2ppZD03ODA4MzU1MDAzfHNlY3VyaXR5IGVuZ2luZWVyfG5ldXJhbGluaw",
+      "title": "Security Engineer",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-07-17T18:43:05.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7808355003?gh_jid=7808355003"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODA4MjMzMDAzP2doX2ppZD03ODA4MjMzMDAzfHImZCBtYXRlcmlhbHMgZW5naW5lZXIgaW50ZXJufG5ldXJhbGluaw",
+      "title": "R&D Materials Engineer Intern",
+      "company": "Neuralink",
+      "location": "South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-07-17T17:35:13.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7808233003?gh_jid=7808233003"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1jZm8tb2ZmaWNlLWJlcmxpbi05OTQ3OXx3ZXJrc3R1ZGVudDppbiAobS93L2QpIC0gY2ZvIG9mZmljZXwxa29tbWE1y5o",
+      "title": "Werkstudent:in (m/w/d) - CFO Office",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-17T14:29:02.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-cfo-office-berlin-99479"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1vZmZpY2UtZmVlbGdvb2QtbWFuYWdlbWVudC1iZXJsaW4tMjI0NDE3fHdlcmtzdHVkZW50OmluIG9mZmljZSBtYW5hZ2VtZW50IChtL3cvZCkgLSBiZXJsaW58MWtvbW1hNcua",
       "title": "Werkstudent:in Office Management (m/w/d) - Berlin",
@@ -97,84 +136,6 @@
       "postedDate": "2026-07-15T18:29:02.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/vital-growth-ug-haftungsbeschrankt/senior-performance-marketing-manager-media-buyer-native-taboola-outbrain-teads-monheim-am-rhein-214092"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1jZm8tb2ZmaWNlLWJlcmxpbi05OTQ3OXx3ZXJrc3R1ZGVudDppbiAobS93L2QpIC0gY2ZvIG9mZmljZXwxa29tbWE1y5o",
-      "title": "Werkstudent:in (m/w/d) - CFO Office",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-15T16:00:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-cfo-office-berlin-99479"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbW9uZGEtbGFicy9zdGFmZi1zb2Z0d2FyZS1lbmdpbmVlci1haS1kYXRhLXBsYXRmb3JtLXNub3dmbGFrZS1iZXJsaW4tNzU4NzR8c3RhZmYgc29mdHdhcmUgZW5naW5lZXIgLSBhaSBkYXRhIHBsYXRmb3JtICYgc25vd2ZsYWtlIChkL2YvbSwgYmVybGluKXxtb25kYSBsYWJz",
-      "title": "Staff Software Engineer - AI Data Platform & Snowflake (d/f/m, Berlin)",
-      "company": "Monda Labs",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-14T08:31:05.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/monda-labs/staff-software-engineer-ai-data-platform-snowflake-berlin-75874"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tbXVuaWNoLWdlcm1hbnktMzgyOTAzfHNvZnR3YXJlIGVuZ2luZWVyLCBkYXRhIGluZnJhc3RydWN0dXJlICYgYWNxdWlzaXRpb24gLSBtdW5pY2gsIGdlcm1hbnl8c3BlZWNoaWZ5",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Munich, Germany",
-      "company": "Speechify",
-      "location": "Munich, Bavaria, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-14T06:45:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-munich-germany-382903"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLW11bmljaC1nZXJtYW55LTQ4NDU0NnxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIHdpbmRvd3MvZGVza3RvcCBhcHBsaWNhdGlvbnMgLSBtdW5pY2gsIGdlcm1hbnl8c3BlZWNoaWZ5",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Munich, Germany",
-      "company": "Speechify",
-      "location": "Munich, Bavaria, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-14T06:45:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-munich-germany-484546"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLWR1c3NlbGRvcmYtZ2VybWFueS1kdXNzZWxkb3JmLTE2NDYwNnxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIHdpbmRvd3MvZGVza3RvcCBhcHBsaWNhdGlvbnMgLSBkw7xzc2VsZG9yZiwgZ2VybWFueXxzcGVlY2hpZnk",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Düsseldorf, Germany",
-      "company": "Speechify",
-      "location": "Dusseldorf, North Rhine-Westphalia, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-14T06:45:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-dusseldorf-germany-dusseldorf-164606"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLWhhbWJ1cmctZ2VybWFueS02Mzg1MnxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIHdpbmRvd3MvZGVza3RvcCBhcHBsaWNhdGlvbnMgLSBoYW1idXJnLCBnZXJtYW55fHNwZWVjaGlmeQ",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Hamburg, Germany",
-      "company": "Speechify",
-      "location": "Hamburg, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-14T06:45:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-hamburg-germany-63852"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTEyNzY1MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSBsb3MgYW5nZWxlc3xuZXVyb3BhY2U",
