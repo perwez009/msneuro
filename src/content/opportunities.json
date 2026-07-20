@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T08:55:29.982Z",
+  "generatedAt": "2026-07-20T14:02:54.022Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BpcmUvcHJpbmNpcGFsLXJmLWVuZ2luZWVyLW11bmljaC0zNDUxNTV8cHJpbmNpcGFsIHJmIGVuZ2luZWVyfHNwaXJl",
+      "title": "Principal RF Engineer",
+      "company": "Spire",
+      "location": "Munich, Bavaria, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-20T13:45:20.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/spire/principal-rf-engineer-munich-345155"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmN0ZS1hZy9iaWxhbnpidWNoaGFsdGVyLWNvbnRyb2xsZXItaW4tdGVpbHplaXQtb2JlcmhhY2hpbmctMTAxNjE1fGJpbGFuemJ1Y2hoYWx0ZXIvY29udHJvbGxlciAobS93L2QpIGluIHRlaWx6ZWl0fG5jdGUgYWc",
+      "title": "Bilanzbuchhalter/Controller (m/w/d) in Teilzeit",
+      "company": "NCTE AG",
+      "location": "Oberhaching",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-20T08:30:41.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/ncte-ag/bilanzbuchhalter-controller-in-teilzeit-oberhaching-101615"
+    },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODA4NjM5MDAzP2doX2ppZD03ODA4NjM5MDAzfHF1YWxpdHkgYXNzdXJhbmNlIHNwZWNpYWxpc3R8bmV1cmFsaW5r",
       "title": "Quality Assurance Specialist",
@@ -58,19 +84,6 @@
       "postedDate": "2026-07-17T14:29:02.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-cfo-office-berlin-99479"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1vZmZpY2UtZmVlbGdvb2QtbWFuYWdlbWVudC1iZXJsaW4tMjI0NDE3fHdlcmtzdHVkZW50OmluIG9mZmljZSBtYW5hZ2VtZW50IChtL3cvZCkgLSBiZXJsaW58MWtvbW1hNcua",
-      "title": "Werkstudent:in Office Management (m/w/d) - Berlin",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Working student, hilfstätigkeit / student",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-17T11:29:02.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-office-feelgood-management-berlin-224417"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvemVlZy9wcmFrdGlrYW50aW4tc29jaWFsLW1lZGlhLXZpZGVvLWVkaXRpbmctY29udGVudC1zdHJhdGVnaWUtYmVybGluLTM3NzI1NXxwcmFrdGlrYW50aW4gKG0vdy9kKSBzb2NpYWwgbWVkaWEsIHZpZGVvIGVkaXRpbmcgJiBjb250ZW50IHN0cmF0ZWdpZXx6ZWVn",
@@ -136,19 +149,6 @@
       "postedDate": "2026-07-16T00:17:03.000Z",
       "applyBy": null,
       "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=6117048004"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdml0YWwtZ3Jvd3RoLXVnLWhhZnR1bmdzYmVzY2hyYW5rdC9zZW5pb3ItcGVyZm9ybWFuY2UtbWFya2V0aW5nLW1hbmFnZXItbWVkaWEtYnV5ZXItbmF0aXZlLXRhYm9vbGEtb3V0YnJhaW4tdGVhZHMtbW9uaGVpbS1hbS1yaGVpbi0yMTQwOTJ8c2VuaW9yIHBlcmZvcm1hbmNlIG1hcmtldGluZyBtYW5hZ2VyIC8gbWVkaWEgYnV5ZXIgbmF0aXZlIC0gdGFib29sYSAmIG91dGJyYWluIChtL3cvZCl8dml0YWwgZ3Jvd3RoIHVnIChoYWZ0dW5nc2Jlc2NocsOkbmt0KQ",
-      "title": "Senior Performance Marketing Manager / Media Buyer Native - Taboola & Outbrain (m/w/d)",
-      "company": "Vital Growth UG (haftungsbeschränkt)",
-      "location": "Monheim am Rhein",
-      "workModel": "Remote",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-15T18:29:02.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/vital-growth-ug-haftungsbeschrankt/senior-performance-marketing-manager-media-buyer-native-taboola-outbrain-teads-monheim-am-rhein-214092"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTEyNzY1MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSBsb3MgYW5nZWxlc3xuZXVyb3BhY2U",
