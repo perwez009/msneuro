@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T08:25:46.155Z",
+  "generatedAt": "2026-07-21T13:46:14.813Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdm9pZHMtdGVjaG5vbG9neS1nbWJoL2ZvcndhcmQtZGVwbG95ZWQtZW5naW5lZXItaW50ZWdyYXRpb25zLWN1c3RvbWVyLXN1Y2Nlc3MtaGFtYnVyZy05ODkyMHxmb3J3YXJkIGRlcGxveWVkIGVuZ2luZWVyIC0gaW50ZWdyYXRpb25zICYgY3VzdG9tZXIgc3VjY2VzcyAoZi9tL2QpfHZvaWRzIHRlY2hub2xvZ3kgZ21iaA",
+      "title": "Forward Deployed Engineer - Integrations & Customer Success (f/m/d)",
+      "company": "VOIDS Technology GmbH",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-21T12:00:33.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/voids-technology-gmbh/forward-deployed-engineer-integrations-customer-success-hamburg-98920"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tYmVybGluLWdlcm1hbnktMjU1OTA4fHNvZnR3YXJlIGVuZ2luZWVyLCBkYXRhIGluZnJhc3RydWN0dXJlICYgYWNxdWlzaXRpb24gLSBiZXJsaW4sIGdlcm1hbnl8c3BlZWNoaWZ5",
       "title": "Software Engineer, Data Infrastructure & Acquisition - Berlin, Germany",
@@ -162,32 +175,6 @@
       "postedDate": "2026-07-16T13:30:32.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-163583"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvcXVhbGl0eS1jb250cm9sLWV4cGVydC13YXJtZXB1bXBlLWJlcmxpbi0zNTUzOTF8cXVhbGl0eSBjb250cm9sIGV4cGVydCAod8Okcm1lcHVtcGUpIChtL3cvZCl8MWtvbW1hNcua",
-      "title": "Quality Control Expert (Wärmepumpe) (m/w/d)",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "workModel": "Remote",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-16T10:00:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/quality-control-expert-warmepumpe-berlin-355391"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva2QtcGhhcm1hL2JsYW56YnVjaGhhbHRlci1iZXhiYWNoLTY3NjN8YmxhbnpidWNoaGFsdGVyIChtL3cvZCl8a2QgcGhhcm1h",
-      "title": "Blanzbuchhalter (m/w/d)",
-      "company": "KD Pharma",
-      "location": "Bexbach",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-16T07:30:34.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/kd-pharma/blanzbuchhalter-bexbach-6763"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTE3MDQ4MDA0fGRpcmVjdG9yIG9mIHJlaW1idXJzZW1lbnQgYW5kIG1hcmtldCBhY2Nlc3N8bmV1cm9wYWNl",
@@ -513,19 +500,6 @@
       "postedDate": "2026-06-22T17:02:55.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7780172003?gh_jid=7780172003"
-    },
-    {
-      "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvbWlkLXNlbmlvci1haS1jaW5lbWF0aWMtdmlkZW8tZWRpdG9yLTIwOTA4ODd8bWlkL3NlbmlvciBhaSBjaW5lbWF0aWMgdmlkZW8gZWRpdG9yfGV2ZXJhaQ",
-      "title": "Mid/Senior AI Cinematic Video Editor",
-      "company": "EverAI",
-      "location": "Worldwide",
-      "workModel": "Remote",
-      "opportunityType": "Full-time",
-      "source": "Remotive",
-      "sourceUrl": "https://remotive.com",
-      "postedDate": "2026-06-19T19:46:09.000Z",
-      "applyBy": null,
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzc2ODc3MDAzP2doX2ppZD03Nzc2ODc3MDAzfGlhY3VjIGNvb3JkaW5hdG9yfG5ldXJhbGluaw",
