@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T19:42:10.122Z",
+  "generatedAt": "2026-07-21T02:33:18.802Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tYmVybGluLWdlcm1hbnktMjU1OTA4fHNvZnR3YXJlIGVuZ2luZWVyLCBkYXRhIGluZnJhc3RydWN0dXJlICYgYWNxdWlzaXRpb24gLSBiZXJsaW4sIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Berlin, Germany",
+      "company": "Speechify",
+      "location": "Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-20T20:45:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-berlin-germany-255908"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24taGFtYnVyZy1nZXJtYW55LTk1MDgyfHNvZnR3YXJlIGVuZ2luZWVyLCBkYXRhIGluZnJhc3RydWN0dXJlICYgYWNxdWlzaXRpb24gLSBoYW1idXJnLCBnZXJtYW55fHNwZWVjaGlmeQ",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Hamburg, Germany",
+      "company": "Speechify",
+      "location": "Hamburg, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-20T20:45:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-hamburg-germany-95082"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWR1c3NlbGRvcmYtZ2VybWFueS1kdXNzZWxkb3JmLTQ1NjA2fHNvZnR3YXJlIGVuZ2luZWVyLCBwbGF0Zm9ybSAtIGTDvHNzZWxkb3JmLCBnZXJtYW55fHNwZWVjaGlmeQ",
+      "title": "Software Engineer, Platform - Düsseldorf, Germany",
+      "company": "Speechify",
+      "location": "Dusseldorf, North Rhine-Westphalia, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-20T20:45:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-dusseldorf-germany-dusseldorf-45606"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWhhbWJ1cmctZ2VybWFueS0yMzgzNTZ8c29mdHdhcmUgZW5naW5lZXIsIHBsYXRmb3JtIC0gaGFtYnVyZywgZ2VybWFueXxzcGVlY2hpZnk",
+      "title": "Software Engineer, Platform - Hamburg, Germany",
+      "company": "Speechify",
+      "location": "Hamburg, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-20T20:45:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-hamburg-germany-238356"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLW11bmljaC1nZXJtYW55LTMwNDI0Nnxzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBtdW5pY2gsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Software Engineer, Platform - Munich, Germany",
+      "company": "Speechify",
+      "location": "Munich, Bavaria, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-20T20:45:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-munich-germany-304246"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BpcmUvcHJpbmNpcGFsLXJmLWVuZ2luZWVyLW11bmljaC0zNDUxNTV8cHJpbmNpcGFsIHJmIGVuZ2luZWVyfHNwaXJl",
       "title": "Principal RF Engineer",
