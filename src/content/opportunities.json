@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T19:15:52.784Z",
+  "generatedAt": "2026-07-23T02:37:01.783Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODEzMzgzMDAzP2doX2ppZD03ODEzMzgzMDAzfGxhYiBtYW5hZ2VyfG5ldXJhbGluaw",
+      "title": "Lab Manager",
+      "company": "Neuralink",
+      "location": "South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-07-23T00:15:06.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7813383003?gh_jid=7813383003"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZmxpeC9zZW5pb3ItZGF0YS1zY2llbnRpc3QtbXVuY2hlbi02OTAwNHxzZW5pb3IgZGF0YSBzY2llbnRpc3QgKG0vZi9kKXxmbGl4",
+      "title": "Senior Data Scientist (m/f/d)",
+      "company": "Flix",
+      "location": "München, Bayern, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-22T20:45:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-data-scientist-munchen-69004"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZmxpeC9zZW5pb3ItZGF0YS1zY2llbnRpc3QtYmVybGluLTI0NjUxMXxzZW5pb3IgZGF0YSBzY2llbnRpc3QgKG0vZi9kKXxmbGl4",
+      "title": "Senior Data Scientist (m/f/d)",
+      "company": "Flix",
+      "location": "Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-22T20:45:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-data-scientist-berlin-246511"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODEzMDI0MDAzP2doX2ppZD03ODEzMDI0MDAzfGVsZWN0cmljYWwgZW5naW5lZXIsIHJvYm90aWNzfG5ldXJhbGluaw",
+      "title": "Electrical Engineer, Robotics",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-07-22T20:27:56.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7813024003?gh_jid=7813024003"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbHVueW9uZS1nbWJoL3BhcnRuZXItbWFuYWdlci1jcmVhdG9yLW1lcmNoYW5kaXNpbmctYWxsLWdlbmRlcnMtbGFuZ2VuZmVsZC0zOTI4NjV8cGFydG5lciBtYW5hZ2VyIC0gY3JlYXRvciAmIG1lcmNoYW5kaXNpbmcgKGFsbCBnZW5kZXJzKXxsdW55b25lIGdtYmg",
+      "title": "Partner Manager - Creator & Merchandising (all genders)",
+      "company": "LunyOne GmbH",
+      "location": "Langenfeld",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-22T19:29:02.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/lunyone-gmbh/partner-manager-creator-merchandising-all-genders-langenfeld-392865"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYnJhaW4tY2FwaXRhbC1nbWJoL2hlYWQtb2YtYWx1bW5pLXNlcnZpY2VzLW1vbnRhYmF1ci0yMTI3MjN8aGVhZCBvZiBhbHVtbmkgc2VydmljZXMgKG0vdy9kKXxicmFpbiBjYXBpdGFsIGdtYmg",
       "title": "Head of Alumni Services (m/w/d)",
@@ -19,19 +84,6 @@
       "postedDate": "2026-07-22T15:00:23.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/brain-capital-gmbh/head-of-alumni-services-montabaur-212723"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbHVueW9uZS1nbWJoL3BhcnRuZXItbWFuYWdlci1jcmVhdG9yLW1lcmNoYW5kaXNpbmctYWxsLWdlbmRlcnMtbGFuZ2VuZmVsZC0zOTI4NjV8cGFydG5lciBtYW5hZ2VyIC0gY3JlYXRvciAmIG1lcmNoYW5kaXNpbmcgKGFsbCBnZW5kZXJzKXxsdW55b25lIGdtYmg",
-      "title": "Partner Manager - Creator & Merchandising (all genders)",
-      "company": "LunyOne GmbH",
-      "location": "Langenfeld",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-22T15:00:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/lunyone-gmbh/partner-manager-creator-merchandising-all-genders-langenfeld-392865"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAva3VuZGVuYmV0cmV1dW5nLWxvc3VuZ3MtenVmcmllZGVuaGVpdHNtYW5hZ2VtZW50LWJlcmxpbi0xNzk3OTR8a3VuZGVuYmV0cmV1dW5nIChtL3cvZCkg4oCTIGzDtnN1bmdzLSAmIHp1ZnJpZWRlbmhlaXRzbWFuYWdlbWVudHwxa29tbWE1y5o",
