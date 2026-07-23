@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T13:54:22.036Z",
+  "generatedAt": "2026-07-23T19:14:35.172Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,45 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbHVueW9uZS1nbWJoL3BhcnRuZXItbWFuYWdlci1jcmVhdG9yLW1lcmNoYW5kaXNpbmctYWxsLWdlbmRlcnMtbGFuZ2VuZmVsZC0zOTI4NjV8cGFydG5lciBtYW5hZ2VyIC0gY3JlYXRvciAmIG1lcmNoYW5kaXNpbmcgKGFsbCBnZW5kZXJzKXxsdW55b25lIGdtYmg",
+      "title": "Partner Manager - Creator & Merchandising (all genders)",
+      "company": "LunyOne GmbH",
+      "location": "Langenfeld",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-23T16:29:02.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/lunyone-gmbh/partner-manager-creator-merchandising-all-genders-langenfeld-392865"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcGVha3NvZnQtZ21iaC9haS1kYXRhLWVuZ2luZWVyLXd1cHBlcnRhbC00MTk1OTV8YWkgJiBkYXRhIGVuZ2luZWVyIChtL3cvZCl8cGVha3NvZnQgZ21iaA",
+      "title": "AI & Data Engineer (m/w/d)",
+      "company": "PeakSoft GmbH",
+      "location": "Wuppertal",
+      "workModel": "Remote",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-23T15:30:28.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/peaksoft-gmbh/ai-data-engineer-wuppertal-419595"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGV1dHNjaGVyLWJhdXNlcnZpY2UtZ21iaC9wcm9qZWt0ZW50d2lja2xlci1mdXItZXJuZXVlcmJhcmUtZW5lcmdpZW4tbW9sYmVyZ2VuLTQzMTU0MXxwcm9qZWt0ZW50d2lja2xlciAobS93L2QpIGbDvHIgZXJuZXVlcmJhcmUgZW5lcmdpZW58ZGV1dHNjaGVyIGJhdXNlcnZpY2UgZ21iaA",
+      "title": "Projektentwickler (m/w/d) für erneuerbare Energien",
+      "company": "Deutscher Bauservice GmbH",
+      "location": "Molbergen",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-23T14:00:31.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-431541"
+    },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODEzMzgzMDAzP2doX2ppZD03ODEzMzgzMDAzfGxhYiBtYW5hZ2VyfG5ldXJhbGluaw",
       "title": "Lab Manager",
@@ -58,19 +97,6 @@
       "postedDate": "2026-07-22T20:27:56.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7813024003?gh_jid=7813024003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbHVueW9uZS1nbWJoL3BhcnRuZXItbWFuYWdlci1jcmVhdG9yLW1lcmNoYW5kaXNpbmctYWxsLWdlbmRlcnMtbGFuZ2VuZmVsZC0zOTI4NjV8cGFydG5lciBtYW5hZ2VyIC0gY3JlYXRvciAmIG1lcmNoYW5kaXNpbmcgKGFsbCBnZW5kZXJzKXxsdW55b25lIGdtYmg",
-      "title": "Partner Manager - Creator & Merchandising (all genders)",
-      "company": "LunyOne GmbH",
-      "location": "Langenfeld",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-22T19:29:02.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/lunyone-gmbh/partner-manager-creator-merchandising-all-genders-langenfeld-392865"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYnJhaW4tY2FwaXRhbC1nbWJoL2hlYWQtb2YtYWx1bW5pLXNlcnZpY2VzLW1vbnRhYmF1ci0yMTI3MjN8aGVhZCBvZiBhbHVtbmkgc2VydmljZXMgKG0vdy9kKXxicmFpbiBjYXBpdGFsIGdtYmg",
@@ -188,19 +214,6 @@
       "postedDate": "2026-07-20T13:45:20.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/spire/principal-rf-engineer-munich-345155"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmN0ZS1hZy9iaWxhbnpidWNoaGFsdGVyLWNvbnRyb2xsZXItaW4tdGVpbHplaXQtb2JlcmhhY2hpbmctMTAxNjE1fGJpbGFuemJ1Y2hoYWx0ZXIvY29udHJvbGxlciAobS93L2QpIGluIHRlaWx6ZWl0fG5jdGUgYWc",
-      "title": "Bilanzbuchhalter/Controller (m/w/d) in Teilzeit",
-      "company": "NCTE AG",
-      "location": "Oberhaching",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-20T08:30:41.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/ncte-ag/bilanzbuchhalter-controller-in-teilzeit-oberhaching-101615"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODA4NjM5MDAzP2doX2ppZD03ODA4NjM5MDAzfHF1YWxpdHkgYXNzdXJhbmNlIHNwZWNpYWxpc3R8bmV1cmFsaW5r",
@@ -502,19 +515,6 @@
       "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2091035"
     },
     {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzgyNTYwMDAzP2doX2ppZD03NzgyNTYwMDAzfGNvbnN0cnVjdGlvbiBzdXBlcmludGVuZGVudHxuZXVyYWxpbms",
-      "title": "Construction Superintendent",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-06-23T23:18:38.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7782560003?gh_jid=7782560003"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzgwNzA4MDAzP2doX2ppZD03NzgwNzA4MDAzfGZhY2lsaXRpZXMgbWVjaGFuaWNhbCBzcGVjaWFsaXN0fG5ldXJhbGluaw",
       "title": "Facilities Mechanical Specialist",
       "company": "Neuralink",
@@ -765,7 +765,7 @@
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzI1MjU2MDAzP2doX2ppZD03NzI1MjU2MDAzfGZhY2lsaXRpZXMgdGVjaG5pY2lhbnxuZXVyYWxpbms",
       "title": "Facilities Technician",
       "company": "Neuralink",
-      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "location": "South San Francisco, California, United States",
       "workModel": "On-site",
       "opportunityType": "Full-time",
       "source": "Neuralink Jobs",
