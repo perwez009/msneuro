@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T13:41:56.797Z",
+  "generatedAt": "2026-07-24T19:23:10.267Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYmF0Y2gtcm9ib3RpY3MtZ21iaC9zZW5pb3ItbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci1yb2JvdC1sZWFybmluZy1tdW5pY2gtNDI0ODMyfChzZW5pb3IpIG1hY2hpbmUgbGVhcm5pbmcgZW5naW5lZXIsIHJvYm90IGxlYXJuaW5nIChtL2YvZCl8YmF0Y2ggcm9ib3RpY3MgZ21iaA",
+      "title": "(Senior) Machine Learning Engineer, Robot Learning (m/f/d)",
+      "company": "Batch Robotics GmbH",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-24T15:30:43.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/batch-robotics-gmbh/senior-machine-learning-engineer-robot-learning-munich-424832"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbHVueW9uZS1nbWJoL3BhcnRuZXItbWFuYWdlci1jcmVhdG9yLW1lcmNoYW5kaXNpbmctYWxsLWdlbmRlcnMtbGFuZ2VuZmVsZC0zOTI4NjV8cGFydG5lciBtYW5hZ2VyIC0gY3JlYXRvciAmIG1lcmNoYW5kaXNpbmcgKGFsbCBnZW5kZXJzKXxsdW55b25lIGdtYmg",
       "title": "Partner Manager - Creator & Merchandising (all genders)",
@@ -123,32 +136,6 @@
       "postedDate": "2026-07-21T14:30:26.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/1komma50/kundenbetreuung-losungs-zufriedenheitsmanagement-berlin-179794"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdm9pZHMtdGVjaG5vbG9neS1nbWJoL2ZvcndhcmQtZGVwbG95ZWQtZW5naW5lZXItaW50ZWdyYXRpb25zLWN1c3RvbWVyLXN1Y2Nlc3MtaGFtYnVyZy05ODkyMHxmb3J3YXJkIGRlcGxveWVkIGVuZ2luZWVyIC0gaW50ZWdyYXRpb25zICYgY3VzdG9tZXIgc3VjY2VzcyAoZi9tL2QpfHZvaWRzIHRlY2hub2xvZ3kgZ21iaA",
-      "title": "Forward Deployed Engineer - Integrations & Customer Success (f/m/d)",
-      "company": "VOIDS Technology GmbH",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-21T12:00:33.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/voids-technology-gmbh/forward-deployed-engineer-integrations-customer-success-hamburg-98920"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tYmVybGluLWdlcm1hbnktMjU1OTA4fHNvZnR3YXJlIGVuZ2luZWVyLCBkYXRhIGluZnJhc3RydWN0dXJlICYgYWNxdWlzaXRpb24gLSBiZXJsaW4sIGdlcm1hbnl8c3BlZWNoaWZ5",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Berlin, Germany",
-      "company": "Speechify",
-      "location": "Berlin, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-20T20:45:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-berlin-germany-255908"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODA4NjM5MDAzP2doX2ppZD03ODA4NjM5MDAzfHF1YWxpdHkgYXNzdXJhbmNlIHNwZWNpYWxpc3R8bmV1cmFsaW5r",
