@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T19:23:10.267Z",
+  "generatedAt": "2026-07-25T02:32:15.402Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLWJhY2tlbmQtZW5naW5lZXItZ29sYW5nLWJhbGFuY2UtbWFuYWdlbWVudC1iZXJsaW4tMzY1MjI0fHNlbmlvciBiYWNrZW5kIGVuZ2luZWVyIChnb2xhbmcpIC0gYmFsYW5jZSBtYW5hZ2VtZW50fHN1bXVw",
+      "title": "Senior Backend Engineer (Golang) - Balance Management",
+      "company": "SumUp",
+      "location": "Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-24T20:45:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-golang-balance-management-berlin-365224"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYmF0Y2gtcm9ib3RpY3MtZ21iaC9zZW5pb3ItbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci1yb2JvdC1sZWFybmluZy1tdW5pY2gtNDI0ODMyfChzZW5pb3IpIG1hY2hpbmUgbGVhcm5pbmcgZW5naW5lZXIsIHJvYm90IGxlYXJuaW5nIChtL2YvZCl8YmF0Y2ggcm9ib3RpY3MgZ21iaA",
       "title": "(Senior) Machine Learning Engineer, Robot Learning (m/f/d)",
