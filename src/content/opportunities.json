@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T13:18:43.306Z",
+  "generatedAt": "2026-07-26T19:07:41.733Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -34,6 +34,19 @@
       "url": "https://www.arbeitnow.com/jobs/companies/batch-robotics-gmbh/senior-machine-learning-engineer-robot-learning-munich-424832"
     },
     {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGNoaWJvLWNvZmZlZXNlcnZpY2UtdGVhbS9zZW5pb3ItYmFja29mZmljZS1taXRhcmJlaXRlci1rdW5kZW5zZXJ2aWNlY2VudGVyLWhhbWJ1cmctMTIyNTA2fHNlbmlvciBiYWNrb2ZmaWNlIG1pdGFyYmVpdGVyIChtL3cvZCkg4oCTIGt1bmRlbnNlcnZpY2VjZW50ZXJ8dGNoaWJvIGNvZmZlZXNlcnZpY2UgdGVhbQ",
+      "title": "Senior Backoffice Mitarbeiter (m/w/d) – Kundenservicecenter",
+      "company": "Tchibo Coffeeservice Team",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-24T14:09:18.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/tchibo-coffeeservice-team/senior-backoffice-mitarbeiter-kundenservicecenter-hamburg-122506"
+    },
+    {
       "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvbWlkLXNlbmlvci1haS1jaW5lbWF0aWMtdmlkZW8tZWRpdG9yLTIwOTEwMzV8bWlkL3NlbmlvciBhaSBjaW5lbWF0aWMgdmlkZW8gZWRpdG9yfGV2ZXJhaQ",
       "title": "Mid/Senior AI Cinematic Video Editor",
       "company": "EverAI",
@@ -45,19 +58,6 @@
       "postedDate": "2026-07-24T10:33:35.000Z",
       "applyBy": null,
       "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2091035"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbHVueW9uZS1nbWJoL3BhcnRuZXItbWFuYWdlci1jcmVhdG9yLW1lcmNoYW5kaXNpbmctYWxsLWdlbmRlcnMtbGFuZ2VuZmVsZC0zOTI4NjV8cGFydG5lciBtYW5hZ2VyIC0gY3JlYXRvciAmIG1lcmNoYW5kaXNpbmcgKGFsbCBnZW5kZXJzKXxsdW55b25lIGdtYmg",
-      "title": "Partner Manager - Creator & Merchandising (all genders)",
-      "company": "LunyOne GmbH",
-      "location": "Langenfeld",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-23T16:29:02.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/lunyone-gmbh/partner-manager-creator-merchandising-all-genders-langenfeld-392865"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcGVha3NvZnQtZ21iaC9haS1kYXRhLWVuZ2luZWVyLXd1cHBlcnRhbC00MTk1OTV8YWkgJiBkYXRhIGVuZ2luZWVyIChtL3cvZCl8cGVha3NvZnQgZ21iaA",
@@ -99,32 +99,6 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/7813383003?gh_jid=7813383003"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZmxpeC9zZW5pb3ItZGF0YS1zY2llbnRpc3QtbXVuY2hlbi02OTAwNHxzZW5pb3IgZGF0YSBzY2llbnRpc3QgKG0vZi9kKXxmbGl4",
-      "title": "Senior Data Scientist (m/f/d)",
-      "company": "Flix",
-      "location": "München, Bayern, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-22T20:45:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-data-scientist-munchen-69004"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZmxpeC9zZW5pb3ItZGF0YS1zY2llbnRpc3QtYmVybGluLTI0NjUxMXxzZW5pb3IgZGF0YSBzY2llbnRpc3QgKG0vZi9kKXxmbGl4",
-      "title": "Senior Data Scientist (m/f/d)",
-      "company": "Flix",
-      "location": "Berlin, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-22T20:45:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-data-scientist-berlin-246511"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODEzMDI0MDAzP2doX2ppZD03ODEzMDI0MDAzfGVsZWN0cmljYWwgZW5naW5lZXIsIHJvYm90aWNzfG5ldXJhbGluaw",
       "title": "Electrical Engineer, Robotics",
       "company": "Neuralink",
@@ -136,19 +110,6 @@
       "postedDate": "2026-07-22T20:27:56.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7813024003?gh_jid=7813024003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYnJhaW4tY2FwaXRhbC1nbWJoL2hlYWQtb2YtYWx1bW5pLXNlcnZpY2VzLW1vbnRhYmF1ci0yMTI3MjN8aGVhZCBvZiBhbHVtbmkgc2VydmljZXMgKG0vdy9kKXxicmFpbiBjYXBpdGFsIGdtYmg",
-      "title": "Head of Alumni Services (m/w/d)",
-      "company": "Brain Capital GmbH",
-      "location": "Montabaur",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-22T15:00:23.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/brain-capital-gmbh/head-of-alumni-services-montabaur-212723"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODA4NjM5MDAzP2doX2ppZD03ODA4NjM5MDAzfHF1YWxpdHkgYXNzdXJhbmNlIHNwZWNpYWxpc3R8bmV1cmFsaW5r",
