@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T02:48:27.839Z",
+  "generatedAt": "2026-07-27T09:49:37.162Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -8,43 +8,56 @@
   ],
   "items": [
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc29mdHdhcmUtZW5naW5lZXItcGxhdGZvcm0tcmVhZGluZy11bml0ZWQta2luZ2RvbS02Nzg1N3xzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSByZWFkaW5nLCB1bml0ZWQga2luZ2RvbXxzcGVlY2hpZnk",
-      "title": "Software Engineer, Platform - Reading, United Kingdom",
-      "company": "speechify",
-      "location": "Reading",
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmViaXVzL3JlbW90ZS1zZW5pb3Itc29mdHdhcmUtZW5naW5lZXIteWRiLXRlYW0tNDg0Mzh8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyICh5ZGIgdGVhbSl8bmViaXVz",
+      "title": "Senior Software Engineer (YDB Team)",
+      "company": "Nebius",
+      "location": "Czech Republic; Remote - Europe; United Kingdom",
       "workModel": "On-site",
       "opportunityType": "Unspecified",
       "source": "Arbeitnow",
       "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-27T00:15:21.000Z",
+      "postedDate": "2026-07-27T03:15:50.000Z",
       "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-platform-reading-united-kingdom-67857"
+      "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-software-engineer-ydb-team-48438"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc29mdHdhcmUtZW5naW5lZXItcGxhdGZvcm0tb3hmb3JkLXVuaXRlZC1raW5nZG9tLTQwNzE5Nnxzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBveGZvcmQsIHVuaXRlZCBraW5nZG9tfHNwZWVjaGlmeQ",
-      "title": "Software Engineer, Platform - Oxford, United Kingdom",
-      "company": "speechify",
-      "location": "Oxford",
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmViaXVzL3JlbW90ZS1zZW5pb3ItbWwtZW5naW5lZXItdG9rZW4tZmFjdG9yeS0zMDY0N3xzZW5pb3IgbWwgZW5naW5lZXIgKHRva2VuIGZhY3RvcnkpfG5lYml1cw",
+      "title": "Senior ML Engineer (Token Factory)",
+      "company": "Nebius",
+      "location": "Amsterdam, Netherlands; Berlin, United Kingdom; Prague, Czech Republic; Remote - Europe",
       "workModel": "On-site",
       "opportunityType": "Unspecified",
       "source": "Arbeitnow",
       "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-27T00:15:21.000Z",
+      "postedDate": "2026-07-27T03:15:49.000Z",
       "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-platform-oxford-united-kingdom-407196"
+      "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-ml-engineer-token-factory-30647"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc29mdHdhcmUtZW5naW5lZXItcGxhdGZvcm0tbm90dGluZ2hhbS11bml0ZWQta2luZ2RvbS0zOTQ5Nzh8c29mdHdhcmUgZW5naW5lZXIsIHBsYXRmb3JtIC0gbm90dGluZ2hhbSwgdW5pdGVkIGtpbmdkb218c3BlZWNoaWZ5",
-      "title": "Software Engineer, Platform - Nottingham, United Kingdom",
-      "company": "speechify",
-      "location": "Nottingham",
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmViaXVzL3JlbW90ZS1zZW5pb3ItbWwtZW5naW5lZXItdG9rZW4tZmFjdG9yeS0yMjMyMjB8c2VuaW9yIG1sIGVuZ2luZWVyICh0b2tlbiBmYWN0b3J5KXxuZWJpdXM",
+      "title": "Senior ML Engineer (Token Factory)",
+      "company": "Nebius",
+      "location": "Czech Republic; Remote - Europe; United Kingdom",
       "workModel": "On-site",
       "opportunityType": "Unspecified",
       "source": "Arbeitnow",
       "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-27T00:15:21.000Z",
+      "postedDate": "2026-07-27T03:15:49.000Z",
       "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-platform-nottingham-united-kingdom-394978"
+      "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-ml-engineer-token-factory-223220"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvenNjYWxlci9zZW5pb3Itc2FsZXMtZW5naW5lZXItZ2VybWFueS0zMjU1MzB8c2VuaW9yIHNhbGVzIGVuZ2luZWVyIC0gZ2VybWFueXx6c2NhbGVy",
+      "title": "Senior Sales Engineer - Germany",
+      "company": "zscaler",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-27T02:55:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/zscaler/senior-sales-engineer-germany-325530"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZmFzdG5lZC9jb3VudHJ5LWRpcmVjdG9yLWdlcm1hbnktaW50ZXJpbS0xLXllYXIta29sbi0yODAzMDl8Y291bnRyeSBkaXJlY3RvciBnZXJtYW55IChpbnRlcmltIDEgeWVhcil8ZmFzdG5lZA",
@@ -149,32 +162,6 @@
       "postedDate": "2026-07-24T10:33:35.000Z",
       "applyBy": null,
       "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2091035"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXRsYW50aWN2Yy9kaXJlY3Rvci1vZi1wZW9wbGUtZ24tYXQtZGVlcHRlY2gtc2NhbGUtdXAtYmVybGluLW9yLWRyZXNkZW4tMTU2MjQ2fGRpcmVjdG9yIG9mIHBlb3BsZSAoZ24pIEAgZGVlcHRlY2ggc2NhbGUtdXAsIGJlcmxpbiBvciBkcmVzZGVufGF0bGFudGljLnZj",
-      "title": "Director of People (gn) @ DeepTech Scale-Up, Berlin or Dresden",
-      "company": "atlantic.vc",
-      "location": "Berlin, Berlin, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-24T02:30:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/director-of-people-gn-at-deeptech-scale-up-berlin-or-dresden-156246"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZ3ltb25kby9zZW5pb3Itc2FsZXMtbWFuYWdlci1iMmItYmVybGluLWZsb2F0aW5nLTcyMTU3fChzZW5pb3IpIHNhbGVzIG1hbmFnZXIgLSBiMmIgKG0vZi9kKXxneW1vbmRv",
-      "title": "(Senior) Sales Manager - B2B (m/f/d)",
-      "company": "Gymondo",
-      "location": "Berlin (Floating)",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-23T23:09:57.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/gymondo/senior-sales-manager-b2b-berlin-floating-72157"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODEzMzgzMDAzP2doX2ppZD03ODEzMzgzMDAzfGxhYiBtYW5hZ2VyfG5ldXJhbGluaw",
