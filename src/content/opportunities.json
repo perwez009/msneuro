@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T14:30:19.728Z",
+  "generatedAt": "2026-07-27T19:25:17.383Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,84 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pbnRlcmNvbS9zdGFmZi1tYWNoaW5lLWxlYXJuaW5nLXNjaWVudGlzdC1sb25kb24tMjkwNDU3fHN0YWZmIG1hY2hpbmUgbGVhcm5pbmcgc2NpZW50aXN0fGludGVyY29t",
+      "title": "Staff Machine Learning Scientist",
+      "company": "intercom",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-27T18:17:12.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-machine-learning-scientist-london-290457"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pbnRlcmNvbS9zZW5pb3ItcHJvZHVjdC1tYXJrZXRpbmctbWFuYWdlci1sb25kb24tMjA1NzA1fHNlbmlvciBwcm9kdWN0IG1hcmtldGluZyBtYW5hZ2VyfGludGVyY29t",
+      "title": "Senior Product Marketing Manager",
+      "company": "intercom",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-27T18:17:12.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-product-marketing-manager-london-205705"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pbnRlcmNvbS9zZW5pb3ItcHJvZHVjdC1tYXJrZXRpbmctbWFuYWdlci1kdWJsaW4taXJlbGFuZC0xMjk5NzR8c2VuaW9yIHByb2R1Y3QgbWFya2V0aW5nIG1hbmFnZXJ8aW50ZXJjb20",
+      "title": "Senior Product Marketing Manager",
+      "company": "intercom",
+      "location": "Dublin, Ireland",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-27T18:17:12.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-product-marketing-manager-dublin-ireland-129974"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pbnRlcmNvbS9zZW5pb3ItcHJvZHVjdC1lbmdpbmVlci1haS1kdWJsaW4taXJlbGFuZC1sb25kb24tMTczMTR8c2VuaW9yIHByb2R1Y3QgZW5naW5lZXIsIGFpfGludGVyY29t",
+      "title": "Senior Product Engineer, AI",
+      "company": "intercom",
+      "location": "Dublin, Ireland; London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-27T18:17:12.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-product-engineer-ai-dublin-ireland-london-17314"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbGVpc3VyZS1vbmUtZ21iaC9tYW5hZ2VyLXNlYXJjaC1jb250ZW50LXNlby1nZW8taGFtYnVyZy0xNDEzNzN8bWFuYWdlciBzZWFyY2ggY29udGVudCAtIHNlbyAmIGdlbyAobS93L2QpfGxlaXN1cmUgb25lIGdtYmg",
+      "title": "Manager Search Content - SEO & GEO (m/w/d)",
+      "company": "Leisure One GmbH",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-27T17:30:34.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/leisure-one-gmbh/manager-search-content-seo-geo-hamburg-141373"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2Nob2xhcnNoaXBvd2wvcmVtb3RlLWdyb3d0aC1wcm9kdWN0LW1hbmFnZXItYmVybGluLTQzMTExfGdyb3d0aCBwcm9kdWN0IG1hbmFnZXJ8c2Nob2xhcnNoaXBvd2w",
+      "title": "Growth Product Manager",
+      "company": "ScholarshipOwl",
+      "location": "Remote job",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-27T14:30:15.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-growth-product-manager-berlin-43111"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvam9iZ2V0aGVyL2FpLXJlc2VhcmNoZXItYWktYXJjaGl0ZWN0dXJlLXJlc2VhcmNoLWdlcm1hbnktOTc0MDB8YWkgcmVzZWFyY2hlciDigJQgYWkgYXJjaGl0ZWN0dXJlIHJlc2VhcmNofGpvYmdldGhlcg",
       "title": "AI Researcher — AI Architecture Research",
@@ -136,32 +214,6 @@
       "postedDate": "2026-07-24T20:45:22.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-golang-balance-management-berlin-365224"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYmF0Y2gtcm9ib3RpY3MtZ21iaC9zZW5pb3ItbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci1yb2JvdC1sZWFybmluZy1tdW5pY2gtNDI0ODMyfChzZW5pb3IpIG1hY2hpbmUgbGVhcm5pbmcgZW5naW5lZXIsIHJvYm90IGxlYXJuaW5nIChtL2YvZCl8YmF0Y2ggcm9ib3RpY3MgZ21iaA",
-      "title": "(Senior) Machine Learning Engineer, Robot Learning (m/f/d)",
-      "company": "Batch Robotics GmbH",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-24T15:30:43.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/batch-robotics-gmbh/senior-machine-learning-engineer-robot-learning-munich-424832"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGNoaWJvLWNvZmZlZXNlcnZpY2UtdGVhbS9zZW5pb3ItYmFja29mZmljZS1taXRhcmJlaXRlci1rdW5kZW5zZXJ2aWNlY2VudGVyLWhhbWJ1cmctMTIyNTA2fHNlbmlvciBiYWNrb2ZmaWNlIG1pdGFyYmVpdGVyIChtL3cvZCkg4oCTIGt1bmRlbnNlcnZpY2VjZW50ZXJ8dGNoaWJvIGNvZmZlZXNlcnZpY2UgdGVhbQ",
-      "title": "Senior Backoffice Mitarbeiter (m/w/d) – Kundenservicecenter",
-      "company": "Tchibo Coffeeservice Team",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-24T14:09:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/tchibo-coffeeservice-team/senior-backoffice-mitarbeiter-kundenservicecenter-hamburg-122506"
     },
     {
       "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvbWlkLXNlbmlvci1haS1jaW5lbWF0aWMtdmlkZW8tZWRpdG9yLTIwOTEwMzV8bWlkL3NlbmlvciBhaSBjaW5lbWF0aWMgdmlkZW8gZWRpdG9yfGV2ZXJhaQ",
@@ -799,19 +851,6 @@
       "postedDate": "2026-04-29T14:57:59.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7715119003?gh_jid=7715119003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzE4ODU2MDAzP2doX2ppZD03NzE4ODU2MDAzfGFuYWxvZyBpYyBsYXlvdXQgZW5naW5lZXJ8bmV1cmFsaW5r",
-      "title": "Analog IC Layout Engineer",
-      "company": "Neuralink",
-      "location": "South San Francisco, California, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-04-28T19:04:33.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7718856003?gh_jid=7718856003"
     }
   ]
 }
