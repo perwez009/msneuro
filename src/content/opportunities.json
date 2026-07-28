@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T19:25:17.383Z",
+  "generatedAt": "2026-07-28T02:26:27.493Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -8,56 +8,17 @@
   ],
   "items": [
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pbnRlcmNvbS9zdGFmZi1tYWNoaW5lLWxlYXJuaW5nLXNjaWVudGlzdC1sb25kb24tMjkwNDU3fHN0YWZmIG1hY2hpbmUgbGVhcm5pbmcgc2NpZW50aXN0fGludGVyY29t",
-      "title": "Staff Machine Learning Scientist",
-      "company": "intercom",
-      "location": "London",
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9qb2JnZXRoZXIvYWktcmVzZWFyY2hlci1haS1hcmNoaXRlY3R1cmUtcmVzZWFyY2gtdWstMTM2OTc1fGFpIHJlc2VhcmNoZXIg4oCUIGFpIGFyY2hpdGVjdHVyZSByZXNlYXJjaHxqb2JnZXRoZXI",
+      "title": "AI Researcher — AI Architecture Research",
+      "company": "Jobgether",
+      "location": "UK",
       "workModel": "On-site",
-      "opportunityType": "Unspecified",
+      "opportunityType": "Full-time",
       "source": "Arbeitnow",
       "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-27T18:17:12.000Z",
+      "postedDate": "2026-07-28T02:04:51.000Z",
       "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-machine-learning-scientist-london-290457"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pbnRlcmNvbS9zZW5pb3ItcHJvZHVjdC1tYXJrZXRpbmctbWFuYWdlci1sb25kb24tMjA1NzA1fHNlbmlvciBwcm9kdWN0IG1hcmtldGluZyBtYW5hZ2VyfGludGVyY29t",
-      "title": "Senior Product Marketing Manager",
-      "company": "intercom",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-27T18:17:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-product-marketing-manager-london-205705"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pbnRlcmNvbS9zZW5pb3ItcHJvZHVjdC1tYXJrZXRpbmctbWFuYWdlci1kdWJsaW4taXJlbGFuZC0xMjk5NzR8c2VuaW9yIHByb2R1Y3QgbWFya2V0aW5nIG1hbmFnZXJ8aW50ZXJjb20",
-      "title": "Senior Product Marketing Manager",
-      "company": "intercom",
-      "location": "Dublin, Ireland",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-27T18:17:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-product-marketing-manager-dublin-ireland-129974"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pbnRlcmNvbS9zZW5pb3ItcHJvZHVjdC1lbmdpbmVlci1haS1kdWJsaW4taXJlbGFuZC1sb25kb24tMTczMTR8c2VuaW9yIHByb2R1Y3QgZW5naW5lZXIsIGFpfGludGVyY29t",
-      "title": "Senior Product Engineer, AI",
-      "company": "intercom",
-      "location": "Dublin, Ireland; London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-27T18:17:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-product-engineer-ai-dublin-ireland-london-17314"
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-researcher-ai-architecture-research-uk-136975"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbGVpc3VyZS1vbmUtZ21iaC9tYW5hZ2VyLXNlYXJjaC1jb250ZW50LXNlby1nZW8taGFtYnVyZy0xNDEzNzN8bWFuYWdlciBzZWFyY2ggY29udGVudCAtIHNlbyAmIGdlbyAobS93L2QpfGxlaXN1cmUgb25lIGdtYmg",
