@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T02:26:27.493Z",
+  "generatedAt": "2026-07-28T08:31:21.932Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -8,17 +8,30 @@
   ],
   "items": [
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9qb2JnZXRoZXIvYWktcmVzZWFyY2hlci1haS1hcmNoaXRlY3R1cmUtcmVzZWFyY2gtdWstMTM2OTc1fGFpIHJlc2VhcmNoZXIg4oCUIGFpIGFyY2hpdGVjdHVyZSByZXNlYXJjaHxqb2JnZXRoZXI",
-      "title": "AI Researcher — AI Architecture Research",
-      "company": "Jobgether",
-      "location": "UK",
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbW9pYS9zZW5pb3ItdmVoaWNsZS1zZWN1cml0eS1lbmdpbmVlci1hbGwtZ2VuZGVycy1iZXJsaW4tNjk0MDR8c2VuaW9yIHZlaGljbGUgc2VjdXJpdHkgZW5naW5lZXIgKGFsbCBnZW5kZXJzKXxtb2lh",
+      "title": "Senior Vehicle Security Engineer (all genders)",
+      "company": "moia",
+      "location": "Berlin",
       "workModel": "On-site",
-      "opportunityType": "Full-time",
+      "opportunityType": "Unspecified",
       "source": "Arbeitnow",
       "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-28T02:04:51.000Z",
+      "postedDate": "2026-07-28T05:56:18.000Z",
       "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-researcher-ai-architecture-research-uk-136975"
+      "url": "https://www.arbeitnow.com/jobs/companies/moia/senior-vehicle-security-engineer-all-genders-berlin-69404"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGF0YWRvZy9yZW1vdGUtc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLXNlY3VyaXR5LWxpYnJhcmllcy00NDY4MTN8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyIC0gc2VjdXJpdHkgbGlicmFyaWVzfGRhdGFkb2c",
+      "title": "Senior Software Engineer - Security Libraries",
+      "company": "Datadog",
+      "location": "France, Remote; Italy, Remote; Spain, Remote",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-28T02:55:44.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-senior-software-engineer-security-libraries-446813"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbGVpc3VyZS1vbmUtZ21iaC9tYW5hZ2VyLXNlYXJjaC1jb250ZW50LXNlby1nZW8taGFtYnVyZy0xNDEzNzN8bWFuYWdlciBzZWFyY2ggY29udGVudCAtIHNlbyAmIGdlbyAobS93L2QpfGxlaXN1cmUgb25lIGdtYmg",
@@ -162,19 +175,6 @@
       "postedDate": "2026-07-25T08:55:50.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-backend-engineer-databases-pyroscope-germany-remote-178269"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLWJhY2tlbmQtZW5naW5lZXItZ29sYW5nLWJhbGFuY2UtbWFuYWdlbWVudC1iZXJsaW4tMzY1MjI0fHNlbmlvciBiYWNrZW5kIGVuZ2luZWVyIChnb2xhbmcpIC0gYmFsYW5jZSBtYW5hZ2VtZW50fHN1bXVw",
-      "title": "Senior Backend Engineer (Golang) - Balance Management",
-      "company": "SumUp",
-      "location": "Berlin, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-24T20:45:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-golang-balance-management-berlin-365224"
     },
     {
       "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvbWlkLXNlbmlvci1haS1jaW5lbWF0aWMtdmlkZW8tZWRpdG9yLTIwOTEwMzV8bWlkL3NlbmlvciBhaSBjaW5lbWF0aWMgdmlkZW8gZWRpdG9yfGV2ZXJhaQ",
