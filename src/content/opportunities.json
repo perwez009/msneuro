@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T14:07:01.734Z",
+  "generatedAt": "2026-07-29T19:13:40.009Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,84 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90aWRlL2FkbWluLXNlcnZpY2VzLXNlbmlvci1jb3VudHJ5LWNvbW1lcmNpYWwtbWFuYWdlci11ay01NjQwMHxhZG1pbiBzZXJ2aWNlcyAtIHNlbmlvciBjb3VudHJ5IGNvbW1lcmNpYWwgbWFuYWdlciAtIHVrfHRpZGU",
+      "title": "Admin Services - Senior Country Commercial Manager - UK",
+      "company": "tide",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-29T17:55:26.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tide/admin-services-senior-country-commercial-manager-uk-56400"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGlkZS9zdGFmZi1zb2Z0d2FyZS1lbmdpbmVlci1hZ2VudGljLXBsYXRmb3JtLWJlcmxpbi1iZW5nYWx1cnUtaW5kaWEtZGVsaGktbmNyLWluZGlhLWh5ZGVyYWJhZC1saXRodWFuaWEtc2VyYmlhLXVuaXRlZC1raW5nZG9tLTE1NDkwNXxzdGFmZiBzb2Z0d2FyZSBlbmdpbmVlciwgYWdlbnRpYyBwbGF0Zm9ybXx0aWRl",
+      "title": "Staff Software Engineer, Agentic Platform",
+      "company": "tide",
+      "location": "Berlin, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-29T17:55:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/tide/staff-software-engineer-agentic-platform-berlin-bengaluru-india-delhi-ncr-india-hyderabad-lithuania-serbia-united-kingdom-154905"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGlkZS9zZW5pb3Itc3RhZmYtc29mdHdhcmUtZW5naW5lZXItYWdlbnRpYy1wbGF0Zm9ybS1iZXJsaW4tYmVuZ2FsdXJ1LWluZGlhLWRlbGhpLW5jci1pbmRpYS1oeWRlcmFiYWQtbGl0aHVhbmlhLXNlcmJpYS11bml0ZWQta2luZ2RvbS0xMTk1MzN8c2VuaW9yIHN0YWZmIHNvZnR3YXJlIGVuZ2luZWVyLCBhZ2VudGljIHBsYXRmb3JtfHRpZGU",
+      "title": "Senior Staff Software Engineer, Agentic Platform",
+      "company": "tide",
+      "location": "Berlin, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-29T17:55:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/tide/senior-staff-software-engineer-agentic-platform-berlin-bengaluru-india-delhi-ncr-india-hyderabad-lithuania-serbia-united-kingdom-119533"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODIwNTczMDAzP2doX2ppZD03ODIwNTczMDAzfHZldGVyaW5hcnkgcGF0aG9sb2dpc3R8bmV1cmFsaW5r",
+      "title": "Veterinary Pathologist",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-07-29T17:09:33.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7820573003?gh_jid=7820573003"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9haXJibmIvZW5naW5lZXJpbmctbWFuYWdlci1ndWVzdC1ob3N0LWxvbmRvbi00MzE3OTR8ZW5naW5lZXJpbmcgbWFuYWdlciwgZ3Vlc3QgJiBob3N0fGFpcmJuYg",
+      "title": "Engineering Manager, Guest & Host",
+      "company": "airbnb",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-29T15:16:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/airbnb/engineering-manager-guest-host-london-431794"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90cmlwYWR2aXNvci9wcmluY2lwYWwtbWFjaGluZS1sZWFybmluZy1zY2llbnRpc3QtZXhwZXJpZW5jZXMtbG9uZG9uLTQ4NTk2fHByaW5jaXBhbCBtYWNoaW5lIGxlYXJuaW5nIHNjaWVudGlzdCAoZXhwZXJpZW5jZXMpfHRyaXBhZHZpc29y",
+      "title": "Principal Machine Learning Scientist (Experiences)",
+      "company": "tripadvisor",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-29T14:56:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/principal-machine-learning-scientist-experiences-london-48596"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy96c2NhbGVyL3Nlbmlvci1tYXJrZXRpbmctbWFuYWdlci1jaXR5LW9mLWxvbmRvbi1jb3Jwb3JhdGlvbi1nYnItMzUyNjQyfHNlbmlvciBtYXJrZXRpbmcgbWFuYWdlcnx6c2NhbGVy",
       "title": "Senior Marketing Manager",
@@ -357,32 +435,6 @@
       "postedDate": "2026-07-29T02:56:08.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/senior-seo-executive-performance-content-london-27567"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9oZWxpb3N4L3Nlbmlvci1kYXRhLXNjaWVudGlzdC1sb25kb24tMTc5MTIwfHNlbmlvciBkYXRhIHNjaWVudGlzdHxoZWxpb3N4",
-      "title": "Senior Data Scientist",
-      "company": "heliosx",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-28T23:55:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/heliosx/senior-data-scientist-london-179120"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90cmlwYWR2aXNvci9zZW5pb3ItZGlyZWN0b3Itb2YtbWFjaGluZS1sZWFybmluZy1leHBlcmllbmNlcy1sb25kb24tb3hmb3JkLXBvbGFuZC1rcmFrb3ctNDgxMzkzfHNlbmlvciBkaXJlY3RvciBvZiBtYWNoaW5lIGxlYXJuaW5nIChleHBlcmllbmNlcyl8dHJpcGFkdmlzb3I",
-      "title": "Senior Director of Machine Learning (Experiences)",
-      "company": "tripadvisor",
-      "location": "London, Oxford, Poland, Krakow",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-28T20:56:26.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/senior-director-of-machine-learning-experiences-london-oxford-poland-krakow-481393"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbW9pYS9zZW5pb3ItdmVoaWNsZS1zZWN1cml0eS1lbmdpbmVlci1hbGwtZ2VuZGVycy1iZXJsaW4tNjk0MDR8c2VuaW9yIHZlaGljbGUgc2VjdXJpdHkgZW5naW5lZXIgKGFsbCBnZW5kZXJzKXxtb2lh",
@@ -799,19 +851,6 @@
       "postedDate": "2026-06-22T17:02:55.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7780172003?gh_jid=7780172003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzc2ODc3MDAzP2doX2ppZD03Nzc2ODc3MDAzfGlhY3VjIGNvb3JkaW5hdG9yfG5ldXJhbGluaw",
-      "title": "IACUC Coordinator",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-06-17T20:45:29.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7776877003?gh_jid=7776877003"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzcyMDQ5MDAzP2doX2ppZD03NzcyMDQ5MDAzfG5ldXJvc3VyZ2ljYWwgcm9ib3Qgb3BlcmF0b3IgKHBhcnQtdGltZSl8bmV1cmFsaW5r",
