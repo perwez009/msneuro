@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T19:21:21.556Z",
+  "generatedAt": "2026-07-29T02:30:45.938Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9oZWxpb3N4L3Nlbmlvci1kYXRhLXNjaWVudGlzdC1sb25kb24tMTc5MTIwfHNlbmlvciBkYXRhIHNjaWVudGlzdHxoZWxpb3N4",
+      "title": "Senior Data Scientist",
+      "company": "heliosx",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-28T23:55:15.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/heliosx/senior-data-scientist-london-179120"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90cmlwYWR2aXNvci9zZW5pb3ItZGlyZWN0b3Itb2YtbWFjaGluZS1sZWFybmluZy1leHBlcmllbmNlcy1sb25kb24tb3hmb3JkLXBvbGFuZC1rcmFrb3ctNDgxMzkzfHNlbmlvciBkaXJlY3RvciBvZiBtYWNoaW5lIGxlYXJuaW5nIChleHBlcmllbmNlcyl8dHJpcGFkdmlzb3I",
+      "title": "Senior Director of Machine Learning (Experiences)",
+      "company": "tripadvisor",
+      "location": "London, Oxford, Poland, Krakow",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-28T20:56:26.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/senior-director-of-machine-learning-experiences-london-oxford-poland-krakow-481393"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXIvc2VuaW9yLWRhdGEtYW5hbHlzdC1sb25kb24tMTk3MjA2fHNlbmlvciBkYXRhIGFuYWx5c3R8b2xpdmVy",
       "title": "Senior Data Analyst",
@@ -370,58 +396,6 @@
       "postedDate": "2026-07-28T14:55:26.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/ai-product-manager-164883"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXItYWdlbmN5L3Nlbmlvci1kYXRhLWFuYWx5c3Qtd2V5YnJpZGdlLTM3NzA1NHxzZW5pb3IgZGF0YSBhbmFseXN0fG9saXZlciBhZ2VuY3k",
-      "title": "Senior Data Analyst",
-      "company": "OLIVER Agency",
-      "location": "Weybridge, England, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-28T13:45:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/senior-data-analyst-weybridge-377054"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXItYWdlbmN5L2FjY291bnQtZGlyZWN0b3ItNC1tb250aHMtZnRjLXNsb3VnaC0yMjQyN3xhY2NvdW50IGRpcmVjdG9yICg0IG1vbnRocyBmdGMpfG9saXZlciBhZ2VuY3k",
-      "title": "Account Director (4 Months FTC)",
-      "company": "OLIVER Agency",
-      "location": "Slough, England, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-28T13:45:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/account-director-4-months-ftc-slough-22427"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXItYWdlbmN5L2RhdGEtYW5hbHlzdC1zdXJyZXktaGVhdGgtOTg4NjJ8ZGF0YSBhbmFseXN0fG9saXZlciBhZ2VuY3k",
-      "title": "Data Analyst",
-      "company": "OLIVER Agency",
-      "location": "Surrey Heath, Surrey, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-28T13:45:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/data-analyst-surrey-heath-98862"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXItYWdlbmN5L2RhdGEtYW5hbHlzdC13ZXlicmlkZ2UtMjA3NzY3fGRhdGEgYW5hbHlzdHxvbGl2ZXIgYWdlbmN5",
-      "title": "Data Analyst",
-      "company": "OLIVER Agency",
-      "location": "Weybridge, Surrey, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-28T13:45:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/data-analyst-weybridge-207767"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbW9pYS9zZW5pb3ItdmVoaWNsZS1zZWN1cml0eS1lbmdpbmVlci1hbGwtZ2VuZGVycy1iZXJsaW4tNjk0MDR8c2VuaW9yIHZlaGljbGUgc2VjdXJpdHkgZW5naW5lZXIgKGFsbCBnZW5kZXJzKXxtb2lh",
