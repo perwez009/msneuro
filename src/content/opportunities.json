@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T02:12:57.541Z",
+  "generatedAt": "2026-07-30T08:24:08.611Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kZXB0L3Nlbmlvci1pbmZsdWVuY2VyLW1hbmFnZXItbG9uZG9uLW1hbmNoZXN0ZXItMTEyMDQ1fHNlbmlvciBpbmZsdWVuY2VyIG1hbmFnZXJ8ZGVwdA",
+      "title": "Senior Influencer Manager",
+      "company": "dept",
+      "location": "London, Manchester",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-30T05:56:33.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dept/senior-influencer-manager-london-manchester-112045"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcG9zdG1hbi9yZW1vdGUtc21iLWFjY291bnQtZXhlY3V0aXZlLWdlcm1hbnktMTEzNzEzfHNtYiBhY2NvdW50IGV4ZWN1dGl2ZSwgZ2VybWFueXxwb3N0bWFu",
+      "title": "SMB Account Executive, Germany",
+      "company": "postman",
+      "location": "Remote",
+      "workModel": "Remote",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-30T03:16:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/postman/remote-smb-account-executive-germany-113713"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yZWFsY2hlbWlzdHJ5L3Nlbmlvci1hY2NvdW50LWFzc29jaWF0ZS1tZWRpY2FsLTI2MTAzM3xzZW5pb3IgYWNjb3VudCBhc3NvY2lhdGUgLSBtZWRpY2FsfHJlYWxjaGVtaXN0cnk",
+      "title": "Senior Account Associate - Medical",
+      "company": "Realchemistry",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-30T03:15:28.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/realchemistry/senior-account-associate-medical-261033"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWlvcy1jb3JlLXByb2R1Y3QtbXVuaWNoLWdlcm1hbnktNDAyNDY1fHNvZnR3YXJlIGVuZ2luZWVyLCBpb3MgY29yZSBwcm9kdWN0IC0gbXVuaWNoLCBnZXJtYW55fHNwZWVjaGlmeQ",
+      "title": "Software Engineer, iOS Core Product - Munich, Germany",
+      "company": "speechify",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-30T02:55:51.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-munich-germany-402465"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ncmFmYW5hbGFicy9iYWNrZW5kLWVuZ2luZWVyLXBsYXRmb3JtLXN0YWNrcy11ay1yZW1vdGUtODg5NTF8YmFja2VuZCBlbmdpbmVlciAtIHBsYXRmb3JtIC0gc3RhY2tzIHwgdWsgfCByZW1vdGV8Z3JhZmFuYWxhYnM",
       "title": "Backend Engineer - Platform - Stacks | UK | Remote",
@@ -281,71 +333,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-manchester-united-kingdom-20234"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLXdpbmRvd3MtZGVza3RvcC1hcHBsaWNhdGlvbnMtYnJpZ2h0b24tdW5pdGVkLWtpbmdkb20tNjE4NDN8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyLCB3aW5kb3dzL2Rlc2t0b3AgYXBwbGljYXRpb25zIC0gYnJpZ2h0b24sIHVuaXRlZCBraW5nZG9tfHNwZWVjaGlmeQ",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Brighton, United Kingdom",
-      "company": "Speechify",
-      "location": "Brighton, England, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T06:45:25.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-brighton-united-kingdom-61843"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLXdpbmRvd3MtZGVza3RvcC1hcHBsaWNhdGlvbnMtYnJpc3RvbC11bml0ZWQta2luZ2RvbS00MDYzNDN8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyLCB3aW5kb3dzL2Rlc2t0b3AgYXBwbGljYXRpb25zIC0gYnJpc3RvbCwgdW5pdGVkIGtpbmdkb218c3BlZWNoaWZ5",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Bristol, United Kingdom",
-      "company": "Speechify",
-      "location": "Bristol, England, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T06:45:25.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-bristol-united-kingdom-406343"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLXdpbmRvd3MtZGVza3RvcC1hcHBsaWNhdGlvbnMtbWFuY2hlc3Rlci11bml0ZWQta2luZ2RvbS0yOTg0Nzh8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyLCB3aW5kb3dzL2Rlc2t0b3AgYXBwbGljYXRpb25zIC0gbWFuY2hlc3RlciwgdW5pdGVkIGtpbmdkb218c3BlZWNoaWZ5",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Manchester, United Kingdom",
-      "company": "Speechify",
-      "location": "Manchester, England, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T06:45:25.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-manchester-united-kingdom-298478"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc29mdHdhcmUtZW5naW5lZXItcGxhdGZvcm0tY2FyZGlmZi11bml0ZWQta2luZ2RvbS0yMjMwMzB8c29mdHdhcmUgZW5naW5lZXIsIHBsYXRmb3JtIC0gY2FyZGlmZiwgdW5pdGVkIGtpbmdkb218c3BlZWNoaWZ5",
-      "title": "Software Engineer, Platform - Cardiff, United Kingdom",
-      "company": "Speechify",
-      "location": "Cardiff, Wales, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T06:45:25.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-platform-cardiff-united-kingdom-223030"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc29mdHdhcmUtZW5naW5lZXItcGxhdGZvcm0tYmlybWluZ2hhbS11bml0ZWQta2luZ2RvbS00NjIzMnxzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBiaXJtaW5naGFtLCB1bml0ZWQga2luZ2RvbXxzcGVlY2hpZnk",
-      "title": "Software Engineer, Platform - Birmingham, United Kingdom",
-      "company": "Speechify",
-      "location": "Birmingham, England, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T06:45:25.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-platform-birmingham-united-kingdom-46232"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLWJhY2tlbmQtZW5naW5lZXItYWN0aXZhdGlvbi1hbmQtcmV2ZW51ZS1iZXJsaW4tMTIwNTY5fHNlbmlvciBiYWNrZW5kIGVuZ2luZWVyIC0gYWN0aXZhdGlvbiBhbmQgcmV2ZW51ZXxzdW11cA",
       "title": "Senior Backend Engineer - Activation and Revenue",
       "company": "SumUp",
@@ -370,32 +357,6 @@
       "postedDate": "2026-07-29T06:45:22.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-accounts-berlin-181232"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9qZXRicmFpbnMvc3RhZmYtc2VuaW9yLWFpLWVuZ2luZWVyLWFpLWZvci1jb2RlLWFtc3RlcmRhbS1uZXRoZXJsYW5kcy1iZWxncmFkZS1zZXJiaWEtYmVybGluLWdlcm1hbnktbGltYXNzb2wtY3lwcnVzLWxvbmRvbi1zcGFpbi1tdW5pY2gtZ2VybWFueS13YXItOTcxMTJ8c3RhZmYvc2VuaW9yIGFpIGVuZ2luZWVyLCBhaSBmb3IgY29kZXxqZXRicmFpbnM",
-      "title": "Staff/Senior AI Engineer, AI for Code",
-      "company": "jetbrains",
-      "location": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, Spain; Munich, Germany; Warsaw, Poland; Yerevan, Armenia",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T06:17:01.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/staff-senior-ai-engineer-ai-for-code-amsterdam-netherlands-belgrade-serbia-berlin-germany-limassol-cyprus-london-spain-munich-germany-war-97112"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9qZXRicmFpbnMvcmVtb3RlLXNlbmlvci1wcm9kdWN0LW1hbmFnZXItdmNzLWVjb3N5c3RlbS0yMTQzNjZ8c2VuaW9yIHByb2R1Y3QgbWFuYWdlciAodmNzIGVjb3N5c3RlbSl8amV0YnJhaW5z",
-      "title": "Senior Product Manager (VCS Ecosystem)",
-      "company": "jetbrains",
-      "location": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T06:17:01.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/remote-senior-product-manager-vcs-ecosystem-214366"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbW9pYS9zZW5pb3ItdmVoaWNsZS1zZWN1cml0eS1lbmdpbmVlci1hbGwtZ2VuZGVycy1iZXJsaW4tNjk0MDR8c2VuaW9yIHZlaGljbGUgc2VjdXJpdHkgZW5naW5lZXIgKGFsbCBnZW5kZXJzKXxtb2lh",
@@ -435,19 +396,6 @@
       "postedDate": "2026-07-27T17:30:34.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/leisure-one-gmbh/manager-search-content-seo-geo-hamburg-141373"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2Nob2xhcnNoaXBvd2wvcmVtb3RlLWdyb3d0aC1wcm9kdWN0LW1hbmFnZXItYmVybGluLTQzMTExfGdyb3d0aCBwcm9kdWN0IG1hbmFnZXJ8c2Nob2xhcnNoaXBvd2w",
-      "title": "Growth Product Manager",
-      "company": "ScholarshipOwl",
-      "location": "Remote job",
-      "workModel": "Remote",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-27T14:30:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-growth-product-manager-berlin-43111"
     },
     {
       "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvbWlkLXNlbmlvci1haS1jaW5lbWF0aWMtdmlkZW8tZWRpdG9yLTIwOTEwMzV8bWlkL3NlbmlvciBhaSBjaW5lbWF0aWMgdmlkZW8gZWRpdG9yfGV2ZXJhaQ",
