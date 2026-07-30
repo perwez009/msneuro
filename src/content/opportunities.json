@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T19:13:40.009Z",
+  "generatedAt": "2026-07-30T02:12:57.541Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ncmFmYW5hbGFicy9iYWNrZW5kLWVuZ2luZWVyLXBsYXRmb3JtLXN0YWNrcy11ay1yZW1vdGUtODg5NTF8YmFja2VuZCBlbmdpbmVlciAtIHBsYXRmb3JtIC0gc3RhY2tzIHwgdWsgfCByZW1vdGV8Z3JhZmFuYWxhYnM",
+      "title": "Backend Engineer - Platform - Stacks | UK | Remote",
+      "company": "Grafanalabs",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-29T20:55:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/backend-engineer-platform-stacks-uk-remote-88951"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc29mdHdhcmUtZW5naW5lZXItaW9zLWNvcmUtcHJvZHVjdC1iaXJtaW5naGFtLXVuaXRlZC1raW5nZG9tLTQ3NjY4NHxzb2Z0d2FyZSBlbmdpbmVlciwgaW9zIGNvcmUgcHJvZHVjdCAtIGJpcm1pbmdoYW0sIHVuaXRlZCBraW5nZG9tfHNwZWVjaGlmeQ",
+      "title": "Software Engineer, iOS Core Product - Birmingham, United Kingdom",
+      "company": "Speechify",
+      "location": "Birmingham, England, United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-29T20:45:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-ios-core-product-birmingham-united-kingdom-476684"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc29mdHdhcmUtZW5naW5lZXItaW9zLWNvcmUtcHJvZHVjdC1lZGluYnVyZ2gtdW5pdGVkLWtpbmdkb20tMTc3NjI0fHNvZnR3YXJlIGVuZ2luZWVyLCBpb3MgY29yZSBwcm9kdWN0IC0gZWRpbmJ1cmdoLCB1bml0ZWQga2luZ2RvbXxzcGVlY2hpZnk",
+      "title": "Software Engineer, iOS Core Product - Edinburgh, United Kingdom",
+      "company": "Speechify",
+      "location": "Edinburgh, Scotland, United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-29T20:45:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-ios-core-product-edinburgh-united-kingdom-177624"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc29mdHdhcmUtZW5naW5lZXItaW9zLWNvcmUtcHJvZHVjdC1lZGluYnVyZ2gtdW5pdGVkLWtpbmdkb20tMjQ4NDA5fHNvZnR3YXJlIGVuZ2luZWVyLCBpb3MgY29yZSBwcm9kdWN0IC0gZWRpbmJ1cmdoLCB1bml0ZWQga2luZ2RvbXxzcGVlY2hpZnk",
+      "title": "Software Engineer, iOS Core Product - Edinburgh, United Kingdom",
+      "company": "speechify",
+      "location": "Edinburgh",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-29T18:15:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-ios-core-product-edinburgh-united-kingdom-248409"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc29mdHdhcmUtZW5naW5lZXItaW9zLWNvcmUtcHJvZHVjdC1iaXJtaW5naGFtLXVuaXRlZC1raW5nZG9tLTMzOTM1NHxzb2Z0d2FyZSBlbmdpbmVlciwgaW9zIGNvcmUgcHJvZHVjdCAtIGJpcm1pbmdoYW0sIHVuaXRlZCBraW5nZG9tfHNwZWVjaGlmeQ",
+      "title": "Software Engineer, iOS Core Product - Birmingham, United Kingdom",
+      "company": "speechify",
+      "location": "Birmingham",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-29T18:15:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-ios-core-product-birmingham-united-kingdom-339354"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90aWRlL2FkbWluLXNlcnZpY2VzLXNlbmlvci1jb3VudHJ5LWNvbW1lcmNpYWwtbWFuYWdlci11ay01NjQwMHxhZG1pbiBzZXJ2aWNlcyAtIHNlbmlvciBjb3VudHJ5IGNvbW1lcmNpYWwgbWFuYWdlciAtIHVrfHRpZGU",
       "title": "Admin Services - Senior Country Commercial Manager - UK",
@@ -333,110 +398,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/remote-senior-product-manager-vcs-ecosystem-214366"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc29mdHdhcmUtZW5naW5lZXItcGxhdGZvcm0tY2FyZGlmZi11bml0ZWQta2luZ2RvbS0xMzE2NTV8c29mdHdhcmUgZW5naW5lZXIsIHBsYXRmb3JtIC0gY2FyZGlmZiwgdW5pdGVkIGtpbmdkb218c3BlZWNoaWZ5",
-      "title": "Software Engineer, Platform - Cardiff, United Kingdom",
-      "company": "speechify",
-      "location": "Cardiff",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T05:56:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-platform-cardiff-united-kingdom-131655"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc29mdHdhcmUtZW5naW5lZXItcGxhdGZvcm0tYmlybWluZ2hhbS11bml0ZWQta2luZ2RvbS04NTkyfHNvZnR3YXJlIGVuZ2luZWVyLCBwbGF0Zm9ybSAtIGJpcm1pbmdoYW0sIHVuaXRlZCBraW5nZG9tfHNwZWVjaGlmeQ",
-      "title": "Software Engineer, Platform - Birmingham, United Kingdom",
-      "company": "speechify",
-      "location": "Birmingham",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T05:56:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-platform-birmingham-united-kingdom-8592"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc29mdHdhcmUtZW5naW5lZXItZGF0YS1pbmZyYXN0cnVjdHVyZS1hY3F1aXNpdGlvbi1uZXdjYXN0bGUtdW5pdGVkLWtpbmdkb20tMzA3NDgxfHNvZnR3YXJlIGVuZ2luZWVyLCBkYXRhIGluZnJhc3RydWN0dXJlICYgYWNxdWlzaXRpb24gLSBuZXdjYXN0bGUsIHVuaXRlZCBraW5nZG9tfHNwZWVjaGlmeQ",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Newcastle, United Kingdom",
-      "company": "speechify",
-      "location": "Newcastle",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T05:56:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-newcastle-united-kingdom-307481"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc29mdHdhcmUtZW5naW5lZXItZGF0YS1pbmZyYXN0cnVjdHVyZS1hY3F1aXNpdGlvbi1tYW5jaGVzdGVyLXVuaXRlZC1raW5nZG9tLTE3NjYwMnxzb2Z0d2FyZSBlbmdpbmVlciwgZGF0YSBpbmZyYXN0cnVjdHVyZSAmIGFjcXVpc2l0aW9uIC0gbWFuY2hlc3RlciwgdW5pdGVkIGtpbmdkb218c3BlZWNoaWZ5",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Manchester, United Kingdom",
-      "company": "speechify",
-      "location": "Manchester",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T05:56:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-manchester-united-kingdom-176602"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLXdpbmRvd3MtZGVza3RvcC1hcHBsaWNhdGlvbnMtbWFuY2hlc3Rlci11bml0ZWQta2luZ2RvbS05MjEwN3xzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIHdpbmRvd3MvZGVza3RvcCBhcHBsaWNhdGlvbnMgLSBtYW5jaGVzdGVyLCB1bml0ZWQga2luZ2RvbXxzcGVlY2hpZnk",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Manchester, United Kingdom",
-      "company": "speechify",
-      "location": "Manchester",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T05:56:14.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-manchester-united-kingdom-92107"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLXdpbmRvd3MtZGVza3RvcC1hcHBsaWNhdGlvbnMtYnJpc3RvbC11bml0ZWQta2luZ2RvbS00NjA5MTN8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyLCB3aW5kb3dzL2Rlc2t0b3AgYXBwbGljYXRpb25zIC0gYnJpc3RvbCwgdW5pdGVkIGtpbmdkb218c3BlZWNoaWZ5",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Bristol, United Kingdom",
-      "company": "speechify",
-      "location": "Bristol",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T05:56:14.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-bristol-united-kingdom-460913"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLXdpbmRvd3MtZGVza3RvcC1hcHBsaWNhdGlvbnMtYnJpZ2h0b24tdW5pdGVkLWtpbmdkb20tNjE1ODB8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyLCB3aW5kb3dzL2Rlc2t0b3AgYXBwbGljYXRpb25zIC0gYnJpZ2h0b24sIHVuaXRlZCBraW5nZG9tfHNwZWVjaGlmeQ",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Brighton, United Kingdom",
-      "company": "speechify",
-      "location": "Brighton",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T05:56:14.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-brighton-united-kingdom-61580"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93cHBtZWRpYS9zZW5pb3Itc2VvLWV4ZWN1dGl2ZS1wZXJmb3JtYW5jZS1jb250ZW50LWxvbmRvbi0yNzU2N3xzZW5pb3Igc2VvIGV4ZWN1dGl2ZSwgcGVyZm9ybWFuY2UgY29udGVudHx3cHBtZWRpYQ",
-      "title": "Senior SEO Executive, Performance Content",
-      "company": "wppmedia",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T02:56:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/senior-seo-executive-performance-content-london-27567"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbW9pYS9zZW5pb3ItdmVoaWNsZS1zZWN1cml0eS1lbmdpbmVlci1hbGwtZ2VuZGVycy1iZXJsaW4tNjk0MDR8c2VuaW9yIHZlaGljbGUgc2VjdXJpdHkgZW5naW5lZXIgKGFsbCBnZW5kZXJzKXxtb2lh",
       "title": "Senior Vehicle Security Engineer (all genders)",
       "company": "moia",
@@ -487,19 +448,6 @@
       "postedDate": "2026-07-27T14:30:15.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-growth-product-manager-berlin-43111"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvam9iZ2V0aGVyL2FpLXJlc2VhcmNoZXItYWktYXJjaGl0ZWN0dXJlLXJlc2VhcmNoLWdlcm1hbnktOTc0MDB8YWkgcmVzZWFyY2hlciDigJQgYWkgYXJjaGl0ZWN0dXJlIHJlc2VhcmNofGpvYmdldGhlcg",
-      "title": "AI Researcher — AI Architecture Research",
-      "company": "Jobgether",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-27T11:25:49.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-researcher-ai-architecture-research-germany-97400"
     },
     {
       "id": "cmVtb3RpdmV8aHR0cHM6Ly9yZW1vdGl2ZS5jb20vcmVtb3RlLWpvYnMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvbWlkLXNlbmlvci1haS1jaW5lbWF0aWMtdmlkZW8tZWRpdG9yLTIwOTEwMzV8bWlkL3NlbmlvciBhaSBjaW5lbWF0aWMgdmlkZW8gZWRpdG9yfGV2ZXJhaQ",
@@ -593,8 +541,8 @@
       "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=6112765004"
     },
     {
-      "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTEwMDYwMDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSBuZXcgeW9yayBtZXRyb3xuZXVyb3BhY2U",
-      "title": "Associate Therapy Consultant - New York Metro",
+      "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTEwMDYwMDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgKHNhbGVzIHJlcCkgLSBuZXcgeW9yayBtZXRyb3xuZXVyb3BhY2U",
+      "title": "Associate Therapy Consultant (Sales Rep) - New York Metro",
       "company": "NeuroPace",
       "location": "New York, NY",
       "workModel": "On-site",
@@ -1085,19 +1033,6 @@
       "postedDate": "2026-05-01T21:48:24.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7722015003?gh_jid=7722015003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy82NjgxODYzMDAzP2doX2ppZD02NjgxODYzMDAzfHNpZ25hbCBwcm9jZXNzaW5nIGVuZ2luZWVyfG5ldXJhbGluaw",
-      "title": "Signal Processing Engineer",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States; South San Francisco, California, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-04-30T23:48:24.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/6681863003?gh_jid=6681863003"
     }
   ]
 }
