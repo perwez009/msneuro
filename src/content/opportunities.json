@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T13:57:06.458Z",
+  "generatedAt": "2026-07-30T19:23:44.515Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9maWdtYS9kaXJlY3Rvci1lbnRlcnByaXNlLXNhbGVzLWxvbmRvbi11bml0ZWQta2luZ2RvbS0yNDcwMHxkaXJlY3RvciwgZW50ZXJwcmlzZSBzYWxlcyAobG9uZG9uLCB1bml0ZWQga2luZ2RvbSl8ZmlnbWE",
+      "title": "Director, Enterprise Sales (London, United Kingdom)",
+      "company": "figma",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-30T17:55:46.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/figma/director-enterprise-sales-london-united-kingdom-24700"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODIxOTMzMDAzP2doX2ppZD03ODIxOTMzMDAzfGNuYyBtYWNoaW5pc3R8bmV1cmFsaW5r",
+      "title": "CNC Machinist",
+      "company": "Neuralink",
+      "location": "South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-07-30T17:49:52.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7821933003?gh_jid=7821933003"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2JzLWNvcnBvcmF0ZS1idXNpbmVzcy1zb2x1dGlvbnMtZ21iaC9zZW5pb3ItYWktYW5hbHlzdC1oZWlkZWxiZXJnLTQyMTU1N3woc2VuaW9yKSBhaSBhbmFseXN0IG0vdy9kfGNicyBjb3Jwb3JhdGUgYnVzaW5lc3Mgc29sdXRpb25zIGdtYmg",
+      "title": "(Senior) AI Analyst m/w/d",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "location": "Heidelberg, Baden-Württemberg, Deutschland",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-30T17:30:42.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/senior-ai-analyst-heidelberg-421557"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGV1dHNjaGVyLWJhdXNlcnZpY2UtZ21iaC9wcm9qZWt0ZW50d2lja2xlci1mdXItZXJuZXVlcmJhcmUtZW5lcmdpZW4tbW9sYmVyZ2VuLTYxMDc1fHByb2pla3RlbnR3aWNrbGVyIChtL3cvZCkgZsO8ciBlcm5ldWVyYmFyZSBlbmVyZ2llbnxkZXV0c2NoZXIgYmF1c2VydmljZSBnbWJo",
+      "title": "Projektentwickler (m/w/d) für erneuerbare Energien",
+      "company": "Deutscher Bauservice GmbH",
+      "location": "Molbergen",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-30T14:00:50.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektentwickler-fur-erneuerbare-energien-molbergen-61075"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93cHBtZWRpYS9hc3NvY2lhdGUtZGlyZWN0b3ItY2xpZW50cy10ZWFtcy1sb25kb24tMjM0NTM1fGFzc29jaWF0ZSBkaXJlY3RvciwgY2xpZW50cyB0ZWFtc3x3cHBtZWRpYQ",
       "title": "Associate Director, Clients Teams",
@@ -99,84 +151,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-munich-germany-402465"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ncmFmYW5hbGFicy9iYWNrZW5kLWVuZ2luZWVyLXBsYXRmb3JtLXN0YWNrcy11ay1yZW1vdGUtODg5NTF8YmFja2VuZCBlbmdpbmVlciAtIHBsYXRmb3JtIC0gc3RhY2tzIHwgdWsgfCByZW1vdGV8Z3JhZmFuYWxhYnM",
-      "title": "Backend Engineer - Platform - Stacks | UK | Remote",
-      "company": "Grafanalabs",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T20:55:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/backend-engineer-platform-stacks-uk-remote-88951"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc29mdHdhcmUtZW5naW5lZXItaW9zLWNvcmUtcHJvZHVjdC1iaXJtaW5naGFtLXVuaXRlZC1raW5nZG9tLTQ3NjY4NHxzb2Z0d2FyZSBlbmdpbmVlciwgaW9zIGNvcmUgcHJvZHVjdCAtIGJpcm1pbmdoYW0sIHVuaXRlZCBraW5nZG9tfHNwZWVjaGlmeQ",
-      "title": "Software Engineer, iOS Core Product - Birmingham, United Kingdom",
-      "company": "Speechify",
-      "location": "Birmingham, England, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T20:45:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-ios-core-product-birmingham-united-kingdom-476684"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc29mdHdhcmUtZW5naW5lZXItaW9zLWNvcmUtcHJvZHVjdC1lZGluYnVyZ2gtdW5pdGVkLWtpbmdkb20tMTc3NjI0fHNvZnR3YXJlIGVuZ2luZWVyLCBpb3MgY29yZSBwcm9kdWN0IC0gZWRpbmJ1cmdoLCB1bml0ZWQga2luZ2RvbXxzcGVlY2hpZnk",
-      "title": "Software Engineer, iOS Core Product - Edinburgh, United Kingdom",
-      "company": "Speechify",
-      "location": "Edinburgh, Scotland, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T20:45:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-ios-core-product-edinburgh-united-kingdom-177624"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc29mdHdhcmUtZW5naW5lZXItaW9zLWNvcmUtcHJvZHVjdC1lZGluYnVyZ2gtdW5pdGVkLWtpbmdkb20tMjQ4NDA5fHNvZnR3YXJlIGVuZ2luZWVyLCBpb3MgY29yZSBwcm9kdWN0IC0gZWRpbmJ1cmdoLCB1bml0ZWQga2luZ2RvbXxzcGVlY2hpZnk",
-      "title": "Software Engineer, iOS Core Product - Edinburgh, United Kingdom",
-      "company": "speechify",
-      "location": "Edinburgh",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T18:15:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-ios-core-product-edinburgh-united-kingdom-248409"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc29mdHdhcmUtZW5naW5lZXItaW9zLWNvcmUtcHJvZHVjdC1iaXJtaW5naGFtLXVuaXRlZC1raW5nZG9tLTMzOTM1NHxzb2Z0d2FyZSBlbmdpbmVlciwgaW9zIGNvcmUgcHJvZHVjdCAtIGJpcm1pbmdoYW0sIHVuaXRlZCBraW5nZG9tfHNwZWVjaGlmeQ",
-      "title": "Software Engineer, iOS Core Product - Birmingham, United Kingdom",
-      "company": "speechify",
-      "location": "Birmingham",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T18:15:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-ios-core-product-birmingham-united-kingdom-339354"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90aWRlL2FkbWluLXNlcnZpY2VzLXNlbmlvci1jb3VudHJ5LWNvbW1lcmNpYWwtbWFuYWdlci11ay01NjQwMHxhZG1pbiBzZXJ2aWNlcyAtIHNlbmlvciBjb3VudHJ5IGNvbW1lcmNpYWwgbWFuYWdlciAtIHVrfHRpZGU",
-      "title": "Admin Services - Senior Country Commercial Manager - UK",
-      "company": "tide",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T17:55:26.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tide/admin-services-senior-country-commercial-manager-uk-56400"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGlkZS9zdGFmZi1zb2Z0d2FyZS1lbmdpbmVlci1hZ2VudGljLXBsYXRmb3JtLWJlcmxpbi1iZW5nYWx1cnUtaW5kaWEtZGVsaGktbmNyLWluZGlhLWh5ZGVyYWJhZC1saXRodWFuaWEtc2VyYmlhLXVuaXRlZC1raW5nZG9tLTE1NDkwNXxzdGFmZiBzb2Z0d2FyZSBlbmdpbmVlciwgYWdlbnRpYyBwbGF0Zm9ybXx0aWRl",
       "title": "Staff Software Engineer, Agentic Platform",
       "company": "tide",
@@ -214,45 +188,6 @@
       "postedDate": "2026-07-29T17:09:33.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7820573003?gh_jid=7820573003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9haXJibmIvZW5naW5lZXJpbmctbWFuYWdlci1ndWVzdC1ob3N0LWxvbmRvbi00MzE3OTR8ZW5naW5lZXJpbmcgbWFuYWdlciwgZ3Vlc3QgJiBob3N0fGFpcmJuYg",
-      "title": "Engineering Manager, Guest & Host",
-      "company": "airbnb",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T15:16:29.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/airbnb/engineering-manager-guest-host-london-431794"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90cmlwYWR2aXNvci9wcmluY2lwYWwtbWFjaGluZS1sZWFybmluZy1zY2llbnRpc3QtZXhwZXJpZW5jZXMtbG9uZG9uLTQ4NTk2fHByaW5jaXBhbCBtYWNoaW5lIGxlYXJuaW5nIHNjaWVudGlzdCAoZXhwZXJpZW5jZXMpfHRyaXBhZHZpc29y",
-      "title": "Principal Machine Learning Scientist (Experiences)",
-      "company": "tripadvisor",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T14:56:35.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/principal-machine-learning-scientist-experiences-london-48596"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy96c2NhbGVyL3Nlbmlvci1tYXJrZXRpbmctbWFuYWdlci1jaXR5LW9mLWxvbmRvbi1jb3Jwb3JhdGlvbi1nYnItMzUyNjQyfHNlbmlvciBtYXJrZXRpbmcgbWFuYWdlcnx6c2NhbGVy",
-      "title": "Senior Marketing Manager",
-      "company": "zscaler",
-      "location": "City of London Corporation, GBR",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T11:56:40.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/senior-marketing-manager-city-of-london-corporation-gbr-352642"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3JlbW90ZS1zZW5pb3ItcHJvZHVjdC1tYW5hZ2VyLXZjcy1lY29zeXN0ZW0tMTczMjIxfHNlbmlvciBwcm9kdWN0IG1hbmFnZXIgKHZjcyBlY29zeXN0ZW0pfGpldGJyYWlucw",
