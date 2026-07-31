@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T02:41:43.586Z",
+  "generatedAt": "2026-07-31T08:47:36.375Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,84 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGF0YWlrdS9yZW1vdGUtc3ItcHJvZHVjdC1tYW5hZ2VyLTEyNzIzNHxzciBwcm9kdWN0IG1hbmFnZXJ8ZGF0YWlrdQ",
+      "title": "Sr Product Manager",
+      "company": "dataiku",
+      "location": "Remote",
+      "workModel": "Remote",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-31T06:17:05.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-sr-product-manager-127234"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvd2Vya3N0dWRlbnRpbi1vZmZpY2UtbWFuYWdlbWVudC1iZXJsaW4tNDUxODI1fHdlcmtzdHVkZW50OmluIG9mZmljZSBtYW5hZ2VtZW50IChtL3cvZCkgLSBiZXJsaW58MWtvbW1hNWdyYWQ",
+      "title": "Werkstudent:in Office Management (m/w/d) - Berlin",
+      "company": "1Komma5Grad",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Part-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-31T02:09:43.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-office-management-berlin-451825"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvd2Vya3N0dWRlbnRpbi1vcmdhbmljLXNlYXJjaC1iZXJsaW4tMTczMTgxfHdlcmtzdHVkZW50OmluIChtL3cvZCkgLSBvcmdhbmljIHNlYXJjaHwxa29tbWE1Z3JhZA",
+      "title": "Werkstudent:in (m/w/d) - Organic Search",
+      "company": "1Komma5Grad",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Part-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-31T02:09:43.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-organic-search-berlin-173181"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvd2Vya3N0dWRlbnRpbi1lc2ctc3VzdGFpbmFiaWxpdHktaGFtYnVyZy0zODQ4MjZ8d2Vya3N0dWRlbnQ6aW4gKG0vdy9kKSAtIGVzZyAmIHN1c3RhaW5hYmlsaXR5fDFrb21tYTVncmFk",
+      "title": "Werkstudent:in (m/w/d) - ESG & Sustainability",
+      "company": "1Komma5Grad",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Part-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-31T02:09:43.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-esg-sustainability-hamburg-384826"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvd2Vya3N0dWRlbnRpbi1jZm8tb2ZmaWNlLWJlcmxpbi00NTQyNnx3ZXJrc3R1ZGVudDppbiAobS93L2QpIC0gY2ZvIG9mZmljZXwxa29tbWE1Z3JhZA",
+      "title": "Werkstudent:in (m/w/d) - CFO Office",
+      "company": "1Komma5Grad",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-31T02:09:43.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-cfo-office-berlin-45426"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW52ZXNkb3Ivd2Vya3N0dWRlbnRpbi1tYXJrZXRpbmctaW4tYmVybGluLWludmVzZG9yLWJlcmxpbi0zMjE5NTh8d2Vya3N0dWRlbnQ6aW4gbWFya2V0aW5nIChtL3cvZCkgaW4gYmVybGlufGludmVzZG9y",
+      "title": "Werkstudent:in Marketing (m/w/d) in Berlin",
+      "company": "Invesdor",
+      "location": "Invesdor Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-31T02:09:15.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/invesdor/werkstudentin-marketing-in-berlin-invesdor-berlin-321958"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZW9yYml0LWdtYmgvbWwtZW5naW5lZXItYWktb3BlcmF0aW9ucy1yZXNlYXJjaC1hbGwtZ2VuZGVycy1sZWlwemlnLTMzNjk1N3xtbCBlbmdpbmVlciDigJQgYWkgJiBvcGVyYXRpb25zIHJlc2VhcmNoIChhbGwgZ2VuZGVycyl8ZW9yYml0IGdtYmg",
       "title": "ML Engineer — AI & Operations Research (all genders)",
@@ -177,19 +255,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/moia/senior-treasury-specialist-all-genders-accounting-tax-trade-compliance-berlin-285070"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kZXB0L3Nlbmlvci1pbmZsdWVuY2VyLW1hbmFnZXItbG9uZG9uLW1hbmNoZXN0ZXItMTEyMDQ1fHNlbmlvciBpbmZsdWVuY2VyIG1hbmFnZXJ8ZGVwdA",
-      "title": "Senior Influencer Manager",
-      "company": "dept",
-      "location": "London, Manchester",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-30T05:56:33.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dept/senior-influencer-manager-london-manchester-112045"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcG9zdG1hbi9yZW1vdGUtc21iLWFjY291bnQtZXhlY3V0aXZlLWdlcm1hbnktMTEzNzEzfHNtYiBhY2NvdW50IGV4ZWN1dGl2ZSwgZ2VybWFueXxwb3N0bWFu",
       "title": "SMB Account Executive, Germany",
       "company": "postman",
@@ -216,32 +281,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-munich-germany-402465"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGlkZS9zdGFmZi1zb2Z0d2FyZS1lbmdpbmVlci1hZ2VudGljLXBsYXRmb3JtLWJlcmxpbi1iZW5nYWx1cnUtaW5kaWEtZGVsaGktbmNyLWluZGlhLWh5ZGVyYWJhZC1saXRodWFuaWEtc2VyYmlhLXVuaXRlZC1raW5nZG9tLTE1NDkwNXxzdGFmZiBzb2Z0d2FyZSBlbmdpbmVlciwgYWdlbnRpYyBwbGF0Zm9ybXx0aWRl",
-      "title": "Staff Software Engineer, Agentic Platform",
-      "company": "tide",
-      "location": "Berlin, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T17:55:13.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/tide/staff-software-engineer-agentic-platform-berlin-bengaluru-india-delhi-ncr-india-hyderabad-lithuania-serbia-united-kingdom-154905"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGlkZS9zZW5pb3Itc3RhZmYtc29mdHdhcmUtZW5naW5lZXItYWdlbnRpYy1wbGF0Zm9ybS1iZXJsaW4tYmVuZ2FsdXJ1LWluZGlhLWRlbGhpLW5jci1pbmRpYS1oeWRlcmFiYWQtbGl0aHVhbmlhLXNlcmJpYS11bml0ZWQta2luZ2RvbS0xMTk1MzN8c2VuaW9yIHN0YWZmIHNvZnR3YXJlIGVuZ2luZWVyLCBhZ2VudGljIHBsYXRmb3JtfHRpZGU",
-      "title": "Senior Staff Software Engineer, Agentic Platform",
-      "company": "tide",
-      "location": "Berlin, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T17:55:13.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/tide/senior-staff-software-engineer-agentic-platform-berlin-bengaluru-india-delhi-ncr-india-hyderabad-lithuania-serbia-united-kingdom-119533"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODIwNTczMDAzP2doX2ppZD03ODIwNTczMDAzfHZldGVyaW5hcnkgcGF0aG9sb2dpc3R8bmV1cmFsaW5r",
       "title": "Veterinary Pathologist",
       "company": "Neuralink",
@@ -253,32 +292,6 @@
       "postedDate": "2026-07-29T17:09:33.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7820573003?gh_jid=7820573003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3JlbW90ZS1zZW5pb3ItcHJvZHVjdC1tYW5hZ2VyLXZjcy1lY29zeXN0ZW0tMTczMjIxfHNlbmlvciBwcm9kdWN0IG1hbmFnZXIgKHZjcyBlY29zeXN0ZW0pfGpldGJyYWlucw",
-      "title": "Senior Product Manager (VCS Ecosystem)",
-      "company": "Jetbrains",
-      "location": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Cyprus; Prague, Czech Republic; Remote, Poland; Yerevan, Armenia",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T11:55:34.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-product-manager-vcs-ecosystem-173221"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbW9pYS9zZW5pb3ItaW50ZXJuYXRpb25hbC1zdGFuZGFyZHMtbWFuYWdlci1hbGwtZ2VuZGVycy1wcm9kdWN0LWNvbXBsaWFuY2UtYmVybGluLTM1ODAzOHwoc2VuaW9yKSBpbnRlcm5hdGlvbmFsIHN0YW5kYXJkcyBtYW5hZ2VyIChhbGwgZ2VuZGVycykgKHByb2R1Y3QgY29tcGxpYW5jZSl8bW9pYQ",
-      "title": "(Senior) International Standards Manager (all genders) (Product Compliance)",
-      "company": "moia",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T08:55:23.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/moia/senior-international-standards-manager-all-genders-product-compliance-berlin-358038"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODEzMzgzMDAzP2doX2ppZD03ODEzMzgzMDAzfGxhYiBtYW5hZ2VyfG5ldXJhbGluaw",
