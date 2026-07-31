@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T19:23:44.515Z",
+  "generatedAt": "2026-07-31T02:41:43.586Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,84 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZW9yYml0LWdtYmgvbWwtZW5naW5lZXItYWktb3BlcmF0aW9ucy1yZXNlYXJjaC1hbGwtZ2VuZGVycy1sZWlwemlnLTMzNjk1N3xtbCBlbmdpbmVlciDigJQgYWkgJiBvcGVyYXRpb25zIHJlc2VhcmNoIChhbGwgZ2VuZGVycyl8ZW9yYml0IGdtYmg",
+      "title": "ML Engineer — AI & Operations Research (all genders)",
+      "company": "Eorbit Gmbh",
+      "location": "Leipzig",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-30T23:09:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/ml-engineer-ai-operations-research-all-genders-leipzig-336957"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jbGluY2hvaWNlL3Nlbmlvci1wcmluY2lwYWwtYmlvc3RhdGlzdGljaWFuLWNvbnN1bHRhbnQtcmVtb3RlLWluZmVjdGlvdXMtZGlzZWFzZS0xODkyNTR8c2VuaW9yL3ByaW5jaXBhbCBiaW9zdGF0aXN0aWNpYW4gY29uc3VsdGFudCByZW1vdGUgKGluZmVjdGlvdXMgZGlzZWFzZSl8Y2xpbmNob2ljZQ",
+      "title": "Senior/Principal Biostatistician Consultant remote (Infectious Disease)",
+      "company": "Clinchoice",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-30T21:55:30.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clinchoice/senior-principal-biostatistician-consultant-remote-infectious-disease-189254"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pdmNldmlkZW5zaWEvc2VuaW9yLXJlZ2lzdGVyZWQtdmV0ZXJpbmFyeS1udXJzZS1oZHUtd2FyZHMtaGlnaC13eWNvbWJlLWJ1Y2tpbmdoYW1zaGlyZS1lbmdsYW5kLTkxODU5fHNlbmlvciByZWdpc3RlcmVkIHZldGVyaW5hcnkgbnVyc2UgLSBoZHUgJiB3YXJkc3xpdmNldmlkZW5zaWE",
+      "title": "Senior Registered Veterinary Nurse - HDU & Wards",
+      "company": "Ivcevidensia",
+      "location": "High Wycombe, Buckinghamshire, England",
+      "workModel": "On-site",
+      "opportunityType": "Hamilton Specialist Referrals [2333]",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-30T21:26:54.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-registered-veterinary-nurse-hdu-wards-high-wycombe-buckinghamshire-england-91859"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pdmNldmlkZW5zaWEvc2VuaW9yLW9ydGhvcGFlZGljLXZldGVyaW5hcnktbnVyc2UtaGlnaC13eWNvbWJlLWJ1Y2tpbmdoYW1zaGlyZS1lbmdsYW5kLTEwMzIxfHNlbmlvciBvcnRob3BhZWRpYyB2ZXRlcmluYXJ5IG51cnNlfGl2Y2V2aWRlbnNpYQ",
+      "title": "Senior Orthopaedic Veterinary Nurse",
+      "company": "Ivcevidensia",
+      "location": "High Wycombe, Buckinghamshire, England",
+      "workModel": "On-site",
+      "opportunityType": "Hamilton Specialist Referrals [2333]",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-30T21:26:54.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-orthopaedic-veterinary-nurse-high-wycombe-buckinghamshire-england-10321"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pdmNldmlkZW5zaWEvc2VuaW9yLW5ldXJvbG9neS12ZXRlcmluYXJ5LW51cnNlLWhpZ2gtd3ljb21iZS1idWNraW5naGFtc2hpcmUtZW5nbGFuZC0zMjQzNjh8c2VuaW9yIG5ldXJvbG9neSB2ZXRlcmluYXJ5IG51cnNlfGl2Y2V2aWRlbnNpYQ",
+      "title": "Senior Neurology Veterinary Nurse",
+      "company": "Ivcevidensia",
+      "location": "High Wycombe, Buckinghamshire, England",
+      "workModel": "On-site",
+      "opportunityType": "Hamilton Specialist Referrals [2333]",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-30T21:26:54.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-neurology-veterinary-nurse-high-wycombe-buckinghamshire-england-324368"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbW9pYS9zZW5pb3ItcGxhdGZvcm0tZW5naW5lZXItYWxsLWdlbmRlcnMtYmVybGluLTE0Nzc4MHwoc2VuaW9yKSBwbGF0Zm9ybSBlbmdpbmVlciAoYWxsIGdlbmRlcnMpfG1vaWE",
+      "title": "(Senior) Platform Engineer (all genders)",
+      "company": "moia",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-07-30T20:56:47.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/moia/senior-platform-engineer-all-genders-berlin-147780"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9maWdtYS9kaXJlY3Rvci1lbnRlcnByaXNlLXNhbGVzLWxvbmRvbi11bml0ZWQta2luZ2RvbS0yNDcwMHxkaXJlY3RvciwgZW50ZXJwcmlzZSBzYWxlcyAobG9uZG9uLCB1bml0ZWQga2luZ2RvbSl8ZmlnbWE",
       "title": "Director, Enterprise Sales (London, United Kingdom)",
@@ -125,19 +203,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/postman/remote-smb-account-executive-germany-113713"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yZWFsY2hlbWlzdHJ5L3Nlbmlvci1hY2NvdW50LWFzc29jaWF0ZS1tZWRpY2FsLTI2MTAzM3xzZW5pb3IgYWNjb3VudCBhc3NvY2lhdGUgLSBtZWRpY2FsfHJlYWxjaGVtaXN0cnk",
-      "title": "Senior Account Associate - Medical",
-      "company": "Realchemistry",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-30T03:15:28.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/realchemistry/senior-account-associate-medical-261033"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWlvcy1jb3JlLXByb2R1Y3QtbXVuaWNoLWdlcm1hbnktNDAyNDY1fHNvZnR3YXJlIGVuZ2luZWVyLCBpb3MgY29yZSBwcm9kdWN0IC0gbXVuaWNoLCBnZXJtYW55fHNwZWVjaGlmeQ",
       "title": "Software Engineer, iOS Core Product - Munich, Germany",
       "company": "speechify",
@@ -214,45 +279,6 @@
       "postedDate": "2026-07-29T08:55:23.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/moia/senior-international-standards-manager-all-genders-product-compliance-berlin-358038"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaG9tYS1nYW1lcy9yZW1vdGUtc2VuaW9yLTNkLWdhbWVwbGF5LWFydGlzdC1nZXJtYW55LTMwMTY5N3xzZW5pb3IgM2QgZ2FtZXBsYXkgYXJ0aXN0fGhvbWEgZ2FtZXM",
-      "title": "Senior 3D Gameplay Artist",
-      "company": "Homa Games",
-      "location": "Germany",
-      "workModel": "Remote",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T08:21:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/homa-games/remote-senior-3d-gameplay-artist-germany-301697"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLWJhY2tlbmQtZW5naW5lZXItYWN0aXZhdGlvbi1hbmQtcmV2ZW51ZS1iZXJsaW4tMTIwNTY5fHNlbmlvciBiYWNrZW5kIGVuZ2luZWVyIC0gYWN0aXZhdGlvbiBhbmQgcmV2ZW51ZXxzdW11cA",
-      "title": "Senior Backend Engineer - Activation and Revenue",
-      "company": "SumUp",
-      "location": "Berlin, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T06:45:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-activation-and-revenue-berlin-120569"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLWJhY2tlbmQtZW5naW5lZXItYWNjb3VudHMtYmVybGluLTE4MTIzMnxzZW5pb3IgYmFja2VuZCBlbmdpbmVlciAtIGFjY291bnRzfHN1bXVw",
-      "title": "Senior Backend Engineer - Accounts",
-      "company": "SumUp",
-      "location": "Berlin, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-07-29T06:45:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-accounts-berlin-181232"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODEzMzgzMDAzP2doX2ppZD03ODEzMzgzMDAzfGxhYiBtYW5hZ2VyfG5ldXJhbGluaw",
@@ -812,19 +838,6 @@
       "postedDate": "2026-05-05T20:41:54.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7725256003?gh_jid=7725256003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzIyMDE1MDAzP2doX2ppZD03NzIyMDE1MDAzfHByZWNsaW5pY2FsIHN0dWR5IGNvb3JkaW5hdG9yfG5ldXJhbGluaw",
-      "title": "Preclinical Study Coordinator",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-05-01T21:48:24.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7722015003?gh_jid=7722015003"
     }
   ]
 }
