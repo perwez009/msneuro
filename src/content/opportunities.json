@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T14:35:39.411Z",
+  "generatedAt": "2026-08-03T19:28:08.802Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -8,17 +8,82 @@
   ],
   "items": [
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9leGNsYWltZXIvc2VuaW9yLXByb2R1Y3QtbWFuYWdlci1sb25kb24tMjgwOTc4fHNlbmlvciBwcm9kdWN0IG1hbmFnZXJ8ZXhjbGFpbWVy",
-      "title": "Senior Product Manager",
-      "company": "Exclaimer",
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW50ZWdyYWwtZGUvc2VuaW9yLXByb2R1Y3QtZW5naW5lZXItYmVybGluLTEyMzc5fHNlbmlvciBwcm9kdWN0IGVuZ2luZWVyIChmL20vZCl8aW50ZWdyYWwgZGU",
+      "title": "Senior Product Engineer (f/m/d)",
+      "company": "Integral De",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-03T18:01:01.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/integral-de/senior-product-engineer-berlin-12379"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zYW5pdHkvc29sdXRpb25zLWVuZ2luZWVyLXByZXNhbGVzLXNlbmlvci10by1zdGFmZi1sZXZlbC1ldS1sb25kb24tdWstMTU4NjMwfHNvbHV0aW9ucyBlbmdpbmVlciwgcHJlc2FsZXMgLSBzZW5pb3IgdG8gc3RhZmYgbGV2ZWwgKGV1KXxzYW5pdHk",
+      "title": "Solutions Engineer, PreSales - Senior to Staff level (EU)",
+      "company": "Sanity",
+      "location": "London, UK",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-03T16:00:14.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sanity/solutions-engineer-presales-senior-to-staff-level-eu-london-uk-158630"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jb3Jld2VhdmV1L3Nlbmlvci1yZXNlYXJjaGVyLWxvbmRvbi0yNDQ0MzZ8c2VuaW9yIHJlc2VhcmNoZXJ8Y29yZXdlYXZldQ",
+      "title": "Senior Researcher",
+      "company": "Coreweaveu",
       "location": "London",
       "workModel": "On-site",
       "opportunityType": "Unspecified",
       "source": "Arbeitnow",
       "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-03T12:56:06.000Z",
+      "postedDate": "2026-08-03T15:55:46.000Z",
       "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/exclaimer/senior-product-manager-london-280978"
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/senior-researcher-london-244436"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcm9obGlrL3ByaW5jaXBhbC1wcm9kdWN0LW1hbmFnZXItZnVsZmlsbG1lbnQtY2VudGVyLW11bmljaC0yNDg1NjV8cHJpbmNpcGFsIHByb2R1Y3QgbWFuYWdlcjogZnVsZmlsbG1lbnQgY2VudGVyfHJvaGxpaw",
+      "title": "Principal Product Manager: Fulfillment Center",
+      "company": "Rohlik",
+      "location": "München, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-03T15:01:03.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/principal-product-manager-fulfillment-center-munich-248565"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWxhYnMvcmVtb3RlLXByaW5jaXBhbC1zZWN1cml0eS1lbmdpbmVlci1nZXJtYW55LTM4NTEyNXxwcmluY2lwYWwgc2VjdXJpdHkgZW5naW5lZXJ8bWxhYnM",
+      "title": "Principal Security Engineer",
+      "company": "Mlabs",
+      "location": "Germany",
+      "workModel": "Remote",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-03T14:21:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/mlabs/remote-principal-security-engineer-germany-385125"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXVyaXZ1cy1nbWJoL3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1jbG91ZC13ZWItZGV2b3BzLXVsbS0xOTc0MTd8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyIChjbG91ZC93ZWIgJiBkZXZvcHMpIChtL3cvZCl8YXVyaXZ1cyBnbWJo",
+      "title": "Senior Software Engineer (Cloud/Web & DevOps) (m/w/d)",
+      "company": "aurivus GmbH",
+      "location": "Ulm",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-03T14:00:39.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/aurivus-gmbh/senior-software-engineer-cloud-web-devops-ulm-197417"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdmludGVkZW4vc2VuaW9yLWRhdGEtc2NpZW50aXN0LWJ1eWVyLWJlcmxpbi00MjE1NzJ8c2VuaW9yIGRhdGEgc2NpZW50aXN0LCBidXllcnx2aW50ZWRlbg",
@@ -97,45 +162,6 @@
       "postedDate": "2026-08-03T09:00:46.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/judisches-leben-in-europa-ev/leiterin-presse-und-offentlichkeitsarbeit-tvod-13-vollzeit-cologne-76439"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZmxpeC9zZW5pb3ItcHJvZHVjdC1hbmFseXN0LW11bmNoZW4tNDIwNzU5fHNlbmlvciBwcm9kdWN0IGFuYWx5c3QgKG0vZi9kKXxmbGl4",
-      "title": "Senior Product Analyst (m/f/d)",
-      "company": "Flix",
-      "location": "München, Bayern, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-03T06:45:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-product-analyst-munchen-420759"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdmFlcmlkaW9uL3Nlbmlvci1zdHJlc3MtdGhlcm1vbWVjaGFuaWNhbC1mZWEtZW5naW5lZXItcHJvcHVsc2lvbi1iYXR0ZXJ5LXN5c3RlbS1hbGwtZ2VuZGVycy1tdW5pY2gtMzMxMTk2fHNlbmlvciBzdHJlc3MgJiB0aGVybW9tZWNoYW5pY2FsIGZlYSBlbmdpbmVlciAtIHByb3B1bHNpb24gYmF0dGVyeSBzeXN0ZW0gKGFsbCBnZW5kZXJzKXx2w6ZyaWRpb24",
-      "title": "Senior Stress & Thermomechanical FEA Engineer - Propulsion Battery System (all genders)",
-      "company": "væridion",
-      "location": "Munich HQ",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-03T06:00:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/vaeridion/senior-stress-thermomechanical-fea-engineer-propulsion-battery-system-all-genders-munich-331196"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva2xpbS9oZWFkLW9mLXNjaWVudGlmaWMtbW9kZWxsaW5nLWFsbC1nZW5kZXJzLWJlcmxpbi0zMjM2MTV8aGVhZCBvZiBzY2llbnRpZmljIG1vZGVsbGluZyAoYWxsIGdlbmRlcnMpfGtsaW0",
-      "title": "Head of Scientific Modelling (all genders)",
-      "company": "Klim",
-      "location": "Berlin, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-03T05:41:35.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/klim/head-of-scientific-modelling-all-genders-berlin-323615"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODIxOTMzMDAzP2doX2ppZD03ODIxOTMzMDAzfGNuYyBtYWNoaW5pc3R8bmV1cmFsaW5r",
