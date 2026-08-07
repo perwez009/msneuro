@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T12:59:30.574Z",
+  "generatedAt": "2026-08-07T18:54:01.829Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,97 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW5kcmVzLWluZHVzdHJpZXMtYWcvcHJvZ3JhbW1pZXJlci1td2QtdGVjaG5pc2NoZXItaW5mb3JtYXRpa2VyLWJlcmxpbi00MDI1N3xwcm9ncmFtbWllcmVyIChtLHcsZCkgLyB0ZWNobmlzY2hlciBpbmZvcm1hdGlrZXIgKG0vdy9kKXxhbmRyZXMgaW5kdXN0cmllcyBhZw",
+      "title": "Programmierer (m,w,d) / Technischer Informatiker (m/w/d)",
+      "company": "Andres Industries AG",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-07T17:20:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/andres-industries-ag/programmierer-mwd-technischer-informatiker-berlin-40257"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW5kcmVzLWluZHVzdHJpZXMtYWcvc2VuaW9yLXByb2dyYW1taWVyZXItaW5mb3JtYXRpa2VyLWZ1ci1lbWJlZGRlZC1jb250cm9sbGVyLWJlcmxpbi0xMzMwOHxzZW5pb3IgcHJvZ3JhbW1pZXJlciAobS93L2QpIC8gaW5mb3JtYXRpa2VyIGbDvHIgZW1iZWRkZWQgY29udHJvbGxlciAobS93L2QpfGFuZHJlcyBpbmR1c3RyaWVzIGFn",
+      "title": "Senior Programmierer (m/w/d) / Informatiker für Embedded Controller (m/w/d)",
+      "company": "Andres Industries AG",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-07T17:20:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/andres-industries-ag/senior-programmierer-informatiker-fur-embedded-controller-berlin-13308"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW5kcmVzLWluZHVzdHJpZXMtYWcvd2Vya3N0dWRlbnQtcHJvZ3JhbW1pZXJlci1maXJtd2FyZS1lbWJlZGRlZC1iZXJsaW4tMTkyMjQ2fHdlcmtzdHVkZW50IHByb2dyYW1taWVyZXIgZmlybXdhcmUvZW1iZWRkZWQgKG0vdy9kKXxhbmRyZXMgaW5kdXN0cmllcyBhZw",
+      "title": "Werkstudent Programmierer Firmware/Embedded (m/w/d)",
+      "company": "Andres Industries AG",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Part-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-07T17:20:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/andres-industries-ag/werkstudent-programmierer-firmware-embedded-berlin-192246"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93cml0ZXIvaW5mcmFzdHJ1Y3R1cmUtZW5naW5lZXItdWstbG9uZG9uLTMwMzQzfGluZnJhc3RydWN0dXJlIGVuZ2luZWVyICh1ayl8d3JpdGVy",
+      "title": "Infrastructure engineer (UK)",
+      "company": "Writer",
+      "location": "London, UK",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-07T15:40:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/infrastructure-engineer-uk-london-30343"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbnQtdGVjaC90ZWNoLW9wcy1tYW5hZ2VyLWxvbmRvbi0zODU1MTV8dGVjaCBvcHMgbWFuYWdlcnxhbnQtdGVjaA",
+      "title": "Tech Ops Manager",
+      "company": "Ant-Tech",
+      "location": "London",
+      "workModel": "Remote",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-07T14:30:33.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ant-tech/tech-ops-manager-london-385515"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9nb2NhcmRsZXNzL3Nlbmlvci1kYXRhLXNjaWVudGlzdC1wYXltZW50LWludGVsbGlnZW5jZS1sb25kb24tMjE2OTE3fHNlbmlvciBkYXRhIHNjaWVudGlzdCwgcGF5bWVudCBpbnRlbGxpZ2VuY2V8Z29jYXJkbGVzcw",
+      "title": "Senior Data Scientist, Payment Intelligence",
+      "company": "Gocardless",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-07T12:55:19.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gocardless/senior-data-scientist-payment-intelligence-london-216917"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9nb2NhcmRsZXNzL2RhdGEtc2NpZW5jZS1tYW5hZ2VyLWxvbmRvbi01OTYxMHxkYXRhIHNjaWVuY2UgbWFuYWdlcnxnb2NhcmRsZXNz",
+      "title": "Data Science Manager",
+      "company": "Gocardless",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-07T12:55:19.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gocardless/data-science-manager-london-59610"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvYmFja2VuZC1lbmdpbmVlci1nb2xhbmctYmFsYW5jZS1tYW5hZ2VtZW50LWJlcmxpbi05ODkwOXxiYWNrZW5kIGVuZ2luZWVyIChnb2xhbmcpIC0gYmFsYW5jZSBtYW5hZ2VtZW50fHN1bXVw",
       "title": "Backend Engineer (Golang) - Balance Management",
@@ -47,71 +138,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/remote-senior-cloud-security-engineer-ai-resilience-security-enhancements-contract-480288"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9zZW5pb3ItYXVkaXQtaW5ub3ZhdGlvbi1hbmQtZW5hYmxlbWVudC1sZWFkLWxvbmRvbi0xNTAxMTF8c2VuaW9yIGF1ZGl0IGlubm92YXRpb24gYW5kIGVuYWJsZW1lbnQgbGVhZHxtb256bw",
-      "title": "Senior Audit Innovation and Enablement Lead",
-      "company": "Monzo",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-07T06:55:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-audit-innovation-and-enablement-lead-london-150111"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9zZW5pb3ItYW5hbHl0aWNzLWVuZ2luZWVyLWNhcmRpZmYtMzgzMjYyfHNlbmlvciBhbmFseXRpY3MgZW5naW5lZXJ8bW9uem8",
-      "title": "Senior Analytics Engineer",
-      "company": "Monzo",
-      "location": "Cardiff",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-07T06:55:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-analytics-engineer-cardiff-383262"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93YXltby9zZW5pb3Itc2FmZXR5LXJlc2VhcmNoZXItY29tcHV0YXRpb25hbC1iZWhhdmlvci1tb2RlbGluZy1sb25kb24tMTQzNzEzfHNlbmlvciBzYWZldHkgcmVzZWFyY2hlciwgY29tcHV0YXRpb25hbCBiZWhhdmlvciBtb2RlbGluZ3x3YXltbw",
-      "title": "Senior Safety Researcher, Computational Behavior Modeling",
-      "company": "Waymo",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-07T06:55:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/senior-safety-researcher-computational-behavior-modeling-london-143713"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93YXltby9zZW5pb3ItcmVzZWFyY2gtc2NpZW50aXN0LWFpLWZvdW5kYXRpb25zLXJlY2lwZXMtb3hmb3JkLWxvbmRvbi0zNjI0MDd8c2VuaW9yIHJlc2VhcmNoIHNjaWVudGlzdCwgYWkgZm91bmRhdGlvbnMgcmVjaXBlc3x3YXltbw",
-      "title": "Senior Research Scientist, AI Foundations Recipes",
-      "company": "Waymo",
-      "location": "Oxford; London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-07T06:55:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/senior-research-scientist-ai-foundations-recipes-oxford-london-362407"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93YXltby9kaXJlY3Rvci1vZi1lbmdpbmVlcmluZy1sb25kb24tNDI1OTM3fGRpcmVjdG9yIG9mIGVuZ2luZWVyaW5nLCBsb25kb258d2F5bW8",
-      "title": "Director of Engineering, London",
-      "company": "Waymo",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-07T06:55:05.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/director-of-engineering-london-425937"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWlvcy1jb3JlLXByb2R1Y3QtaGFtYnVyZy1nZXJtYW55LTQ3MzM1MHxzb2Z0d2FyZSBlbmdpbmVlciwgaW9zIGNvcmUgcHJvZHVjdCAtIGhhbWJ1cmcsIGdlcm1hbnl8c3BlZWNoaWZ5",
       "title": "Software Engineer, iOS Core Product - Hamburg, Germany",
       "company": "Speechify",
@@ -136,19 +162,6 @@
       "postedDate": "2026-08-07T06:45:28.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-berlin-germany-118702"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS9jYXBpdGFsLW1hcmtldHMtYW5hbHlzdC1hc3NvY2lhdGUtbG9uZG9uLTYxMjcxfGNhcGl0YWwgbWFya2V0cyBhbmFseXN0IC8gYXNzb2NpYXRlfGxlbmRhYmxl",
-      "title": "Capital Markets Analyst / Associate",
-      "company": "Lendable",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-07T06:40:13.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/capital-markets-analyst-associate-london-61271"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYmVkcm9wL3RlYW1sZWFkLXBlcmZvcm1hbmNlLW1hcmtldGluZy1tYW5uaGVpbS00MzI1NTV8dGVhbWxlYWQgcGVyZm9ybWFuY2UgbWFya2V0aW5nIChtL3cvZCl8YmVkcm9w",
@@ -292,45 +305,6 @@
       "postedDate": "2026-08-06T17:40:05.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/wemolo/working-student-talent-acquisition-all-genders-munchen-308587"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29tbWVyY2V0b29scy9haS1lbmdpbmVlci1iZXJsaW4tMzc1NzF8YWkgZW5naW5lZXIgKG0vZi94KXxjb21tZXJjZXRvb2xz",
-      "title": "AI Engineer (m/f/x)",
-      "company": "commercetools",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-06T08:55:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/commercetools/ai-engineer-berlin-37571"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29tbWVyY2V0b29scy9haS1lbmdpbmVlci1tdW5jaGVuLWJheWVybi0zNjQ4NTh8YWkgZW5naW5lZXIgKG0vZi94KXxjb21tZXJjZXRvb2xz",
-      "title": "AI Engineer (m/f/x)",
-      "company": "commercetools",
-      "location": "München, Bayern",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-06T08:55:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/commercetools/ai-engineer-munchen-bayern-364858"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2Nob2xhcnNoaXBvd2wvcmVtb3RlLWdyb3d0aC1wcm9kdWN0LW1hbmFnZXItYmVybGluLTI2OTY5OHxncm93dGggcHJvZHVjdCBtYW5hZ2VyfHNjaG9sYXJzaGlwb3ds",
-      "title": "Growth Product Manager",
-      "company": "ScholarshipOwl",
-      "location": "Remote job",
-      "workModel": "Remote",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-06T08:30:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-growth-product-manager-berlin-269698"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODIzMzQyMDAzP2doX2ppZD03ODIzMzQyMDAzfGRpZ2l0YWwgdmVyaWZpY2F0aW9uIGVuZ2luZWVyfG5ldXJhbGluaw",
