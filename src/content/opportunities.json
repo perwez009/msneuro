@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T18:54:01.829Z",
+  "generatedAt": "2026-08-08T01:25:47.611Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uZXdyZWxpYy9zZW5pb3ItbWFuYWdlci1yZXZlbnVlLW9wZXJhdGlvbnMtbG9uZG9uLTE3Mzg0MnxzZW5pb3IgbWFuYWdlciwgcmV2ZW51ZSBvcGVyYXRpb25zfG5ld3JlbGlj",
+      "title": "Senior Manager, Revenue Operations",
+      "company": "newrelic",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-08T00:55:42.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/newrelic/senior-manager-revenue-operations-london-173842"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXItYWdlbmN5L2dyb3VwLWFjY291bnQtZGlyZWN0b3ItbWF0ZXJuaXR5LWNvdmVyLWxvbmRvbi00ODE4NzZ8Z3JvdXAgYWNjb3VudCBkaXJlY3RvciAoIG1hdGVybml0eSBjb3Zlcil8b2xpdmVyIGFnZW5jeQ",
+      "title": "Group Account Director ( Maternity cover)",
+      "company": "OLIVER Agency",
+      "location": "London, England, United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-07T21:45:23.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/group-account-director-maternity-cover-london-481876"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kZWVwbC9zb2Z0d2FyZS1lbmdpbmVlci1pZGVudGl0eS1hY2Nlc3MtbWFuYWdlbWVudC1mdWxsLXN0YWNrLWxvbmRvbi0zNDY5MzZ8c29mdHdhcmUgZW5naW5lZXIgfCBpZGVudGl0eSAmIGFjY2VzcyBtYW5hZ2VtZW50IHwgZnVsbC1zdGFja3xkZWVwbA",
+      "title": "Software Engineer | Identity & Access Management | Full-Stack",
+      "company": "Deepl",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-07T21:40:19.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/software-engineer-identity-access-management-full-stack-london-346936"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW52ZXNkb3Ivd2Vya3N0dWRlbnRpbi1tYXJrZXRpbmctaW4tYmVybGluLWludmVzZG9yLWJlcmxpbi0yNDkxMTR8d2Vya3N0dWRlbnQ6aW4gbWFya2V0aW5nIChtL3cvZCkgaW4gYmVybGlufGludmVzZG9y",
+      "title": "Werkstudent:in Marketing (m/w/d) in Berlin",
+      "company": "Invesdor",
+      "location": "Invesdor Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-07T20:09:55.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/invesdor/werkstudentin-marketing-in-berlin-invesdor-berlin-249114"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9mYWN1bHR5L3Jlc2VhcmNoLXNjaWVudGlzdC1sb25kb24tMTYwMTM0fHJlc2VhcmNoIHNjaWVudGlzdHxmYWN1bHR5",
+      "title": "Research Scientist",
+      "company": "Faculty",
+      "location": "UK - London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-07T18:40:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/research-scientist-london-160134"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW5kcmVzLWluZHVzdHJpZXMtYWcvcHJvZ3JhbW1pZXJlci1td2QtdGVjaG5pc2NoZXItaW5mb3JtYXRpa2VyLWJlcmxpbi00MDI1N3xwcm9ncmFtbWllcmVyIChtLHcsZCkgLyB0ZWNobmlzY2hlciBpbmZvcm1hdGlrZXIgKG0vdy9kKXxhbmRyZXMgaW5kdXN0cmllcyBhZw",
       "title": "Programmierer (m,w,d) / Technischer Informatiker (m/w/d)",
@@ -60,45 +125,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/infrastructure-engineer-uk-london-30343"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbnQtdGVjaC90ZWNoLW9wcy1tYW5hZ2VyLWxvbmRvbi0zODU1MTV8dGVjaCBvcHMgbWFuYWdlcnxhbnQtdGVjaA",
-      "title": "Tech Ops Manager",
-      "company": "Ant-Tech",
-      "location": "London",
-      "workModel": "Remote",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-07T14:30:33.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ant-tech/tech-ops-manager-london-385515"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9nb2NhcmRsZXNzL3Nlbmlvci1kYXRhLXNjaWVudGlzdC1wYXltZW50LWludGVsbGlnZW5jZS1sb25kb24tMjE2OTE3fHNlbmlvciBkYXRhIHNjaWVudGlzdCwgcGF5bWVudCBpbnRlbGxpZ2VuY2V8Z29jYXJkbGVzcw",
-      "title": "Senior Data Scientist, Payment Intelligence",
-      "company": "Gocardless",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-07T12:55:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gocardless/senior-data-scientist-payment-intelligence-london-216917"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9nb2NhcmRsZXNzL2RhdGEtc2NpZW5jZS1tYW5hZ2VyLWxvbmRvbi01OTYxMHxkYXRhIHNjaWVuY2UgbWFuYWdlcnxnb2NhcmRsZXNz",
-      "title": "Data Science Manager",
-      "company": "Gocardless",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-07T12:55:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gocardless/data-science-manager-london-59610"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvYmFja2VuZC1lbmdpbmVlci1nb2xhbmctYmFsYW5jZS1tYW5hZ2VtZW50LWJlcmxpbi05ODkwOXxiYWNrZW5kIGVuZ2luZWVyIChnb2xhbmcpIC0gYmFsYW5jZSBtYW5hZ2VtZW50fHN1bXVw",
       "title": "Backend Engineer (Golang) - Balance Management",
       "company": "sumup",
@@ -110,32 +136,6 @@
       "postedDate": "2026-08-07T11:55:29.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-golang-balance-management-berlin-98909"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9mb3JtMy9yZW1vdGUtc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWdvLWFpLXJlc2lsaWVuY2Utc2VjdXJpdHktZW5oYW5jZW1lbnRzLWNvbnRyYWN0LTQxNDc2NHxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIgKGdvKSAtIGFpIHJlc2lsaWVuY2UgJiBzZWN1cml0eSBlbmhhbmNlbWVudHMgKGNvbnRyYWN0KXxmb3JtMw",
-      "title": "Senior Software Engineer (Go) - AI Resilience & Security Enhancements (Contract)",
-      "company": "Form3",
-      "location": "100% Remote (Europe*)",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-07T09:55:28.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/remote-senior-software-engineer-go-ai-resilience-security-enhancements-contract-414764"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9mb3JtMy9yZW1vdGUtc2VuaW9yLWNsb3VkLXNlY3VyaXR5LWVuZ2luZWVyLWFpLXJlc2lsaWVuY2Utc2VjdXJpdHktZW5oYW5jZW1lbnRzLWNvbnRyYWN0LTQ4MDI4OHxzZW5pb3IgY2xvdWQgc2VjdXJpdHkgZW5naW5lZXIgLSBhaSByZXNpbGllbmNlICYgc2VjdXJpdHkgZW5oYW5jZW1lbnRzIChjb250cmFjdCl8Zm9ybTM",
-      "title": "Senior Cloud Security Engineer - AI Resilience & Security Enhancements (Contract)",
-      "company": "Form3",
-      "location": "100% Remote (Europe*)",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-07T09:55:28.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/remote-senior-cloud-security-engineer-ai-resilience-security-enhancements-contract-480288"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWlvcy1jb3JlLXByb2R1Y3QtaGFtYnVyZy1nZXJtYW55LTQ3MzM1MHxzb2Z0d2FyZSBlbmdpbmVlciwgaW9zIGNvcmUgcHJvZHVjdCAtIGhhbWJ1cmcsIGdlcm1hbnl8c3BlZWNoaWZ5",
@@ -292,19 +292,6 @@
       "postedDate": "2026-08-06T17:40:11.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/10xteam/researcher-scientist-ai-trainer-freelance-8-20-hrs-week-remote-berlin-355558"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd2Vtb2xvL3dvcmtpbmctc3R1ZGVudC10YWxlbnQtYWNxdWlzaXRpb24tYWxsLWdlbmRlcnMtbXVuY2hlbi0zMDg1ODd8d29ya2luZyBzdHVkZW50IHRhbGVudCBhY3F1aXNpdGlvbiAoYWxsIGdlbmRlcnMpfHdlbW9sbw",
-      "title": "Working Student Talent Acquisition (all genders)",
-      "company": "Wemolo",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Part-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-06T17:40:05.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/wemolo/working-student-talent-acquisition-all-genders-munchen-308587"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODIzMzQyMDAzP2doX2ppZD03ODIzMzQyMDAzfGRpZ2l0YWwgdmVyaWZpY2F0aW9uIGVuZ2luZWVyfG5ldXJhbGluaw",
