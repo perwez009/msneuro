@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T06:53:51.060Z",
+  "generatedAt": "2026-08-09T12:46:04.844Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcG9zdG1hbi9zdHJhdGVnaWMtYWNjb3VudC1leGVjdXRpdmUtZGFjaC1iZXJsaW4tYmVybGluLTQwNDU2fHN0cmF0ZWdpYyBhY2NvdW50IGV4ZWN1dGl2ZSwgZGFjaHxwb3N0bWFu",
+      "title": "Strategic Account Executive, DACH",
+      "company": "postman",
+      "location": "Berlin, Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-09T11:55:05.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/postman/strategic-account-executive-dach-berlin-berlin-40456"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvZ28tdG8tbWFya2V0LWNhbWJyaWRnZS11bml0ZWQta2luZ2RvbS00NTM0N3xnby10by1tYXJrZXQgLSBjYW1icmlkZ2UsIHVuaXRlZCBraW5nZG9tfHNwZWVjaGlmeQ",
+      "title": "Go-to-Market - Cambridge, United Kingdom",
+      "company": "speechify",
+      "location": "Cambridge",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-09T06:55:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-cambridge-united-kingdom-45347"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvZ28tdG8tbWFya2V0LWJlbGZhc3QtdW5pdGVkLWtpbmdkb20tMzEzNDgwfGdvLXRvLW1hcmtldCAtIGJlbGZhc3QsIHVuaXRlZCBraW5nZG9tfHNwZWVjaGlmeQ",
+      "title": "Go-to-Market - Belfast, United Kingdom",
+      "company": "speechify",
+      "location": "Belfast",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-09T06:55:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-belfast-united-kingdom-313480"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zYW5kYm94YXEvbWwtcmVzZWFyY2gtZW5naW5lZXItYWktZm9yLWxpZmUtc2NpZW5jZXMtdW5pdGVkLWtpbmdkb20tNDkxNzkyfG1sIHJlc2VhcmNoIGVuZ2luZWVyLCBhaSBmb3IgbGlmZSBzY2llbmNlc3xzYW5kYm94YXE",
+      "title": "ML Research Engineer, AI for Life Sciences",
+      "company": "SandboxAQ",
+      "location": "United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-09T06:40:20.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sandboxaq/ml-research-engineer-ai-for-life-sciences-united-kingdom-491792"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2xlcmEvcmVtb3RlLWZvdW5kaW5nLXNjaWVudGlzdC1jby1mb3VuZGVyLTU2NTkzfGZvdW5kaW5nIHNjaWVudGlzdCAvIGNvLWZvdW5kZXJ8Y2xlcmE",
       "title": "Founding Scientist / Co-Founder",
@@ -242,19 +294,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-audit-transformation-lead-london-97759"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yZWFsY2hlbWlzdHJ5L2FjY291bnQtZGlyZWN0b3Itc2NpZW50aWZpYy12aXN1YWxpc2F0aW9uLWV4cGVyaWVudGlhbC03NDMwMXxhY2NvdW50IGRpcmVjdG9yIChzY2llbnRpZmljIHZpc3VhbGlzYXRpb24gJiBleHBlcmllbnRpYWwpfHJlYWxjaGVtaXN0cnk",
-      "title": "Account Director (Scientific Visualisation & Experiential)",
-      "company": "Realchemistry",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-08T15:55:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/realchemistry/account-director-scientific-visualisation-experiential-74301"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2xlcmEvcmVtb3RlLWZvdW5kaW5nLXNjaWVudGlzdC1jby1mb3VuZGVyLTE1MTM2fGZvdW5kaW5nIHNjaWVudGlzdCAvIGNvLWZvdW5kZXJ8Y2xlcmE",
       "title": "Founding Scientist / Co-Founder",
       "company": "Clera",
@@ -331,32 +370,6 @@
       "postedDate": "2026-08-08T14:40:22.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-full-stack-ios-engineer-64757"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy92bWxlbnRlcnByaXNlc29sdXRpb25zL3Nlbmlvci1zb2NpYWwtY29tbWVyY2Utc3RyYXRlZ2lzdC1sb25kb24tbWFuY2hlc3Rlci0yODgzOTJ8c2VuaW9yIHNvY2lhbCBjb21tZXJjZSBzdHJhdGVnaXN0fHZtbGVudGVycHJpc2Vzb2x1dGlvbnM",
-      "title": "Senior Social Commerce Strategist",
-      "company": "Vmlenterprisesolutions",
-      "location": "London; Manchester",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-08T12:55:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/vmlenterprisesolutions/senior-social-commerce-strategist-london-manchester-288392"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbnlvbmUtYWkvY2hlbWlzdHJ5LWV4cGVydC11ay1sb25kb24tNDI0NzcyfGNoZW1pc3RyeSBleHBlcnQgKHVrKXxhbnlvbmUgYWk",
-      "title": "Chemistry Expert (UK)",
-      "company": "Anyone Ai",
-      "location": "United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Contract",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-08T12:40:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anyone-ai/chemistry-expert-uk-london-424772"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW55b25lLWFpL2NoZW1pc3RyeS1leHBlcnQtZ2VybWFueS1iZXJsaW4tMTU2MDcyfGNoZW1pc3RyeSBleHBlcnQgKGdlcm1hbnkpfGFueW9uZSBhaQ",
