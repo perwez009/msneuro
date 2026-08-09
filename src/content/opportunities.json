@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T01:38:13.710Z",
+  "generatedAt": "2026-08-09T06:53:51.060Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2xlcmEvcmVtb3RlLWZvdW5kaW5nLXNjaWVudGlzdC1jby1mb3VuZGVyLTU2NTkzfGZvdW5kaW5nIHNjaWVudGlzdCAvIGNvLWZvdW5kZXJ8Y2xlcmE",
+      "title": "Founding Scientist / Co-Founder",
+      "company": "Clera",
+      "location": "remote",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-09T02:40:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-scientist-co-founder-56593"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2xlcmEvcmVtb3RlLWhlYWQtb2YtZ3RtLTkxMTM2fGhlYWQgb2YgZ3RtfGNsZXJh",
+      "title": "Head of GTM",
+      "company": "Clera",
+      "location": "remote",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-09T02:40:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-head-of-gtm-91136"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2xlcmEvYnVzaW5lc3MtZGV2ZWxvcG1lbnQtbWFuYWdlci1iZXJsaW4tNjE1MHxidXNpbmVzcyBkZXZlbG9wbWVudCBtYW5hZ2VyfGNsZXJh",
+      "title": "Business Development Manager",
+      "company": "Clera",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-09T02:40:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/business-development-manager-berlin-6150"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2xlcmEvaGVhZC1vZi1haS1yZXNlYXJjaC1iZXJsaW4tMjI1MTY2fGhlYWQgb2YgYWkgcmVzZWFyY2h8Y2xlcmE",
+      "title": "Head of AI Research",
+      "company": "Clera",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-09T02:40:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/head-of-ai-research-berlin-225166"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMzYwbGVhcm5pbmcvcmVtb3RlLXNvbHV0aW9ucy1lbmdpbmVlci1kYWNoLTIzNDI4Nnxzb2x1dGlvbnMgZW5naW5lZXIgZGFjaCAobS9mL2QpfDM2MGxlYXJuaW5n",
+      "title": "Solutions Engineer DACH (m/f/d)",
+      "company": "360Learning",
+      "location": "Berlin, Remote",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-09T02:05:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-solutions-engineer-dach-234286"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaXNhcmFlcm9zcGFjZS9kaXJlY3Rvci1lbnRlcnByaXNlLWl0LWRhdGEtcGFyc2RvcmYtYmF2YXJpYS0zNTEzODN8ZGlyZWN0b3IgZW50ZXJwcmlzZSBpdCAmIGRhdGEgKG0vZi9kKXxpc2FyYWVyb3NwYWNl",
       "title": "Director Enterprise IT & Data (m/f/d)",
@@ -448,19 +513,6 @@
       "postedDate": "2026-08-07T17:20:11.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/andres-industries-ag/werkstudent-programmierer-firmware-embedded-berlin-192246"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvYmFja2VuZC1lbmdpbmVlci1nb2xhbmctYmFsYW5jZS1tYW5hZ2VtZW50LWJlcmxpbi05ODkwOXxiYWNrZW5kIGVuZ2luZWVyIChnb2xhbmcpIC0gYmFsYW5jZSBtYW5hZ2VtZW50fHN1bXVw",
-      "title": "Backend Engineer (Golang) - Balance Management",
-      "company": "sumup",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-07T11:55:29.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-golang-balance-management-berlin-98909"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODIzMzQyMDAzP2doX2ppZD03ODIzMzQyMDAzfGRpZ2l0YWwgdmVyaWZpY2F0aW9uIGVuZ2luZWVyfG5ldXJhbGluaw",
