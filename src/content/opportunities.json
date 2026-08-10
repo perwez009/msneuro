@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T13:03:52.610Z",
+  "generatedAt": "2026-08-10T18:55:11.361Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,84 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wcmVjaXNpb25tZWRpY2luZWdyb3VwL3JlbW90ZS1zZW5pb3ItbWVkaWNhbC13cml0ZXItcHJpbmNpcGFsLW1lZGljYWwtd3JpdGVyLTg4NDQxfHNlbmlvciBtZWRpY2FsIHdyaXRlci9wcmluY2lwYWwgbWVkaWNhbCB3cml0ZXJ8cHJlY2lzaW9ubWVkaWNpbmVncm91cA",
+      "title": "Senior Medical Writer/Principal Medical Writer",
+      "company": "Precisionmedicinegroup",
+      "location": "Remote",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-10T15:55:33.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-senior-medical-writer-principal-medical-writer-88441"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXIvc2VuaW9yLWFjY291bnQtbWFuYWdlci1sb25kb24tMzU4MjM4fHNlbmlvciBhY2NvdW50IG1hbmFnZXJ8b2xpdmVy",
+      "title": "Senior Account Manager",
+      "company": "Oliver",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-10T15:55:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver/senior-account-manager-london-358238"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXItYWdlbmN5L3Nlbmlvci1hY2NvdW50LW1hbmFnZXItbG9uZG9uLTE4NzgyMHxzZW5pb3IgYWNjb3VudCBtYW5hZ2VyfG9saXZlciBhZ2VuY3k",
+      "title": "Senior Account Manager",
+      "company": "OLIVER Agency",
+      "location": "London, London, United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-10T14:45:21.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/senior-account-manager-london-187820"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd2FrZWxpbmUtZ21iaC9zb2Z0d2FyZS1lbmdpbmVlci1kdXNzZWxkb3JmLTI1NTUyN3xzb2Z0d2FyZSBlbmdpbmVlcnx3YWtlbGluZSBnbWJo",
+      "title": "Software Engineer",
+      "company": "Wakeline GmbH",
+      "location": "Düsseldorf",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-10T14:30:43.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/wakeline-gmbh/software-engineer-dusseldorf-255527"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvcHJha3Rpa2FudGluLXNhbGVzLW1hcmtldGluZy1iZXJsaW4tMTE4OTc0fHByYWt0aWthbnQ6aW4gKG0vdy9kKSAtIHNhbGVzL21hcmtldGluZ3wxa29tbWE1y5o",
+      "title": "Praktikant:in (m/w/d) - Sales/Marketing",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Working student, hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-10T14:30:40.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/praktikantin-sales-marketing-berlin-118974"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMzYwbGVhcm5pbmcvcmVtb3RlLWVudGVycHJpc2UtYWNjb3VudC1leGVjdXRpdmUtNDAxNDMyfGVudGVycHJpc2UgYWNjb3VudCBleGVjdXRpdmUgKG0vZi9kKXwzNjBsZWFybmluZw",
+      "title": "Enterprise Account Executive (m/f/d)",
+      "company": "360Learning",
+      "location": "Berlin, Remote",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-10T14:04:18.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-enterprise-account-executive-401432"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGVwdC9zZW5pb3ItY29weXdyaXRlci01LW1vbnRoLWZ0Yy1iZXJsaW4tdW5pdGVkLWtpbmdkb20tbWFuY2hlc3Rlci0zODIxOTl8c2VuaW9yIGNvcHl3cml0ZXIgKDUgbW9udGggZnRjKXxkZXB0",
       "title": "Senior Copywriter (5 month FTC)",
@@ -110,58 +188,6 @@
       "postedDate": "2026-08-10T05:40:18.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/trawa/business-analytics-intern-berlin-469587"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdml2ZW51L3JlbW90ZS1lbmdpbmVlcmluZy1sZWFkLXBheW1lbnRzLTE1ODIxfGVuZ2luZWVyaW5nIGxlYWQgLSBwYXltZW50cyAoZC9mL20pfHZpdmVudQ",
-      "title": "Engineering Lead - Payments (d/f/m)",
-      "company": "Vivenu",
-      "location": "Remote Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-10T05:24:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-engineering-lead-payments-15821"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9waHlzaWNzeC9zZW5pb3ItbWFjaGluZS1sZWFybmluZy1zb2Z0d2FyZS1lbmdpbmVlci1yZXNlYXJjaC1sb25kb24tMzg4ODA2fHNlbmlvciBtYWNoaW5lIGxlYXJuaW5nIHNvZnR3YXJlIGVuZ2luZWVyLCByZXNlYXJjaHxwaHlzaWNzeA",
-      "title": "Senior Machine Learning Software Engineer, Research",
-      "company": "Physicsx",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-10T00:55:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-machine-learning-software-engineer-research-london-388806"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9waHlzaWNzeC9zZW5pb3ItbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci1sb25kb24tMTg4NDF8c2VuaW9yIG1hY2hpbmUgbGVhcm5pbmcgZW5naW5lZXJ8cGh5c2ljc3g",
-      "title": "Senior Machine Learning Engineer",
-      "company": "Physicsx",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-10T00:55:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-machine-learning-engineer-london-18841"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9waHlzaWNzeC9zZW5pb3ItY2ZkLWVuZ2luZWVyLXBsYXNtYS1zcGVjaWFsaXN0LWxvbmRvbi00NzEzODl8c2VuaW9yIGNmZCBlbmdpbmVlciAtIHBsYXNtYSBzcGVjaWFsaXN0fHBoeXNpY3N4",
-      "title": "Senior CFD Engineer - Plasma Specialist",
-      "company": "Physicsx",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-10T00:55:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-cfd-engineer-plasma-specialist-london-471389"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd3Jpa2UvZ3JvdXAtcHJvZHVjdC1tYW5hZ2VyLWtsYXhvb24tMTY3NzczfGdyb3VwIHByb2R1Y3QgbWFuYWdlciBba2xheG9vbl18d3Jpa2U",
@@ -331,45 +357,6 @@
       "postedDate": "2026-08-08T14:40:22.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/clera/business-development-manager-berlin-330274"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2xlcmEvaGVhZC1vZi1haS1yZXNlYXJjaC1iZXJsaW4tNjY2ODF8aGVhZCBvZiBhaSByZXNlYXJjaHxjbGVyYQ",
-      "title": "Head of AI Research",
-      "company": "Clera",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-08T14:40:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/head-of-ai-research-berlin-66681"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2xlcmEvcmVtb3RlLWZvdW5kaW5nLWZ1bGwtc3RhY2staW9zLWVuZ2luZWVyLTY0NzU3fGZvdW5kaW5nIGZ1bGwtc3RhY2sgaW9zIGVuZ2luZWVyfGNsZXJh",
-      "title": "Founding Full-Stack iOS Engineer",
-      "company": "Clera",
-      "location": "remote",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-08T14:40:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-full-stack-ios-engineer-64757"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW55b25lLWFpL2NoZW1pc3RyeS1leHBlcnQtZ2VybWFueS1iZXJsaW4tMTU2MDcyfGNoZW1pc3RyeSBleHBlcnQgKGdlcm1hbnkpfGFueW9uZSBhaQ",
-      "title": "Chemistry Expert (Germany)",
-      "company": "Anyone Ai",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Contract",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-08T11:40:25.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/chemistry-expert-germany-berlin-156072"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODIzMzQyMDAzP2doX2ppZD03ODIzMzQyMDAzfGRpZ2l0YWwgdmVyaWZpY2F0aW9uIGVuZ2luZWVyfG5ldXJhbGluaw",
