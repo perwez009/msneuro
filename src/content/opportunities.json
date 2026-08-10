@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T01:41:15.021Z",
+  "generatedAt": "2026-08-10T07:37:57.104Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9rYXJnbzIyL3Nlbmlvci1pbnRlcmFjdGl2ZS1kZXNpZ25lci1sb25kb24tNzE3MDV8c2VuaW9yIGludGVyYWN0aXZlIGRlc2lnbmVyfGthcmdvMjI",
+      "title": "Senior Interactive Designer",
+      "company": "Kargo22",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-10T06:55:34.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kargo22/senior-interactive-designer-london-71705"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vZGluL3Nlbmlvci1pbnZlc3Rvci1leHBlcmllbmNlLWFzc29jaWF0ZS1sb25kb24tNDQwMDU2fHNlbmlvciBpbnZlc3RvciBleHBlcmllbmNlIGFzc29jaWF0ZXxvZGlu",
+      "title": "Senior Investor Experience Associate",
+      "company": "Odin",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-10T06:40:28.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/odin/senior-investor-experience-associate-london-440056"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdHJhd2EvYnVzaW5lc3MtYW5hbHl0aWNzLWludGVybi1iZXJsaW4tNDY5NTg3fGJ1c2luZXNzIGFuYWx5dGljcyBpbnRlcm58dHJhd2E",
+      "title": "Business Analytics Intern",
+      "company": "trawa",
+      "location": "Berlin HQ",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-10T05:40:18.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/trawa/business-analytics-intern-berlin-469587"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdml2ZW51L3JlbW90ZS1lbmdpbmVlcmluZy1sZWFkLXBheW1lbnRzLTE1ODIxfGVuZ2luZWVyaW5nIGxlYWQgLSBwYXltZW50cyAoZC9mL20pfHZpdmVudQ",
+      "title": "Engineering Lead - Payments (d/f/m)",
+      "company": "Vivenu",
+      "location": "Remote Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-10T05:24:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-engineering-lead-payments-15821"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9waHlzaWNzeC9zZW5pb3ItbWFjaGluZS1sZWFybmluZy1zb2Z0d2FyZS1lbmdpbmVlci1yZXNlYXJjaC1sb25kb24tMzg4ODA2fHNlbmlvciBtYWNoaW5lIGxlYXJuaW5nIHNvZnR3YXJlIGVuZ2luZWVyLCByZXNlYXJjaHxwaHlzaWNzeA",
       "title": "Senior Machine Learning Software Engineer, Research",
@@ -138,32 +190,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/wrike/group-product-manager-klaxoon-167773"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jbGVyYS9yZW1vdGUtZm91bmRpbmctc2NpZW50aXN0LWNvLWZvdW5kZXItMTg3MzI1fGZvdW5kaW5nIHNjaWVudGlzdCAvIGNvLWZvdW5kZXJ8Y2xlcmE",
-      "title": "Founding Scientist / Co-Founder",
-      "company": "Clera",
-      "location": "remote",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-09T18:40:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-scientist-co-founder-187325"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jbGVyYS9yZW1vdGUtaGVhZC1vZi1ndG0tNDg2NzQxfGhlYWQgb2YgZ3RtfGNsZXJh",
-      "title": "Head of GTM",
-      "company": "Clera",
-      "location": "remote",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-09T18:40:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-head-of-gtm-486741"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmRmLW5vbi1kaWx1dGl2ZS1mdW5kaW5nL2thdWZtYW5uaXNjaGUtcHJvamVrdGtvb3JkaW5hdG9yLWZvcmRlcm1pdHRlbC1maW5hbnplbi1pLXRlaWx6ZWl0LWJlcmxpbi00MTM4MTV8a2F1Zm3DpG5uaXNjaGUgcHJvamVrdGtvb3JkaW5hdG9yIC0gZsO2cmRlcm1pdHRlbCAmIGZpbmFuemVuIChtL3cvZCkgaSB0ZWlsemVpdHxuZGYgLSBub24tZGlsdXRpdmUgZnVuZGluZw",
       "title": "Kaufmännische Projektkoordinator - Fördermittel & Finanzen (m/w/d) I Teilzeit",
       "company": "NDF - Non-Dilutive Funding",
@@ -175,19 +201,6 @@
       "postedDate": "2026-08-09T18:30:28.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/ndf-non-dilutive-funding/kaufmannische-projektkoordinator-fordermittel-finanzen-i-teilzeit-berlin-413815"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcG9zdG1hbi9zdHJhdGVnaWMtYWNjb3VudC1leGVjdXRpdmUtZGFjaC1iZXJsaW4tYmVybGluLTQwNDU2fHN0cmF0ZWdpYyBhY2NvdW50IGV4ZWN1dGl2ZSwgZGFjaHxwb3N0bWFu",
-      "title": "Strategic Account Executive, DACH",
-      "company": "postman",
-      "location": "Berlin, Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-09T11:55:05.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/postman/strategic-account-executive-dach-berlin-berlin-40456"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2xlcmEvcmVtb3RlLWZvdW5kaW5nLXNjaWVudGlzdC1jby1mb3VuZGVyLTU2NTkzfGZvdW5kaW5nIHNjaWVudGlzdCAvIGNvLWZvdW5kZXJ8Y2xlcmE",
@@ -461,45 +474,6 @@
       "postedDate": "2026-08-07T20:09:55.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/invesdor/werkstudentin-marketing-in-berlin-invesdor-berlin-249114"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW5kcmVzLWluZHVzdHJpZXMtYWcvcHJvZ3JhbW1pZXJlci1td2QtdGVjaG5pc2NoZXItaW5mb3JtYXRpa2VyLWJlcmxpbi00MDI1N3xwcm9ncmFtbWllcmVyIChtLHcsZCkgLyB0ZWNobmlzY2hlciBpbmZvcm1hdGlrZXIgKG0vdy9kKXxhbmRyZXMgaW5kdXN0cmllcyBhZw",
-      "title": "Programmierer (m,w,d) / Technischer Informatiker (m/w/d)",
-      "company": "Andres Industries AG",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-07T17:20:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/andres-industries-ag/programmierer-mwd-technischer-informatiker-berlin-40257"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW5kcmVzLWluZHVzdHJpZXMtYWcvc2VuaW9yLXByb2dyYW1taWVyZXItaW5mb3JtYXRpa2VyLWZ1ci1lbWJlZGRlZC1jb250cm9sbGVyLWJlcmxpbi0xMzMwOHxzZW5pb3IgcHJvZ3JhbW1pZXJlciAobS93L2QpIC8gaW5mb3JtYXRpa2VyIGbDvHIgZW1iZWRkZWQgY29udHJvbGxlciAobS93L2QpfGFuZHJlcyBpbmR1c3RyaWVzIGFn",
-      "title": "Senior Programmierer (m/w/d) / Informatiker für Embedded Controller (m/w/d)",
-      "company": "Andres Industries AG",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-07T17:20:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/andres-industries-ag/senior-programmierer-informatiker-fur-embedded-controller-berlin-13308"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW5kcmVzLWluZHVzdHJpZXMtYWcvd2Vya3N0dWRlbnQtcHJvZ3JhbW1pZXJlci1maXJtd2FyZS1lbWJlZGRlZC1iZXJsaW4tMTkyMjQ2fHdlcmtzdHVkZW50IHByb2dyYW1taWVyZXIgZmlybXdhcmUvZW1iZWRkZWQgKG0vdy9kKXxhbmRyZXMgaW5kdXN0cmllcyBhZw",
-      "title": "Werkstudent Programmierer Firmware/Embedded (m/w/d)",
-      "company": "Andres Industries AG",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Part-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-07T17:20:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/andres-industries-ag/werkstudent-programmierer-firmware-embedded-berlin-192246"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODIzMzQyMDAzP2doX2ppZD03ODIzMzQyMDAzfGRpZ2l0YWwgdmVyaWZpY2F0aW9uIGVuZ2luZWVyfG5ldXJhbGluaw",
