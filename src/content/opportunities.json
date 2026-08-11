@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T01:38:15.656Z",
+  "generatedAt": "2026-08-11T07:04:28.457Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,45 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9zZW5pb3ItZGF0YS1zY2llbnRpc3QtY2FyZGlmZi0yNTczMjd8c2VuaW9yIGRhdGEgc2NpZW50aXN0fG1vbnpv",
+      "title": "Senior Data Scientist",
+      "company": "Monzo",
+      "location": "Cardiff",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-11T03:55:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-data-scientist-cardiff-257327"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9wbGF0Zm9ybS1lbmdpbmVlci1jYXJkaWZmLTMyODMyNXxwbGF0Zm9ybSBlbmdpbmVlcnxtb256bw",
+      "title": "Platform Engineer",
+      "company": "Monzo",
+      "location": "Cardiff",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-11T03:55:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/platform-engineer-cardiff-328325"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9sZWFkLWRhdGEtc2NpZW50aXN0LWNhcmRpZmYtMzE1OTIzfGxlYWQgZGF0YSBzY2llbnRpc3R8bW9uem8",
+      "title": "Lead Data Scientist",
+      "company": "Monzo",
+      "location": "Cardiff",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-11T03:55:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/lead-data-scientist-cardiff-315923"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kZXB0L3Nlbmlvci1jb3B5d3JpdGVyLTUtbW9udGgtZnRjLWdlcm1hbnktbWFuY2hlc3Rlci0zOTc2MDZ8c2VuaW9yIGNvcHl3cml0ZXIgKDUgbW9udGggZnRjKXxkZXB0",
       "title": "Senior Copywriter (5 month FTC)",
@@ -84,19 +123,6 @@
       "postedDate": "2026-08-10T21:45:29.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-platform-oxford-united-kingdom-175507"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zZmcyMC9nb3Zlcm5hbmNlLWFzc3VyYW5jZS1tYW5hZ2VyLW1hbmNoZXN0ZXItMTI5MTIzfGdvdmVybmFuY2UgJiBhc3N1cmFuY2UgbWFuYWdlcnxzZmcyMA",
-      "title": "Governance & Assurance Manager",
-      "company": "Sfg20",
-      "location": "Remote UK - North",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-10T21:40:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sfg20/governance-assurance-manager-manchester-129123"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaHVic3BvdGpvYnMvc21hbGwtYnVzaW5lc3MtYWNjb3VudC1leGVjdXRpdmUtZGFjaC1yZW1vdGUtNDQ2NTE3fHNtYWxsIGJ1c2luZXNzIGFjY291bnQgZXhlY3V0aXZlIC0gZGFjaCwgcmVtb3RlfGh1YnNwb3Rqb2Jz",
@@ -450,19 +476,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-ai-technical-lead-c-ecosystem-138047"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVuc29yZHluZS9qci1zb2Z0d2FyZS1lbmdpbmVlci1tbC1ydW50aW1lLXJ1c3QtbXVuaWNoLTIxMzcyNnxqciBzb2Z0d2FyZSBlbmdpbmVlciAtIG1sIHJ1bnRpbWUgLSBydXN0fHRlbnNvcmR5bmU",
-      "title": "Jr Software Engineer - ML Runtime - Rust",
-      "company": "Tensordyne",
-      "location": "Munich, Bavaria, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-10T20:45:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/tensordyne/jr-software-engineer-ml-runtime-rust-munich-213726"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd2FrZWxpbmUtZ21iaC9zb2Z0d2FyZS1lbmdpbmVlci1kdXNzZWxkb3JmLTI1NTUyN3xzb2Z0d2FyZSBlbmdpbmVlcnx3YWtlbGluZSBnbWJo",
       "title": "Software Engineer",
       "company": "Wakeline GmbH",
@@ -487,19 +500,6 @@
       "postedDate": "2026-08-10T18:59:04.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/1komma50/praktikantin-sales-marketing-berlin-118974"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93cHBtZWRpYS9hc3NvY2lhdGUtZGlyZWN0b3ItcGxhbm5pbmctbG9uZG9uLTQ3MDUyMHxhc3NvY2lhdGUgZGlyZWN0b3IsIHBsYW5uaW5nfHdwcG1lZGlh",
-      "title": "Associate Director, Planning",
-      "company": "wppmedia",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-10T18:56:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-director-planning-london-470520"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMzYwbGVhcm5pbmcvcmVtb3RlLWVudGVycHJpc2UtYWNjb3VudC1leGVjdXRpdmUtNDAxNDMyfGVudGVycHJpc2UgYWNjb3VudCBleGVjdXRpdmUgKG0vZi9kKXwzNjBsZWFybmluZw",
@@ -656,32 +656,6 @@
       "postedDate": "2026-08-09T02:40:09.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/clera/head-of-ai-research-berlin-225166"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMzYwbGVhcm5pbmcvcmVtb3RlLXNvbHV0aW9ucy1lbmdpbmVlci1kYWNoLTIzNDI4Nnxzb2x1dGlvbnMgZW5naW5lZXIgZGFjaCAobS9mL2QpfDM2MGxlYXJuaW5n",
-      "title": "Solutions Engineer DACH (m/f/d)",
-      "company": "360Learning",
-      "location": "Berlin, Remote",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-09T02:05:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-solutions-engineer-dach-234286"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaXNhcmFlcm9zcGFjZS9kaXJlY3Rvci1lbnRlcnByaXNlLWl0LWRhdGEtcGFyc2RvcmYtYmF2YXJpYS0zNTEzODN8ZGlyZWN0b3IgZW50ZXJwcmlzZSBpdCAmIGRhdGEgKG0vZi9kKXxpc2FyYWVyb3NwYWNl",
-      "title": "Director Enterprise IT & Data (m/f/d)",
-      "company": "Isaraerospace",
-      "location": "Parsdorf, Bavaria",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-08T23:55:28.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-enterprise-it-data-parsdorf-bavaria-351383"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODIzMzQyMDAzP2doX2ppZD03ODIzMzQyMDAzfGRpZ2l0YWwgdmVyaWZpY2F0aW9uIGVuZ2luZWVyfG5ldXJhbGluaw",
