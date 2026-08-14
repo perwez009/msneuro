@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T01:49:21.445Z",
+  "generatedAt": "2026-08-14T07:22:01.907Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,84 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy94dHhtYXJrZXRzdGVjaG5vbG9naWVzL3NlY3VyaXR5LWVuZ2luZWVyLWxvbmRvbi0zNjkxMjB8c2VjdXJpdHkgZW5naW5lZXJ8eHR4bWFya2V0c3RlY2hub2xvZ2llcw",
+      "title": "Security Engineer",
+      "company": "Xtxmarketstechnologies",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-14T06:55:21.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/xtxmarketstechnologies/security-engineer-london-369120"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGF0YWlrdS9yZW1vdGUtc2VuaW9yLWFjY291bnQtZXhlY3V0aXZlLXB1YmxpYy1zZWN0b3ItZ2VybWFueS00OTA4MTZ8c2VuaW9yIGFjY291bnQgZXhlY3V0aXZlLCBwdWJsaWMgc2VjdG9yIGdlcm1hbnl8ZGF0YWlrdQ",
+      "title": "Senior Account Executive, Public Sector Germany",
+      "company": "dataiku",
+      "location": "Remote",
+      "workModel": "Remote",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-14T05:55:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-senior-account-executive-public-sector-germany-490816"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29kZS93b3JraW5nLXN0dWRlbnQtcmVzZWFyY2gtYXNzaXN0YW50LW9zLXRlYWNoaW5nLWFzc2lzdGFudC1mb3ItYm1lLWJlcmxpbi00NzEzNDR8d29ya2luZyBzdHVkZW50IC0gcmVzZWFyY2ggYXNzaXN0YW50ICYgb3MgdGVhY2hpbmcgYXNzaXN0YW50IGZvciBibWUgIChmL20veCl8Y29kZQ",
+      "title": "Working Student - Research Assistant & OS Teaching Assistant for BME  (f/m/x)",
+      "company": "Code",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Part-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-14T05:09:04.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/code/working-student-research-assistant-os-teaching-assistant-for-bme-berlin-471344"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kZWVwbC9zZW5pb3Itc3RhZmYtcmVzZWFyY2gtc2NpZW50aXN0LXZvaWNlLWxvbmRvbi04NzcxM3xzZW5pb3Igc3RhZmYgcmVzZWFyY2ggc2NpZW50aXN0IHwgdm9pY2V8ZGVlcGw",
+      "title": "Senior Staff Research Scientist | Voice",
+      "company": "DeepL",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-14T03:40:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/senior-staff-research-scientist-voice-london-87713"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW50aHJvcGljL2VudGVycHJpc2UtYWNjb3VudC1leGVjdXRpdmUtZGlnaXRhbC1uYXRpdmUtYnVzaW5lc3MtbXVuaWNoLTM0MTIwMXxlbnRlcnByaXNlIGFjY291bnQgZXhlY3V0aXZlLCBkaWdpdGFsIG5hdGl2ZSBidXNpbmVzcyAtIG11bmljaHxhbnRocm9waWM",
+      "title": "Enterprise Account Executive, Digital Native Business - Munich",
+      "company": "Anthropic",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-14T02:55:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/anthropic/enterprise-account-executive-digital-native-business-munich-341201"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZG5zbmV0LWludGVybmV0LXNlcnZpY2UtZ21iaC90ZWFtbGVpdGVyLWl0LWJlcmxpbi00ODY0Njh8dGVhbWxlaXRlciBpdCAobS93L2QpfGRuczpuZXQgaW50ZXJuZXQgc2VydmljZSBnbWJo",
+      "title": "Teamleiter IT (m/w/d)",
+      "company": "DNS:NET Internet Service GmbH",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-14T02:09:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/dnsnet-internet-service-gmbh/teamleiter-it-berlin-486468"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yZWxhdGlvbnJ4L3Nlbmlvci1kYXRhLXNjaWVudGlzdC1zaW5nbGUtY2VsbC1sb25kb24tNDY1ODE2fHNlbmlvciBkYXRhIHNjaWVudGlzdCAoc2luZ2xlIGNlbGwpfHJlbGF0aW9ucng",
       "title": "Senior Data Scientist (Single Cell)",
@@ -73,97 +151,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/relationrx/senior-principal-machine-learning-scientist-generative-modelling-london-99116"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93b2x0L2FuYWx5dGljcy1tYW5hZ2VyLW1hcmtldGluZy1hbmFseXRpY3MtbG9uZG9uLTM0NjM3M3xhbmFseXRpY3MgbWFuYWdlciwgbWFya2V0aW5nIGFuYWx5dGljc3x3b2x0",
-      "title": "Analytics Manager, Marketing Analytics",
-      "company": "wolt",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-13T21:55:42.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wolt/analytics-manager-marketing-analytics-london-346373"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90cmlwYWR2aXNvci9wcmluY2lwYWwtbWFjaGluZS1sZWFybmluZy1zY2llbnRpc3QtbG9uZG9uLTMxNzU5OXxwcmluY2lwYWwgbWFjaGluZSBsZWFybmluZyBzY2llbnRpc3R8dHJpcGFkdmlzb3I",
-      "title": "Principal Machine Learning Scientist",
-      "company": "tripadvisor",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-13T21:55:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/principal-machine-learning-scientist-london-317599"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vZGluL2hlYWQtb2YtbWFya2V0aW5nLWxvbmRvbi0yMDYwM3xoZWFkIG9mIG1hcmtldGluZ3xvZGlu",
-      "title": "Head of Marketing",
-      "company": "Odin",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-13T21:40:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/odin/head-of-marketing-london-20603"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS9zZW5pb3ItYW5hbHl0aWNzLWVuZ2luZWVyLTYtbW9udGgtY29udHJhY3QtbG9uZG9uLTk4NTkwfHNlbmlvciBhbmFseXRpY3MgZW5naW5lZXIgKDYgbW9udGggY29udHJhY3QpfGxlbmRhYmxl",
-      "title": "Senior Analytics Engineer (6 month contract)",
-      "company": "Lendable",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-13T21:40:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/senior-analytics-engineer-6-month-contract-london-98590"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS90YWxlbnQtc291cmNlci10ZWNoLWxvbmRvbi00NjE2NjF8dGFsZW50IHNvdXJjZXIgLSB0ZWNofGxlbmRhYmxl",
-      "title": "Talent Sourcer - Tech",
-      "company": "Lendable",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-13T21:40:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/talent-sourcer-tech-london-461661"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS9lbnRlcnByaXNlLXJpc2stZ3JhZHVhdGUtbG9uZG9uLTUxOTJ8ZW50ZXJwcmlzZSByaXNrIGdyYWR1YXRlfGxlbmRhYmxl",
-      "title": "Enterprise Risk Graduate",
-      "company": "Lendable",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-13T21:40:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/enterprise-risk-graduate-london-5192"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9lLXNwYWNlL2VtYmVkZGVkLXNvZnR3YXJlLWVuZ2luZWVyLXVrLWxvdWdoYm9yb3VnaC0zNzQ2MzR8ZW1iZWRkZWQgc29mdHdhcmUgZW5naW5lZXIgLSB1a3xlLXNwYWNl",
-      "title": "Embedded Software Engineer - UK",
-      "company": "E-Space",
-      "location": "Loughborough",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-13T21:24:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/e-space/embedded-software-engineer-uk-loughborough-374634"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdHJhd2Evb3BlcmF0aW9ucy1hdXRvbWF0aW9uLWVuZ2luZWVyLXJlbmV3YWJsZS1lbmVyZ3ktYmVybGluLTQ1NTEyNXxvcGVyYXRpb25zICYgYXV0b21hdGlvbiBlbmdpbmVlciDigJMgcmVuZXdhYmxlIGVuZXJneXx0cmF3YQ",
       "title": "Operations & Automation Engineer – Renewable Energy",
       "company": "trawa",
@@ -201,32 +188,6 @@
       "postedDate": "2026-08-13T20:40:07.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/trawa/partner-sales-manager-renewable-supply-berlin-92920"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90aWRlL3Nlbmlvci1wcm9kdWN0LW1hbmFnZXItb25nb2luZy1tb25pdG9yaW5nLTIzNzQwNHxzZW5pb3IgcHJvZHVjdCBtYW5hZ2VyLCBvbmdvaW5nIG1vbml0b3Jpbmd8dGlkZQ",
-      "title": "Senior Product Manager, Ongoing Monitoring",
-      "company": "Tide",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-13T18:55:28.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tide/senior-product-manager-ongoing-monitoring-237404"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbnRocm9waWMvbWFuYWdlci1mb3J3YXJkLWRlcGxveWVkLWVuZ2luZWVyaW5nLWxvbmRvbi0zNzkzOTN8bWFuYWdlciwgZm9yd2FyZCBkZXBsb3llZCBlbmdpbmVlcmluZ3xhbnRocm9waWM",
-      "title": "Manager, Forward Deployed Engineering",
-      "company": "anthropic",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-13T18:55:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/manager-forward-deployed-engineering-london-379393"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2VsYnN0dmVyd2FsdGVuLXN2LWdtYmgvcHJha3Rpa2FudC1oYW1idXJnLTQ2MzI1OXxwcmFrdGlrYW50fHNlbGJzdHZlcndhbHRlbiBzdiBnbWJo",
@@ -357,19 +318,6 @@
       "postedDate": "2026-08-13T06:30:59.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/norsan-gmbh/marketing-manager-b2b-polen-am-standort-berlin-490628"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3Nlbmlvci1wcm9kdWN0LW1hbmFnZXItYmFkLXByb2R1Y3QtYmVybGluLW11bmljaC0xMTQzOTl8c2VuaW9yIHByb2R1Y3QgbWFuYWdlciAoYmFkIHByb2R1Y3QpfGpldGJyYWlucw",
-      "title": "Senior Product Manager (BAD Product)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-13T05:55:25.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-product-manager-bad-product-berlin-munich-114399"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3FhLWVuZ2luZWVyLWlqLXBsYXRmb3JtLXJlbW90ZS1kZXZlbG9wbWVudC1iZXJsaW4tbXVuaWNoLTIxNDE3NHxxYSBlbmdpbmVlciAoaWogcGxhdGZvcm0gLyByZW1vdGUgZGV2ZWxvcG1lbnQpfGpldGJyYWlucw",
