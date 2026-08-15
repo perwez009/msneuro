@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T18:51:42.904Z",
+  "generatedAt": "2026-08-15T01:08:07.409Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,136 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODcyNjM5MDAzP2doX2ppZD03ODcyNjM5MDAzfGJpb21lZGljYWwgZW5naW5lZXIgaW50ZXJufG5ldXJhbGluaw",
+      "title": "Biomedical Engineer Intern",
+      "company": "Neuralink",
+      "location": "South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-08-14T22:57:49.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7872639003?gh_jid=7872639003"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvZ28tdG8tbWFya2V0LW5vdHRpbmdoYW0tdW5pdGVkLWtpbmdkb20tNDMyNTIwfGdvLXRvLW1hcmtldCAtIG5vdHRpbmdoYW0sIHVuaXRlZCBraW5nZG9tfHNwZWVjaGlmeQ",
+      "title": "Go-to-Market - Nottingham, United Kingdom",
+      "company": "speechify",
+      "location": "Nottingham",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-14T21:55:06.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-nottingham-united-kingdom-432520"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvZ28tdG8tbWFya2V0LWVkaW5idXJnaC11bml0ZWQta2luZ2RvbS01MjgzN3xnby10by1tYXJrZXQgLSBlZGluYnVyZ2gsIHVuaXRlZCBraW5nZG9tfHNwZWVjaGlmeQ",
+      "title": "Go-to-Market - Edinburgh, United Kingdom",
+      "company": "speechify",
+      "location": "Edinburgh",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-14T21:55:06.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-edinburgh-united-kingdom-52837"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaGlsb2J5YWt0aWlhL3JlbW90ZS1kYXRhLXNjaWVudGlzdC1nZXJtYW55LTQ3NTMzOHxkYXRhIHNjaWVudGlzdHxoaWxvYnlha3RpaWE",
+      "title": "Data Scientist",
+      "company": "Hilobyaktiia",
+      "location": "Germany",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-14T20:20:41.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/hilobyaktiia/remote-data-scientist-germany-475338"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9zZW5pb3Itc2VydmljZS1hbmFseXN0LTEyLW1vbnRoLWZpeGVkLXRlcm0tY29udHJhY3QtMjA3ODQ1fHNlbmlvciBzZXJ2aWNlIGFuYWx5c3QsIDEyIG1vbnRoIGZpeGVkIHRlcm0gY29udHJhY3R8bW9uem8",
+      "title": "Senior Service Analyst, 12 Month Fixed Term Contract",
+      "company": "Monzo",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-14T18:55:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-service-analyst-12-month-fixed-term-contract-207845"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9zZW5pb3ItcHJvZHVjdC1tYXJrZXRpbmctbWFuYWdlci1idXNpbmVzcy1iYW5raW5nLWNhcmRpZmYtMzA2MDQwfHNlbmlvciBwcm9kdWN0IG1hcmtldGluZyBtYW5hZ2VyLCBidXNpbmVzcyBiYW5raW5nfG1vbnpv",
+      "title": "Senior Product Marketing Manager, Business Banking",
+      "company": "Monzo",
+      "location": "Cardiff",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-14T18:55:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-product-marketing-manager-business-banking-cardiff-306040"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXIvZ2xvYmFsLXByb2dyYW1tZS1kaXJlY3Rvci1sb25kb24tODI2OTl8Z2xvYmFsIHByb2dyYW1tZSBkaXJlY3RvcnxvbGl2ZXI",
+      "title": "Global Programme Director",
+      "company": "oliver",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-14T18:55:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver/global-programme-director-london-82699"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jYXRhcHVsdHNwb3J0cy9zZW5pb3ItY29tcHV0ZXItdmlzaW9uLWVuZ2luZWVyLWxvbmRvbi0yNjcxMTd8c2VuaW9yIGNvbXB1dGVyIHZpc2lvbiBlbmdpbmVlcnxjYXRhcHVsdHNwb3J0cw",
+      "title": "Senior Computer Vision Engineer",
+      "company": "Catapultsports",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-14T18:55:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/catapultsports/senior-computer-vision-engineer-london-267117"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9leGNsYWltZXIvZGlyZWN0b3Itb2YtZmluYW5jaWFsLXBsYW5uaW5nLWFuYWx5c2lzLWxvbmRvbi00NzQ5Mjl8ZGlyZWN0b3Igb2YgZmluYW5jaWFsIHBsYW5uaW5nICYgYW5hbHlzaXN8ZXhjbGFpbWVy",
+      "title": "Director of Financial Planning & Analysis",
+      "company": "Exclaimer",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-14T18:55:06.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/exclaimer/director-of-financial-planning-analysis-london-474929"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kYXlob2ZmLWxhYnMvcmVzZWFyY2gtc2NpZW50aXN0LWNvbXB1dGF0aW9uYWwtZW56eW1vbG9neS1jYW1icmlkZ2UtbWEtMjAwNTYzfHJlc2VhcmNoIHNjaWVudGlzdCwgY29tcHV0YXRpb25hbCBlbnp5bW9sb2d5fGRheWhvZmYgbGFicw",
+      "title": "Research Scientist, Computational Enzymology",
+      "company": "Dayhoff Labs",
+      "location": "Cambridge, MA",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-14T18:40:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dayhoff-labs/research-scientist-computational-enzymology-cambridge-ma-200563"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd2Vtb2xvL3Byb2plY3Qtb3BlcmF0aW9ucy1tYW5hZ2VyLWFsbC1nZW5kZXJzLWhhcmR3YXJlLWluc3RhbGxhdGlvbi1wbGFubmluZy1tdW5jaGVuLTM2NDU0OXxwcm9qZWN0ICYgb3BlcmF0aW9ucyBtYW5hZ2VyIChhbGwgZ2VuZGVycykgLSBoYXJkd2FyZSBpbnN0YWxsYXRpb24gcGxhbm5pbmd8d2Vtb2xv",
       "title": "Project & Operations Manager (all genders) - Hardware Installation Planning",
@@ -110,19 +240,6 @@
       "postedDate": "2026-08-14T13:32:17.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/retorio-gmbh/working-student-ai-engineer-agentic-systems-munich-96904"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy96c2NhbGVyL3NwZWNpYWxpc3QtYWNjb3VudC1leGVjdXRpdmUtc2VjLW9wcy1jaXR5LW9mLWxvbmRvbi1jb3Jwb3JhdGlvbi1nYnItMjc0ODI0fHNwZWNpYWxpc3QgYWNjb3VudCBleGVjdXRpdmUsIHNlYyBvcHN8enNjYWxlcg",
-      "title": "Specialist Account Executive, Sec Ops",
-      "company": "Zscaler",
-      "location": "City of London Corporation, GBR",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T12:55:34.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/specialist-account-executive-sec-ops-city-of-london-corporation-gbr-274824"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdXB2ZXN0L29wZXJhdGlvbnMtaW50ZXJuLWZvci1hdmQtYWx0ZXJzdm9yc29yZ2VkZXBvdC1iZXJsaW4tMjQ2MTM1fG9wZXJhdGlvbnMgaW50ZXJuIGZvciBhdmQgKGFsdGVyc3ZvcnNvcmdlZGVwb3QpIChmL20vZCl8dXB2ZXN0",
@@ -240,19 +357,6 @@
       "postedDate": "2026-08-14T08:09:47.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/praktikant-indirect-direct-procurement-hamburg-457761"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy94dHhtYXJrZXRzdGVjaG5vbG9naWVzL3NlY3VyaXR5LWVuZ2luZWVyLWxvbmRvbi0zNjkxMjB8c2VjdXJpdHkgZW5naW5lZXJ8eHR4bWFya2V0c3RlY2hub2xvZ2llcw",
-      "title": "Security Engineer",
-      "company": "Xtxmarketstechnologies",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T06:55:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/xtxmarketstechnologies/security-engineer-london-369120"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGF0YWlrdS9yZW1vdGUtc2VuaW9yLWFjY291bnQtZXhlY3V0aXZlLXB1YmxpYy1zZWN0b3ItZ2VybWFueS00OTA4MTZ8c2VuaW9yIGFjY291bnQgZXhlY3V0aXZlLCBwdWJsaWMgc2VjdG9yIGdlcm1hbnl8ZGF0YWlrdQ",
