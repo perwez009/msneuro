@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T01:08:07.409Z",
+  "generatedAt": "2026-08-15T06:34:59.804Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWlycy1tZWRpY2FsLWluYy9yZW1vdGUtc2VuaW9yLWJ1c2luZXNzLWRldmVsb3BtZW50LW1hbmFnZXItZGFjaC1nZXJtYW55LW11bmljaC0xNzg4NDh8c2VuaW9yIGJ1c2luZXNzIGRldmVsb3BtZW50IG1hbmFnZXIgKGRhY2gpIC0gZ2VybWFueXxhaXJzIG1lZGljYWwgaW5j",
+      "title": "Senior Business Development Manager (DACH) - Germany",
+      "company": "Airs Medical Inc",
+      "location": "Munich, Germany",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-15T02:20:28.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/airs-medical-inc/remote-senior-business-development-manager-dach-germany-munich-178848"
+    },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODcyNjM5MDAzP2doX2ppZD03ODcyNjM5MDAzfGJpb21lZGljYWwgZW5naW5lZXIgaW50ZXJufG5ldXJhbGluaw",
       "title": "Biomedical Engineer Intern",
@@ -214,19 +227,6 @@
       "postedDate": "2026-08-14T15:40:18.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/watershed/sustainability-advisor-london-459940"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXItYWdlbmN5L2dsb2JhbC1wcm9ncmFtbWUtZGlyZWN0b3ItbG9uZG9uLTc3MzY3fGdsb2JhbCBwcm9ncmFtbWUgZGlyZWN0b3J8b2xpdmVyIGFnZW5jeQ",
-      "title": "Global Programme Director",
-      "company": "OLIVER Agency",
-      "location": "London, England, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T14:45:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/global-programme-director-london-77367"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcmV0b3Jpby1nbWJoL3dvcmtpbmctc3R1ZGVudC1haS1lbmdpbmVlci1hZ2VudGljLXN5c3RlbXMtbXVuaWNoLTk2OTA0fHdvcmtpbmcgc3R1ZGVudDogYWkgZW5naW5lZXIsIGFnZW50aWMgc3lzdGVtcyAobS9mL2QpfHJldG9yaW8gZ21iaA",
