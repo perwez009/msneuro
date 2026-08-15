@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T06:34:59.804Z",
+  "generatedAt": "2026-08-15T12:33:38.403Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -8,17 +8,56 @@
   ],
   "items": [
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWlycy1tZWRpY2FsLWluYy9yZW1vdGUtc2VuaW9yLWJ1c2luZXNzLWRldmVsb3BtZW50LW1hbmFnZXItZGFjaC1nZXJtYW55LW11bmljaC0xNzg4NDh8c2VuaW9yIGJ1c2luZXNzIGRldmVsb3BtZW50IG1hbmFnZXIgKGRhY2gpIC0gZ2VybWFueXxhaXJzIG1lZGljYWwgaW5j",
-      "title": "Senior Business Development Manager (DACH) - Germany",
-      "company": "Airs Medical Inc",
-      "location": "Munich, Germany",
-      "workModel": "Remote",
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zdHJlZXQtZ3JvdXAvbGVhZC1wcm9kdWN0LWRlc2lnbmVyLW1hbmNoZXN0ZXItMjY4ODI5fGxlYWQgcHJvZHVjdCBkZXNpZ25lcnxzdHJlZXQgZ3JvdXA",
+      "title": "Lead Product Designer",
+      "company": "Street Group",
+      "location": "Manchester",
+      "workModel": "On-site",
       "opportunityType": "Full-time",
       "source": "Arbeitnow",
       "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-15T02:20:28.000Z",
+      "postedDate": "2026-08-15T09:40:22.000Z",
       "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/airs-medical-inc/remote-senior-business-development-manager-dach-germany-munich-178848"
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/street-group/lead-product-designer-manchester-268829"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9seXJlYmlyZC1oZWFsdGgvc29mdHdhcmUtZW5naW5lZXItdW5pdGVkLWtpbmdkb20tMTkwNDIyfHNvZnR3YXJlIGVuZ2luZWVyfGx5cmViaXJkIGhlYWx0aA",
+      "title": "Software Engineer",
+      "company": "Lyrebird Health",
+      "location": "United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-15T09:40:05.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lyrebird-health/software-engineer-united-kingdom-190422"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3JlbW90ZS1zZW5pb3ItdGVjaG5pY2FsLXdyaXRlci1kYXRhLWRvY3VtZW50YXRpb24tNTExNzR8c2VuaW9yIHRlY2huaWNhbCB3cml0ZXIgKGRhdGEgZG9jdW1lbnRhdGlvbil8amV0YnJhaW5z",
+      "title": "Senior Technical Writer (Data Documentation)",
+      "company": "jetbrains",
+      "location": "Berlin; Munich; Remote",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-15T08:55:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-technical-writer-data-documentation-51174"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbGl2ZS1yZXBseS1nbWJoL3Nlbmlvci1uZXR6cGxhbmVyLWdsYXNmYXNlcm5ldHplLWJ1MS1kdXNzZWxkb3JmLTIwOTUyOHwoc2VuaW9yKSBuZXR6cGxhbmVyIGdsYXNmYXNlcm5ldHplIChtL3cvZCkgYnUxfGxpdmUgcmVwbHkgZ21iaA",
+      "title": "(Senior) Netzplaner Glasfasernetze (m/w/d) BU1",
+      "company": "Live Reply GmbH",
+      "location": "Düsseldorf",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-15T07:30:23.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/live-reply-gmbh/senior-netzplaner-glasfasernetze-bu1-dusseldorf-209528"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODcyNjM5MDAzP2doX2ppZD03ODcyNjM5MDAzfGJpb21lZGljYWwgZW5naW5lZXIgaW50ZXJufG5ldXJhbGluaw",
@@ -34,32 +73,6 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/7872639003?gh_jid=7872639003"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvZ28tdG8tbWFya2V0LW5vdHRpbmdoYW0tdW5pdGVkLWtpbmdkb20tNDMyNTIwfGdvLXRvLW1hcmtldCAtIG5vdHRpbmdoYW0sIHVuaXRlZCBraW5nZG9tfHNwZWVjaGlmeQ",
-      "title": "Go-to-Market - Nottingham, United Kingdom",
-      "company": "speechify",
-      "location": "Nottingham",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T21:55:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-nottingham-united-kingdom-432520"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvZ28tdG8tbWFya2V0LWVkaW5idXJnaC11bml0ZWQta2luZ2RvbS01MjgzN3xnby10by1tYXJrZXQgLSBlZGluYnVyZ2gsIHVuaXRlZCBraW5nZG9tfHNwZWVjaGlmeQ",
-      "title": "Go-to-Market - Edinburgh, United Kingdom",
-      "company": "speechify",
-      "location": "Edinburgh",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T21:55:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-edinburgh-united-kingdom-52837"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaGlsb2J5YWt0aWlhL3JlbW90ZS1kYXRhLXNjaWVudGlzdC1nZXJtYW55LTQ3NTMzOHxkYXRhIHNjaWVudGlzdHxoaWxvYnlha3RpaWE",
       "title": "Data Scientist",
       "company": "Hilobyaktiia",
@@ -71,84 +84,6 @@
       "postedDate": "2026-08-14T20:20:41.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/hilobyaktiia/remote-data-scientist-germany-475338"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9zZW5pb3Itc2VydmljZS1hbmFseXN0LTEyLW1vbnRoLWZpeGVkLXRlcm0tY29udHJhY3QtMjA3ODQ1fHNlbmlvciBzZXJ2aWNlIGFuYWx5c3QsIDEyIG1vbnRoIGZpeGVkIHRlcm0gY29udHJhY3R8bW9uem8",
-      "title": "Senior Service Analyst, 12 Month Fixed Term Contract",
-      "company": "Monzo",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T18:55:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-service-analyst-12-month-fixed-term-contract-207845"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9zZW5pb3ItcHJvZHVjdC1tYXJrZXRpbmctbWFuYWdlci1idXNpbmVzcy1iYW5raW5nLWNhcmRpZmYtMzA2MDQwfHNlbmlvciBwcm9kdWN0IG1hcmtldGluZyBtYW5hZ2VyLCBidXNpbmVzcyBiYW5raW5nfG1vbnpv",
-      "title": "Senior Product Marketing Manager, Business Banking",
-      "company": "Monzo",
-      "location": "Cardiff",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T18:55:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-product-marketing-manager-business-banking-cardiff-306040"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXIvZ2xvYmFsLXByb2dyYW1tZS1kaXJlY3Rvci1sb25kb24tODI2OTl8Z2xvYmFsIHByb2dyYW1tZSBkaXJlY3RvcnxvbGl2ZXI",
-      "title": "Global Programme Director",
-      "company": "oliver",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T18:55:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver/global-programme-director-london-82699"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jYXRhcHVsdHNwb3J0cy9zZW5pb3ItY29tcHV0ZXItdmlzaW9uLWVuZ2luZWVyLWxvbmRvbi0yNjcxMTd8c2VuaW9yIGNvbXB1dGVyIHZpc2lvbiBlbmdpbmVlcnxjYXRhcHVsdHNwb3J0cw",
-      "title": "Senior Computer Vision Engineer",
-      "company": "Catapultsports",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T18:55:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/catapultsports/senior-computer-vision-engineer-london-267117"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9leGNsYWltZXIvZGlyZWN0b3Itb2YtZmluYW5jaWFsLXBsYW5uaW5nLWFuYWx5c2lzLWxvbmRvbi00NzQ5Mjl8ZGlyZWN0b3Igb2YgZmluYW5jaWFsIHBsYW5uaW5nICYgYW5hbHlzaXN8ZXhjbGFpbWVy",
-      "title": "Director of Financial Planning & Analysis",
-      "company": "Exclaimer",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T18:55:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/exclaimer/director-of-financial-planning-analysis-london-474929"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kYXlob2ZmLWxhYnMvcmVzZWFyY2gtc2NpZW50aXN0LWNvbXB1dGF0aW9uYWwtZW56eW1vbG9neS1jYW1icmlkZ2UtbWEtMjAwNTYzfHJlc2VhcmNoIHNjaWVudGlzdCwgY29tcHV0YXRpb25hbCBlbnp5bW9sb2d5fGRheWhvZmYgbGFicw",
-      "title": "Research Scientist, Computational Enzymology",
-      "company": "Dayhoff Labs",
-      "location": "Cambridge, MA",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T18:40:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dayhoff-labs/research-scientist-computational-enzymology-cambridge-ma-200563"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd2Vtb2xvL3Byb2plY3Qtb3BlcmF0aW9ucy1tYW5hZ2VyLWFsbC1nZW5kZXJzLWhhcmR3YXJlLWluc3RhbGxhdGlvbi1wbGFubmluZy1tdW5jaGVuLTM2NDU0OXxwcm9qZWN0ICYgb3BlcmF0aW9ucyBtYW5hZ2VyIChhbGwgZ2VuZGVycykgLSBoYXJkd2FyZSBpbnN0YWxsYXRpb24gcGxhbm5pbmd8d2Vtb2xv",
@@ -190,45 +125,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/wemolo/sales-development-representative-bdr-all-genders-mobility-property-tech-munchen-479424"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kZXB0L3Nlbmlvci1jb3B5d3JpdGVyLTUtbW9udGgtZnRjLW1hbmNoZXN0ZXItMjk2MzZ8c2VuaW9yIGNvcHl3cml0ZXIgKDUgbW9udGggZnRjKXxkZXB0",
-      "title": "Senior Copywriter (5 month FTC)",
-      "company": "dept",
-      "location": "Manchester",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T15:55:49.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dept/senior-copywriter-5-month-ftc-manchester-29636"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy96eW5nYWNhcmVlcnMvcHJpbmNpcGFsLWdhbWUtZGVzaWduZXItbG9uZG9uLTIyNTk4NHxwcmluY2lwYWwgZ2FtZSBkZXNpZ25lcnx6eW5nYWNhcmVlcnM",
-      "title": "Principal Game Designer",
-      "company": "Zyngacareers",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T15:55:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/principal-game-designer-london-225984"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93YXRlcnNoZWQvc3VzdGFpbmFiaWxpdHktYWR2aXNvci1sb25kb24tNDU5OTQwfHN1c3RhaW5hYmlsaXR5IGFkdmlzb3J8d2F0ZXJzaGVk",
-      "title": "Sustainability advisor",
-      "company": "Watershed",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T15:40:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/watershed/sustainability-advisor-london-459940"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcmV0b3Jpby1nbWJoL3dvcmtpbmctc3R1ZGVudC1haS1lbmdpbmVlci1hZ2VudGljLXN5c3RlbXMtbXVuaWNoLTk2OTA0fHdvcmtpbmcgc3R1ZGVudDogYWkgZW5naW5lZXIsIGFnZW50aWMgc3lzdGVtcyAobS9mL2QpfHJldG9yaW8gZ21iaA",
       "title": "Working Student: AI Engineer, Agentic Systems (m/f/d)",
       "company": "Retorio GmbH",
@@ -240,45 +136,6 @@
       "postedDate": "2026-08-14T13:32:17.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/retorio-gmbh/working-student-ai-engineer-agentic-systems-munich-96904"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdXB2ZXN0L29wZXJhdGlvbnMtaW50ZXJuLWZvci1hdmQtYWx0ZXJzdm9yc29yZ2VkZXBvdC1iZXJsaW4tMjQ2MTM1fG9wZXJhdGlvbnMgaW50ZXJuIGZvciBhdmQgKGFsdGVyc3ZvcnNvcmdlZGVwb3QpIChmL20vZCl8dXB2ZXN0",
-      "title": "Operations Intern for AVD (Altersvorsorgedepot) (f/m/d)",
-      "company": "Upvest",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T08:40:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/upvest/operations-intern-for-avd-altersvorsorgedepot-berlin-246135"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdXB2ZXN0L2NsaWVudC1leHBlcmllbmNlLWludGVybi1mb3ItYXZkLWFsdGVyc3ZvcnNvcmdlZGVwb3QtYmVybGluLTQwNTY5OXxjbGllbnQgZXhwZXJpZW5jZSBpbnRlcm4gZm9yIGF2ZCAoYWx0ZXJzdm9yc29yZ2VkZXBvdCkgKGYvbS9kKXx1cHZlc3Q",
-      "title": "Client Experience Intern for AVD (Altersvorsorgedepot) (f/m/d)",
-      "company": "Upvest",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T08:40:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/upvest/client-experience-intern-for-avd-altersvorsorgedepot-berlin-405699"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdXB2ZXN0L3ByaW5jaXBhbC1sYXVuY2gtbWFuYWdlci1iZXJsaW4tMTI3MTkxfHByaW5jaXBhbCBsYXVuY2ggbWFuYWdlciAoZi9tL2QpfHVwdmVzdA",
-      "title": "Principal Launch Manager (f/m/d)",
-      "company": "Upvest",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T08:40:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/upvest/principal-launch-manager-berlin-127191"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvd2Vya3N0dWRlbnRpbi1wcm9kdWt0bWFuYWdlbWVudC13YXJtZXB1bXBlLWJlcmxpbi0yNjk0NzJ8d2Vya3N0dWRlbnQ6aW4gcHJvZHVrdG1hbmFnZW1lbnQgLSB3w6RybWVwdW1wZSAobS93L2QpfDFrb21tYTVncmFk",
@@ -450,19 +307,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/trawa/partner-sales-manager-renewable-supply-berlin-92920"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2VsYnN0dmVyd2FsdGVuLXN2LWdtYmgvcHJha3Rpa2FudC1oYW1idXJnLTQ2MzI1OXxwcmFrdGlrYW50fHNlbGJzdHZlcndhbHRlbiBzdiBnbWJo",
-      "title": "Praktikant",
-      "company": "selbstverwalten SV GmbH",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-13T18:29:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/selbstverwalten-sv-gmbh/praktikant-hamburg-463259"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYmxhY2tmb3Jlc3RsYWJzL21lbWJlci1vZi10ZWNobmljYWwtc3RhZmYtaW1hZ2UtdmlkZW8tZ2VuZXJhdGlvbi0yMjYwOTZ8bWVtYmVyIG9mIHRlY2huaWNhbCBzdGFmZiAtIGltYWdlIC8gdmlkZW8gZ2VuZXJhdGlvbnxibGFja2ZvcmVzdGxhYnM",
       "title": "Member of Technical Staff - Image / Video Generation",
       "company": "blackforestlabs",
@@ -526,32 +370,6 @@
       "postedDate": "2026-08-13T15:15:39.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/moia/senior-backend-software-engineer-all-genders-vehicle-perception-berlin-hamburg-hannover-munich-wolfsburg-46998"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVuc29yZHluZS9qci1zb2Z0d2FyZS1lbmdpbmVlci1tbC1ydW50aW1lLXJ1c3QtbXVuaWNoLTY1Mzh8anIgc29mdHdhcmUgZW5naW5lZXIgLSBtbCBydW50aW1lIC0gcnVzdHx0ZW5zb3JkeW5l",
-      "title": "Jr Software Engineer - ML Runtime - Rust",
-      "company": "tensordyne",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-13T14:55:57.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/tensordyne/jr-software-engineer-ml-runtime-rust-munich-6538"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmV3cmVsaWMvc2VuaW9yLXNvbHV0aW9ucy1jb25zdWx0YW50LWJlcmxpbi1tdW5pY2gtNTE4NTR8c2VuaW9yIHNvbHV0aW9ucyBjb25zdWx0YW50fG5ld3JlbGlj",
-      "title": "Senior Solutions Consultant",
-      "company": "newrelic",
-      "location": "Berlin; Munich",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-13T11:55:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/newrelic/senior-solutions-consultant-berlin-munich-51854"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODIzMzQyMDAzP2doX2ppZD03ODIzMzQyMDAzfGRpZ2l0YWwgdmVyaWZpY2F0aW9uIGVuZ2luZWVyfG5ldXJhbGluaw",
