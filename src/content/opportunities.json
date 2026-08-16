@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T18:26:29.526Z",
+  "generatedAt": "2026-08-16T01:12:18.866Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9xdWFudGludXVtL3Nlbmlvci1yZC1zY2llbnRpc3QtcXVhbnR1bS1hbGdvcml0aG1zLTkwNS11ay1sb25kb24tMzMwNzgyfHNlbmlvciByJmQgc2NpZW50aXN0LCBxdWFudHVtIGFsZ29yaXRobXMgLSA5MDV8cXVhbnRpbnV1bQ",
+      "title": "Senior R&D Scientist, Quantum Algorithms - 905",
+      "company": "Quantinuum",
+      "location": "UK London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-16T00:05:18.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantinuum/senior-rd-scientist-quantum-algorithms-905-uk-london-330782"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcHByby9vZmZpY2UtY29vcmRpbmF0b3Itd29ya2luZy1zdHVkZW50LWJlcmxpbi00MDM0MzF8b2ZmaWNlIGNvb3JkaW5hdG9yICh3b3JraW5nIHN0dWRlbnQpfHBwcm8",
+      "title": "Office Coordinator (Working Student)",
+      "company": "PPRO",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Working Student",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-15T20:05:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/ppro/office-coordinator-working-student-berlin-403431"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zdHJlZXQtZ3JvdXAvbGVhZC1wcm9kdWN0LWRlc2lnbmVyLW1hbmNoZXN0ZXItMjY4ODI5fGxlYWQgcHJvZHVjdCBkZXNpZ25lcnxzdHJlZXQgZ3JvdXA",
       "title": "Lead Product Designer",
@@ -19,19 +45,6 @@
       "postedDate": "2026-08-15T09:40:22.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/street-group/lead-product-designer-manchester-268829"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9seXJlYmlyZC1oZWFsdGgvc29mdHdhcmUtZW5naW5lZXItdW5pdGVkLWtpbmdkb20tMTkwNDIyfHNvZnR3YXJlIGVuZ2luZWVyfGx5cmViaXJkIGhlYWx0aA",
-      "title": "Software Engineer",
-      "company": "Lyrebird Health",
-      "location": "United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-15T09:40:05.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lyrebird-health/software-engineer-united-kingdom-190422"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3JlbW90ZS1zZW5pb3ItdGVjaG5pY2FsLXdyaXRlci1kYXRhLWRvY3VtZW50YXRpb24tNTExNzR8c2VuaW9yIHRlY2huaWNhbCB3cml0ZXIgKGRhdGEgZG9jdW1lbnRhdGlvbil8amV0YnJhaW5z",
@@ -318,32 +331,6 @@
       "postedDate": "2026-08-14T02:09:35.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/dnsnet-internet-service-gmbh/teamleiter-it-berlin-486468"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdHJhd2Evb3BlcmF0aW9ucy1hdXRvbWF0aW9uLWVuZ2luZWVyLXJlbmV3YWJsZS1lbmVyZ3ktYmVybGluLTQ1NTEyNXxvcGVyYXRpb25zICYgYXV0b21hdGlvbiBlbmdpbmVlciDigJMgcmVuZXdhYmxlIGVuZXJneXx0cmF3YQ",
-      "title": "Operations & Automation Engineer – Renewable Energy",
-      "company": "trawa",
-      "location": "Berlin HQ",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-13T20:40:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/trawa/operations-automation-engineer-renewable-energy-berlin-455125"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdHJhd2EvcGFydG5lci1zYWxlcy1tYW5hZ2VyLWJhdHRlcnktc29sdXRpb25zLWJlcmxpbi01Njk1OXxwYXJ0bmVyIHNhbGVzIG1hbmFnZXIgLSBiYXR0ZXJ5IHNvbHV0aW9uc3x0cmF3YQ",
-      "title": "Partner Sales Manager - Battery Solutions",
-      "company": "trawa",
-      "location": "Berlin HQ",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-13T20:40:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/trawa/partner-sales-manager-battery-solutions-berlin-56959"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODY1MzcxMDAzP2doX2ppZD03ODY1MzcxMDAzfGNsaW5pY2FsIHJlc2VhcmNoIGFzc29jaWF0ZXxuZXVyYWxpbms",
