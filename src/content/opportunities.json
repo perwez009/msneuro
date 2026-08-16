@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T06:36:48.382Z",
+  "generatedAt": "2026-08-16T12:35:40.418Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaHVic3BvdGpvYnMvc21hbGwtYnVzaW5lc3MtYWNjb3VudC1leGVjdXRpdmUtZGFjaC1yZW1vdGUtNzc0ODF8c21hbGwgYnVzaW5lc3MgYWNjb3VudCBleGVjdXRpdmUgLSBkYWNoLCByZW1vdGV8aHVic3BvdGpvYnM",
+      "title": "Small Business Account Executive - DACH, Remote",
+      "company": "hubspotjobs",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-16T11:55:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/hubspotjobs/small-business-account-executive-dach-remote-77481"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaHVic3BvdGpvYnMvYWNjb3VudC1leGVjdXRpdmUtbWlkLW1hcmtldC1kYWNoLXJlbW90ZS0zMTE0MnxhY2NvdW50IGV4ZWN1dGl2ZSAtIG1pZCBtYXJrZXQsIGRhY2ggKHJlbW90ZSl8aHVic3BvdGpvYnM",
+      "title": "Account Executive - Mid Market, DACH (Remote)",
+      "company": "hubspotjobs",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-16T11:55:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/hubspotjobs/account-executive-mid-market-dach-remote-31142"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaHVic3BvdGpvYnMvYWNjb3VudC1leGVjdXRpdmUtbWlkLW1hcmtldC1kYWNoLWJlcmxpbi00MzA1MTd8YWNjb3VudCBleGVjdXRpdmUgLSBtaWQgbWFya2V0LCBkYWNofGh1YnNwb3Rqb2Jz",
+      "title": "Account Executive - Mid Market, DACH",
+      "company": "hubspotjobs",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-16T11:55:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/hubspotjobs/account-executive-mid-market-dach-berlin-430517"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jb21pbmQvb3BlcmF0aW9ucy1sZWFkLWxvbmRvbi00NDUyNDB8b3BlcmF0aW9ucyBsZWFkfGNvbWluZA",
+      "title": "Operations Lead",
+      "company": "Comind",
+      "location": "London, UK",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-16T09:40:15.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/operations-lead-london-445240"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jb21pbmQvcHJpbmNpcGFsLXRhbGVudC1hY3F1aXNpdGlvbi1sb25kb24tMTcyNzA1fHByaW5jaXBhbCwgdGFsZW50IGFjcXVpc2l0aW9ufGNvbWluZA",
+      "title": "Principal, Talent Acquisition",
+      "company": "Comind",
+      "location": "London, UK",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-16T09:40:15.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/principal-talent-acquisition-london-172705"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9xdWFudGludXVtL3Nlbmlvci1yZC1zY2llbnRpc3QtcXVhbnR1bS1hbGdvcml0aG1zLTkwNS11ay1sb25kb24tMzMwNzgyfHNlbmlvciByJmQgc2NpZW50aXN0LCBxdWFudHVtIGFsZ29yaXRobXMgLSA5MDV8cXVhbnRpbnV1bQ",
       "title": "Senior R&D Scientist, Quantum Algorithms - 905",
@@ -32,19 +97,6 @@
       "postedDate": "2026-08-15T20:05:24.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/ppro/office-coordinator-working-student-berlin-403431"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zdHJlZXQtZ3JvdXAvbGVhZC1wcm9kdWN0LWRlc2lnbmVyLW1hbmNoZXN0ZXItMjY4ODI5fGxlYWQgcHJvZHVjdCBkZXNpZ25lcnxzdHJlZXQgZ3JvdXA",
-      "title": "Lead Product Designer",
-      "company": "Street Group",
-      "location": "Manchester",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-15T09:40:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/street-group/lead-product-designer-manchester-268829"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3JlbW90ZS1zZW5pb3ItdGVjaG5pY2FsLXdyaXRlci1kYXRhLWRvY3VtZW50YXRpb24tNTExNzR8c2VuaW9yIHRlY2huaWNhbCB3cml0ZXIgKGRhdGEgZG9jdW1lbnRhdGlvbil8amV0YnJhaW5z",
@@ -292,32 +344,6 @@
       "postedDate": "2026-08-14T05:55:35.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-senior-account-executive-public-sector-germany-490816"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29kZS93b3JraW5nLXN0dWRlbnQtcmVzZWFyY2gtYXNzaXN0YW50LW9zLXRlYWNoaW5nLWFzc2lzdGFudC1mb3ItYm1lLWJlcmxpbi00NzEzNDR8d29ya2luZyBzdHVkZW50IC0gcmVzZWFyY2ggYXNzaXN0YW50ICYgb3MgdGVhY2hpbmcgYXNzaXN0YW50IGZvciBibWUgIChmL20veCl8Y29kZQ",
-      "title": "Working Student - Research Assistant & OS Teaching Assistant for BME  (f/m/x)",
-      "company": "Code",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Part-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T05:09:04.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/code/working-student-research-assistant-os-teaching-assistant-for-bme-berlin-471344"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW50aHJvcGljL2VudGVycHJpc2UtYWNjb3VudC1leGVjdXRpdmUtZGlnaXRhbC1uYXRpdmUtYnVzaW5lc3MtbXVuaWNoLTM0MTIwMXxlbnRlcnByaXNlIGFjY291bnQgZXhlY3V0aXZlLCBkaWdpdGFsIG5hdGl2ZSBidXNpbmVzcyAtIG11bmljaHxhbnRocm9waWM",
-      "title": "Enterprise Account Executive, Digital Native Business - Munich",
-      "company": "Anthropic",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T02:55:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/anthropic/enterprise-account-executive-digital-native-business-munich-341201"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODY1MzcxMDAzP2doX2ppZD03ODY1MzcxMDAzfGNsaW5pY2FsIHJlc2VhcmNoIGFzc29jaWF0ZXxuZXVyYWxpbms",
