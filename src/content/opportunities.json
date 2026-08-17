@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T06:51:54.827Z",
+  "generatedAt": "2026-08-17T12:40:13.940Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmV1cmFsLWZyYW1lcy9wcm9kdWN0LWVuZ2luZWVyLWdyb3d0aC1haS1tdXNpYy12aWRlby1wbGF0Zm9ybS1iZXJsaW4tODYxNjV8cHJvZHVjdCBlbmdpbmVlciAoZ3Jvd3RoKSAvLyBhaSBtdXNpYyB2aWRlbyBwbGF0Zm9ybXxuZXVyYWwgZnJhbWVz",
+      "title": "Product Engineer (Growth) // AI Music Video Platform",
+      "company": "neural frames",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-17T10:00:42.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/neural-frames/product-engineer-growth-ai-music-video-platform-berlin-86165"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmV1cmFsLWZyYW1lcy9jcmVhdG9yLWdyb3d0aC1tYW5hZ2VyLWFpLW11c2ljLXZpZGVvLXBsYXRmb3JtLWJlcmxpbi00MDExNzZ8Y3JlYXRvciBncm93dGggbWFuYWdlciAvLyBhaSBtdXNpYyB2aWRlbyBwbGF0Zm9ybXxuZXVyYWwgZnJhbWVz",
+      "title": "Creator Growth Manager // AI Music Video Platform",
+      "company": "neural frames",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-17T10:00:42.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/neural-frames/creator-growth-manager-ai-music-video-platform-berlin-401176"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sYW5nYW5lbmdpbmVlcmluZ2FuZGVudmlyb25tZW50YWxzZXJ2aWNlc2xsYy9zZW5pb3ItZ2VvdGVjaG5pY2FsLWVuZ2luZWVyLTQ2NTg5NHxzZW5pb3IgZ2VvdGVjaG5pY2FsIGVuZ2luZWVyfGxhbmdhbmVuZ2luZWVyaW5nYW5kZW52aXJvbm1lbnRhbHNlcnZpY2VzbGxj",
       "title": "Senior Geotechnical Engineer",
@@ -318,58 +344,6 @@
       "postedDate": "2026-08-14T17:40:19.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/wemolo/sales-development-representative-bdr-all-genders-mobility-property-tech-munchen-479424"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcmV0b3Jpby1nbWJoL3dvcmtpbmctc3R1ZGVudC1haS1lbmdpbmVlci1hZ2VudGljLXN5c3RlbXMtbXVuaWNoLTk2OTA0fHdvcmtpbmcgc3R1ZGVudDogYWkgZW5naW5lZXIsIGFnZW50aWMgc3lzdGVtcyAobS9mL2QpfHJldG9yaW8gZ21iaA",
-      "title": "Working Student: AI Engineer, Agentic Systems (m/f/d)",
-      "company": "Retorio GmbH",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Working student, no experience required / student",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T13:32:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/retorio-gmbh/working-student-ai-engineer-agentic-systems-munich-96904"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdXB2ZXN0L29wZXJhdGlvbnMtaW50ZXJuLWZvci1hdmQtYWx0ZXJzdm9yc29yZ2VkZXBvdC1iZXJsaW4tMjQ2MTM1fG9wZXJhdGlvbnMgaW50ZXJuIGZvciBhdmQgKGFsdGVyc3ZvcnNvcmdlZGVwb3QpIChmL20vZCl8dXB2ZXN0",
-      "title": "Operations Intern for AVD (Altersvorsorgedepot) (f/m/d)",
-      "company": "Upvest",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T08:40:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/upvest/operations-intern-for-avd-altersvorsorgedepot-berlin-246135"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdXB2ZXN0L2NsaWVudC1leHBlcmllbmNlLWludGVybi1mb3ItYXZkLWFsdGVyc3ZvcnNvcmdlZGVwb3QtYmVybGluLTQwNTY5OXxjbGllbnQgZXhwZXJpZW5jZSBpbnRlcm4gZm9yIGF2ZCAoYWx0ZXJzdm9yc29yZ2VkZXBvdCkgKGYvbS9kKXx1cHZlc3Q",
-      "title": "Client Experience Intern for AVD (Altersvorsorgedepot) (f/m/d)",
-      "company": "Upvest",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T08:40:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/upvest/client-experience-intern-for-avd-altersvorsorgedepot-berlin-405699"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdXB2ZXN0L3ByaW5jaXBhbC1sYXVuY2gtbWFuYWdlci1iZXJsaW4tMTI3MTkxfHByaW5jaXBhbCBsYXVuY2ggbWFuYWdlciAoZi9tL2QpfHVwdmVzdA",
-      "title": "Principal Launch Manager (f/m/d)",
-      "company": "Upvest",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T08:40:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/upvest/principal-launch-manager-berlin-127191"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODY1MzcxMDAzP2doX2ppZD03ODY1MzcxMDAzfGNsaW5pY2FsIHJlc2VhcmNoIGFzc29jaWF0ZXxuZXVyYWxpbms",
