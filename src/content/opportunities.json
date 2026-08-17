@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T18:26:01.092Z",
+  "generatedAt": "2026-08-17T01:09:28.338Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,45 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90aGVodXRncm91cC9xdWFsaXR5LWFzc3VyYW5jZS10ZWNobmljaWFuLXRoZy1tYW51ZmFjdHVyaW5nLXdhcnJpbmd0b24tNzIwMTl8cXVhbGl0eSBhc3N1cmFuY2UgdGVjaG5pY2lhbiAtIHRoZyBtYW51ZmFjdHVyaW5nfHRoZWh1dGdyb3Vw",
+      "title": "Quality Assurance Technician - THG Manufacturing",
+      "company": "Thehutgroup",
+      "location": "Warrington",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-16T21:56:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/quality-assurance-technician-thg-manufacturing-warrington-72019"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ncmFtZ2FtZXNjYXJlZXJzL3ByaW5jaXBhbC1nYW1lLWRlc2lnbmVyLWxvbmRvbi00MjEzNzh8cHJpbmNpcGFsIGdhbWUgZGVzaWduZXJ8Z3JhbWdhbWVzY2FyZWVycw",
+      "title": "Principal Game Designer",
+      "company": "Gramgamescareers",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-16T21:55:20.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gramgamescareers/principal-game-designer-london-421378"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jbG91ZGJlZHN0aGlyZHBhcnR5Ym9hcmQvc3RhZmYtbWwtZW5naW5lZXItMTkxNjQ3fHN0YWZmIG1sIGVuZ2luZWVyfGNsb3VkYmVkc3RoaXJkcGFydHlib2FyZA",
+      "title": "Staff ML Engineer",
+      "company": "Cloudbedsthirdpartyboard",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-16T21:55:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/staff-ml-engineer-191647"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaHVic3BvdGpvYnMvc21hbGwtYnVzaW5lc3MtYWNjb3VudC1leGVjdXRpdmUtZGFjaC1yZW1vdGUtNzc0ODF8c21hbGwgYnVzaW5lc3MgYWNjb3VudCBleGVjdXRpdmUgLSBkYWNoLCByZW1vdGV8aHVic3BvdGpvYnM",
       "title": "Small Business Account Executive - DACH, Remote",
@@ -669,19 +708,6 @@
       "postedDate": "2026-05-19T18:46:35.000Z",
       "applyBy": null,
       "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=5995969004"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzM4MjQwMDAzP2doX2ppZD03NzM4MjQwMDAzfHNvZnR3YXJlIGRlc2lnbiBjb250cm9sIGVuZ2luZWVyfG5ldXJhbGluaw",
-      "title": "Software Design Control Engineer",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-05-18T19:20:08.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7738240003?gh_jid=7738240003"
     }
   ]
 }
