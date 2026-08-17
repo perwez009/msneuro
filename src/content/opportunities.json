@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T12:40:13.940Z",
+  "generatedAt": "2026-08-17T18:37:05.795Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODg2NTAzMDAzP2doX2ppZD03ODg2NTAzMDAzfHNvZnR3YXJlIGRlc2lnbiBxdWFsaXR5IGVuZ2luZWVyfG5ldXJhbGluaw",
+      "title": "Software Design Quality Engineer",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-08-17T18:03:10.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7886503003?gh_jid=7886503003"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc21hcnRtaWNyby9kZXB1dHktbWFuYWdlci1kZWZlbnNlLWFuZC1hdXRvbW90aXZlLXByb2R1Y3RzLWJyYXVuc2Nod2VpZy0xNTg5MnxkZXB1dHkgbWFuYWdlciBkZWZlbnNlIGFuZCBhdXRvbW90aXZlIHByb2R1Y3RzIChtL2YvZCl8c21hcnRtaWNybw",
+      "title": "Deputy Manager Defense and Automotive Products (m/f/d)",
+      "company": "smartmicro",
+      "location": "Braunschweig",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-17T14:30:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/smartmicro/deputy-manager-defense-and-automotive-products-braunschweig-15892"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmV1cmFsLWZyYW1lcy9wcm9kdWN0LWVuZ2luZWVyLWdyb3d0aC1haS1tdXNpYy12aWRlby1wbGF0Zm9ybS1iZXJsaW4tODYxNjV8cHJvZHVjdCBlbmdpbmVlciAoZ3Jvd3RoKSAvLyBhaSBtdXNpYyB2aWRlbyBwbGF0Zm9ybXxuZXVyYWwgZnJhbWVz",
       "title": "Product Engineer (Growth) // AI Music Video Platform",
@@ -16,9 +42,22 @@
       "opportunityType": "professional / experienced",
       "source": "Arbeitnow",
       "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-17T10:00:42.000Z",
+      "postedDate": "2026-08-17T14:17:31.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/neural-frames/product-engineer-growth-ai-music-video-platform-berlin-86165"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hcG90aGVjb20vYXNzb2NpYXRlLW1lZGljYWwtZGlyZWN0b3ItMzg5MTIzfGFzc29jaWF0ZSBtZWRpY2FsIGRpcmVjdG9yfGFwb3RoZWNvbQ",
+      "title": "Associate Medical Director",
+      "company": "Apothecom",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-17T12:41:19.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/apothecom/associate-medical-director-389123"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmV1cmFsLWZyYW1lcy9jcmVhdG9yLWdyb3d0aC1tYW5hZ2VyLWFpLW11c2ljLXZpZGVvLXBsYXRmb3JtLWJlcmxpbi00MDExNzZ8Y3JlYXRvciBncm93dGggbWFuYWdlciAvLyBhaSBtdXNpYyB2aWRlbyBwbGF0Zm9ybXxuZXVyYWwgZnJhbWVz",
@@ -125,45 +164,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/graduate-civil-engineer-140109"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90aGVodXRncm91cC9xdWFsaXR5LWFzc3VyYW5jZS10ZWNobmljaWFuLXRoZy1tYW51ZmFjdHVyaW5nLXdhcnJpbmd0b24tNzIwMTl8cXVhbGl0eSBhc3N1cmFuY2UgdGVjaG5pY2lhbiAtIHRoZyBtYW51ZmFjdHVyaW5nfHRoZWh1dGdyb3Vw",
-      "title": "Quality Assurance Technician - THG Manufacturing",
-      "company": "Thehutgroup",
-      "location": "Warrington",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-16T21:56:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/quality-assurance-technician-thg-manufacturing-warrington-72019"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ncmFtZ2FtZXNjYXJlZXJzL3ByaW5jaXBhbC1nYW1lLWRlc2lnbmVyLWxvbmRvbi00MjEzNzh8cHJpbmNpcGFsIGdhbWUgZGVzaWduZXJ8Z3JhbWdhbWVzY2FyZWVycw",
-      "title": "Principal Game Designer",
-      "company": "Gramgamescareers",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-16T21:55:20.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gramgamescareers/principal-game-designer-london-421378"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jbG91ZGJlZHN0aGlyZHBhcnR5Ym9hcmQvc3RhZmYtbWwtZW5naW5lZXItMTkxNjQ3fHN0YWZmIG1sIGVuZ2luZWVyfGNsb3VkYmVkc3RoaXJkcGFydHlib2FyZA",
-      "title": "Staff ML Engineer",
-      "company": "Cloudbedsthirdpartyboard",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-16T21:55:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/staff-ml-engineer-191647"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaHVic3BvdGpvYnMvc21hbGwtYnVzaW5lc3MtYWNjb3VudC1leGVjdXRpdmUtZGFjaC1yZW1vdGUtNzc0ODF8c21hbGwgYnVzaW5lc3MgYWNjb3VudCBleGVjdXRpdmUgLSBkYWNoLCByZW1vdGV8aHVic3BvdGpvYnM",
       "title": "Small Business Account Executive - DACH, Remote",
       "company": "hubspotjobs",
@@ -201,32 +201,6 @@
       "postedDate": "2026-08-16T11:55:27.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/hubspotjobs/account-executive-mid-market-dach-berlin-430517"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jb21pbmQvb3BlcmF0aW9ucy1sZWFkLWxvbmRvbi00NDUyNDB8b3BlcmF0aW9ucyBsZWFkfGNvbWluZA",
-      "title": "Operations Lead",
-      "company": "Comind",
-      "location": "London, UK",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-16T09:40:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/operations-lead-london-445240"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jb21pbmQvcHJpbmNpcGFsLXRhbGVudC1hY3F1aXNpdGlvbi1sb25kb24tMTcyNzA1fHByaW5jaXBhbCwgdGFsZW50IGFjcXVpc2l0aW9ufGNvbWluZA",
-      "title": "Principal, Talent Acquisition",
-      "company": "Comind",
-      "location": "London, UK",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-16T09:40:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/principal-talent-acquisition-london-172705"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcHByby9vZmZpY2UtY29vcmRpbmF0b3Itd29ya2luZy1zdHVkZW50LWJlcmxpbi00MDM0MzF8b2ZmaWNlIGNvb3JkaW5hdG9yICh3b3JraW5nIHN0dWRlbnQpfHBwcm8",
@@ -268,19 +242,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/live-reply-gmbh/senior-netzplaner-glasfasernetze-bu1-dusseldorf-209528"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWlycy1tZWRpY2FsLWluYy9yZW1vdGUtc2VuaW9yLWJ1c2luZXNzLWRldmVsb3BtZW50LW1hbmFnZXItZGFjaC1nZXJtYW55LW11bmljaC0xNzg4NDh8c2VuaW9yIGJ1c2luZXNzIGRldmVsb3BtZW50IG1hbmFnZXIgKGRhY2gpIC0gZ2VybWFueXxhaXJzIG1lZGljYWwgaW5j",
-      "title": "Senior Business Development Manager (DACH) - Germany",
-      "company": "Airs Medical Inc",
-      "location": "Munich, Germany",
-      "workModel": "Remote",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-15T02:20:28.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/airs-medical-inc/remote-senior-business-development-manager-dach-germany-munich-178848"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODcyNjM5MDAzP2doX2ppZD03ODcyNjM5MDAzfGJpb21lZGljYWwgZW5naW5lZXIgaW50ZXJufG5ldXJhbGluaw",
       "title": "Biomedical Engineer Intern",
       "company": "Neuralink",
@@ -292,58 +253,6 @@
       "postedDate": "2026-08-14T22:57:49.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7872639003?gh_jid=7872639003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaGlsb2J5YWt0aWlhL3JlbW90ZS1kYXRhLXNjaWVudGlzdC1nZXJtYW55LTQ3NTMzOHxkYXRhIHNjaWVudGlzdHxoaWxvYnlha3RpaWE",
-      "title": "Data Scientist",
-      "company": "Hilobyaktiia",
-      "location": "Germany",
-      "workModel": "Remote",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T20:20:41.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/hilobyaktiia/remote-data-scientist-germany-475338"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd2Vtb2xvL3Byb2plY3Qtb3BlcmF0aW9ucy1tYW5hZ2VyLWFsbC1nZW5kZXJzLWhhcmR3YXJlLWluc3RhbGxhdGlvbi1wbGFubmluZy1tdW5jaGVuLTM2NDU0OXxwcm9qZWN0ICYgb3BlcmF0aW9ucyBtYW5hZ2VyIChhbGwgZ2VuZGVycykgLSBoYXJkd2FyZSBpbnN0YWxsYXRpb24gcGxhbm5pbmd8d2Vtb2xv",
-      "title": "Project & Operations Manager (all genders) - Hardware Installation Planning",
-      "company": "Wemolo",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T17:40:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/wemolo/project-operations-manager-all-genders-hardware-installation-planning-munchen-364549"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd2Vtb2xvL3RlY2huaWNhbC1pbXBsZW1lbnRhdGlvbi1tYW5hZ2VyLWFsbC1nZW5kZXJzLW11bmNoZW4tMjIwNDg1fHRlY2huaWNhbCBpbXBsZW1lbnRhdGlvbiBtYW5hZ2VyIChhbGwgZ2VuZGVycyl8d2Vtb2xv",
-      "title": "Technical Implementation Manager (all genders)",
-      "company": "Wemolo",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T17:40:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/wemolo/technical-implementation-manager-all-genders-munchen-220485"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd2Vtb2xvL3NhbGVzLWRldmVsb3BtZW50LXJlcHJlc2VudGF0aXZlLWJkci1hbGwtZ2VuZGVycy1tb2JpbGl0eS1wcm9wZXJ0eS10ZWNoLW11bmNoZW4tNDc5NDI0fHNhbGVzIGRldmVsb3BtZW50IHJlcHJlc2VudGF0aXZlIC8gYmRyIChhbGwgZ2VuZGVycykg4oCTIG1vYmlsaXR5ICYgcHJvcGVydHkgdGVjaHx3ZW1vbG8",
-      "title": "Sales Development Representative / BDR (all genders) – Mobility & Property Tech",
-      "company": "Wemolo",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-14T17:40:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/wemolo/sales-development-representative-bdr-all-genders-mobility-property-tech-munchen-479424"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODY1MzcxMDAzP2doX2ppZD03ODY1MzcxMDAzfGNsaW5pY2FsIHJlc2VhcmNoIGFzc29jaWF0ZXxuZXVyYWxpbms",
@@ -552,19 +461,6 @@
       "postedDate": "2026-06-12T18:49:13.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7772049003?gh_jid=7772049003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzY0MDg2MDAzP2doX2ppZD03NzY0MDg2MDAzfG1yaSAmIGN0IHRlY2hub2xvZ2lzdCAocGFydC10aW1lKXxuZXVyYWxpbms",
-      "title": "MRI & CT Technologist (Part-Time)",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-06-04T21:38:40.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7764086003?gh_jid=7764086003"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzYzMDg5MDAzP2doX2ppZD03NzYzMDg5MDAzfHN1cHBsaWVyIGluZHVzdHJpYWxpemF0aW9uIGVuZ2luZWVyfG5ldXJhbGluaw",
