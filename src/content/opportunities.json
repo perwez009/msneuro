@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T01:07:46.263Z",
+  "generatedAt": "2026-08-18T06:39:56.192Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,123 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW50aHJvcGljL2ZvcndhcmQtZGVwbG95ZWQtZW5naW5lZXItbXVuaWNoLTM3MDI0N3xmb3J3YXJkIGRlcGxveWVkIGVuZ2luZWVyfGFudGhyb3BpYw",
+      "title": "Forward Deployed Engineer",
+      "company": "anthropic",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T05:55:04.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/anthropic/forward-deployed-engineer-munich-370247"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW50aHJvcGljL2VudGVycHJpc2UtYWNjb3VudC1leGVjdXRpdmUtaW5kdXN0cmllcy1tdW5pY2gtMTA5MjE5fGVudGVycHJpc2UgYWNjb3VudCBleGVjdXRpdmUsIGluZHVzdHJpZXN8YW50aHJvcGlj",
+      "title": "Enterprise Account Executive, Industries",
+      "company": "anthropic",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T05:55:04.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/anthropic/enterprise-account-executive-industries-munich-109219"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW50aHJvcGljL2VudGVycHJpc2UtYWNjb3VudC1leGVjdXRpdmUtZmluYW5jaWFsLXNlcnZpY2VzLW11bmljaC01NjIzMHxlbnRlcnByaXNlIGFjY291bnQgZXhlY3V0aXZlLCBmaW5hbmNpYWwgc2VydmljZXN8YW50aHJvcGlj",
+      "title": "Enterprise Account Executive, Financial Services",
+      "company": "anthropic",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T05:55:04.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/anthropic/enterprise-account-executive-financial-services-munich-56230"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW50aHJvcGljL2FwcGxpZWQtYWktYXJjaGl0ZWN0LWluZHVzdHJpZXMtbXVuaWNoLTEzMjc4M3xhcHBsaWVkIGFpIGFyY2hpdGVjdCwgaW5kdXN0cmllc3xhbnRocm9waWM",
+      "title": "Applied AI Architect, Industries",
+      "company": "anthropic",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T05:55:04.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/anthropic/applied-ai-architect-industries-munich-132783"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9odWJzcG90am9icy9zZW5pb3Itc29sdXRpb25zLWVuZ2luZWVyLW5vcmRpbHV4LTQ3MjQxN3xzZW5pb3Igc29sdXRpb25zIGVuZ2luZWVyIC0gbm9yZGlsdXh8aHVic3BvdGpvYnM",
+      "title": "Senior Solutions Engineer - Nordilux",
+      "company": "hubspotjobs",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T03:55:23.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hubspotjobs/senior-solutions-engineer-nordilux-472417"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9odWJzcG90am9icy9sZWFkLXByZXNhbGVzLXNvbHV0aW9ucy1lbmdpbmVlci1sb25kb24tMjY4OTA4fGxlYWQgcHJlc2FsZXMgc29sdXRpb25zIGVuZ2luZWVyfGh1YnNwb3Rqb2Jz",
+      "title": "Lead PreSales Solutions Engineer",
+      "company": "hubspotjobs",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T03:55:23.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hubspotjobs/lead-presales-solutions-engineer-london-268908"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9odWJzcG90am9icy9hY2NvdW50LWV4ZWN1dGl2ZS1zbWFsbC1idXNpbmVzcy1taWRkbGUtZWFzdC1hbmQtYWZyaWNhLWZsZXgtbG9uZG9uLTIzMzk1N3xhY2NvdW50IGV4ZWN1dGl2ZSwgc21hbGwgYnVzaW5lc3MgLSBtaWRkbGUgZWFzdCBhbmQgYWZyaWNhfGh1YnNwb3Rqb2Jz",
+      "title": "Account Executive, Small Business - Middle East and Africa",
+      "company": "hubspotjobs",
+      "location": "Flex - London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T03:55:23.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hubspotjobs/account-executive-small-business-middle-east-and-africa-flex-london-233957"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9odWJzcG90am9icy9hY2NvdW50LWV4ZWN1dGl2ZS1zbWFsbC1idXNpbmVzcy1taWRkbGUtZWFzdC1hbmQtYWZyaWNhLWxvbmRvbi0yOTg2NjB8YWNjb3VudCBleGVjdXRpdmUsIHNtYWxsIGJ1c2luZXNzIC0gbWlkZGxlIGVhc3QgYW5kIGFmcmljYXxodWJzcG90am9icw",
+      "title": "Account Executive, Small Business - Middle East and Africa",
+      "company": "hubspotjobs",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T03:55:23.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hubspotjobs/account-executive-small-business-middle-east-and-africa-london-298660"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW52ZXNkb3Ivd2Vya3N0dWRlbnRpbi1tYXJrZXRpbmctaW4tYmVybGluLWludmVzZG9yLWJlcmxpbi05NzM2Mnx3ZXJrc3R1ZGVudDppbiBtYXJrZXRpbmcgKG0vdy9kKSBpbiBiZXJsaW58aW52ZXNkb3I",
+      "title": "Werkstudent:in Marketing (m/w/d) in Berlin",
+      "company": "Invesdor",
+      "location": "Invesdor Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T02:09:49.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/invesdor/werkstudentin-marketing-in-berlin-invesdor-berlin-97362"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZWxldmVubGFicy9mb3J3YXJkLWRlcGxveWVkLWVuZ2luZWVyLXNvZnR3YXJlLWVuZ2luZWVyLWdlcm1hbnktNzA5OTR8Zm9yd2FyZCBkZXBsb3llZCBlbmdpbmVlciAtIHNvZnR3YXJlIGVuZ2luZWVyIC0gZ2VybWFueXxlbGV2ZW5sYWJz",
       "title": "Forward Deployed Engineer - Software Engineer - Germany",
@@ -125,19 +242,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/smartmicro/deputy-manager-defense-and-automotive-products-braunschweig-15892"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmV1cmFsLWZyYW1lcy9wcm9kdWN0LWVuZ2luZWVyLWdyb3d0aC1haS1tdXNpYy12aWRlby1wbGF0Zm9ybS1iZXJsaW4tODYxNjV8cHJvZHVjdCBlbmdpbmVlciAoZ3Jvd3RoKSAvLyBhaSBtdXNpYyB2aWRlbyBwbGF0Zm9ybXxuZXVyYWwgZnJhbWVz",
-      "title": "Product Engineer (Growth) // AI Music Video Platform",
-      "company": "neural frames",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-17T14:17:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/neural-frames/product-engineer-growth-ai-music-video-platform-berlin-86165"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hcG90aGVjb20vYXNzb2NpYXRlLW1lZGljYWwtZGlyZWN0b3ItMzg5MTIzfGFzc29jaWF0ZSBtZWRpY2FsIGRpcmVjdG9yfGFwb3RoZWNvbQ",
       "title": "Associate Medical Director",
       "company": "Apothecom",
@@ -149,19 +253,6 @@
       "postedDate": "2026-08-17T12:41:19.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/apothecom/associate-medical-director-389123"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmV1cmFsLWZyYW1lcy9jcmVhdG9yLWdyb3d0aC1tYW5hZ2VyLWFpLW11c2ljLXZpZGVvLXBsYXRmb3JtLWJlcmxpbi00MDExNzZ8Y3JlYXRvciBncm93dGggbWFuYWdlciAvLyBhaSBtdXNpYyB2aWRlbyBwbGF0Zm9ybXxuZXVyYWwgZnJhbWVz",
-      "title": "Creator Growth Manager // AI Music Video Platform",
-      "company": "neural frames",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-17T10:00:42.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/neural-frames/creator-growth-manager-ai-music-video-platform-berlin-401176"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sYW5nYW5lbmdpbmVlcmluZ2FuZGVudmlyb25tZW50YWxzZXJ2aWNlc2xsYy9zZW5pb3ItZ2VvdGVjaG5pY2FsLWVuZ2luZWVyLTQ2NTg5NHxzZW5pb3IgZ2VvdGVjaG5pY2FsIGVuZ2luZWVyfGxhbmdhbmVuZ2luZWVyaW5nYW5kZW52aXJvbm1lbnRhbHNlcnZpY2VzbGxj",
@@ -255,45 +346,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/graduate-civil-engineer-140109"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90aGVodXRncm91cC9xdWFsaXR5LWFzc3VyYW5jZS10ZWNobmljaWFuLXRoZy1tYW51ZmFjdHVyaW5nLXdhcnJpbmd0b24tNzIwMTl8cXVhbGl0eSBhc3N1cmFuY2UgdGVjaG5pY2lhbiAtIHRoZyBtYW51ZmFjdHVyaW5nfHRoZWh1dGdyb3Vw",
-      "title": "Quality Assurance Technician - THG Manufacturing",
-      "company": "Thehutgroup",
-      "location": "Warrington",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-16T21:56:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/quality-assurance-technician-thg-manufacturing-warrington-72019"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ncmFtZ2FtZXNjYXJlZXJzL3ByaW5jaXBhbC1nYW1lLWRlc2lnbmVyLWxvbmRvbi00MjEzNzh8cHJpbmNpcGFsIGdhbWUgZGVzaWduZXJ8Z3JhbWdhbWVzY2FyZWVycw",
-      "title": "Principal Game Designer",
-      "company": "Gramgamescareers",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-16T21:55:20.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gramgamescareers/principal-game-designer-london-421378"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jbG91ZGJlZHN0aGlyZHBhcnR5Ym9hcmQvc3RhZmYtbWwtZW5naW5lZXItMTkxNjQ3fHN0YWZmIG1sIGVuZ2luZWVyfGNsb3VkYmVkc3RoaXJkcGFydHlib2FyZA",
-      "title": "Staff ML Engineer",
-      "company": "Cloudbedsthirdpartyboard",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-16T21:55:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/staff-ml-engineer-191647"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaHVic3BvdGpvYnMvc21hbGwtYnVzaW5lc3MtYWNjb3VudC1leGVjdXRpdmUtZGFjaC1yZW1vdGUtNzc0ODF8c21hbGwgYnVzaW5lc3MgYWNjb3VudCBleGVjdXRpdmUgLSBkYWNoLCByZW1vdGV8aHVic3BvdGpvYnM",
       "title": "Small Business Account Executive - DACH, Remote",
       "company": "hubspotjobs",
@@ -331,19 +383,6 @@
       "postedDate": "2026-08-16T11:55:27.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/hubspotjobs/account-executive-mid-market-dach-berlin-430517"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jb21pbmQvb3BlcmF0aW9ucy1sZWFkLWxvbmRvbi00NDUyNDB8b3BlcmF0aW9ucyBsZWFkfGNvbWluZA",
-      "title": "Operations Lead",
-      "company": "Comind",
-      "location": "London, UK",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-16T09:40:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/operations-lead-london-445240"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcHByby9vZmZpY2UtY29vcmRpbmF0b3Itd29ya2luZy1zdHVkZW50LWJlcmxpbi00MDM0MzF8b2ZmaWNlIGNvb3JkaW5hdG9yICh3b3JraW5nIHN0dWRlbnQpfHBwcm8",
