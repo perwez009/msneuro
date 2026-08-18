@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T18:37:05.795Z",
+  "generatedAt": "2026-08-18T01:07:46.263Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZWxldmVubGFicy9mb3J3YXJkLWRlcGxveWVkLWVuZ2luZWVyLXNvZnR3YXJlLWVuZ2luZWVyLWdlcm1hbnktNzA5OTR8Zm9yd2FyZCBkZXBsb3llZCBlbmdpbmVlciAtIHNvZnR3YXJlIGVuZ2luZWVyIC0gZ2VybWFueXxlbGV2ZW5sYWJz",
+      "title": "Forward Deployed Engineer - Software Engineer - Germany",
+      "company": "ElevenLabs",
+      "location": "Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-17T23:40:19.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/forward-deployed-engineer-software-engineer-germany-70994"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZXZlbC16ZXJvLWhlYWx0aC90YWxlbnQtYWNxdWlzaXRpb24tbGVhZC1sb25kb24tOTcwNjZ8dGFsZW50IGFjcXVpc2l0aW9uIGxlYWR8bGV2ZWwgemVybyBoZWFsdGg",
+      "title": "Talent Acquisition Lead",
+      "company": "Level Zero Health",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Management",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-17T21:24:49.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/level-zero-health/talent-acquisition-lead-london-97066"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yZXNvbHZldG9zYXZlbGl2ZXMvc2VuaW9yLXRlY2huaWNhbC1hZHZpc29yLWRhdGEtdXNlLWFuZC1kZWNpc2lvbi1zY2llbmNlLXJlbW90ZS11cy11ay1mcmFuY2UtZHJjLXVzLWZyYW5jZS1kcmMtMzYyOTEyfHNlbmlvciB0ZWNobmljYWwgYWR2aXNvciwgZGF0YSB1c2UgYW5kIGRlY2lzaW9uIHNjaWVuY2UgKHJlbW90ZSAtIHVzLCB1aywgZnJhbmNlLCBkcmMpfHJlc29sdmV0b3NhdmVsaXZlcw",
+      "title": "Senior Technical Advisor, Data Use and Decision Science (Remote - US, UK, France, DRC)",
+      "company": "Resolvetosavelives",
+      "location": "US, France, DRC",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-17T18:56:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/resolvetosavelives/senior-technical-advisor-data-use-and-decision-science-remote-us-uk-france-drc-us-france-drc-362912"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9odWRsL3Nlbmlvci1tbG9wcy1lbmdpbmVlci1lZGdlLWxvbmRvbi0xNjU2OTB8c2VuaW9yIG1sb3BzIGVuZ2luZWVyIC0gZWRnZXxodWRs",
+      "title": "Senior MLOps Engineer - Edge",
+      "company": "Hudl",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-17T18:55:03.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hudl/senior-mlops-engineer-edge-london-165690"
+    },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODg2NTAzMDAzP2doX2ppZD03ODg2NTAzMDAzfHNvZnR3YXJlIGRlc2lnbiBxdWFsaXR5IGVuZ2luZWVyfG5ldXJhbGluaw",
       "title": "Software Design Quality Engineer",
@@ -19,6 +71,45 @@
       "postedDate": "2026-08-17T18:03:10.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7886503003?gh_jid=7886503003"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZmlnbWEvZGlyZWN0b3Itc3RyYXRlZ2ljLXNhbGVzLWJlcmxpbi1nZXJtYW55LTQ5NDg4OXxkaXJlY3Rvciwgc3RyYXRlZ2ljIHNhbGVzIChiZXJsaW4sIGdlcm1hbnkpfGZpZ21h",
+      "title": "Director, Strategic Sales (Berlin, Germany)",
+      "company": "figma",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-17T17:55:34.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/figma/director-strategic-sales-berlin-germany-494889"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcHJveGltYS1mdXNpb24tZ21iaC9oZWF0aW5nLXN5c3RlbS1zdXBwbHktY2hhaW4tbGVhZC1tdW5pY2gtNDUzMDI4fGhlYXRpbmcgc3lzdGVtIHN1cHBseSBjaGFpbiBsZWFkfHByb3hpbWEgZnVzaW9uIGdtYmg",
+      "title": "Heating System Supply Chain Lead",
+      "company": "Proxima Fusion GmbH",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-17T17:40:20.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/heating-system-supply-chain-lead-munich-453028"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3RhYnVyby9kYXRhLXNjaWVudGlzdC13aXRoLWZvY3VzLWJpb2luZm9ybWF0aWNzLWRpYWdub3N0aWNzLXBhcnQtZnVsbC10aW1lLW11bmljaC0zNjg0MTd8ZGF0YSBzY2llbnRpc3Qgd2l0aCBmb2N1cyBiaW9pbmZvcm1hdGljcyAvIGRpYWdub3N0aWNzIChmL20vZCAtIHBhcnQvZnVsbC10aW1lKXxzdGFidXJv",
+      "title": "Data Scientist with focus Bioinformatics / Diagnostics (f/m/d - part/full-time)",
+      "company": "Staburo",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-17T17:09:59.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/staburo/data-scientist-with-focus-bioinformatics-diagnostics-part-full-time-munich-368417"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc21hcnRtaWNyby9kZXB1dHktbWFuYWdlci1kZWZlbnNlLWFuZC1hdXRvbW90aXZlLXByb2R1Y3RzLWJyYXVuc2Nod2VpZy0xNTg5MnxkZXB1dHkgbWFuYWdlciBkZWZlbnNlIGFuZCBhdXRvbW90aXZlIHByb2R1Y3RzIChtL2YvZCl8c21hcnRtaWNybw",
@@ -164,6 +255,45 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/graduate-civil-engineer-140109"
     },
     {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90aGVodXRncm91cC9xdWFsaXR5LWFzc3VyYW5jZS10ZWNobmljaWFuLXRoZy1tYW51ZmFjdHVyaW5nLXdhcnJpbmd0b24tNzIwMTl8cXVhbGl0eSBhc3N1cmFuY2UgdGVjaG5pY2lhbiAtIHRoZyBtYW51ZmFjdHVyaW5nfHRoZWh1dGdyb3Vw",
+      "title": "Quality Assurance Technician - THG Manufacturing",
+      "company": "Thehutgroup",
+      "location": "Warrington",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-16T21:56:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/quality-assurance-technician-thg-manufacturing-warrington-72019"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ncmFtZ2FtZXNjYXJlZXJzL3ByaW5jaXBhbC1nYW1lLWRlc2lnbmVyLWxvbmRvbi00MjEzNzh8cHJpbmNpcGFsIGdhbWUgZGVzaWduZXJ8Z3JhbWdhbWVzY2FyZWVycw",
+      "title": "Principal Game Designer",
+      "company": "Gramgamescareers",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-16T21:55:20.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gramgamescareers/principal-game-designer-london-421378"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jbG91ZGJlZHN0aGlyZHBhcnR5Ym9hcmQvc3RhZmYtbWwtZW5naW5lZXItMTkxNjQ3fHN0YWZmIG1sIGVuZ2luZWVyfGNsb3VkYmVkc3RoaXJkcGFydHlib2FyZA",
+      "title": "Staff ML Engineer",
+      "company": "Cloudbedsthirdpartyboard",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-16T21:55:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/staff-ml-engineer-191647"
+    },
+    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaHVic3BvdGpvYnMvc21hbGwtYnVzaW5lc3MtYWNjb3VudC1leGVjdXRpdmUtZGFjaC1yZW1vdGUtNzc0ODF8c21hbGwgYnVzaW5lc3MgYWNjb3VudCBleGVjdXRpdmUgLSBkYWNoLCByZW1vdGV8aHVic3BvdGpvYnM",
       "title": "Small Business Account Executive - DACH, Remote",
       "company": "hubspotjobs",
@@ -203,6 +333,19 @@
       "url": "https://www.arbeitnow.com/jobs/companies/hubspotjobs/account-executive-mid-market-dach-berlin-430517"
     },
     {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jb21pbmQvb3BlcmF0aW9ucy1sZWFkLWxvbmRvbi00NDUyNDB8b3BlcmF0aW9ucyBsZWFkfGNvbWluZA",
+      "title": "Operations Lead",
+      "company": "Comind",
+      "location": "London, UK",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-16T09:40:15.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/operations-lead-london-445240"
+    },
+    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcHByby9vZmZpY2UtY29vcmRpbmF0b3Itd29ya2luZy1zdHVkZW50LWJlcmxpbi00MDM0MzF8b2ZmaWNlIGNvb3JkaW5hdG9yICh3b3JraW5nIHN0dWRlbnQpfHBwcm8",
       "title": "Office Coordinator (Working Student)",
       "company": "PPRO",
@@ -214,32 +357,6 @@
       "postedDate": "2026-08-15T20:05:24.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/ppro/office-coordinator-working-student-berlin-403431"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3JlbW90ZS1zZW5pb3ItdGVjaG5pY2FsLXdyaXRlci1kYXRhLWRvY3VtZW50YXRpb24tNTExNzR8c2VuaW9yIHRlY2huaWNhbCB3cml0ZXIgKGRhdGEgZG9jdW1lbnRhdGlvbil8amV0YnJhaW5z",
-      "title": "Senior Technical Writer (Data Documentation)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich; Remote",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-15T08:55:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-technical-writer-data-documentation-51174"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbGl2ZS1yZXBseS1nbWJoL3Nlbmlvci1uZXR6cGxhbmVyLWdsYXNmYXNlcm5ldHplLWJ1MS1kdXNzZWxkb3JmLTIwOTUyOHwoc2VuaW9yKSBuZXR6cGxhbmVyIGdsYXNmYXNlcm5ldHplIChtL3cvZCkgYnUxfGxpdmUgcmVwbHkgZ21iaA",
-      "title": "(Senior) Netzplaner Glasfasernetze (m/w/d) BU1",
-      "company": "Live Reply GmbH",
-      "location": "Düsseldorf",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-15T07:30:23.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/live-reply-gmbh/senior-netzplaner-glasfasernetze-bu1-dusseldorf-209528"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODcyNjM5MDAzP2doX2ppZD03ODcyNjM5MDAzfGJpb21lZGljYWwgZW5naW5lZXIgaW50ZXJufG5ldXJhbGluaw",
@@ -414,7 +531,7 @@
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzk5MDYzMDAzP2doX2ppZD03Nzk5MDYzMDAzfGVudmlyb25tZW50YWwgaGVhbHRoIGFuZCBzYWZldHkgc3BlY2lhbGlzdHxuZXVyYWxpbms",
       "title": "Environmental Health and Safety Specialist",
       "company": "Neuralink",
-      "location": "South San Francisco, California, United States",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
       "workModel": "On-site",
       "opportunityType": "Full-time",
       "source": "Neuralink Jobs",
@@ -565,19 +682,6 @@
       "postedDate": "2026-05-20T16:13:25.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7741688003?gh_jid=7741688003"
-    },
-    {
-      "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD01OTk1OTY5MDA0fGV4ZWN1dGl2ZSBhc3Npc3RhbnQgdG8gY2VvLCBjZm8gJiBnZW5lcmFsIGNvdW5zZWx8bmV1cm9wYWNl",
-      "title": "Executive Assistant to CEO, CFO & General Counsel",
-      "company": "NeuroPace",
-      "location": "Mountain View, CA",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "NeuroPace Careers",
-      "sourceUrl": "https://boards.greenhouse.io/neuropace",
-      "postedDate": "2026-05-19T18:46:35.000Z",
-      "applyBy": null,
-      "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=5995969004"
     }
   ]
 }
