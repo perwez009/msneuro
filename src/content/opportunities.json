@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T12:41:43.997Z",
+  "generatedAt": "2026-08-18T18:35:50.460Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,97 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9oZWxsb2ZyZXNoL3JlbGlhYmlsaXR5LWVuZ2luZWVyLWRlcmJ5LTIyNDc4OHxyZWxpYWJpbGl0eSBlbmdpbmVlcnxoZWxsb2ZyZXNo",
+      "title": "Reliability Engineer",
+      "company": "hellofresh",
+      "location": "Derby",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T15:55:41.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hellofresh/reliability-engineer-derby-224788"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9nZW5pdXNzcG9ydHMvc2VuaW9yLWRhdGEtc2NpZW50aXN0LWxvbmRvbi00MTQ2NzV8c2VuaW9yIGRhdGEgc2NpZW50aXN0fGdlbml1c3Nwb3J0cw",
+      "title": "Senior Data Scientist",
+      "company": "Geniussports",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T15:55:05.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/geniussports/senior-data-scientist-london-414675"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9nZW5pdXNzcG9ydHMvc2VuaW9yLWRhdGEtc2NpZW5jZS1tYW5hZ2VyLWxvbmRvbi05ODk0NnxzZW5pb3IgZGF0YSBzY2llbmNlIG1hbmFnZXJ8Z2VuaXVzc3BvcnRz",
+      "title": "Senior Data Science Manager",
+      "company": "Geniussports",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T15:55:05.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/geniussports/senior-data-science-manager-london-98946"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcmVtb3RlY29tL3Byb2R1Y3QtbWFuYWdlci1iaWxsaW5nLXBsYXRmb3JtLTEwOTcyN3xwcm9kdWN0IG1hbmFnZXIsIGJpbGxpbmcgcGxhdGZvcm18cmVtb3RlY29t",
+      "title": "Product Manager, Billing Platform",
+      "company": "remotecom",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T14:55:34.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/remotecom/product-manager-billing-platform-109727"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdmVscHRlYy9yZW1vdGUtcHJvZmVzc29yc2hpcC13Mi1pbi1kYXRhLXNjaWVuY2UtYW5kLWRpZ2l0YWwtc3lzdGVtcy0xMDAtOTU5MjV8cHJvZmVzc29yc2hpcCAodzIpIGluIGRhdGEgc2NpZW5jZSBhbmQgZGlnaXRhbCBzeXN0ZW1zICgxMDAlKSAobS9mL2QpfHZlbHB0ZWM",
+      "title": "Professorship (W2) in Data Science and Digital Systems (100%) (m/f/d)",
+      "company": "Velptec",
+      "location": "Remote (Deutschland)",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T14:10:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/velptec/remote-professorship-w2-in-data-science-and-digital-systems-100-95925"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9mb3JtMy9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItZ28tNDc4MDM3fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciAoZ28pfGZvcm0z",
+      "title": "Senior Software Engineer (Go)",
+      "company": "Form3",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T12:55:15.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/senior-software-engineer-go-478037"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb250dS11ay9yZW1vdGUtY29uc3VsdGFudC1uZXVyb2xvZ2lzdC1wYXllLTI1MTgxOXxjb25zdWx0YW50IG5ldXJvbG9naXN0IHBheWV8bW9udHUgdWs",
+      "title": "Consultant Neurologist PAYE",
+      "company": "Montu Uk",
+      "location": "Remote",
+      "workModel": "On-site",
+      "opportunityType": "Part-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T12:40:19.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/remote-consultant-neurologist-paye-251819"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZpZGVudC1ldXJvcGUtZ21iaC9vZW0tYXBwbGljYXRpb25zLWVuZ2luZWVyLWVtZWEtaGFtYnVyZy04MjcwOHxvZW0gYXBwbGljYXRpb25zIGVuZ2luZWVyIC0gZW1lYXxldmlkZW50IGV1cm9wZSBnbWJo",
       "title": "OEM Applications Engineer - EMEA",
@@ -372,45 +463,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/smartmicro/deputy-manager-defense-and-automotive-products-braunschweig-15892"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmV1cmFsLWZyYW1lcy9wcm9kdWN0LWVuZ2luZWVyLWdyb3d0aC1haS1tdXNpYy12aWRlby1wbGF0Zm9ybS1iZXJsaW4tODYxNjV8cHJvZHVjdCBlbmdpbmVlciAoZ3Jvd3RoKSAvLyBhaSBtdXNpYyB2aWRlbyBwbGF0Zm9ybXxuZXVyYWwgZnJhbWVz",
-      "title": "Product Engineer (Growth) // AI Music Video Platform",
-      "company": "neural frames",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-17T14:17:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/neural-frames/product-engineer-growth-ai-music-video-platform-berlin-86165"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hcG90aGVjb20vYXNzb2NpYXRlLW1lZGljYWwtZGlyZWN0b3ItMzg5MTIzfGFzc29jaWF0ZSBtZWRpY2FsIGRpcmVjdG9yfGFwb3RoZWNvbQ",
-      "title": "Associate Medical Director",
-      "company": "Apothecom",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-17T12:41:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/apothecom/associate-medical-director-389123"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmV1cmFsLWZyYW1lcy9jcmVhdG9yLWdyb3d0aC1tYW5hZ2VyLWFpLW11c2ljLXZpZGVvLXBsYXRmb3JtLWJlcmxpbi00MDExNzZ8Y3JlYXRvciBncm93dGggbWFuYWdlciAvLyBhaSBtdXNpYyB2aWRlbyBwbGF0Zm9ybXxuZXVyYWwgZnJhbWVz",
-      "title": "Creator Growth Manager // AI Music Video Platform",
-      "company": "neural frames",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-17T10:00:42.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/neural-frames/creator-growth-manager-ai-music-video-platform-berlin-401176"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODcyNjM5MDAzP2doX2ppZD03ODcyNjM5MDAzfGJpb21lZGljYWwgZW5naW5lZXIgaW50ZXJufG5ldXJhbGluaw",
       "title": "Biomedical Engineer Intern",
       "company": "Neuralink",
@@ -721,19 +773,6 @@
       "postedDate": "2026-05-21T19:00:15.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7743087003?gh_jid=7743087003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzQxNjg4MDAzP2doX2ppZD03NzQxNjg4MDAzfHJlZ3VsYXRvcnkgZW5naW5lZXJ8bmV1cmFsaW5r",
-      "title": "Regulatory Engineer",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-05-20T16:13:25.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7741688003?gh_jid=7741688003"
     }
   ]
 }
