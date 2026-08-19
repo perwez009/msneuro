@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T18:35:50.460Z",
+  "generatedAt": "2026-08-19T01:08:48.365Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9qYW5lc3RyZWV0L21hY2hpbmUtbGVhcm5pbmctcmVzZWFyY2hlci1sb25kb24tMzI2ODI3fG1hY2hpbmUgbGVhcm5pbmcgcmVzZWFyY2hlcnxqYW5lc3RyZWV0",
+      "title": "Machine Learning Researcher",
+      "company": "Janestreet",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T21:55:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/janestreet/machine-learning-researcher-london-326827"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGhlLWV4cGxvcmF0aW9uLWNvbXBhbnkvZnV0dXJlLXByb2plY3RzLXRoZXJtYWwtZW5naW5lZXItbXVuaWNoLTE2NDYzfGZ1dHVyZSBwcm9qZWN0cyB0aGVybWFsIGVuZ2luZWVyfHRoZSBleHBsb3JhdGlvbiBjb21wYW55",
+      "title": "Future Projects Thermal Engineer",
+      "company": "The Exploration Company",
+      "location": "Munich, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T20:40:05.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/future-projects-thermal-engineer-munich-16463"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9maXJld29ya3MvYWktZmllbGQtZW5naW5lZXItZW1lYS1sb25kb24tMTM2MTk2fGFpIGZpZWxkIGVuZ2luZWVyLCBlbWVhfGZpcmV3b3Jrcw",
+      "title": "AI Field Engineer, EMEA",
+      "company": "Fireworks",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T18:40:23.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fireworks/ai-field-engineer-emea-london-136196"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcmVkbWltaWNyeS1nbWJoL3Nlbmlvci1haS1tbC1lbmdpbmVlci1zZWN1cml0eS1sb2ctaW50ZWxsaWdlbmNlLWJlcmxpbi00MzE2NDF8c2VuaW9yIGFpL21sIGVuZ2luZWVyLCBzZWN1cml0eSBsb2cgaW50ZWxsaWdlbmNlfHJlZG1pbWljcnkgZ21iaA",
+      "title": "Senior AI/ML Engineer, Security Log Intelligence",
+      "company": "RedMimicry GmbH",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-18T18:30:28.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/redmimicry-gmbh/senior-ai-ml-engineer-security-log-intelligence-berlin-431641"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9oZWxsb2ZyZXNoL3JlbGlhYmlsaXR5LWVuZ2luZWVyLWRlcmJ5LTIyNDc4OHxyZWxpYWJpbGl0eSBlbmdpbmVlcnxoZWxsb2ZyZXNo",
       "title": "Reliability Engineer",
@@ -370,32 +422,6 @@
       "postedDate": "2026-08-17T21:24:49.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/level-zero-health/talent-acquisition-lead-london-97066"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yZXNvbHZldG9zYXZlbGl2ZXMvc2VuaW9yLXRlY2huaWNhbC1hZHZpc29yLWRhdGEtdXNlLWFuZC1kZWNpc2lvbi1zY2llbmNlLXJlbW90ZS11cy11ay1mcmFuY2UtZHJjLXVzLWZyYW5jZS1kcmMtMzYyOTEyfHNlbmlvciB0ZWNobmljYWwgYWR2aXNvciwgZGF0YSB1c2UgYW5kIGRlY2lzaW9uIHNjaWVuY2UgKHJlbW90ZSAtIHVzLCB1aywgZnJhbmNlLCBkcmMpfHJlc29sdmV0b3NhdmVsaXZlcw",
-      "title": "Senior Technical Advisor, Data Use and Decision Science (Remote - US, UK, France, DRC)",
-      "company": "Resolvetosavelives",
-      "location": "US, France, DRC",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-17T18:56:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/resolvetosavelives/senior-technical-advisor-data-use-and-decision-science-remote-us-uk-france-drc-us-france-drc-362912"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9odWRsL3Nlbmlvci1tbG9wcy1lbmdpbmVlci1lZGdlLWxvbmRvbi0xNjU2OTB8c2VuaW9yIG1sb3BzIGVuZ2luZWVyIC0gZWRnZXxodWRs",
-      "title": "Senior MLOps Engineer - Edge",
-      "company": "Hudl",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-17T18:55:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hudl/senior-mlops-engineer-edge-london-165690"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODg2NTAzMDAzP2doX2ppZD03ODg2NTAzMDAzfHNvZnR3YXJlIGRlc2lnbiBxdWFsaXR5IGVuZ2luZWVyfG5ldXJhbGluaw",
