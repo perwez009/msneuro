@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T01:08:48.365Z",
+  "generatedAt": "2026-08-19T06:40:23.062Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90ZXNzbGNhcmVlcnMvbWVtYmVyLW9mLXRlY2huaWNhbC1zdGFmZi1yZXNlYXJjaC1lbmdpbmVlci1oYXJuZXNzLWVuZ2luZWVyaW5nLWFuZC1hZ2VudGljLW9yY2hlc3RyYXRpb24tbG9uZG9uLTU1NzUwfG1lbWJlciBvZiB0ZWNobmljYWwgc3RhZmYtIHJlc2VhcmNoIGVuZ2luZWVyIChoYXJuZXNzIGVuZ2luZWVyaW5nIGFuZCBhZ2VudGljIG9yY2hlc3RyYXRpb24pfHRlc3NsY2FyZWVycw",
+      "title": "Member of Technical Staff- Research Engineer (Harness Engineering and Agentic Orchestration)",
+      "company": "Tesslcareers",
+      "location": "London Office",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T03:40:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tesslcareers/member-of-technical-staff-research-engineer-harness-engineering-and-agentic-orchestration-london-55750"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNS93ZXJrc3R1ZGVudGluLWV2ZW50cy1oYW1idXJnLTEzMTQ1NHx3ZXJrc3R1ZGVudDppbiBldmVudHMgKG0vdy9kKSAtIGhhbWJ1cmd8MWtvbW1hNcKw",
+      "title": "Werkstudent:in Events (m/w/d) - Hamburg",
+      "company": "1KOMMA5°",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Part-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T02:09:53.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma5/werkstudentin-events-hamburg-131454"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNS9wcmFrdGlrYW50aW4tc2FsZXMtbWFya2V0aW5nLWJlcmxpbi00MDEwMTd8cHJha3Rpa2FudDppbiAobS93L2QpIC0gc2FsZXMvbWFya2V0aW5nfDFrb21tYTXCsA",
+      "title": "Praktikant:in (m/w/d) - Sales/Marketing",
+      "company": "1KOMMA5°",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T02:09:53.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma5/praktikantin-sales-marketing-berlin-401017"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNS9wcmFrdGlrYW50LWluZGlyZWN0LWRpcmVjdC1wcm9jdXJlbWVudC1oYW1idXJnLTIwMTU4OHxwcmFrdGlrYW50IGluZGlyZWN0L2RpcmVjdCBwcm9jdXJlbWVudCAobS93L2QpfDFrb21tYTXCsA",
+      "title": "Praktikant Indirect/Direct Procurement (m/w/d)",
+      "company": "1KOMMA5°",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T02:09:53.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma5/praktikant-indirect-direct-procurement-hamburg-201588"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9qYW5lc3RyZWV0L21hY2hpbmUtbGVhcm5pbmctcmVzZWFyY2hlci1sb25kb24tMzI2ODI3fG1hY2hpbmUgbGVhcm5pbmcgcmVzZWFyY2hlcnxqYW5lc3RyZWV0",
       "title": "Machine Learning Researcher",
@@ -333,58 +385,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/anthropic/applied-ai-architect-industries-munich-132783"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9odWJzcG90am9icy9zZW5pb3Itc29sdXRpb25zLWVuZ2luZWVyLW5vcmRpbHV4LTQ3MjQxN3xzZW5pb3Igc29sdXRpb25zIGVuZ2luZWVyIC0gbm9yZGlsdXh8aHVic3BvdGpvYnM",
-      "title": "Senior Solutions Engineer - Nordilux",
-      "company": "hubspotjobs",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-18T03:55:23.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hubspotjobs/senior-solutions-engineer-nordilux-472417"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9odWJzcG90am9icy9sZWFkLXByZXNhbGVzLXNvbHV0aW9ucy1lbmdpbmVlci1sb25kb24tMjY4OTA4fGxlYWQgcHJlc2FsZXMgc29sdXRpb25zIGVuZ2luZWVyfGh1YnNwb3Rqb2Jz",
-      "title": "Lead PreSales Solutions Engineer",
-      "company": "hubspotjobs",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-18T03:55:23.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hubspotjobs/lead-presales-solutions-engineer-london-268908"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9odWJzcG90am9icy9hY2NvdW50LWV4ZWN1dGl2ZS1zbWFsbC1idXNpbmVzcy1taWRkbGUtZWFzdC1hbmQtYWZyaWNhLWZsZXgtbG9uZG9uLTIzMzk1N3xhY2NvdW50IGV4ZWN1dGl2ZSwgc21hbGwgYnVzaW5lc3MgLSBtaWRkbGUgZWFzdCBhbmQgYWZyaWNhfGh1YnNwb3Rqb2Jz",
-      "title": "Account Executive, Small Business - Middle East and Africa",
-      "company": "hubspotjobs",
-      "location": "Flex - London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-18T03:55:23.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hubspotjobs/account-executive-small-business-middle-east-and-africa-flex-london-233957"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9odWJzcG90am9icy9hY2NvdW50LWV4ZWN1dGl2ZS1zbWFsbC1idXNpbmVzcy1taWRkbGUtZWFzdC1hbmQtYWZyaWNhLWxvbmRvbi0yOTg2NjB8YWNjb3VudCBleGVjdXRpdmUsIHNtYWxsIGJ1c2luZXNzIC0gbWlkZGxlIGVhc3QgYW5kIGFmcmljYXxodWJzcG90am9icw",
-      "title": "Account Executive, Small Business - Middle East and Africa",
-      "company": "hubspotjobs",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-18T03:55:23.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hubspotjobs/account-executive-small-business-middle-east-and-africa-london-298660"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW52ZXNkb3Ivd2Vya3N0dWRlbnRpbi1tYXJrZXRpbmctaW4tYmVybGluLWludmVzZG9yLWJlcmxpbi05NzM2Mnx3ZXJrc3R1ZGVudDppbiBtYXJrZXRpbmcgKG0vdy9kKSBpbiBiZXJsaW58aW52ZXNkb3I",
       "title": "Werkstudent:in Marketing (m/w/d) in Berlin",
       "company": "Invesdor",
@@ -409,19 +409,6 @@
       "postedDate": "2026-08-17T23:40:19.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/forward-deployed-engineer-software-engineer-germany-70994"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZXZlbC16ZXJvLWhlYWx0aC90YWxlbnQtYWNxdWlzaXRpb24tbGVhZC1sb25kb24tOTcwNjZ8dGFsZW50IGFjcXVpc2l0aW9uIGxlYWR8bGV2ZWwgemVybyBoZWFsdGg",
-      "title": "Talent Acquisition Lead",
-      "company": "Level Zero Health",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Management",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-17T21:24:49.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/level-zero-health/talent-acquisition-lead-london-97066"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODg2NTAzMDAzP2doX2ppZD03ODg2NTAzMDAzfHNvZnR3YXJlIGRlc2lnbiBxdWFsaXR5IGVuZ2luZWVyfG5ldXJhbGluaw",
@@ -461,32 +448,6 @@
       "postedDate": "2026-08-17T17:40:20.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/heating-system-supply-chain-lead-munich-453028"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3RhYnVyby9kYXRhLXNjaWVudGlzdC13aXRoLWZvY3VzLWJpb2luZm9ybWF0aWNzLWRpYWdub3N0aWNzLXBhcnQtZnVsbC10aW1lLW11bmljaC0zNjg0MTd8ZGF0YSBzY2llbnRpc3Qgd2l0aCBmb2N1cyBiaW9pbmZvcm1hdGljcyAvIGRpYWdub3N0aWNzIChmL20vZCAtIHBhcnQvZnVsbC10aW1lKXxzdGFidXJv",
-      "title": "Data Scientist with focus Bioinformatics / Diagnostics (f/m/d - part/full-time)",
-      "company": "Staburo",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-17T17:09:59.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/staburo/data-scientist-with-focus-bioinformatics-diagnostics-part-full-time-munich-368417"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc21hcnRtaWNyby9kZXB1dHktbWFuYWdlci1kZWZlbnNlLWFuZC1hdXRvbW90aXZlLXByb2R1Y3RzLWJyYXVuc2Nod2VpZy0xNTg5MnxkZXB1dHkgbWFuYWdlciBkZWZlbnNlIGFuZCBhdXRvbW90aXZlIHByb2R1Y3RzIChtL2YvZCl8c21hcnRtaWNybw",
-      "title": "Deputy Manager Defense and Automotive Products (m/f/d)",
-      "company": "smartmicro",
-      "location": "Braunschweig",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-17T14:30:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/smartmicro/deputy-manager-defense-and-automotive-products-braunschweig-15892"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODcyNjM5MDAzP2doX2ppZD03ODcyNjM5MDAzfGJpb21lZGljYWwgZW5naW5lZXIgaW50ZXJufG5ldXJhbGluaw",
