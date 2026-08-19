@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T06:40:23.062Z",
+  "generatedAt": "2026-08-19T12:42:13.390Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,162 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLW11bmljaC1nZXJtYW55LTE2MTQ1Mnxzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBtdW5pY2gsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Software Engineer, Platform - Munich, Germany",
+      "company": "speechify",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T12:15:10.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-munich-germany-161452"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWhhbWJ1cmctZ2VybWFueS05NzMyOXxzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBoYW1idXJnLCBnZXJtYW55fHNwZWVjaGlmeQ",
+      "title": "Software Engineer, Platform - Hamburg, Germany",
+      "company": "speechify",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T12:15:10.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-hamburg-germany-97329"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWR1c3NlbGRvcmYtZ2VybWFueS0yOTIwNDV8c29mdHdhcmUgZW5naW5lZXIsIHBsYXRmb3JtIC0gZMO8c3NlbGRvcmYsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Software Engineer, Platform - Düsseldorf, Germany",
+      "company": "speechify",
+      "location": "Düsseldorf",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T12:15:10.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-dusseldorf-germany-292045"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWlvcy1jb3JlLXByb2R1Y3QtZnJhbmtmdXJ0LWdlcm1hbnktMTk0Nzg2fHNvZnR3YXJlIGVuZ2luZWVyLCBpb3MgY29yZSBwcm9kdWN0IC0gZnJhbmtmdXJ0LCBnZXJtYW55fHNwZWVjaGlmeQ",
+      "title": "Software Engineer, iOS Core Product - Frankfurt, Germany",
+      "company": "speechify",
+      "location": "Frankfurt",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T12:15:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-frankfurt-germany-194786"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24taGFtYnVyZy1nZXJtYW55LTI1MjMxMnxzb2Z0d2FyZSBlbmdpbmVlciwgZGF0YSBpbmZyYXN0cnVjdHVyZSAmIGFjcXVpc2l0aW9uIC0gaGFtYnVyZywgZ2VybWFueXxzcGVlY2hpZnk",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Hamburg, Germany",
+      "company": "speechify",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T12:15:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-hamburg-germany-252312"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tYmVybGluLWdlcm1hbnktMzc0MTY4fHNvZnR3YXJlIGVuZ2luZWVyLCBkYXRhIGluZnJhc3RydWN0dXJlICYgYWNxdWlzaXRpb24gLSBiZXJsaW4sIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Berlin, Germany",
+      "company": "speechify",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T12:15:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-berlin-germany-374168"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLWZyYW5rZnVydC1nZXJtYW55LTQyMzU4NXxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIHdpbmRvd3MvZGVza3RvcCBhcHBsaWNhdGlvbnMgLSBmcmFua2Z1cnQsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - Frankfurt, Germany",
+      "company": "speechify",
+      "location": "Frankfurt",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T12:15:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-frankfurt-germany-423585"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLWJlcmxpbi1nZXJtYW55LTQwMzkzMnxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIHdpbmRvd3MvZGVza3RvcCBhcHBsaWNhdGlvbnMgLSBiZXJsaW4sIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - Berlin, Germany",
+      "company": "speechify",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T12:15:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-berlin-germany-403932"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2FwY2VsbGVuY2UtbWFuYWdlbWVudC1nbWJoL3ByaXZhdGUtZXF1aXR5LWludGVybi10by1hbmFseXN0LXByb2dyYW1tLWVpbnN0aWVnc3BlcnNwZWt0aXZlLWltLXBlLWhhbWJ1cmctMjcyMTE4fHByaXZhdGUgZXF1aXR5IOKAnmludGVybiB0byBhbmFseXN04oCcLXByb2dyYW1tIChtL3cvZCkgLSBlaW5zdGllZ3NwZXJzcGVrdGl2ZSBpbSBwZXxjYXBjZWxsZW5jZSBtYW5hZ2VtZW50IGdtYmg",
+      "title": "Private Equity „Intern to Analyst“-Programm (m/w/d) - Einstiegsperspektive im PE",
+      "company": "CAPCELLENCE Management GmbH",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T10:00:36.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/capcellence-management-gmbh/private-equity-intern-to-analyst-programm-einstiegsperspektive-im-pe-hamburg-272118"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvemFobG4vYmFja2VuZC1lbmdpbmVlci1mb3VuZGluZy10ZWFtLWF1Z3NidXJnLTI2MzUyNnxiYWNrZW5kIGVuZ2luZWVyIChtL3cvZCkgLSBmb3VuZGluZyB0ZWFtfHphaGxu",
+      "title": "Backend Engineer (m/w/d) - Founding Team",
+      "company": "Zahln",
+      "location": "Augsburg",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T09:30:30.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/zahln/backend-engineer-founding-team-augsburg-263526"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3Rhcmsvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLW1pc3Npb24tYXV0b25vbXktYWxsLWdlbmRlcnMtbXVuaWNoLTIwOTg5NXxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIgLSBtaXNzaW9uIGF1dG9ub215IChhbGwgZ2VuZGVycyl8c3Rhcms",
+      "title": "Senior Software Engineer - Mission Autonomy (All Genders)",
+      "company": "Stark",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T08:30:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/senior-software-engineer-mission-autonomy-all-genders-munich-209895"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbnRocm9waWMvc3RhZmYtc29mdHdhcmUtZW5naW5lZXItcGxhdGZvcm0tY29ubmVjdGl2aXR5LWxvbmRvbi0zNjk4Nzd8c3RhZmYrIHNvZnR3YXJlIGVuZ2luZWVyLCBwbGF0Zm9ybSBjb25uZWN0aXZpdHl8YW50aHJvcGlj",
+      "title": "Staff+ Software Engineer, Platform Connectivity",
+      "company": "Anthropic",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T06:55:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-software-engineer-platform-connectivity-london-369877"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90ZXNzbGNhcmVlcnMvbWVtYmVyLW9mLXRlY2huaWNhbC1zdGFmZi1yZXNlYXJjaC1lbmdpbmVlci1oYXJuZXNzLWVuZ2luZWVyaW5nLWFuZC1hZ2VudGljLW9yY2hlc3RyYXRpb24tbG9uZG9uLTU1NzUwfG1lbWJlciBvZiB0ZWNobmljYWwgc3RhZmYtIHJlc2VhcmNoIGVuZ2luZWVyIChoYXJuZXNzIGVuZ2luZWVyaW5nIGFuZCBhZ2VudGljIG9yY2hlc3RyYXRpb24pfHRlc3NsY2FyZWVycw",
       "title": "Member of Technical Staff- Research Engineer (Harness Engineering and Agentic Orchestration)",
@@ -151,32 +307,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/geniussports/senior-data-science-manager-london-98946"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcmVtb3RlY29tL3Byb2R1Y3QtbWFuYWdlci1iaWxsaW5nLXBsYXRmb3JtLTEwOTcyN3xwcm9kdWN0IG1hbmFnZXIsIGJpbGxpbmcgcGxhdGZvcm18cmVtb3RlY29t",
-      "title": "Product Manager, Billing Platform",
-      "company": "remotecom",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-18T14:55:34.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/remotecom/product-manager-billing-platform-109727"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdmVscHRlYy9yZW1vdGUtcHJvZmVzc29yc2hpcC13Mi1pbi1kYXRhLXNjaWVuY2UtYW5kLWRpZ2l0YWwtc3lzdGVtcy0xMDAtOTU5MjV8cHJvZmVzc29yc2hpcCAodzIpIGluIGRhdGEgc2NpZW5jZSBhbmQgZGlnaXRhbCBzeXN0ZW1zICgxMDAlKSAobS9mL2QpfHZlbHB0ZWM",
-      "title": "Professorship (W2) in Data Science and Digital Systems (100%) (m/f/d)",
-      "company": "Velptec",
-      "location": "Remote (Deutschland)",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-18T14:10:25.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/velptec/remote-professorship-w2-in-data-science-and-digital-systems-100-95925"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9mb3JtMy9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItZ28tNDc4MDM3fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciAoZ28pfGZvcm0z",
       "title": "Senior Software Engineer (Go)",
       "company": "Form3",
@@ -307,32 +437,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/bedrop/senior-native-advertising-manager-mannheim-44008"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9zZW5pb3ItZmluYW5jaWFsLWNyaW1lLWludmVzdGlnYXRvci1idXNpbmVzcy1iYW5raW5nLTI3OTAxOHxzZW5pb3IgZmluYW5jaWFsIGNyaW1lIGludmVzdGlnYXRvciAtIGJ1c2luZXNzIGJhbmtpbmd8bW9uem8",
-      "title": "Senior Financial Crime Investigator - Business Banking",
-      "company": "Monzo",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-18T06:55:41.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-financial-crime-investigator-business-banking-279018"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9sZWFkLXByb2R1Y3QtZGVzaWduZXItY2FyZGlmZi0yNzA2OTl8bGVhZCBwcm9kdWN0IGRlc2lnbmVyfG1vbnpv",
-      "title": "Lead Product Designer",
-      "company": "Monzo",
-      "location": "Cardiff",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-18T06:55:41.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/lead-product-designer-cardiff-270699"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW50aHJvcGljL2ZvcndhcmQtZGVwbG95ZWQtZW5naW5lZXItbXVuaWNoLTM3MDI0N3xmb3J3YXJkIGRlcGxveWVkIGVuZ2luZWVyfGFudGhyb3BpYw",
       "title": "Forward Deployed Engineer",
       "company": "anthropic",
@@ -398,19 +502,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/invesdor/werkstudentin-marketing-in-berlin-invesdor-berlin-97362"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZWxldmVubGFicy9mb3J3YXJkLWRlcGxveWVkLWVuZ2luZWVyLXNvZnR3YXJlLWVuZ2luZWVyLWdlcm1hbnktNzA5OTR8Zm9yd2FyZCBkZXBsb3llZCBlbmdpbmVlciAtIHNvZnR3YXJlIGVuZ2luZWVyIC0gZ2VybWFueXxlbGV2ZW5sYWJz",
-      "title": "Forward Deployed Engineer - Software Engineer - Germany",
-      "company": "ElevenLabs",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-17T23:40:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/forward-deployed-engineer-software-engineer-germany-70994"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODg2NTAzMDAzP2doX2ppZD03ODg2NTAzMDAzfHNvZnR3YXJlIGRlc2lnbiBxdWFsaXR5IGVuZ2luZWVyfG5ldXJhbGluaw",
       "title": "Software Design Quality Engineer",
       "company": "Neuralink",
@@ -422,32 +513,6 @@
       "postedDate": "2026-08-17T18:03:10.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7886503003?gh_jid=7886503003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZmlnbWEvZGlyZWN0b3Itc3RyYXRlZ2ljLXNhbGVzLWJlcmxpbi1nZXJtYW55LTQ5NDg4OXxkaXJlY3Rvciwgc3RyYXRlZ2ljIHNhbGVzIChiZXJsaW4sIGdlcm1hbnkpfGZpZ21h",
-      "title": "Director, Strategic Sales (Berlin, Germany)",
-      "company": "figma",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-17T17:55:34.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/figma/director-strategic-sales-berlin-germany-494889"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcHJveGltYS1mdXNpb24tZ21iaC9oZWF0aW5nLXN5c3RlbS1zdXBwbHktY2hhaW4tbGVhZC1tdW5pY2gtNDUzMDI4fGhlYXRpbmcgc3lzdGVtIHN1cHBseSBjaGFpbiBsZWFkfHByb3hpbWEgZnVzaW9uIGdtYmg",
-      "title": "Heating System Supply Chain Lead",
-      "company": "Proxima Fusion GmbH",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-17T17:40:20.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/heating-system-supply-chain-lead-munich-453028"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODcyNjM5MDAzP2doX2ppZD03ODcyNjM5MDAzfGJpb21lZGljYWwgZW5naW5lZXIgaW50ZXJufG5ldXJhbGluaw",
