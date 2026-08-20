@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T18:32:42.899Z",
+  "generatedAt": "2026-08-20T01:07:39.924Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,136 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYm93YXR0L2ZvdW5kaW5nLXByb2R1Y3Qtc3VjY2Vzcy1tYW5hZ2VyLWhlYWQtb2YtY3MtdHJhY2stbXVuaWNoLTM2NjYwfGZvdW5kaW5nIHByb2R1Y3Qgc3VjY2VzcyBtYW5hZ2VyLCBoZWFkIG9mIGNzIHRyYWNrfGJvd2F0dA",
+      "title": "Founding Product Success Manager, Head of CS Track",
+      "company": "Bowatt",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T23:40:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/bowatt/founding-product-success-manager-head-of-cs-track-munich-36660"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYm93YXR0L2JyYW5kLXByb2R1Y3QtbWFya2V0aW5nLW11bmljaC0zODE3MzF8YnJhbmQgJiBwcm9kdWN0IG1hcmtldGluZ3xib3dhdHQ",
+      "title": "Brand & Product Marketing",
+      "company": "Bowatt",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T23:40:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/bowatt/brand-product-marketing-munich-381731"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYm93YXR0L2ZvdW5kaW5nLWRlc2lnbi1lbmdpbmVlci1nZXJtYW55LTQzMjkzNXxmb3VuZGluZyBkZXNpZ24gZW5naW5lZXJ8Ym93YXR0",
+      "title": "Founding Design Engineer",
+      "company": "Bowatt",
+      "location": "Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T23:40:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/bowatt/founding-design-engineer-germany-432935"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy92bWxlbnRlcnByaXNlc29sdXRpb25zL3Nlbmlvci1jb21tZXJjZS1jb25zdWx0YW50LWxvbmRvbi03MTMyNHxzZW5pb3IgY29tbWVyY2UgY29uc3VsdGFudHx2bWxlbnRlcnByaXNlc29sdXRpb25z",
+      "title": "Senior Commerce Consultant",
+      "company": "Vmlenterprisesolutions",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T21:55:32.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/vmlenterprisesolutions/senior-commerce-consultant-london-71324"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9naXNtYXJ0L3JlbW90ZS1iaWxsaW5nLW1hbmFnZXItZml0bWUtNDk3NDQ2fGJpbGxpbmcgbWFuYWdlciAoZml0bWUpfGdpc21hcnQ",
+      "title": "Billing Manager (FitMe)",
+      "company": "Gismart",
+      "location": "Remote",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T21:40:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gismart/remote-billing-manager-fitme-497446"
+    },
+    {
+      "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTQwMDY0MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSByYWxlaWdoLCBuY3xuZXVyb3BhY2U",
+      "title": "Associate Therapy Consultant - Raleigh, NC",
+      "company": "NeuroPace",
+      "location": "Raleigh, NC",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "NeuroPace Careers",
+      "sourceUrl": "https://boards.greenhouse.io/neuropace",
+      "postedDate": "2026-08-19T21:21:25.000Z",
+      "applyBy": null,
+      "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=6140064004"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGhlLWV4cGxvcmF0aW9uLWNvbXBhbnkvc2VuaW9yLWNvbXBvc2l0ZS1lbmdpbmVlci1tdW5pY2gtMTQxMjEzfHNlbmlvciBjb21wb3NpdGUgZW5naW5lZXJ8dGhlIGV4cGxvcmF0aW9uIGNvbXBhbnk",
+      "title": "Senior Composite Engineer",
+      "company": "The Exploration Company",
+      "location": "Munich, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T20:40:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/senior-composite-engineer-munich-141213"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uaWNlL3Nlbmlvci1hY2NvdW50LWV4ZWN1dGl2ZS11a2ktNzU1Mjl8c2VuaW9yIGFjY291bnQgZXhlY3V0aXZlIC0gdWsmaXxuaWNl",
+      "title": "Senior Account Executive - UK&I",
+      "company": "nice",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T18:56:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/senior-account-executive-uki-75529"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW50aHJvcGljL2FwcGxpZWQtYWktZW5naW5lZXItZW50ZXJwcmlzZS1tdW5pY2gtMjg0MzAyfGFwcGxpZWQgYWkgZW5naW5lZXIsIGVudGVycHJpc2V8YW50aHJvcGlj",
+      "title": "Applied AI Engineer, Enterprise",
+      "company": "anthropic",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T17:55:05.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/anthropic/applied-ai-engineer-enterprise-munich-284302"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZG5zbmV0LWludGVybmV0LXNlcnZpY2UtZ21iaC90ZWFtbGVpdGVyLWl0LWJlcmxpbi0xNzk4MjV8dGVhbWxlaXRlciBpdCAobS93L2QpfGRuczpuZXQgaW50ZXJuZXQgc2VydmljZSBnbWJo",
+      "title": "Teamleiter IT (m/w/d)",
+      "company": "DNS:NET Internet Service GmbH",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-19T17:29:48.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/dnsnet-internet-service-gmbh/teamleiter-it-berlin-179825"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbnRocm9waWMvYXBwbGllZC1haS1hcmNoaXRlY3QtaW5kdXN0cmllcy1sb25kb24tMzY5NDM3fGFwcGxpZWQgYWkgYXJjaGl0ZWN0LCBpbmR1c3RyaWVzfGFudGhyb3BpYw",
       "title": "Applied AI Architect, Industries",
@@ -398,19 +528,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/1komma5/praktikant-indirect-direct-procurement-hamburg-201588"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9qYW5lc3RyZWV0L21hY2hpbmUtbGVhcm5pbmctcmVzZWFyY2hlci1sb25kb24tMzI2ODI3fG1hY2hpbmUgbGVhcm5pbmcgcmVzZWFyY2hlcnxqYW5lc3RyZWV0",
-      "title": "Machine Learning Researcher",
-      "company": "Janestreet",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-18T21:55:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/janestreet/machine-learning-researcher-london-326827"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGhlLWV4cGxvcmF0aW9uLWNvbXBhbnkvZnV0dXJlLXByb2plY3RzLXRoZXJtYWwtZW5naW5lZXItbXVuaWNoLTE2NDYzfGZ1dHVyZSBwcm9qZWN0cyB0aGVybWFsIGVuZ2luZWVyfHRoZSBleHBsb3JhdGlvbiBjb21wYW55",
       "title": "Future Projects Thermal Engineer",
       "company": "The Exploration Company",
@@ -461,84 +578,6 @@
       "postedDate": "2026-08-18T14:10:25.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/velptec/remote-professorship-w2-in-data-science-and-digital-systems-100-95925"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZpZGVudC1ldXJvcGUtZ21iaC9vZW0tYXBwbGljYXRpb25zLWVuZ2luZWVyLWVtZWEtaGFtYnVyZy04MjcwOHxvZW0gYXBwbGljYXRpb25zIGVuZ2luZWVyIC0gZW1lYXxldmlkZW50IGV1cm9wZSBnbWJo",
-      "title": "OEM Applications Engineer - EMEA",
-      "company": "EVIDENT Europe GmbH",
-      "location": "Hamburg",
-      "workModel": "Remote",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-18T12:00:36.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/evident-europe-gmbh/oem-applications-engineer-emea-hamburg-82708"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaHVic3BvdGpvYnMvbGVhZC1hY2NvdW50LWV4ZWN1dGl2ZS1zcGVjaWFsaXNhdGlvbi1jb3Jwb3JhdGUtZGFjaC1nZXJtYW55LWJhc2VkLTQ3MzA1M3xsZWFkIGFjY291bnQgZXhlY3V0aXZlLCBzcGVjaWFsaXNhdGlvbiAtIGNvcnBvcmF0ZSAtIGRhY2ggKGdlcm1hbnkgYmFzZWQpfGh1YnNwb3Rqb2Jz",
-      "title": "Lead Account Executive, Specialisation - Corporate - DACH (Germany Based)",
-      "company": "hubspotjobs",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-18T11:55:41.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/hubspotjobs/lead-account-executive-specialisation-corporate-dach-germany-based-473053"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd2Vtb2xvL3Nlbmlvci1idXNpbmVzcy1wcm9kdWN0LW1hbmFnZXItYWxsLWdlbmRlcnMtbXVuY2hlbi04Njc0OHxzZW5pb3IgYnVzaW5lc3MgcHJvZHVjdCBtYW5hZ2VyIChhbGwgZ2VuZGVycyl8d2Vtb2xv",
-      "title": "Senior Business Product Manager (all genders)",
-      "company": "Wemolo",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-18T11:40:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/wemolo/senior-business-product-manager-all-genders-munchen-86748"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWRqb2Uvc3RhZmYtbWwtcmVzZWFyY2gtc2NpZW50aXN0LWJlcmxpbi0zNzQ3Mjl8c3RhZmYgbWwgcmVzZWFyY2ggc2NpZW50aXN0IChtL2YvZCl8YWRqb2U",
-      "title": "Staff ML Research Scientist (m/f/d)",
-      "company": "adjoe",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-18T11:40:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/adjoe/staff-ml-research-scientist-berlin-374729"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWRqb2Uvc2VuaW9yLW1sLXJlc2VhcmNoLXNjaWVudGlzdC1haS1nZW5lcmF0aXZlLXJlY29tbWVuZGF0aW9uLWJlcmxpbi0zOTg5ODR8c2VuaW9yIG1sIHJlc2VhcmNoIHNjaWVudGlzdCDigJMgYWkgJiBnZW5lcmF0aXZlIHJlY29tbWVuZGF0aW9uIChtL2YvZCl8YWRqb2U",
-      "title": "Senior ML Research Scientist – AI & Generative Recommendation (m/f/d)",
-      "company": "adjoe",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-18T11:40:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-ml-research-scientist-ai-generative-recommendation-berlin-398984"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMveXBvZy1sYXcvbGVnYWwtYWktc3lzdGVtLWFyY2hpdGVjdC1iZXJsaW4tNDAxMzAwfGxlZ2FsIGFpIHN5c3RlbSBhcmNoaXRlY3QgKG0vdy9kKXx5cG9nIGxhdw",
-      "title": "Legal AI System Architect (m/w/d)",
-      "company": "Ypog Law",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-18T11:09:47.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/ypog-law/legal-ai-system-architect-berlin-401300"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODg2NTAzMDAzP2doX2ppZD03ODg2NTAzMDAzfHNvZnR3YXJlIGRlc2lnbiBxdWFsaXR5IGVuZ2luZWVyfG5ldXJhbGluaw",
@@ -838,32 +877,6 @@
       "postedDate": "2026-05-27T22:03:02.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7750309003?gh_jid=7750309003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzQzMDg5MDAzP2doX2ppZD03NzQzMDg5MDAzfHNvZnR3YXJlIGVuZ2luZWVyLCBjaS9jZHxuZXVyYWxpbms",
-      "title": "Software Engineer, CI/CD",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States; South San Francisco, California, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-05-21T19:00:16.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7743089003?gh_jid=7743089003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzQzMDg3MDAzP2doX2ppZD03NzQzMDg3MDAzfHNvZnR3YXJlIGVuZ2luZWVyLCBhc2ljfG5ldXJhbGluaw",
-      "title": "Software Engineer, ASIC",
-      "company": "Neuralink",
-      "location": "South San Francisco, California, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-05-21T19:00:15.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7743087003?gh_jid=7743087003"
     }
   ]
 }
