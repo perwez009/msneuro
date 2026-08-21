@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T01:11:45.951Z",
+  "generatedAt": "2026-08-21T06:42:28.268Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbnVjcy1haS9yZW1vdGUtbWFjaGluZS1sZWFybmluZy1zY2llbnRpc3QtYmVybGluLTEwMzIwOXxtYWNoaW5lIGxlYXJuaW5nIHNjaWVudGlzdHxudWNzIGFp",
+      "title": "Machine Learning Scientist",
+      "company": "Nucs AI",
+      "location": "Remote job",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-21T05:30:15.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-machine-learning-scientist-berlin-103209"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZmFzdG5lZC9jb3VudHJ5LWRpcmVjdG9yLWdlcm1hbnktZml4ZWQtdGVybS1lbXBseW9tZW50LTEteWVhci1rb2xuLTQ5MzAzOXxjb3VudHJ5IGRpcmVjdG9yIGdlcm1hbnkgKGZpeGVkIHRlcm0gZW1wbHlvbWVudCAxIHllYXIpfGZhc3RuZWQ",
+      "title": "Country Director Germany (Fixed Term Emplyoment 1 year)",
+      "company": "Fastned",
+      "location": "Köln, Nordrhein-Westfalen, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-21T02:30:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/fastned/country-director-germany-fixed-term-emplyoment-1-year-koln-493039"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yZW1vdGVjb20vcHJvZHVjdC1tYW5hZ2VyLWNvbnRyYWN0b3ItbWFuYWdlbWVudC0zNjAwNXxwcm9kdWN0IG1hbmFnZXIsIGNvbnRyYWN0b3IgbWFuYWdlbWVudHxyZW1vdGVjb20",
+      "title": "Product Manager, Contractor Management",
+      "company": "remotecom",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-21T00:55:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/remotecom/product-manager-contractor-management-36005"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90b2RheXRpeC1ncm91cC9zZW5pb3ItY3JlYXRpdmUtZGVzaWduZXItbG9uZG9uLXVrLTI4NTU5NHxzZW5pb3IgY3JlYXRpdmUgZGVzaWduZXJ8dG9kYXl0aXggZ3JvdXA",
+      "title": "Senior Creative Designer",
+      "company": "TodayTix Group",
+      "location": "London, UK",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-21T00:04:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/todaytix-group/senior-creative-designer-london-uk-285594"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90b2RheXRpeC1ncm91cC9sZWFkLXByb2R1Y3QtZGVzaWduZXItcG93ZXJlZC1ieS10b2RheXRpeC1sb25kb24tdWstNDk4NjA5fGxlYWQgcHJvZHVjdCBkZXNpZ25lciwgcG93ZXJlZCBieSB0b2RheXRpeHx0b2RheXRpeCBncm91cA",
+      "title": "Lead Product Designer, Powered by TodayTix",
+      "company": "TodayTix Group",
+      "location": "London, UK",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-21T00:04:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/todaytix-group/lead-product-designer-powered-by-todaytix-london-uk-498609"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbXV2bi9kYXRhLWFuYWx5c3QtYWxsLWdlbmRlcnMtaGFtYnVyZy0yMjI3MDh8ZGF0YSBhbmFseXN0IChhbGwgZ2VuZGVycyl8bXV2bg",
       "title": "Data Analyst (all genders)",
@@ -513,71 +578,6 @@
       "postedDate": "2026-08-19T17:29:48.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/dnsnet-internet-service-gmbh/teamleiter-it-berlin-179825"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva2F1c2FibGUtZ21iaC9zb2Z0d2FyZS1lbmdpbmVlci1lbmFibGVtZW50LWFuZC1wcm9kdWN0LWhlaWRlbGJlcmctNDYzMzk0fHNvZnR3YXJlIGVuZ2luZWVyIGVuYWJsZW1lbnQgYW5kIHByb2R1Y3R8a2F1c2FibGUgZ21iaA",
-      "title": "Software Engineer Enablement and Product",
-      "company": "kausable GmbH",
-      "location": "Heidelberg",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-19T14:00:34.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/kausable-gmbh/software-engineer-enablement-and-product-heidelberg-463394"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmF0cmFuLWRldXRzY2hsYW5kLWdtYmgvd2Vya3N0dWRlbnQtdGVjaG5pc2NoZXMtbWFuYWdlbWVudC1nYXMtdW5kLXdhc3NlcnN0b2ZmbmV0emUtYmVybGluLTEzNjg3OHx3ZXJrc3R1ZGVudCAobS93L2QpIC0gdGVjaG5pc2NoZXMgbWFuYWdlbWVudCBnYXMtIHVuZCB3YXNzZXJzdG9mZm5ldHplfG5hdHJhbiBkZXV0c2NobGFuZCBnbWJo",
-      "title": "Werkstudent (m/w/d) - Technisches Management Gas- und Wasserstoffnetze",
-      "company": "NaTran Deutschland GmbH",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Working student, hilfstätigkeit / student",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-19T14:00:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/natran-deutschland-gmbh/werkstudent-technisches-management-gas-und-wasserstoffnetze-berlin-136878"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWlvcy1jb3JlLXByb2R1Y3QtZnJhbmtmdXJ0LWdlcm1hbnktMTA3OHxzb2Z0d2FyZSBlbmdpbmVlciwgaW9zIGNvcmUgcHJvZHVjdCAtIGZyYW5rZnVydCwgZ2VybWFueXxzcGVlY2hpZnk",
-      "title": "Software Engineer, iOS Core Product - Frankfurt, Germany",
-      "company": "Speechify",
-      "location": "Frankfurt, Hesse, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-19T13:45:26.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-frankfurt-germany-1078"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLWJlcmxpbi1nZXJtYW55LTM4NjAzNnxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIHdpbmRvd3MvZGVza3RvcCBhcHBsaWNhdGlvbnMgLSBiZXJsaW4sIGdlcm1hbnl8c3BlZWNoaWZ5",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Berlin, Germany",
-      "company": "Speechify",
-      "location": "Berlin, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-19T13:45:26.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-berlin-germany-386036"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLW11bmljaC1nZXJtYW55LTE2MTQ1Mnxzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBtdW5pY2gsIGdlcm1hbnl8c3BlZWNoaWZ5",
-      "title": "Software Engineer, Platform - Munich, Germany",
-      "company": "speechify",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-19T12:15:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-munich-germany-161452"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODg2NTAzMDAzP2doX2ppZD03ODg2NTAzMDAzfHNvZnR3YXJlIGRlc2lnbiBxdWFsaXR5IGVuZ2luZWVyfG5ldXJhbGluaw",
