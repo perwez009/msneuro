@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T06:42:28.268Z",
+  "generatedAt": "2026-08-21T12:42:54.595Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,45 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc25rZS9zZW5pb3ItYWNjb3VudGFudC12b2xsLW9kZXItdGVpbHplaXQtbXVuY2hlbi0zMDg4MTl8c2VuaW9yIGFjY291bnRhbnQgKG0vdy9kKSAodm9sbC0gb2RlciB0ZWlsemVpdCl8c25rZQ",
+      "title": "Senior Accountant (m/w/d) (Voll- oder Teilzeit)",
+      "company": "Snke",
+      "location": "München",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-21T11:29:56.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-accountant-voll-oder-teilzeit-munchen-308819"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcHByby9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItZ2F0ZXdheS1qYXZhLWF3cy1iZXJsaW4tNDU0Mjk4fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciAtIGdhdGV3YXkgKGphdmEsIGF3cyl8cHBybw",
+      "title": "Senior Software Engineer - Gateway (Java, AWS)",
+      "company": "PPRO",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-21T11:24:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/ppro/senior-software-engineer-gateway-java-aws-berlin-454298"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvc2VvLWdlby1sZWFkLWJlcmxpbi0yMDI0MDV8c2VvIC8gZ2VvIGxlYWQgKG0vdy9kKXwxa29tbWE1y5o",
+      "title": "SEO / GEO Lead (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-21T10:47:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/seo-geo-lead-berlin-202405"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbnVjcy1haS9yZW1vdGUtbWFjaGluZS1sZWFybmluZy1zY2llbnRpc3QtYmVybGluLTEwMzIwOXxtYWNoaW5lIGxlYXJuaW5nIHNjaWVudGlzdHxudWNzIGFp",
       "title": "Machine Learning Scientist",
@@ -138,19 +177,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/nejo/ai-engineer-llm-rag-cologne-470459"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3JlbW90ZS1zZW5pb3ItdGVjaG5pY2FsLXByb2R1Y3QtbWFuYWdlci1pbnRlbGxpai1rb3RsaW4tcGx1Z2luLTEyMzE3MnxzZW5pb3IgdGVjaG5pY2FsIHByb2R1Y3QgbWFuYWdlciAoaW50ZWxsaWoga290bGluIHBsdWdpbil8amV0YnJhaW5z",
-      "title": "Senior Technical Product Manager (IntelliJ Kotlin Plugin)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich; Remote",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-20T17:55:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-technical-product-manager-intellij-kotlin-plugin-123172"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3Nlbmlvci1sZWdhbC1jb3Vuc2VsLWVtcGxveW1lbnQtbGF3LWJlcmxpbi1tdW5pY2gtOTM2MzF8c2VuaW9yIGxlZ2FsIGNvdW5zZWwgKGVtcGxveW1lbnQgbGF3KXxqZXRicmFpbnM",
       "title": "Senior Legal Counsel (Employment Law)",
       "company": "jetbrains",
@@ -255,19 +281,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/european-dynamics/remote-database-administrator-germany-431335"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvc2VvLWdlby1sZWFkLWJlcmxpbi0yMDI0MDV8c2VvIC8gZ2VvIGxlYWQgKG0vdy9kKXwxa29tbWE1y5o",
-      "title": "SEO / GEO Lead (m/w/d)",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-20T14:00:44.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/seo-geo-lead-berlin-202405"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVycXVvdGUvZGF0YS1zY2llbnRpc3QtYmVsZmFzdC1ub3J0aGVybi1pcmVsYW5kLTE2NTkzMHxkYXRhIHNjaWVudGlzdHxldmVycXVvdGU",
       "title": "Data Scientist",
       "company": "Everquote",
@@ -320,71 +333,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/callosum/ml-research-scientist-member-of-technical-staff-london-63478"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uaWNlL2xlYWQtc2l0ZS1yZWxpYWJpbGl0eS1lbmdpbmVlci00NjU5NDl8bGVhZCBzaXRlIHJlbGlhYmlsaXR5IGVuZ2luZWVyfG5pY2U",
-      "title": "Lead Site Reliability Engineer",
-      "company": "Nice",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-20T09:55:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/lead-site-reliability-engineer-465949"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uaWNlL2luZm9ybWF0aW9uLXNlY3VyaXR5LWFuYWx5c3QtYXVkaXQtY29tcGxpYW5jZS1jeWJlcnNlY3VyaXR5LTU4MzV8aW5mb3JtYXRpb24gc2VjdXJpdHkgYW5hbHlzdCAtIGF1ZGl0LCBjb21wbGlhbmNlICYgY3liZXJzZWN1cml0eXxuaWNl",
-      "title": "Information Security Analyst - Audit, Compliance & Cybersecurity",
-      "company": "Nice",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-20T09:55:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/information-security-analyst-audit-compliance-cybersecurity-5835"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uaWNlL2Rldm9wcy1lbmdpbmVlci1uaWdodC1zaGlmdDEwMDAtcG0tNjAwLWFtLTQ3NTcwNnxkZXZvcHMgZW5naW5lZXItIG5pZ2h0IHNoaWZ0KDEwOjAwIHBtIC0gNjowMCBhbSl8bmljZQ",
-      "title": "DevOps Engineer- Night Shift(10:00 PM - 6:00 AM)",
-      "company": "Nice",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-20T09:55:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/devops-engineer-night-shift1000-pm-600-am-475706"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uaWNlL2FjY291bnQtZXhlY3V0aXZlLW5pY2UtYWN0aW1pemUtNDU2OTA0fGFjY291bnQgZXhlY3V0aXZlIChuaWNlIGFjdGltaXplKXxuaWNl",
-      "title": "Account Executive (NiCE Actimize)",
-      "company": "Nice",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-20T09:55:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/account-executive-nice-actimize-456904"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yZWxhdGlvbnJ4L2RpcmVjdG9yLWNsaW5pY2FsLXBoYXJtYWNvbG9neS1sb25kb24tNDQwMDI4fGRpcmVjdG9yLCBjbGluaWNhbCBwaGFybWFjb2xvZ3l8cmVsYXRpb25yeA",
-      "title": "Director, Clinical Pharmacology",
-      "company": "Relationrx",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-20T09:40:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/relationrx/director-clinical-pharmacology-london-440028"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmljZS9wcmluY2lwYWwtcHJvZHVjdC1kZXNpZ25lci0zMTIzNDl8cHJpbmNpcGFsIHByb2R1Y3QgZGVzaWduZXJ8bmljZQ",
       "title": "Principal Product Designer",
       "company": "Nice",
@@ -424,32 +372,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-senior-product-designer-illustration-motion-edtech-65502"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yZWFsdGltZWJvYXJkZ2xvYmFsL3Nlbmlvci1saWZlY3ljbGUtbWFya2V0aW5nLW1hbmFnZXItbG9uZG9uLTI1MjM3MXxzZW5pb3IgbGlmZWN5Y2xlIG1hcmtldGluZyBtYW5hZ2VyfHJlYWx0aW1lYm9hcmRnbG9iYWw",
-      "title": "Senior Lifecycle Marketing Manager",
-      "company": "Realtimeboardglobal",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-20T06:55:23.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/realtimeboardglobal/senior-lifecycle-marketing-manager-london-252371"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jb21pbmQvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWFwcGxpZWQtYWktbG9uZG9uLTMzNjczNHxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIgLSBhcHBsaWVkIGFpfGNvbWluZA",
-      "title": "Senior Software Engineer - Applied AI",
-      "company": "Comind",
-      "location": "London, UK",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-20T06:40:13.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/senior-software-engineer-applied-ai-london-336734"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcmVhbGNoZW1pc3RyeS9hc3NvY2lhdGUtYWNjb3VudC1kaXJlY3Rvci1tZWRpY2FsLWNvbW11bmljYXRpb25zLW1hcmtldGluZy0xMTM1MzV8YXNzb2NpYXRlIGFjY291bnQgZGlyZWN0b3IgKG1lZGljYWwgY29tbXVuaWNhdGlvbnMgJiBtYXJrZXRpbmcpfHJlYWxjaGVtaXN0cnk",
       "title": "Associate Account Director (Medical Communications & Marketing)",
       "company": "Realchemistry",
@@ -461,19 +383,6 @@
       "postedDate": "2026-08-20T05:55:34.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/realchemistry/associate-account-director-medical-communications-marketing-113535"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93dW5kZXJtYW50aG9tcHNvbi9zZW5pb3ItY29tbWVyY2UtY29uc3VsdGFudC1sb25kb24tMTIyMDg4fHNlbmlvciBjb21tZXJjZSBjb25zdWx0YW50fHd1bmRlcm1hbnRob21wc29u",
-      "title": "Senior Commerce Consultant",
-      "company": "Wundermanthompson",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-20T03:55:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-commerce-consultant-london-122088"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd2Vtb2xvL3Byb2R1Y3QtbWFuYWdlci1hbGwtZ2VuZGVycy1tdW5jaGVuLTMwNzMyNnxwcm9kdWN0IG1hbmFnZXIgKGFsbCBnZW5kZXJzKXx3ZW1vbG8",
@@ -489,45 +398,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/wemolo/product-manager-all-genders-munchen-307326"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYm93YXR0L2ZvdW5kaW5nLXByb2R1Y3Qtc3VjY2Vzcy1tYW5hZ2VyLWhlYWQtb2YtY3MtdHJhY2stbXVuaWNoLTM2NjYwfGZvdW5kaW5nIHByb2R1Y3Qgc3VjY2VzcyBtYW5hZ2VyLCBoZWFkIG9mIGNzIHRyYWNrfGJvd2F0dA",
-      "title": "Founding Product Success Manager, Head of CS Track",
-      "company": "Bowatt",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-19T23:40:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/bowatt/founding-product-success-manager-head-of-cs-track-munich-36660"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYm93YXR0L2JyYW5kLXByb2R1Y3QtbWFya2V0aW5nLW11bmljaC0zODE3MzF8YnJhbmQgJiBwcm9kdWN0IG1hcmtldGluZ3xib3dhdHQ",
-      "title": "Brand & Product Marketing",
-      "company": "Bowatt",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-19T23:40:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/bowatt/brand-product-marketing-munich-381731"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYm93YXR0L2ZvdW5kaW5nLWRlc2lnbi1lbmdpbmVlci1nZXJtYW55LTQzMjkzNXxmb3VuZGluZyBkZXNpZ24gZW5naW5lZXJ8Ym93YXR0",
-      "title": "Founding Design Engineer",
-      "company": "Bowatt",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-19T23:40:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/bowatt/founding-design-engineer-germany-432935"
-    },
-    {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTQwMDY0MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSByYWxlaWdoLCBuY3xuZXVyb3BhY2U",
       "title": "Associate Therapy Consultant - Raleigh, NC",
       "company": "NeuroPace",
@@ -539,45 +409,6 @@
       "postedDate": "2026-08-19T21:21:25.000Z",
       "applyBy": null,
       "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=6140064004"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGhlLWV4cGxvcmF0aW9uLWNvbXBhbnkvc2VuaW9yLWNvbXBvc2l0ZS1lbmdpbmVlci1tdW5pY2gtMTQxMjEzfHNlbmlvciBjb21wb3NpdGUgZW5naW5lZXJ8dGhlIGV4cGxvcmF0aW9uIGNvbXBhbnk",
-      "title": "Senior Composite Engineer",
-      "company": "The Exploration Company",
-      "location": "Munich, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-19T20:40:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/senior-composite-engineer-munich-141213"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW50aHJvcGljL2FwcGxpZWQtYWktZW5naW5lZXItZW50ZXJwcmlzZS1tdW5pY2gtMjg0MzAyfGFwcGxpZWQgYWkgZW5naW5lZXIsIGVudGVycHJpc2V8YW50aHJvcGlj",
-      "title": "Applied AI Engineer, Enterprise",
-      "company": "anthropic",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-19T17:55:05.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/anthropic/applied-ai-engineer-enterprise-munich-284302"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZG5zbmV0LWludGVybmV0LXNlcnZpY2UtZ21iaC90ZWFtbGVpdGVyLWl0LWJlcmxpbi0xNzk4MjV8dGVhbWxlaXRlciBpdCAobS93L2QpfGRuczpuZXQgaW50ZXJuZXQgc2VydmljZSBnbWJo",
-      "title": "Teamleiter IT (m/w/d)",
-      "company": "DNS:NET Internet Service GmbH",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-19T17:29:48.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/dnsnet-internet-service-gmbh/teamleiter-it-berlin-179825"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODg2NTAzMDAzP2doX2ppZD03ODg2NTAzMDAzfHNvZnR3YXJlIGRlc2lnbiBxdWFsaXR5IGVuZ2luZWVyfG5ldXJhbGluaw",
