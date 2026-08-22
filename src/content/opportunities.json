@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T18:34:01.679Z",
+  "generatedAt": "2026-08-22T01:08:01.200Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,84 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93dW5kZXJtYW50aG9tcHNvbi9sZWFkLXByb2R1Y3QtbWFuYWdlci1jb250cmFjdC1sb25kb24tMzI3MzY2fGxlYWQgcHJvZHVjdCBtYW5hZ2VyIC0gY29udHJhY3R8d3VuZGVybWFudGhvbXBzb24",
+      "title": "Lead Product Manager - Contract",
+      "company": "Wundermanthompson",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-21T21:55:31.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/lead-product-manager-contract-london-327366"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTMxNjEwMDAzP2doX2ppZD03OTMxNjEwMDAzfHF1YWxpdHkgZW5naW5lZXIsIHNvZnR3YXJlIGRlc2lnbiBjb250cm9sc3xuZXVyYWxpbms",
+      "title": "Quality Engineer, Software Design Controls",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-08-21T20:30:00.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7931610003?gh_jid=7931610003"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmFudXEtZ21iaC9rYWxrdWxhdG9yaW4tbGFkZWluZnJhc3RydWt0dXItZW5lcmdpZWluZnJhc3RydWt0dXItY29sb2duZS0yNzIyNDh8a2Fsa3VsYXRvcjppbiBsYWRlaW5mcmFzdHJ1a3R1ciAmIGVuZXJnaWVpbmZyYXN0cnVrdHVyIChtL3cvZCl8bmFudXEgZ21iaA",
+      "title": "Kalkulator:in Ladeinfrastruktur & Energieinfrastruktur (m/w/d)",
+      "company": "nanuq GmbH",
+      "location": "Cologne",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-21T20:00:28.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/nanuq-gmbh/kalkulatorin-ladeinfrastruktur-energieinfrastruktur-cologne-272248"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9saWx0LWNvcnBvcmF0ZS9ndG0tZW5naW5lZXItbG9uZG9uLTQ5NzYwNHxndG0gZW5naW5lZXJ8bGlsdCBjb3Jwb3JhdGU",
+      "title": "GTM Engineer",
+      "company": "Lilt Corporate",
+      "location": "London, UK",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-21T18:40:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lilt-corporate/gtm-engineer-london-497604"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tZWdhcG9ydC9zZW5pb3Itc2l0ZS1yZWxpYWJpbGl0eS1lbmdpbmVlci11bml0ZWQta2luZ2RvbS0yMzgwOTZ8c2VuaW9yIHNpdGUgcmVsaWFiaWxpdHkgZW5naW5lZXJ8bWVnYXBvcnQ",
+      "title": "Senior Site Reliability Engineer",
+      "company": "Megaport",
+      "location": "United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-21T18:25:33.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/megaport/senior-site-reliability-engineer-united-kingdom-238096"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy92ZWxwdGVjLWVkdXRhaW5tZW50L3JlbW90ZS1wcm9mZXNzb3JzaGlwLXcyLWluLWJ1c2luZXNzLWluZm9ybWF0aW9uLXN5c3RlbXMtYnVzaW5lc3MtYW5hbHl0aWNzLWFuZC1hcHBsaWVkLWFpLTEwMC0xMjIwNjZ8cHJvZmVzc29yc2hpcCAodzIpIGluIGJ1c2luZXNzIGluZm9ybWF0aW9uIHN5c3RlbXMsIGJ1c2luZXNzIGFuYWx5dGljcyBhbmQgYXBwbGllZCBhaSAoMTAwICUpIChtL2YvZCl8dmVscHRlYyBlZHV0YWlubWVudA",
+      "title": "Professorship (W2) in Business Information Systems, Business Analytics and Applied AI (100 %) (m/f/d)",
+      "company": "velpTEC edutainment",
+      "location": "Remote",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-21T18:10:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/velptec-edutainment/remote-professorship-w2-in-business-information-systems-business-analytics-and-applied-ai-100-122066"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZnJlaWhlaXRjb20tdGVjaG5vbG9naWVzL2hhY2tlcnMtd2FudGVkLXNvZnR3YXJlLWVuZ2luZWVycy1oYW1idXJnLTQwMzIyMXxoYWNrZXJzIHdhbnRlZCDigJMgc29mdHdhcmUgZW5naW5lZXJzfGZyZWloZWl0LmNvbSB0ZWNobm9sb2dpZXM",
       "title": "Hackers wanted – Software Engineers",
@@ -437,19 +515,6 @@
       "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=6140064004"
     },
     {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODg2NTAzMDAzP2doX2ppZD03ODg2NTAzMDAzfHNvZnR3YXJlIGRlc2lnbiBxdWFsaXR5IGVuZ2luZWVyfG5ldXJhbGluaw",
-      "title": "Software Design Quality Engineer",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-08-17T18:03:10.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7886503003?gh_jid=7886503003"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODcyNjM5MDAzP2doX2ppZD03ODcyNjM5MDAzfGJpb21lZGljYWwgZW5naW5lZXIgaW50ZXJufG5ldXJhbGluaw",
       "title": "Biomedical Engineer Intern",
       "company": "Neuralink",
@@ -461,19 +526,6 @@
       "postedDate": "2026-08-14T22:57:49.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7872639003?gh_jid=7872639003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODY1MzcxMDAzP2doX2ppZD03ODY1MzcxMDAzfGNsaW5pY2FsIHJlc2VhcmNoIGFzc29jaWF0ZXxuZXVyYWxpbms",
-      "title": "Clinical Research Associate",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-08-13T16:56:29.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7865371003?gh_jid=7865371003"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83ODIzMzQyMDAzP2doX2ppZD03ODIzMzQyMDAzfGRpZ2l0YWwgdmVyaWZpY2F0aW9uIGVuZ2luZWVyfG5ldXJhbGluaw",
