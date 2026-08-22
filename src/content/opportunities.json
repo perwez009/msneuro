@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T06:36:50.692Z",
+  "generatedAt": "2026-08-22T12:35:25.016Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcXBsaXgvd2Vya3N0dWRlbnQtcGVvcGxlLW9yZ2FuaXphdGlvbmFsLWN1bHR1cmUtcG9jLW11bmNoZW4tNTE3ODB8d2Vya3N0dWRlbnQgKG0vdy9kKSB8IHBlb3BsZSAmIG9yZ2FuaXphdGlvbmFsIGN1bHR1cmUgKHBvYyl8cXBsaXg",
+      "title": "Werkstudent (m/w/d) | People & Organizational Culture (POC)",
+      "company": "Qplix",
+      "location": "München",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-22T11:09:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/qplix/werkstudent-people-organizational-culture-poc-munchen-51780"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uZWtvLWhlYWx0aC9kYXRhLXNjaWVudGlzdC1sb25kb24tMzQ3OTc2fGRhdGEgc2NpZW50aXN0fG5la28gaGVhbHRo",
+      "title": "Data Scientist",
+      "company": "Neko Health",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-22T09:40:19.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/neko-health/data-scientist-london-347976"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS9mcmF1ZC1pbnZlc3RpZ2F0b3ItbG9uZG9uLWtlbnQtMTQwNjg3fGZyYXVkIGludmVzdGlnYXRvcnxsZW5kYWJsZQ",
       "title": "Fraud Investigator",
@@ -307,45 +333,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/fastned/country-director-germany-fixed-term-emplyoment-1-year-koln-493039"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yZW1vdGVjb20vcHJvZHVjdC1tYW5hZ2VyLWNvbnRyYWN0b3ItbWFuYWdlbWVudC0zNjAwNXxwcm9kdWN0IG1hbmFnZXIsIGNvbnRyYWN0b3IgbWFuYWdlbWVudHxyZW1vdGVjb20",
-      "title": "Product Manager, Contractor Management",
-      "company": "remotecom",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T00:55:13.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/remotecom/product-manager-contractor-management-36005"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90b2RheXRpeC1ncm91cC9zZW5pb3ItY3JlYXRpdmUtZGVzaWduZXItbG9uZG9uLXVrLTI4NTU5NHxzZW5pb3IgY3JlYXRpdmUgZGVzaWduZXJ8dG9kYXl0aXggZ3JvdXA",
-      "title": "Senior Creative Designer",
-      "company": "TodayTix Group",
-      "location": "London, UK",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T00:04:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/todaytix-group/senior-creative-designer-london-uk-285594"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90b2RheXRpeC1ncm91cC9sZWFkLXByb2R1Y3QtZGVzaWduZXItcG93ZXJlZC1ieS10b2RheXRpeC1sb25kb24tdWstNDk4NjA5fGxlYWQgcHJvZHVjdCBkZXNpZ25lciwgcG93ZXJlZCBieSB0b2RheXRpeHx0b2RheXRpeCBncm91cA",
-      "title": "Lead Product Designer, Powered by TodayTix",
-      "company": "TodayTix Group",
-      "location": "London, UK",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T00:04:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/todaytix-group/lead-product-designer-powered-by-todaytix-london-uk-498609"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbXV2bi9kYXRhLWFuYWx5c3QtYWxsLWdlbmRlcnMtaGFtYnVyZy0yMjI3MDh8ZGF0YSBhbmFseXN0IChhbGwgZ2VuZGVycyl8bXV2bg",
       "title": "Data Analyst (all genders)",
       "company": "MUVN",
@@ -359,32 +346,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/muvn/data-analyst-all-genders-hamburg-222708"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy92bWxlbnRlcnByaXNlc29sdXRpb25zL3Nlbmlvci11aS1kZXNpZ25lci1jb250cmFjdC11ay1sb25kb24tMjg3MTkzfHNlbmlvciB1aSBkZXNpZ25lciAtIGNvbnRyYWN0IHVrfHZtbGVudGVycHJpc2Vzb2x1dGlvbnM",
-      "title": "Senior UI Designer - Contract UK",
-      "company": "Vmlenterprisesolutions",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-20T21:56:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/vmlenterprisesolutions/senior-ui-designer-contract-uk-london-287193"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy92bWxlbnRlcnByaXNlc29sdXRpb25zL2xlYWQtcHJvZHVjdC1tYW5hZ2VyLWNvbnRyYWN0LWxvbmRvbi0xNzczMjl8bGVhZCBwcm9kdWN0IG1hbmFnZXIgLSBjb250cmFjdHx2bWxlbnRlcnByaXNlc29sdXRpb25z",
-      "title": "Lead Product Manager - Contract",
-      "company": "Vmlenterprisesolutions",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-20T21:56:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/vmlenterprisesolutions/lead-product-manager-contract-london-177329"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9taW9zL2N5YmVyc2VjdXJpdHktY29uc3VsdGFudC1wYWxvLWFsdG8tbmV0d29ya3MtZnJhbmtmdXJ0LWFtLW1haW4tNzcxMTl8Y3liZXJzZWN1cml0eSBjb25zdWx0YW50IOKAkyBwYWxvIGFsdG8gbmV0d29ya3MgKG0vdy9kKXxub21pb3M",
       "title": "Cybersecurity Consultant – Palo Alto Networks (m/w/d)",
       "company": "Nomios",
@@ -396,84 +357,6 @@
       "postedDate": "2026-08-20T21:20:14.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/nomios/cybersecurity-consultant-palo-alto-networks-frankfurt-am-main-77119"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmVqby9haS1lbmdpbmVlci1sbG0tcmFnLWNvbG9nbmUtNDcwNDU5fGFpIGVuZ2luZWVyIChsbG0vcmFnKSAobS93L2QpfG5lam8",
-      "title": "AI Engineer (LLM/RAG) (m/w/d)",
-      "company": "Nejo",
-      "location": "Cologne",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-20T19:17:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/nejo/ai-engineer-llm-rag-cologne-470459"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3JlbW90ZS1zZW5pb3ItdGVjaG5pY2FsLXByb2R1Y3QtbWFuYWdlci1pbnRlbGxpai1rb3RsaW4tcGx1Z2luLTEyMzE3MnxzZW5pb3IgdGVjaG5pY2FsIHByb2R1Y3QgbWFuYWdlciAoaW50ZWxsaWoga290bGluIHBsdWdpbil8amV0YnJhaW5z",
-      "title": "Senior Technical Product Manager (IntelliJ Kotlin Plugin)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich; Remote",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-20T17:55:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-technical-product-manager-intellij-kotlin-plugin-123172"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3Nlbmlvci1sZWdhbC1jb3Vuc2VsLWVtcGxveW1lbnQtbGF3LWJlcmxpbi1tdW5pY2gtOTM2MzF8c2VuaW9yIGxlZ2FsIGNvdW5zZWwgKGVtcGxveW1lbnQgbGF3KXxqZXRicmFpbnM",
-      "title": "Senior Legal Counsel (Employment Law)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-20T17:55:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-legal-counsel-employment-law-berlin-munich-93631"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdHJhd2EvY3VzdG9tZXItc3VjY2Vzcy1hc3NvY2lhdGUtcmVuZXdhYmxlLWVuZXJneS1iZXJsaW4tMjg4NDk0fGN1c3RvbWVyIHN1Y2Nlc3MgYXNzb2NpYXRlIC0gcmVuZXdhYmxlIGVuZXJneXx0cmF3YQ",
-      "title": "Customer Success Associate - Renewable Energy",
-      "company": "trawa",
-      "location": "Berlin HQ",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-20T17:40:20.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/trawa/customer-success-associate-renewable-energy-berlin-288494"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdHJhd2EvY3VzdG9tZXItc3VjY2Vzcy1tYW5hZ2VyLXJlbmV3YWJsZS1zdXBwbHktYmVybGluLTg5Mjh8Y3VzdG9tZXIgc3VjY2VzcyBtYW5hZ2VyIC0gcmVuZXdhYmxlIHN1cHBseXx0cmF3YQ",
-      "title": "Customer Success Manager - Renewable Supply",
-      "company": "trawa",
-      "location": "Berlin HQ",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-20T17:40:20.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/trawa/customer-success-manager-renewable-supply-berlin-8928"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmVqby90ZWNoLWxlYWQtYWktZW5naW5lZXJpbmctY29sb2duZS0xNDgwMzl8dGVjaCBsZWFkIGFpIGVuZ2luZWVyaW5nIChtL3cvZCl8bmVqbw",
-      "title": "Tech Lead AI Engineering (m/w/d)",
-      "company": "Nejo",
-      "location": "Cologne",
-      "workModel": "On-site",
-      "opportunityType": "manager",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-20T15:30:29.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/nejo/tech-lead-ai-engineering-cologne-148039"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTQwMDY0MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSByYWxlaWdoLCBuY3xuZXVyb3BhY2U",
