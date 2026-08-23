@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T06:37:56.048Z",
+  "generatedAt": "2026-08-23T12:36:19.656Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,97 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZ2VzaXMtbGVpYm5pei1pbnN0aXR1dC1mdXItc296aWFsd2lzc2Vuc2NoYWZ0ZW4vcG9zdGRvY3RvcmFsLXJlc2VhcmNoZXItaW4tZ2Vvc3BhdGlhbC1wb2xpdGljYWwtZGF0YS1zZGMtMzIta29sbi00MTM3NjJ8cG9zdGRvY3RvcmFsIHJlc2VhcmNoZXIgaW4gZ2Vvc3BhdGlhbCBwb2xpdGljYWwgZGF0YSAoc2RjLTMyKXxnZXNpcyDigJMgbGVpYm5pei1pbnN0aXR1dCBmw7xyIHNvemlhbHdpc3NlbnNjaGFmdGVu",
+      "title": "Postdoctoral Researcher in geospatial political data (SDC-32)",
+      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
+      "location": "Köln",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T11:29:37.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/postdoctoral-researcher-in-geospatial-political-data-sdc-32-koln-413762"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZ2VzaXMtbGVpYm5pei1pbnN0aXR1dC1mdXItc296aWFsd2lzc2Vuc2NoYWZ0ZW4vZG9jdG9yYWwtcmVzZWFyY2hlci1jc3MtMTI1LWludGVybi1rb2xuLTM2OTU2NXxkb2N0b3JhbCByZXNlYXJjaGVyIChjc3MtMTI1X2ludGVybil8Z2VzaXMg4oCTIGxlaWJuaXotaW5zdGl0dXQgZsO8ciBzb3ppYWx3aXNzZW5zY2hhZnRlbg",
+      "title": "Doctoral Researcher (CSS-125_intern)",
+      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
+      "location": "Köln",
+      "workModel": "On-site",
+      "opportunityType": "Part-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T11:29:37.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/doctoral-researcher-css-125-intern-koln-369565"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbm9taW9zL2N5YmVyc2VjdXJpdHktY29uc3VsdGFudC1wYWxvLWFsdG8tbmV0d29ya3MtZnJhbmtmdXJ0LWFtLW1haW4tNDIwNjQ1fGN5YmVyc2VjdXJpdHkgY29uc3VsdGFudCDigJMgcGFsbyBhbHRvIG5ldHdvcmtzIChtL3cvZCl8bm9taW9z",
+      "title": "Cybersecurity Consultant – Palo Alto Networks (m/w/d)",
+      "company": "Nomios",
+      "location": "Frankfurt am Main, Hessen, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T08:30:23.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/nomios/cybersecurity-consultant-palo-alto-networks-frankfurt-am-main-420645"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZWxlcXRyb24tZ21iaC9zZW5pb3ItcXVhbnR1bS1mYXVsdC10b2xlcmFuY2UtYXJjaGl0ZWN0LXNpZWdlbi0yNTUwMTB8c2VuaW9yIHF1YW50dW0gZmF1bHQtdG9sZXJhbmNlIGFyY2hpdGVjdCAoZi9tL2QpfGVsZXF0cm9uIGdtYmg",
+      "title": "Senior Quantum Fault-Tolerance Architect (f/m/d)",
+      "company": "eleQtron GmbH",
+      "location": "Siegen, Nordrhein-Westfalen, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T08:30:14.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/eleqtron-gmbh/senior-quantum-fault-tolerance-architect-siegen-255010"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXV0b25vbW91cy10ZWFtaW5nL3Nlbmlvci1yb2JvdGljcy1wZXJjZXB0aW9uLWVuZ2luZWVyLW11bHRpLW9iamVjdC10cmFja2luZy1tdW5pY2gtZGV1LTU4OTh8c2VuaW9yIHJvYm90aWNzIHBlcmNlcHRpb24gZW5naW5lZXIg4oCTIG11bHRpLW9iamVjdCB0cmFja2luZ3xhdXRvbm9tb3VzLXRlYW1pbmc",
+      "title": "Senior Robotics Perception Engineer – Multi-Object Tracking",
+      "company": "autonomous-teaming",
+      "location": "Munich (DEU)",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T08:30:06.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/senior-robotics-perception-engineer-multi-object-tracking-munich-deu-5898"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW52ZXNkb3Ivd29ya2luZy1zdHVkZW50LW1hcmtldGluZy1pbi1iZXJsaW4taW52ZXNkb3ItYmVybGluLTE4MjMyNXx3b3JraW5nIHN0dWRlbnQgbWFya2V0aW5nIChtL2YvZCkgaW4gYmVybGlufGludmVzZG9y",
+      "title": "Working Student Marketing (m/f/d) in Berlin",
+      "company": "Invesdor",
+      "location": "Invesdor Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T08:29:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/invesdor/working-student-marketing-in-berlin-invesdor-berlin-182325"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcHJlbWF0Y2gtc3BvcnRzLWdtYmgvc29mdHdhcmUtZW5naW5lZXItZGF0YS1hbGwtZ2VuZGVycy1rb2xuLTM1ODU4NXxzb2Z0d2FyZSBlbmdpbmVlciAtIGRhdGEgKGFsbCBnZW5kZXJzKXxwcmVtYXRjaCBzcG9ydHMgZ21iaA",
+      "title": "Software Engineer - Data (All Genders)",
+      "company": "PREMATCH Sports GmbH",
+      "location": "Köln",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T05:30:10.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/prematch-sports-gmbh/software-engineer-data-all-genders-koln-358585"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3FhLWF1dG9tYXRpb24tZW5naW5lZXItaW50ZWxsaWotaWRlYS1qYXZhLWJ1aWxkLXRvb2xzLWJlcmxpbi1tdW5pY2gtMjMxMzIzfHFhIGF1dG9tYXRpb24gZW5naW5lZXIgKGludGVsbGlqIGlkZWEgamF2YSBidWlsZCB0b29scyl8amV0YnJhaW5z",
       "title": "QA Automation Engineer (IntelliJ IDEA Java Build Tools)",
@@ -242,19 +333,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/megaport/senior-site-reliability-engineer-united-kingdom-238096"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy92ZWxwdGVjLWVkdXRhaW5tZW50L3JlbW90ZS1wcm9mZXNzb3JzaGlwLXcyLWluLWJ1c2luZXNzLWluZm9ybWF0aW9uLXN5c3RlbXMtYnVzaW5lc3MtYW5hbHl0aWNzLWFuZC1hcHBsaWVkLWFpLTEwMC0xMjIwNjZ8cHJvZmVzc29yc2hpcCAodzIpIGluIGJ1c2luZXNzIGluZm9ybWF0aW9uIHN5c3RlbXMsIGJ1c2luZXNzIGFuYWx5dGljcyBhbmQgYXBwbGllZCBhaSAoMTAwICUpIChtL2YvZCl8dmVscHRlYyBlZHV0YWlubWVudA",
-      "title": "Professorship (W2) in Business Information Systems, Business Analytics and Applied AI (100 %) (m/f/d)",
-      "company": "velpTEC edutainment",
-      "location": "Remote",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T18:10:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/velptec-edutainment/remote-professorship-w2-in-business-information-systems-business-analytics-and-applied-ai-100-122066"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZnJlaWhlaXRjb20tdGVjaG5vbG9naWVzL2hhY2tlcnMtd2FudGVkLXNvZnR3YXJlLWVuZ2luZWVycy1oYW1idXJnLTQwMzIyMXxoYWNrZXJzIHdhbnRlZCDigJMgc29mdHdhcmUgZW5naW5lZXJzfGZyZWloZWl0LmNvbSB0ZWNobm9sb2dpZXM",
       "title": "Hackers wanted – Software Engineers",
       "company": "freiheit.com technologies",
@@ -292,45 +370,6 @@
       "postedDate": "2026-08-21T17:05:01.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-ml-technical-architect-lead-germany-27321"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9kaXJlY3Rvci1vZi1kYXRhLXBheW1lbnRzLWNhcmRpZmYtMzM5NTY3fGRpcmVjdG9yIG9mIGRhdGEsIHBheW1lbnRzfG1vbnpv",
-      "title": "Director of Data, Payments",
-      "company": "Monzo",
-      "location": "Cardiff",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T15:55:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/director-of-data-payments-cardiff-339567"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9jcmVkaXQtcmlzay1kaXJlY3Rvci1jYXJkaWZmLTQ4MzkxMXxjcmVkaXQgcmlzayBkaXJlY3Rvcnxtb256bw",
-      "title": "Credit Risk Director",
-      "company": "Monzo",
-      "location": "Cardiff",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T15:55:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/credit-risk-director-cardiff-483911"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9qb2JnZXRoZXIvYWktbWwtdGVjaG5pY2FsLWFyY2hpdGVjdC1sZWFkLXVrLTI3MjIwMHxhaS9tbCB0ZWNobmljYWwgYXJjaGl0ZWN0IGxlYWR8am9iZ2V0aGVy",
-      "title": "AI/ML Technical Architect Lead",
-      "company": "Jobgether",
-      "location": "UK",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T15:24:34.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-ml-technical-architect-lead-uk-272200"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmV3cmVsaWMvYWNjb3VudC1leGVjdXRpdmUtZW50ZXJwcmlzZS1zYWxlcy1iZXJsaW4tbXVuaWNoLTIzOTI4NXxhY2NvdW50IGV4ZWN1dGl2ZSAtIGVudGVycHJpc2Ugc2FsZXN8bmV3cmVsaWM",
@@ -396,32 +435,6 @@
       "postedDate": "2026-08-21T12:31:24.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/hommel-hired/freelancer-in-der-buchhaltung-steuerfachangestellter-im-e-commerce-100-remote-von-zu-hause-munich-17944"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc25rZS9zZW5pb3ItYWNjb3VudGFudC12b2xsLW9kZXItdGVpbHplaXQtbXVuY2hlbi0zMDg4MTl8c2VuaW9yIGFjY291bnRhbnQgKG0vdy9kKSAodm9sbC0gb2RlciB0ZWlsemVpdCl8c25rZQ",
-      "title": "Senior Accountant (m/w/d) (Voll- oder Teilzeit)",
-      "company": "Snke",
-      "location": "München",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T11:29:56.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-accountant-voll-oder-teilzeit-munchen-308819"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcHByby9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItZ2F0ZXdheS1qYXZhLWF3cy1iZXJsaW4tNDU0Mjk4fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciAtIGdhdGV3YXkgKGphdmEsIGF3cyl8cHBybw",
-      "title": "Senior Software Engineer - Gateway (Java, AWS)",
-      "company": "PPRO",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T11:24:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/ppro/senior-software-engineer-gateway-java-aws-berlin-454298"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTQwMDY0MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSByYWxlaWdoLCBuY3xuZXVyb3BhY2U",
