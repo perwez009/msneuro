@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T12:36:19.656Z",
+  "generatedAt": "2026-08-23T18:26:28.465Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,84 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vcHRpdmVydXMvZ3JhZHVhdGUtc29mdHdhcmUtZW5naW5lZXItbG9uZG9uLTM2ODE1M3xncmFkdWF0ZSBzb2Z0d2FyZSBlbmdpbmVlcnxvcHRpdmVydXM",
+      "title": "Graduate Software Engineer",
+      "company": "Optiverus",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T12:55:18.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/graduate-software-engineer-london-368153"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGFpdGlhbC9yZXNlYXJjaC1zY2llbnRpc3QtM2QtcmVjb25zdHJ1Y3Rpb24tc2ZtLXNsYW0tbG9uZG9uLTIxMDQwMnxyZXNlYXJjaCBzY2llbnRpc3QgLSAzZCByZWNvbnN0cnVjdGlvbiAoc2ZtICYgc2xhbSl8c3BhaXRpYWw",
+      "title": "Research Scientist - 3D Reconstruction (SfM & SLAM)",
+      "company": "Spaitial",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T12:40:12.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/spaitial/research-scientist-3d-reconstruction-sfm-slam-london-210402"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGFpdGlhbC9yZXNlYXJjaC1zY2llbnRpc3Qtcm9ib3QtbGVhcm5pbmctdmxhLXdhbS1sb25kb24tMjg3MjEwfHJlc2VhcmNoIHNjaWVudGlzdCAtIHJvYm90IGxlYXJuaW5nICh2bGEgLyB3YW0pfHNwYWl0aWFs",
+      "title": "Research Scientist - Robot Learning (VLA / WAM)",
+      "company": "Spaitial",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T12:40:12.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/spaitial/research-scientist-robot-learning-vla-wam-london-287210"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWJlcmxpbi1nZXJtYW55LTUxNjg1fHNvZnR3YXJlIGVuZ2luZWVyLCBwbGF0Zm9ybSAtIGJlcmxpbiwgZ2VybWFueXxzcGVlY2hpZnk",
+      "title": "Software Engineer, Platform - Berlin, Germany",
+      "company": "speechify",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T11:55:30.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-berlin-germany-51685"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWlvcy1jb3JlLXByb2R1Y3Qtc3R1dHRnYXJ0LWdlcm1hbnktNDkyMjI2fHNvZnR3YXJlIGVuZ2luZWVyLCBpb3MgY29yZSBwcm9kdWN0IC0gc3R1dHRnYXJ0LCBnZXJtYW55fHNwZWVjaGlmeQ",
+      "title": "Software Engineer, iOS Core Product - Stuttgart, Germany",
+      "company": "speechify",
+      "location": "Stuttgart",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T11:55:30.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-stuttgart-germany-492226"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tY29sb2duZS1nZXJtYW55LTM1MjYzNXxzb2Z0d2FyZSBlbmdpbmVlciwgZGF0YSBpbmZyYXN0cnVjdHVyZSAmIGFjcXVpc2l0aW9uIC0gY29sb2duZSwgZ2VybWFueXxzcGVlY2hpZnk",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Cologne, Germany",
+      "company": "speechify",
+      "location": "Cologne",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T11:55:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-cologne-germany-352635"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZ2VzaXMtbGVpYm5pei1pbnN0aXR1dC1mdXItc296aWFsd2lzc2Vuc2NoYWZ0ZW4vcG9zdGRvY3RvcmFsLXJlc2VhcmNoZXItaW4tZ2Vvc3BhdGlhbC1wb2xpdGljYWwtZGF0YS1zZGMtMzIta29sbi00MTM3NjJ8cG9zdGRvY3RvcmFsIHJlc2VhcmNoZXIgaW4gZ2Vvc3BhdGlhbCBwb2xpdGljYWwgZGF0YSAoc2RjLTMyKXxnZXNpcyDigJMgbGVpYm5pei1pbnN0aXR1dCBmw7xyIHNvemlhbHdpc3NlbnNjaGFmdGVu",
       "title": "Postdoctoral Researcher in geospatial political data (SDC-32)",
@@ -268,19 +346,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/fraud-disputes-specialist-london-55353"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93dW5kZXJtYW50aG9tcHNvbi9sZWFkLXByb2R1Y3QtbWFuYWdlci1jb250cmFjdC1sb25kb24tMzI3MzY2fGxlYWQgcHJvZHVjdCBtYW5hZ2VyIC0gY29udHJhY3R8d3VuZGVybWFudGhvbXBzb24",
-      "title": "Lead Product Manager - Contract",
-      "company": "Wundermanthompson",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T21:55:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/lead-product-manager-contract-london-327366"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTMxNjEwMDAzP2doX2ppZD03OTMxNjEwMDAzfHF1YWxpdHkgZW5naW5lZXIsIHNvZnR3YXJlIGRlc2lnbiBjb250cm9sc3xuZXVyYWxpbms",
       "title": "Quality Engineer, Software Design Controls",
       "company": "Neuralink",
@@ -305,32 +370,6 @@
       "postedDate": "2026-08-21T20:00:28.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/nanuq-gmbh/kalkulatorin-ladeinfrastruktur-energieinfrastruktur-cologne-272248"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9saWx0LWNvcnBvcmF0ZS9ndG0tZW5naW5lZXItbG9uZG9uLTQ5NzYwNHxndG0gZW5naW5lZXJ8bGlsdCBjb3Jwb3JhdGU",
-      "title": "GTM Engineer",
-      "company": "Lilt Corporate",
-      "location": "London, UK",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T18:40:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lilt-corporate/gtm-engineer-london-497604"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tZWdhcG9ydC9zZW5pb3Itc2l0ZS1yZWxpYWJpbGl0eS1lbmdpbmVlci11bml0ZWQta2luZ2RvbS0yMzgwOTZ8c2VuaW9yIHNpdGUgcmVsaWFiaWxpdHkgZW5naW5lZXJ8bWVnYXBvcnQ",
-      "title": "Senior Site Reliability Engineer",
-      "company": "Megaport",
-      "location": "United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T18:25:33.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/megaport/senior-site-reliability-engineer-united-kingdom-238096"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZnJlaWhlaXRjb20tdGVjaG5vbG9naWVzL2hhY2tlcnMtd2FudGVkLXNvZnR3YXJlLWVuZ2luZWVycy1oYW1idXJnLTQwMzIyMXxoYWNrZXJzIHdhbnRlZCDigJMgc29mdHdhcmUgZW5naW5lZXJzfGZyZWloZWl0LmNvbSB0ZWNobm9sb2dpZXM",
@@ -396,45 +435,6 @@
       "postedDate": "2026-08-21T14:40:19.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/everai/senior-product-designer-full-remote-germany-494183"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZlcmFpL2p1bmlvci1taWQtYWktbGVnYWwtc3BlY2lhbGlzdC1mdWxsLXJlbW90ZS1nZXJtYW55LTM1NTkxMXxqdW5pb3IvbWlkIGFpIGxlZ2FsIHNwZWNpYWxpc3QgKGZ1bGwgcmVtb3RlIC0gZ2VybWFueSl8ZXZlcmFp",
-      "title": "Junior/Mid AI Legal Specialist (Full Remote - Germany)",
-      "company": "EverAI",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T14:40:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/everai/junior-mid-ai-legal-specialist-full-remote-germany-355911"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd2lldGhlLWNvbnRlbnQtZ21iaC93ZXJiZXRleHRlci1td2QtYnJlbWVuLTI2OTk5Nnx3ZXJiZXRleHRlciAobXx3fGQpfHdpZXRoZSBjb250ZW50IGdtYmg",
-      "title": "Werbetexter (m|w|d)",
-      "company": "Wiethe Content GmbH",
-      "location": "Bremen",
-      "workModel": "Remote",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T13:30:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/wiethe-content-gmbh/werbetexter-mwd-bremen-269996"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaG9tbWVsLWhpcmVkL2ZyZWVsYW5jZXItaW4tZGVyLWJ1Y2hoYWx0dW5nLXN0ZXVlcmZhY2hhbmdlc3RlbGx0ZXItaW0tZS1jb21tZXJjZS0xMDAtcmVtb3RlLXZvbi16dS1oYXVzZS1tdW5pY2gtMTc5NDR8ZnJlZWxhbmNlciBpbiBkZXIgYnVjaGhhbHR1bmcgLyBzdGV1ZXJmYWNoYW5nZXN0ZWxsdGVyIChtL3cvZCkgaW0gZS1jb21tZXJjZSAtIDEwMCUgcmVtb3RlIC0gdm9uIHp1IGhhdXNlfGhvbW1lbCBoaXJlZA",
-      "title": "Freelancer in der Buchhaltung / Steuerfachangestellter (m/w/d) im E-Commerce - 100% remote - von zu Hause",
-      "company": "Hommel Hired",
-      "location": "Munich",
-      "workModel": "Remote",
-      "opportunityType": "Freelance",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T12:31:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/hommel-hired/freelancer-in-der-buchhaltung-steuerfachangestellter-im-e-commerce-100-remote-von-zu-hause-munich-17944"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTQwMDY0MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSByYWxlaWdoLCBuY3xuZXVyb3BhY2U",
