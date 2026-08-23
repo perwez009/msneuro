@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T18:27:57.417Z",
+  "generatedAt": "2026-08-23T01:13:16.879Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdmludGVkZW4vZGF0YS1zY2llbnRpc3QtYnV5ZXItYmVybGluLTQ0MDQ1NnxkYXRhIHNjaWVudGlzdCwgYnV5ZXJ8dmludGVkZW4",
+      "title": "Data Scientist, Buyer",
+      "company": "Vinteden",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-22T23:55:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/vinteden/data-scientist-buyer-berlin-440456"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcm94LWhlYWx0aC9yb3gtc3R1ZGVudC10YWxlbnQtcG9vbC13ZXJrc3R1ZGVudC1pbi1vZGVyLXByYWt0aWthbnQtaW4tZnVyLWRpZ2l0YWwtaGVhbHRoLXByb2pla3QtcmVtb3RlLWJlcmxpbi0yNTU4OTV8cm94IHN0dWRlbnQgdGFsZW50IHBvb2w6IHdlcmtzdHVkZW50L2luIG9kZXIgcHJha3Rpa2FudC9pbiAobS93L2QpIGbDvHIgZGlnaXRhbCBoZWFsdGggcHJvamVrdCAocmVtb3RlL2Jlcmxpbil8cm94IGhlYWx0aA",
       "title": "RoX Student Talent Pool: Werkstudent/in oder Praktikant/in (m/w/d) für Digital Health Projekt (Remote/Berlin)",
@@ -396,32 +409,6 @@
       "postedDate": "2026-08-21T11:24:22.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/ppro/senior-software-engineer-gateway-java-aws-berlin-454298"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbnVjcy1haS9yZW1vdGUtbWFjaGluZS1sZWFybmluZy1zY2llbnRpc3QtYmVybGluLTEwMzIwOXxtYWNoaW5lIGxlYXJuaW5nIHNjaWVudGlzdHxudWNzIGFp",
-      "title": "Machine Learning Scientist",
-      "company": "Nucs AI",
-      "location": "Remote job",
-      "workModel": "Remote",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T05:30:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-machine-learning-scientist-berlin-103209"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZmFzdG5lZC9jb3VudHJ5LWRpcmVjdG9yLWdlcm1hbnktZml4ZWQtdGVybS1lbXBseW9tZW50LTEteWVhci1rb2xuLTQ5MzAzOXxjb3VudHJ5IGRpcmVjdG9yIGdlcm1hbnkgKGZpeGVkIHRlcm0gZW1wbHlvbWVudCAxIHllYXIpfGZhc3RuZWQ",
-      "title": "Country Director Germany (Fixed Term Emplyoment 1 year)",
-      "company": "Fastned",
-      "location": "Köln, Nordrhein-Westfalen, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T02:30:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/fastned/country-director-germany-fixed-term-emplyoment-1-year-koln-493039"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTQwMDY0MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSByYWxlaWdoLCBuY3xuZXVyb3BhY2U",
