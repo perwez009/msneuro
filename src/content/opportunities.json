@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T01:13:16.879Z",
+  "generatedAt": "2026-08-23T06:37:56.048Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3FhLWF1dG9tYXRpb24tZW5naW5lZXItaW50ZWxsaWotaWRlYS1qYXZhLWJ1aWxkLXRvb2xzLWJlcmxpbi1tdW5pY2gtMjMxMzIzfHFhIGF1dG9tYXRpb24gZW5naW5lZXIgKGludGVsbGlqIGlkZWEgamF2YSBidWlsZCB0b29scyl8amV0YnJhaW5z",
+      "title": "QA Automation Engineer (IntelliJ IDEA Java Build Tools)",
+      "company": "jetbrains",
+      "location": "Berlin; Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T02:55:30.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/qa-automation-engineer-intellij-idea-java-build-tools-berlin-munich-231323"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdmludGVkZW4vZGF0YS1zY2llbnRpc3QtYnV5ZXItYmVybGluLTQ0MDQ1NnxkYXRhIHNjaWVudGlzdCwgYnV5ZXJ8dmludGVkZW4",
       "title": "Data Scientist, Buyer",
