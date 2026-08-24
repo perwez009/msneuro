@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T06:54:48.082Z",
+  "generatedAt": "2026-08-24T12:45:46.204Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbW90b3ItYWkvbGVhZC1lbmdpbmVlci1kYXRhLWluZnJhc3RydWN0dXJlLWJlcmxpbi0yNDk0MTh8bGVhZCBlbmdpbmVlciAobS9mL2QpIGRhdGEgaW5mcmFzdHJ1Y3R1cmV8bW90b3IgYWk",
+      "title": "Lead Engineer (m/f/d) Data Infrastructure",
+      "company": "MOTOR Ai",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "manager",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-24T09:00:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/motor-ai/lead-engineer-data-infrastructure-berlin-249418"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLWJlcmxpbi1nZXJtYW55LTI4NTYzOXxzb2Z0d2FyZSBlbmdpbmVlciwgcGxhdGZvcm0gLSBiZXJsaW4sIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Software Engineer, Platform - Berlin, Germany",
+      "company": "Speechify",
+      "location": "Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-24T06:45:28.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-berlin-germany-285639"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kZWVwbC9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItaWRlbnRpdHktYW5kLWFjY2Vzcy1tYW5hZ2VtZW50LWZ1bGwtc3RhY2stbG9uZG9uLTE2MDMzOHxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIgfCBpZGVudGl0eSBhbmQgYWNjZXNzIG1hbmFnZW1lbnQgfCBmdWxsLXN0YWNrfGRlZXBs",
       "title": "Senior Software Engineer | Identity and Access Management | Full-Stack",
@@ -32,45 +58,6 @@
       "postedDate": "2026-08-23T23:10:33.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-events-hamburg-322094"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvc2VvLWdlby1sZWFkLWJlcmxpbi0yMjE4NDV8c2VvIC8gZ2VvIGxlYWQgKG0vdy9kKXwxa29tbWE1Z3JhZA",
-      "title": "SEO / GEO Lead (m/w/d)",
-      "company": "1Komma5Grad",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-23T23:10:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/seo-geo-lead-berlin-221845"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvcHJha3Rpa2FudGluLXNhbGVzLW1hcmtldGluZy1iZXJsaW4tMTQxNTczfHByYWt0aWthbnQ6aW4gKG0vdy9kKSAtIHNhbGVzL21hcmtldGluZ3wxa29tbWE1Z3JhZA",
-      "title": "Praktikant:in (m/w/d) - Sales/Marketing",
-      "company": "1Komma5Grad",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-23T23:10:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/praktikantin-sales-marketing-berlin-141573"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvcHJha3Rpa2FudC1pbmRpcmVjdC1kaXJlY3QtcHJvY3VyZW1lbnQtaGFtYnVyZy0xNTY0NDh8cHJha3Rpa2FudCBpbmRpcmVjdC9kaXJlY3QgcHJvY3VyZW1lbnQgKG0vdy9kKXwxa29tbWE1Z3JhZA",
-      "title": "Praktikant Indirect/Direct Procurement (m/w/d)",
-      "company": "1Komma5Grad",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-23T23:10:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/praktikant-indirect-direct-procurement-hamburg-156448"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGF0YWNlcHQvYWktZm91bmRpbmctZW5naW5lZXItcmYtbWFjaGluZS1sZWFybmluZy1zaWdpbnQtaGFtYnVyZy04MDE2fGFpIGZvdW5kaW5nIGVuZ2luZWVyOiByZiBtYWNoaW5lIGxlYXJuaW5nIChzaWdpbnQpIChmL20vZCl8ZGF0YWNlcHQ",
