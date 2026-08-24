@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T18:26:28.465Z",
+  "generatedAt": "2026-08-24T01:11:21.687Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,123 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvd2Vya3N0dWRlbnRpbi1ldmVudHMtaGFtYnVyZy0zMjIwOTR8d2Vya3N0dWRlbnQ6aW4gZXZlbnRzIChtL3cvZCkgLSBoYW1idXJnfDFrb21tYTVncmFk",
+      "title": "Werkstudent:in Events (m/w/d) - Hamburg",
+      "company": "1Komma5Grad",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Part-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T23:10:33.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-events-hamburg-322094"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvc2VvLWdlby1sZWFkLWJlcmxpbi0yMjE4NDV8c2VvIC8gZ2VvIGxlYWQgKG0vdy9kKXwxa29tbWE1Z3JhZA",
+      "title": "SEO / GEO Lead (m/w/d)",
+      "company": "1Komma5Grad",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T23:10:32.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/seo-geo-lead-berlin-221845"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvcHJha3Rpa2FudGluLXNhbGVzLW1hcmtldGluZy1iZXJsaW4tMTQxNTczfHByYWt0aWthbnQ6aW4gKG0vdy9kKSAtIHNhbGVzL21hcmtldGluZ3wxa29tbWE1Z3JhZA",
+      "title": "Praktikant:in (m/w/d) - Sales/Marketing",
+      "company": "1Komma5Grad",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T23:10:32.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/praktikantin-sales-marketing-berlin-141573"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvcHJha3Rpa2FudC1pbmRpcmVjdC1kaXJlY3QtcHJvY3VyZW1lbnQtaGFtYnVyZy0xNTY0NDh8cHJha3Rpa2FudCBpbmRpcmVjdC9kaXJlY3QgcHJvY3VyZW1lbnQgKG0vdy9kKXwxa29tbWE1Z3JhZA",
+      "title": "Praktikant Indirect/Direct Procurement (m/w/d)",
+      "company": "1Komma5Grad",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T23:10:32.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/praktikant-indirect-direct-procurement-hamburg-156448"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGF0YWNlcHQvYWktZm91bmRpbmctZW5naW5lZXItcmYtbWFjaGluZS1sZWFybmluZy1zaWdpbnQtaGFtYnVyZy04MDE2fGFpIGZvdW5kaW5nIGVuZ2luZWVyOiByZiBtYWNoaW5lIGxlYXJuaW5nIChzaWdpbnQpIChmL20vZCl8ZGF0YWNlcHQ",
+      "title": "AI Founding Engineer: RF Machine Learning (SIGINT) (f/m/d)",
+      "company": "Datacept",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T22:00:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/datacept/ai-founding-engineer-rf-machine-learning-sigint-hamburg-8016"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcXVhbnR1bS1zeXN0ZW1zLWdtYmgvd29ya2luZy1zdHVkZW50LXBvb2wteW91ci1zdGFydC1hdC1xdWFudHVtLXN5c3RlbXMtZ2lsY2hpbmctNDc5ODY3fHdvcmtpbmcgc3R1ZGVudCBwb29sIC0geW91ciBzdGFydCBhdCBxdWFudHVtLXN5c3RlbXN8cXVhbnR1bS1zeXN0ZW1zIGdtYmg",
+      "title": "Working Student Pool - Your start at Quantum-Systems",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T20:30:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-pool-your-start-at-quantum-systems-gilching-479867"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcXVhbnR1bS1zeXN0ZW1zLWdtYmgvc2VuaW9yLWVtYmVkZGVkLXNvZnR3YXJlLWVuZ2luZWVyLXJlbGlhbnQtZ2lsY2hpbmctMjI1Mzc2fChzZW5pb3IpIGVtYmVkZGVkIHNvZnR3YXJlIGVuZ2luZWVyIC0gcmVsaWFudHxxdWFudHVtLXN5c3RlbXMgZ21iaA",
+      "title": "(Senior) Embedded Software Engineer - Reliant",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T20:30:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-embedded-software-engineer-reliant-gilching-225376"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9oYW5vdmVyL3Nlbmlvci1jb25zdWx0YW50LXNlbmlvci1hY2NvdW50LW1hbmFnZXItcHVibGljLWFmZmFpcnMtbG9uZG9uLTMxMzI2NnxzZW5pb3IgY29uc3VsdGFudCAoc2VuaW9yIGFjY291bnQgbWFuYWdlcikgfCBwdWJsaWMgYWZmYWlycyB8IGxvbmRvbnxoYW5vdmVy",
+      "title": "Senior Consultant (Senior Account Manager) | Public Affairs | London",
+      "company": "Hanover",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T18:55:30.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hanover/senior-consultant-senior-account-manager-public-affairs-london-313266"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29uc2Npb3VzLWxpdmluZy1nbWJoL21hcmtldGluZy1hbGwtcm91bmRlcmluLWNvbnRlbnQtY3JlYXRvcmluLWJlcmxpbi0xNTY1NDV8bWFya2V0aW5nIGFsbC1yb3VuZGVyOmluICYgY29udGVudCBjcmVhdG9yOmluIChtL3cvZCl8Y29uc2Npb3VzIGxpdmluZyBnbWJo",
+      "title": "Marketing All-Rounder:in & Content Creator:in (m/w/d)",
+      "company": "Conscious Living GmbH",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-23T17:30:26.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/conscious-living-gmbh/marketing-all-rounderin-content-creatorin-berlin-156545"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vcHRpdmVydXMvZ3JhZHVhdGUtc29mdHdhcmUtZW5naW5lZXItbG9uZG9uLTM2ODE1M3xncmFkdWF0ZSBzb2Z0d2FyZSBlbmdpbmVlcnxvcHRpdmVydXM",
       "title": "Graduate Software Engineer",
@@ -409,32 +526,6 @@
       "postedDate": "2026-08-21T17:05:01.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-ml-technical-architect-lead-germany-27321"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmV3cmVsaWMvYWNjb3VudC1leGVjdXRpdmUtZW50ZXJwcmlzZS1zYWxlcy1iZXJsaW4tbXVuaWNoLTIzOTI4NXxhY2NvdW50IGV4ZWN1dGl2ZSAtIGVudGVycHJpc2Ugc2FsZXN8bmV3cmVsaWM",
-      "title": "Account Executive - Enterprise Sales",
-      "company": "newrelic",
-      "location": "Berlin; Munich",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T14:55:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/newrelic/account-executive-enterprise-sales-berlin-munich-239285"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZlcmFpL3Nlbmlvci1wcm9kdWN0LWRlc2lnbmVyLWZ1bGwtcmVtb3RlLWdlcm1hbnktNDk0MTgzfHNlbmlvciBwcm9kdWN0IGRlc2lnbmVyIChmdWxsIHJlbW90ZSAtIGdlcm1hbnkpfGV2ZXJhaQ",
-      "title": "Senior Product Designer (Full Remote - Germany)",
-      "company": "EverAI",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T14:40:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/everai/senior-product-designer-full-remote-germany-494183"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTQwMDY0MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSByYWxlaWdoLCBuY3xuZXVyb3BhY2U",
