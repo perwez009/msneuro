@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T01:11:21.687Z",
+  "generatedAt": "2026-08-24T06:54:48.082Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kZWVwbC9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItaWRlbnRpdHktYW5kLWFjY2Vzcy1tYW5hZ2VtZW50LWZ1bGwtc3RhY2stbG9uZG9uLTE2MDMzOHxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIgfCBpZGVudGl0eSBhbmQgYWNjZXNzIG1hbmFnZW1lbnQgfCBmdWxsLXN0YWNrfGRlZXBs",
+      "title": "Senior Software Engineer | Identity and Access Management | Full-Stack",
+      "company": "Deepl",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-24T00:40:10.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/senior-software-engineer-identity-and-access-management-full-stack-london-160338"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvd2Vya3N0dWRlbnRpbi1ldmVudHMtaGFtYnVyZy0zMjIwOTR8d2Vya3N0dWRlbnQ6aW4gZXZlbnRzIChtL3cvZCkgLSBoYW1idXJnfDFrb21tYTVncmFk",
       "title": "Werkstudent:in Events (m/w/d) - Hamburg",
@@ -437,32 +450,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/neko-health/data-scientist-london-347976"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS9mcmF1ZC1pbnZlc3RpZ2F0b3ItbG9uZG9uLWtlbnQtMTQwNjg3fGZyYXVkIGludmVzdGlnYXRvcnxsZW5kYWJsZQ",
-      "title": "Fraud Investigator",
-      "company": "Lendable",
-      "location": "London/Kent",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-22T03:40:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/fraud-investigator-london-kent-140687"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS9mcmF1ZC1kaXNwdXRlcy1zcGVjaWFsaXN0LWxvbmRvbi01NTM1M3xmcmF1ZCAmIGRpc3B1dGVzIHNwZWNpYWxpc3R8bGVuZGFibGU",
-      "title": "Fraud & Disputes Specialist",
-      "company": "Lendable",
-      "location": "London, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-22T03:40:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/fraud-disputes-specialist-london-55353"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTMxNjEwMDAzP2doX2ppZD03OTMxNjEwMDAzfHF1YWxpdHkgZW5naW5lZXIsIHNvZnR3YXJlIGRlc2lnbiBjb250cm9sc3xuZXVyYWxpbms",
       "title": "Quality Engineer, Software Design Controls",
       "company": "Neuralink",
@@ -474,58 +461,6 @@
       "postedDate": "2026-08-21T20:30:00.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7931610003?gh_jid=7931610003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmFudXEtZ21iaC9rYWxrdWxhdG9yaW4tbGFkZWluZnJhc3RydWt0dXItZW5lcmdpZWluZnJhc3RydWt0dXItY29sb2duZS0yNzIyNDh8a2Fsa3VsYXRvcjppbiBsYWRlaW5mcmFzdHJ1a3R1ciAmIGVuZXJnaWVpbmZyYXN0cnVrdHVyIChtL3cvZCl8bmFudXEgZ21iaA",
-      "title": "Kalkulator:in Ladeinfrastruktur & Energieinfrastruktur (m/w/d)",
-      "company": "nanuq GmbH",
-      "location": "Cologne",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T20:00:28.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/nanuq-gmbh/kalkulatorin-ladeinfrastruktur-energieinfrastruktur-cologne-272248"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZnJlaWhlaXRjb20tdGVjaG5vbG9naWVzL2hhY2tlcnMtd2FudGVkLXNvZnR3YXJlLWVuZ2luZWVycy1oYW1idXJnLTQwMzIyMXxoYWNrZXJzIHdhbnRlZCDigJMgc29mdHdhcmUgZW5naW5lZXJzfGZyZWloZWl0LmNvbSB0ZWNobm9sb2dpZXM",
-      "title": "Hackers wanted – Software Engineers",
-      "company": "freiheit.com technologies",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T17:24:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/hackers-wanted-software-engineers-hamburg-403221"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZnJlaWhlaXRjb20tdGVjaG5vbG9naWVzL2hhY2tlcnMtd2FudGVkLXNlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1oYW1idXJnLTUxNTA5fGhhY2tlcnMgd2FudGVkIOKAkyBzZW5pb3Igc29mdHdhcmUgZW5naW5lZXJ8ZnJlaWhlaXQuY29tIHRlY2hub2xvZ2llcw",
-      "title": "Hackers wanted – Senior Software Engineer",
-      "company": "freiheit.com technologies",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T17:24:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/hackers-wanted-senior-software-engineer-hamburg-51509"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvam9iZ2V0aGVyL2FpLW1sLXRlY2huaWNhbC1hcmNoaXRlY3QtbGVhZC1nZXJtYW55LTI3MzIxfGFpL21sIHRlY2huaWNhbCBhcmNoaXRlY3QgbGVhZHxqb2JnZXRoZXI",
-      "title": "AI/ML Technical Architect Lead",
-      "company": "Jobgether",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-21T17:05:01.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-ml-technical-architect-lead-germany-27321"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTQwMDY0MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSByYWxlaWdoLCBuY3xuZXVyb3BhY2U",
