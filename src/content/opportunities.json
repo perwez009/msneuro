@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T01:12:20.956Z",
+  "generatedAt": "2026-08-26T06:45:07.384Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -645,32 +645,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/wemolo/intern-workplace-culture-management-all-genders-munchen-155134"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kZWxpdmVyb28vc3RhZmYtc29mdHdhcmUtZW5naW5lZXItZGV2LWVudmlyb25tZW50cy1sb25kb24tMzg1MzYxfHN0YWZmIHNvZnR3YXJlIGVuZ2luZWVyLCBkZXYgZW52aXJvbm1lbnRzfGRlbGl2ZXJvbw",
-      "title": "Staff Software Engineer, Dev Environments",
-      "company": "Deliveroo",
-      "location": "London - The River Building HQ",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-25T00:40:20.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-software-engineer-dev-environments-london-385361"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vZGluL3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1sb25kb24tMTIwMTA1fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlcnxvZGlu",
-      "title": "Senior Software Engineer",
-      "company": "Odin",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-25T00:40:14.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/odin/senior-software-engineer-london-120105"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZ2xvYmFsLXVuaXZlcnNpdHktc3lzdGVtcy1nbWJoL3Byb2Zlc3Nvci1vZi1zb2Z0d2FyZS1lbmdpbmVlcmluZy1wb3RzZGFtLWdpc21hLTIyMzc0Nnxwcm9mZXNzb3IgKG0vZi9kKSBvZiBzb2Z0d2FyZSBlbmdpbmVlcmluZ3xnbG9iYWwgdW5pdmVyc2l0eSBzeXN0ZW1zIGdtYmg",
       "title": "Professor (m/f/d) of Software Engineering",
       "company": "Global University Systems GmbH",
@@ -721,32 +695,6 @@
       "postedDate": "2026-08-24T20:10:17.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/global-university-systems-gmbh/professor-of-cybersecurity-potsdam-gisma-222970"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWlvcy1jb3JlLXByb2R1Y3Qtc3R1dHRnYXJ0LWdlcm1hbnktMzI3OTQ4fHNvZnR3YXJlIGVuZ2luZWVyLCBpb3MgY29yZSBwcm9kdWN0IC0gc3R1dHRnYXJ0LCBnZXJtYW55fHNwZWVjaGlmeQ",
-      "title": "Software Engineer, iOS Core Product - Stuttgart, Germany",
-      "company": "Speechify",
-      "location": "Stuttgart, Baden-Württemberg, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-24T13:45:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-stuttgart-germany-327948"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tY29sb2duZS1nZXJtYW55LTExNDM0OXxzb2Z0d2FyZSBlbmdpbmVlciwgZGF0YSBpbmZyYXN0cnVjdHVyZSAmIGFjcXVpc2l0aW9uIC0gY29sb2duZSwgZ2VybWFueXxzcGVlY2hpZnk",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Cologne, Germany",
-      "company": "Speechify",
-      "location": "Cologne, North Rhine-Westphalia, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-24T13:45:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-cologne-germany-114349"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTMxNjEwMDAzP2doX2ppZD03OTMxNjEwMDAzfHF1YWxpdHkgZW5naW5lZXIsIHNvZnR3YXJlIGRlc2lnbiBjb250cm9sc3xuZXVyYWxpbms",
