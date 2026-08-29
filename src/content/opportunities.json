@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T05:43:43.123Z",
+  "generatedAt": "2026-08-29T12:19:17.111Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2Nob2xhcnNoaXBvd2wvcmVtb3RlLXNlbmlvci1mdWxsLXN0YWNrLWRldmVsb3Blci1iMmItcGxhdGZvcm0tbGFyYXZlbC1udXh0LXZ1ZS1iZXJsaW4tMTA5MjEzfHNlbmlvciBmdWxsIHN0YWNrIGRldmVsb3BlciAtIGIyYiBwbGF0Zm9ybSAobGFyYXZlbCArIG51eHQvdnVlKXxzY2hvbGFyc2hpcG93bA",
+      "title": "Senior Full Stack Developer - B2B platform (Laravel + Nuxt/Vue)",
+      "company": "ScholarshipOwl",
+      "location": "Remote job",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-29T08:30:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-senior-full-stack-developer-b2b-platform-laravel-nuxt-vue-berlin-109213"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvc2VvLWdlby1sZWFkLWJlcmxpbi0yMDA5NTF8c2VvIC8gZ2VvIGxlYWQgKG0vdy9kKXwxa29tbWE1Z3JhZA",
+      "title": "SEO / GEO Lead (m/w/d)",
+      "company": "1Komma5Grad",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-29T08:10:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/seo-geo-lead-berlin-200951"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvcHJha3Rpa2FudGluLXNhbGVzLW1hcmtldGluZy1iZXJsaW4tMjE1NjJ8cHJha3Rpa2FudDppbiAtIHNhbGVzL21hcmtldGluZyAobS93L2QpfDFrb21tYTVncmFk",
+      "title": "Praktikant:in - Sales/Marketing (m/w/d)",
+      "company": "1Komma5Grad",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-29T08:10:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/praktikantin-sales-marketing-berlin-21562"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd29sdC1lbmdsaXNoL3Nlbmlvci1hcHBsaWVkLXNjaWVudGlzdC1yZWNvbW1lbmRhdGlvbnMtYmVybGluLTM3OTY2MHwoc2VuaW9yKSBhcHBsaWVkIHNjaWVudGlzdCwgcmVjb21tZW5kYXRpb25zfHdvbHQgLSBlbmdsaXNo",
+      "title": "(Senior) Applied Scientist, Recommendations",
+      "company": "Wolt - English",
+      "location": "Berlin, Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-29T06:45:23.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-applied-scientist-recommendations-berlin-379660"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3N0YWZmLXNlbmlvci1haS1lbmdpbmVlci1haS1mb3ItY29kZS1iZXJsaW4tbXVuaWNoLTI3NzQ1MHxzdGFmZi9zZW5pb3IgYWkgZW5naW5lZXIsIGFpIGZvciBjb2RlfGpldGJyYWlucw",
       "title": "Staff/Senior AI Engineer, AI for Code",
@@ -268,19 +320,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/wemolo/head-of-finance-accounting-all-genders-munchen-170125"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLXN0dXR0Z2FydC1nZXJtYW55LTQxNTkxfHNvZnR3YXJlIGVuZ2luZWVyLCBwbGF0Zm9ybSAtIHN0dXR0Z2FydCwgZ2VybWFueXxzcGVlY2hpZnk",
-      "title": "Software Engineer, Platform - Stuttgart, Germany",
-      "company": "Speechify",
-      "location": "Stuttgart, Baden-Württemberg, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-28T06:45:28.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-stuttgart-germany-41591"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTc5OTMzMDAzP2doX2ppZD03OTc5OTMzMDAzfHRlY2huaWNhbCByZWNydWl0ZXJ8bmV1cmFsaW5r",
       "title": "Technical Recruiter",
       "company": "Neuralink",
@@ -292,71 +331,6 @@
       "postedDate": "2026-08-27T21:50:32.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7979933003?gh_jid=7979933003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLWFuZHJvaWQtZW5naW5lZXIta21wLWJlcmxpbi0zNjQzMzB8c2VuaW9yIGFuZHJvaWQgZW5naW5lZXIgLSBrbXB8c3VtdXA",
-      "title": "Senior Android Engineer - KMP",
-      "company": "sumup",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-27T20:55:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-android-engineer-kmp-berlin-364330"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3Nlbmlvci1jb21waWxlci1kZXZlbG9wZXIta290bGluLWNvbXBpbGVyLWNvcmUtYmVybGluLW11bmljaC0zNDMzMTN8c2VuaW9yIGNvbXBpbGVyIGRldmVsb3BlciAoa290bGluIGNvbXBpbGVyIC0gY29yZSl8amV0YnJhaW5z",
-      "title": "Senior Compiler Developer (Kotlin Compiler - Core)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-27T17:55:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-compiler-developer-kotlin-compiler-core-berlin-munich-343313"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaGVsbG9mcmVzaC9kaXJlY3Rvci11eC1kZXNpZ24tYmVybGluLWJlcmxpbi0yNzg4NDJ8ZGlyZWN0b3IgdXggZGVzaWdufGhlbGxvZnJlc2g",
-      "title": "Director UX Design",
-      "company": "hellofresh",
-      "location": "Berlin, Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-27T17:55:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/director-ux-design-berlin-berlin-278842"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWRvcnN5cy1nbWJoL2FpLWVuZ2luZWVyLW51cm5iZXJnLTM3MTAzNnxhaSBlbmdpbmVlciAobS93L2QpfGFkb3JzeXMgZ21iaA",
-      "title": "AI Engineer (m/w/d)",
-      "company": "adorsys GmbH",
-      "location": "Nürnberg",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-27T17:09:38.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/adorsys-gmbh/ai-engineer-nurnberg-371036"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWVtb2Rpby9mbHV0dGVyLW5vZGVqcy1mdWxsc3RhY2stZW5naW5lZXItZnVsbHktcmVtb3RlLXBvdHNkYW0tMTkzMDY4fGZsdXR0ZXIgJiBub2RlLmpzIGZ1bGxzdGFjayBlbmdpbmVlciAoZi9tL2QpIC0gZnVsbHkgcmVtb3RlfG1lbW9kaW8",
-      "title": "Flutter & Node.js Fullstack Engineer (f/m/d) - Fully Remote",
-      "company": "memodio",
-      "location": "Potsdam",
-      "workModel": "Remote",
-      "opportunityType": "Freelance",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-27T15:30:47.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/memodio/flutter-nodejs-fullstack-engineer-fully-remote-potsdam-193068"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTMxNjEwMDAzP2doX2ppZD03OTMxNjEwMDAzfHF1YWxpdHkgZW5naW5lZXIsIHNvZnR3YXJlIGRlc2lnbiBjb250cm9sc3xuZXVyYWxpbms",
