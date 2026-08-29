@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T21:44:00.422Z",
+  "generatedAt": "2026-08-29T05:43:43.123Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,84 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3N0YWZmLXNlbmlvci1haS1lbmdpbmVlci1haS1mb3ItY29kZS1iZXJsaW4tbXVuaWNoLTI3NzQ1MHxzdGFmZi9zZW5pb3IgYWkgZW5naW5lZXIsIGFpIGZvciBjb2RlfGpldGJyYWlucw",
+      "title": "Staff/Senior AI Engineer, AI for Code",
+      "company": "jetbrains",
+      "location": "Berlin; Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-28T23:55:20.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/staff-senior-ai-engineer-ai-for-code-berlin-munich-277450"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW50cmluc2ljcm9ib3RpY3Mvc3RhZmYtcm9ib3RpY3Mtc29mdHdhcmUtZW5naW5lZXItZ3Jhc3BpbmctbXVuaWNoLTEwOTY2MXxzdGFmZiByb2JvdGljcyBzb2Z0d2FyZSBlbmdpbmVlciAtIGdyYXNwaW5nfGludHJpbnNpY3JvYm90aWNz",
+      "title": "Staff Robotics Software Engineer - Grasping",
+      "company": "intrinsicrobotics",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-28T23:55:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/intrinsicrobotics/staff-robotics-software-engineer-grasping-munich-109661"
+    },
+    {
+      "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTQ1ODg4MDA0fHNyLiByZWd1bGF0b3J5IGFmZmFpcnMgbWFuYWdlcnxuZXVyb3BhY2U",
+      "title": "Sr. Regulatory Affairs Manager",
+      "company": "NeuroPace",
+      "location": "Mountain View, California",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "NeuroPace Careers",
+      "sourceUrl": "https://boards.greenhouse.io/neuropace",
+      "postedDate": "2026-08-28T23:13:22.000Z",
+      "applyBy": null,
+      "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=6145888004"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLWRhdGEtaW5mcmFzdHJ1Y3R1cmUtYWNxdWlzaXRpb24tbXVuaWNoLWdlcm1hbnktMjI3NjA4fHNvZnR3YXJlIGVuZ2luZWVyLCBkYXRhIGluZnJhc3RydWN0dXJlICYgYWNxdWlzaXRpb24gLSBtdW5pY2gsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Munich, Germany",
+      "company": "Speechify",
+      "location": "Munich, Bavaria, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-28T20:45:30.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-munich-germany-227608"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLXN0dXR0Z2FydC1nZXJtYW55LTMyNTQyMXxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIHdpbmRvd3MvZGVza3RvcCBhcHBsaWNhdGlvbnMgLSBzdHV0dGdhcnQsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - Stuttgart, Germany",
+      "company": "Speechify",
+      "location": "Stuttgart, Baden-Württemberg, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-28T20:45:30.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-stuttgart-germany-325421"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci13aW5kb3dzLWRlc2t0b3AtYXBwbGljYXRpb25zLW11bmljaC1nZXJtYW55LTI0NjQ4M3xzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIsIHdpbmRvd3MvZGVza3RvcCBhcHBsaWNhdGlvbnMgLSBtdW5pY2gsIGdlcm1hbnl8c3BlZWNoaWZ5",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - Munich, Germany",
+      "company": "Speechify",
+      "location": "Munich, Bavaria, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-28T20:45:30.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-munich-germany-246483"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvenNjYWxlci9zcGVjaWFsaXN0LWFjY291bnQtZXhlY3V0aXZlLXpzY2FsZXItc2Vjb3BzLTMzOTU1NHxzcGVjaWFsaXN0IGFjY291bnQgZXhlY3V0aXZlIC0genNjYWxlciBzZWNvcHN8enNjYWxlcg",
       "title": "Specialist Account Executive - Zscaler SecOps",
@@ -203,19 +281,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-stuttgart-germany-41591"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9xdWFudGV4YS9maW5hbmNlLW1hbmFnZXItbG9uZG9uLTM0MTQ0M3xmaW5hbmNlIG1hbmFnZXJ8cXVhbnRleGE",
-      "title": "Finance Manager",
-      "company": "Quantexa",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-28T06:40:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/finance-manager-london-341443"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTc5OTMzMDAzP2doX2ppZD03OTc5OTMzMDAzfHRlY2huaWNhbCByZWNydWl0ZXJ8bmV1cmFsaW5r",
       "title": "Technical Recruiter",
       "company": "Neuralink",
@@ -292,32 +357,6 @@
       "postedDate": "2026-08-27T15:30:47.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/memodio/flutter-nodejs-fullstack-engineer-fully-remote-potsdam-193068"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcHJlbWF0Y2gtc3BvcnRzLWdtYmgvc29mdHdhcmUtZW5naW5lZXItZGF0YS1hbGwtZ2VuZGVycy1rb2xuLTI5MTEwNXxzb2Z0d2FyZSBlbmdpbmVlciAtIGRhdGEgKGFsbCBnZW5kZXJzKXxwcmVtYXRjaCBzcG9ydHMgZ21iaA",
-      "title": "Software Engineer - Data (All Genders)",
-      "company": "PREMATCH Sports GmbH",
-      "location": "Köln",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-27T14:10:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/prematch-sports-gmbh/software-engineer-data-all-genders-koln-291105"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1hY2NvdW50aW5nLWNvbnRyb2xsaW5nLWJlcmxpbi03MDUyNnx3ZXJrc3R1ZGVudCppbiAobS93L2QpIGFjY291bnRpbmcgJiBjb250cm9sbGluZ3wxa29tbWE1y5o",
-      "title": "Werkstudent*in (m/w/d) Accounting & Controlling",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "workModel": "Remote",
-      "opportunityType": "Working student, hilfstätigkeit / student",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-27T14:00:37.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-accounting-controlling-berlin-70526"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTMxNjEwMDAzP2doX2ppZD03OTMxNjEwMDAzfHF1YWxpdHkgZW5naW5lZXIsIHNvZnR3YXJlIGRlc2lnbiBjb250cm9sc3xuZXVyYWxpbms",
