@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T11:18:09.734Z",
+  "generatedAt": "2026-08-30T16:04:56.229Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVycmFxdWFudHVtL3Nlbmlvci10ZW5zb3ItYWktc2NpZW50aXN0LTI4ODg2MXxzZW5pb3IgdGVuc29yIGFpIHNjaWVudGlzdHx0ZXJyYXF1YW50dW0",
+      "title": "Senior Tensor AI Scientist",
+      "company": "Terraquantum",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-30T14:55:03.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/terraquantum/senior-tensor-ai-scientist-288861"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb2Rvbm5lbGwtbW9vbnNoaW5lL3BlcmZvcm1hbmNlLW1hcmtldGluZy13b3JraW5nLXN0dWRlbnQtYmVybGluLWtyZXV6YmVyZy04NTk3OXxwZXJmb3JtYW5jZSBtYXJrZXRpbmcgd29ya2luZyBzdHVkZW50IChmL20vZCl8b2Rvbm5lbGwgbW9vbnNoaW5l",
+      "title": "Performance Marketing Working Student (f/m/d)",
+      "company": "Odonnell Moonshine",
+      "location": "Berlin-Kreuzberg",
+      "workModel": "On-site",
+      "opportunityType": "Part-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-30T11:29:53.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/odonnell-moonshine/performance-marketing-working-student-berlin-kreuzberg-85979"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2xpbWF0ZS9pbnRlcmltLXByb2plY3Qtc2VuaW9yLWRldm9wcy1jb25zdWx0YW50LWJlcmxpbi1ocS03MjEwMHxpbnRlcmltIHByb2plY3QgLSBzZW5pb3IgZGV2b3BzIGNvbnN1bHRhbnQgKGYvbS9kKXxjbGltYXRl",
+      "title": "Interim project - Senior DevOps Consultant (f/m/d)",
+      "company": "Climate",
+      "location": "Berlin HQ",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-30T11:09:48.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/climate/interim-project-senior-devops-consultant-berlin-hq-72100"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2xpbWF0ZS9kYXRhLWVuZ2luZWVyLWJlcmxpbi1ocS0xNjA5MzJ8ZGF0YSBlbmdpbmVlciAoZi9tL2QpfGNsaW1hdGU",
+      "title": "Data Engineer (f/m/d)",
+      "company": "Climate",
+      "location": "Berlin HQ",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-30T11:09:48.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-160932"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL2xlYWQtcHJvZHVjdC1kZXNpZ25lci15b3V0cmFjay1iZXJsaW4tbXVuaWNoLTM4ODU4NHxsZWFkIHByb2R1Y3QgZGVzaWduZXIgKHlvdXRyYWNrKXxqZXRicmFpbnM",
       "title": "Lead Product Designer (YouTrack)",
