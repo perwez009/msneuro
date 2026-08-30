@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T16:04:56.229Z",
+  "generatedAt": "2026-08-30T20:36:22.942Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9mb3JtMy9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItZ28tNDk4MzI1fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciAoZ28pfGZvcm0z",
+      "title": "Senior Software Engineer (Go)",
+      "company": "Form3",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-30T18:55:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/senior-software-engineer-go-498325"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVycmFxdWFudHVtL3Nlbmlvci10ZW5zb3ItYWktc2NpZW50aXN0LTI4ODg2MXxzZW5pb3IgdGVuc29yIGFpIHNjaWVudGlzdHx0ZXJyYXF1YW50dW0",
       "title": "Senior Tensor AI Scientist",
@@ -409,19 +422,6 @@
       "postedDate": "2026-08-28T14:55:07.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/tide/werkstudentin-operations-office-management-berlin-107130"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGlkZS9kaXJlY3Rvci1vZi1tb2JpbGUtYW5kLXdlYi1wbGF0Zm9ybS1iZXJsaW4tMTkyMXxkaXJlY3RvciBvZiBtb2JpbGUgYW5kIHdlYiBwbGF0Zm9ybXx0aWRl",
-      "title": "Director of Mobile and Web Platform",
-      "company": "tide",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-28T14:55:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/tide/director-of-mobile-and-web-platform-berlin-1921"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTc5OTMzMDAzP2doX2ppZD03OTc5OTMzMDAzfHRlY2huaWNhbCByZWNydWl0ZXJ8bmV1cmFsaW5r",
