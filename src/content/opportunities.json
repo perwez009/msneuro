@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T03:46:10.865Z",
+  "generatedAt": "2026-08-30T11:18:09.734Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL2xlYWQtcHJvZHVjdC1kZXNpZ25lci15b3V0cmFjay1iZXJsaW4tbXVuaWNoLTM4ODU4NHxsZWFkIHByb2R1Y3QgZGVzaWduZXIgKHlvdXRyYWNrKXxqZXRicmFpbnM",
+      "title": "Lead Product Designer (YouTrack)",
+      "company": "jetbrains",
+      "location": "Berlin; Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-30T05:55:12.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/lead-product-designer-youtrack-berlin-munich-388584"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3JlbW90ZS1jLWtvdGxpbi1zb2Z0d2FyZS1kZXZlbG9wZXItcnVzdHJvdmVyLWRlYnVnZ2VyLTE3NjA1MnxjKysva290bGluIHNvZnR3YXJlIGRldmVsb3BlciAocnVzdHJvdmVyIGRlYnVnZ2VyKXxqZXRicmFpbnM",
+      "title": "C++/Kotlin Software Developer (RustRover Debugger)",
+      "company": "jetbrains",
+      "location": "Berlin; Munich; Remote",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-30T05:55:12.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-c-kotlin-software-developer-rustrover-debugger-176052"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9lbmNvcmQvbGVhcm5pbmctZGV2ZWxvcG1lbnQtc3BlY2lhbGlzdC1sb25kb24tNzM1MjV8bGVhcm5pbmcgJiBkZXZlbG9wbWVudCBzcGVjaWFsaXN0fGVuY29yZA",
       "title": "Learning & Development Specialist",
@@ -320,32 +346,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/hubspotjobs/senior-account-executive-expansion-dach-germany-based-142101"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jbGluY2hvaWNlL3Nlbmlvci1zdGF0aXN0aWNpYW4tcGVybWFuZW50LXJvbGUtcmVtb3RlLWluLXVrLTMwNDQyNnxzZW5pb3Igc3RhdGlzdGljaWFuIC0gcGVybWFuZW50IHJvbGUgLXJlbW90ZSBpbiB1a3xjbGluY2hvaWNl",
-      "title": "Senior Statistician - Permanent Role -Remote in UK",
-      "company": "Clinchoice",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-28T15:55:04.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clinchoice/senior-statistician-permanent-role-remote-in-uk-304426"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jbGluY2hvaWNlL3ByaW5jaXBhbC1zdGF0aXN0aWNpYW4tcGVybWFuZW50LXJvbGUtcmVtb3RlLWluLXVrLTE2NjIzOXxwcmluY2lwYWwgc3RhdGlzdGljaWFuIC0gcGVybWFuZW50IHJvbGUgLXJlbW90ZSBpbiB1a3xjbGluY2hvaWNl",
-      "title": "Principal Statistician - Permanent Role -Remote in UK",
-      "company": "Clinchoice",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-28T15:55:04.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clinchoice/principal-statistician-permanent-role-remote-in-uk-166239"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGlkZS93ZXJrc3R1ZGVudGluLW9wZXJhdGlvbnMtb2ZmaWNlLW1hbmFnZW1lbnQtYmVybGluLTEwNzEzMHx3ZXJrc3R1ZGVudDppbiAobS93L2QpIOKAkyBvcGVyYXRpb25zICYgb2ZmaWNlIG1hbmFnZW1lbnR8dGlkZQ",
       "title": "Werkstudent:in (m/w/d) – Operations & Office Management",
       "company": "tide",
@@ -370,45 +370,6 @@
       "postedDate": "2026-08-28T14:55:07.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/tide/director-of-mobile-and-web-platform-berlin-1921"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbW90b3ItYWkvZmllbGQtdGVzdC1lbmdpbmVlci1hdXRvbm9tZS1mYWhyemV1Z2UtaW4tZ2Vlc3RsYW5kLTU4MDQ4fGZpZWxkIHRlc3QgZW5naW5lZXIgKG0vdy9kKSBhdXRvbm9tZSBmYWhyemV1Z2UgaW4gZ2Vlc3RsYW5kfG1vdG9yIGFp",
-      "title": "Field Test Engineer (m/w/d) Autonome Fahrzeuge in Geestland",
-      "company": "MOTOR Ai",
-      "location": "Geestland",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-28T14:00:51.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/motor-ai/field-test-engineer-autonome-fahrzeuge-in-geestland-58048"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbW90b3ItYWkvZmllbGQtdGVzdC1lbmdpbmVlci1hdXRvbm9tZS1mYWhyemV1Z2UtaW4tbWVja2xlbmJ1cmctdm9ycG9tbWVybi1sdWR3aWdzbHVzdC0yNzUxNDR8ZmllbGQgdGVzdCBlbmdpbmVlciAobS93L2QpIGF1dG9ub21lIGZhaHJ6ZXVnZSBpbiBtZWNrbGVuYnVyZyB2b3Jwb21tZXJufG1vdG9yIGFp",
-      "title": "Field Test Engineer (m/w/d) Autonome Fahrzeuge in Mecklenburg Vorpommern",
-      "company": "MOTOR Ai",
-      "location": "Ludwigslust",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-28T14:00:51.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/motor-ai/field-test-engineer-autonome-fahrzeuge-in-mecklenburg-vorpommern-ludwigslust-275144"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbW90b3ItYWkvZGF0YS1lbmdpbmVlci1iZXJsaW4tMzY2NDYwfGRhdGEgZW5naW5lZXIgKG0vZi9kKXxtb3RvciBhaQ",
-      "title": "Data Engineer (m/f/d)",
-      "company": "MOTOR Ai",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-28T13:00:54.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/motor-ai/data-engineer-berlin-366460"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTc5OTMzMDAzP2doX2ppZD03OTc5OTMzMDAzfHRlY2huaWNhbCByZWNydWl0ZXJ8bmV1cmFsaW5r",
