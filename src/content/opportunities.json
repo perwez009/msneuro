@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T12:45:54.514Z",
+  "generatedAt": "2026-08-31T22:28:53.923Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hYnplbmEvbWFuYWdlci1mb3JtdWxhdGlvbi1kZXZlbG9wbWVudC1hbmFseXRpY3MtY2FtYnJpZGdlLXVrLTM4NDE4NHxtYW5hZ2VyLCBmb3JtdWxhdGlvbiBkZXZlbG9wbWVudCAoYW5hbHl0aWNzKXxhYnplbmE",
+      "title": "Manager, Formulation Development (Analytics)",
+      "company": "Abzena",
+      "location": "Cambridge, UK",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-31T21:04:04.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/abzena/manager-formulation-development-analytics-cambridge-uk-384184"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wbGVvL2FuYWx5dGljcy1lbmdpbmVlci11bml0ZWQta2luZ2RvbS00ODkwNDJ8YW5hbHl0aWNzIGVuZ2luZWVyfHBsZW8",
+      "title": "Analytics Engineer",
+      "company": "Pleo",
+      "location": "United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-31T18:20:49.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/analytics-engineer-united-kingdom-489042"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wbGVvL2FuYWx5dGljcy1lbmdpbmVlci1sb25kb24tMjEwNDM4fGFuYWx5dGljcyBlbmdpbmVlcnxwbGVv",
+      "title": "Analytics Engineer",
+      "company": "Pleo",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-31T18:20:49.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/analytics-engineer-london-210438"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva2xlaW5lcy1rcmFmdHdlcmstZGUtZ21iaC9zZW5pb3Itc2VvLW1hbmFnZXJpbi1pLW9uLXVuZC1vZmZwYWdlLWktZS1jb21tZXJjZS1oeWJyaWQtYWNoaW0tYWNoaW0tYmVpLWJyZW1lbi00Nzc3MjV8KHNlbmlvcikgc2VvIG1hbmFnZXI6aW4gaSBvbi0gdW5kIG9mZnBhZ2UgaSBlLWNvbW1lcmNlLCBoeWJyaWQsIGFjaGltfGtsZWluZXMga3JhZnR3ZXJrIGRlIGdtYmg",
+      "title": "(Senior) SEO Manager:in I On- und Offpage I E-Commerce, hybrid, Achim",
+      "company": "Kleines Kraftwerk DE GmbH",
+      "location": "Achim (bei Bremen)",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-31T17:09:10.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/kleines-kraftwerk-de-gmbh/senior-seo-managerin-i-on-und-offpage-i-e-commerce-hybrid-achim-achim-bei-bremen-477725"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcGxhbnRhY29ycC1nbWJoL2hlYWQtb2YtbWFya2V0aW5nLWhhbWJ1cmctMjMwNTU5fGhlYWQgb2YgbWFya2V0aW5nICh3L20vZCl8cGxhbnRhY29ycCBnbWJo",
+      "title": "Head of Marketing (w/m/d)",
+      "company": "PlantaCorp GmbH",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-31T13:30:38.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/plantacorp-gmbh/head-of-marketing-hamburg-230559"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3Rhcmsvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLW1pc3Npb24tYXV0b25vbXktYWxsLWdlbmRlcnMtbXVuaWNoLTI1OTA3MnxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIgLSBtaXNzaW9uIGF1dG9ub215IChhbGwgZ2VuZGVycyl8c3Rhcms",
       "title": "Senior Software Engineer - Mission Autonomy (All Genders)",
@@ -409,58 +474,6 @@
       "postedDate": "2026-08-29T12:40:33.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/credit-analyst-intern-london-370210"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcmVhbGNoZW1pc3RyeS9tZWRpY2FsLXdyaXRlci1zZW5pb3ItbWVkaWNhbC13cml0ZXItZ2VybWFuLWVuZ2xpc2gtbWVkaWNhbC1hZmZhaXJzLW1hcmtldGluZy0yOTA4MjZ8bWVkaWNhbCB3cml0ZXIvc2VuaW9yIG1lZGljYWwgd3JpdGVyIChnZXJtYW4vZW5nbGlzaCBtZWRpY2FsIGFmZmFpcnMgJiBtYXJrZXRpbmcpfHJlYWxjaGVtaXN0cnk",
-      "title": "Medical Writer/Senior Medical Writer (German/English Medical Affairs & Marketing)",
-      "company": "Realchemistry",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-29T11:55:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/realchemistry/medical-writer-senior-medical-writer-german-english-medical-affairs-marketing-290826"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2Nob2xhcnNoaXBvd2wvcmVtb3RlLXNlbmlvci1mdWxsLXN0YWNrLWRldmVsb3Blci1iMmItcGxhdGZvcm0tbGFyYXZlbC1udXh0LXZ1ZS1iZXJsaW4tMTA5MjEzfHNlbmlvciBmdWxsIHN0YWNrIGRldmVsb3BlciAtIGIyYiBwbGF0Zm9ybSAobGFyYXZlbCArIG51eHQvdnVlKXxzY2hvbGFyc2hpcG93bA",
-      "title": "Senior Full Stack Developer - B2B platform (Laravel + Nuxt/Vue)",
-      "company": "ScholarshipOwl",
-      "location": "Remote job",
-      "workModel": "Remote",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-29T08:30:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-senior-full-stack-developer-b2b-platform-laravel-nuxt-vue-berlin-109213"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvc2VvLWdlby1sZWFkLWJlcmxpbi0yMDA5NTF8c2VvIC8gZ2VvIGxlYWQgKG0vdy9kKXwxa29tbWE1Z3JhZA",
-      "title": "SEO / GEO Lead (m/w/d)",
-      "company": "1Komma5Grad",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-29T08:10:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/seo-geo-lead-berlin-200951"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvcHJha3Rpa2FudGluLXNhbGVzLW1hcmtldGluZy1iZXJsaW4tMjE1NjJ8cHJha3Rpa2FudDppbiAtIHNhbGVzL21hcmtldGluZyAobS93L2QpfDFrb21tYTVncmFk",
-      "title": "Praktikant:in - Sales/Marketing (m/w/d)",
-      "company": "1Komma5Grad",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-29T08:10:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/praktikantin-sales-marketing-berlin-21562"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTQ1ODg4MDA0fHNyLiByZWd1bGF0b3J5IGFmZmFpcnMgbWFuYWdlcnxuZXVyb3BhY2U",
