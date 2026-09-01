@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T22:28:53.923Z",
+  "generatedAt": "2026-09-01T03:40:58.645Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,110 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZWxldmUtdGFsZW50L3JlbW90ZS1rbml0LWxlYWQtcHJvZHVjdC1tYW5hZ2VyLTExNTIwOXxrbml0IC0gbGVhZCBwcm9kdWN0IG1hbmFnZXJ8ZWxldmUgdGFsZW50",
+      "title": "Knit - Lead Product Manager",
+      "company": "Eleve Talent",
+      "location": "Remote",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-31T23:40:19.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-knit-lead-product-manager-115209"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd2hpdGVjaXJjbGUvcmVtb3RlLXJlY3J1aXRlci1yZXNlYXJjaC0zNDU3MHxyZWNydWl0ZXIgKHJlc2VhcmNoKXx3aGl0ZWNpcmNsZQ",
+      "title": "Recruiter (Research)",
+      "company": "Whitecircle",
+      "location": "Remote",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-31T23:40:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/whitecircle/remote-recruiter-research-34570"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZ2lzbWFydC9yZW1vdGUtYmlsbGluZy1tYW5hZ2VyLWZpdG1lLTI0NzA4fGJpbGxpbmcgbWFuYWdlciAoZml0bWUpfGdpc21hcnQ",
+      "title": "Billing Manager (FitMe)",
+      "company": "Gismart",
+      "location": "Remote",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-31T23:40:03.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-billing-manager-fitme-24708"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZ2lzbWFydC9yZW1vdGUtY3JlYXRpdmUtbWFya2V0aW5nLW1hbmFnZXItZml0bWUtOTUwNTN8Y3JlYXRpdmUgbWFya2V0aW5nIG1hbmFnZXIgKGZpdG1lKXxnaXNtYXJ0",
+      "title": "Creative Marketing Manager (FitMe)",
+      "company": "Gismart",
+      "location": "Remote",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-31T23:40:03.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-creative-marketing-manager-fitme-95053"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hcHBkaXJlY3RyYWFzL2FjY291bnQtZXhlY3V0aXZlLXVrLWVuZ2luZWVyZWQtYXJ0cy1sb25kb24tNDk1NjA4fGFjY291bnQgZXhlY3V0aXZlICh1aykgLSBlbmdpbmVlcmVkIGFydHN8YXBwZGlyZWN0cmFhcw",
+      "title": "Account Executive (UK) - Engineered Arts",
+      "company": "Appdirectraas",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-31T21:55:42.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/appdirectraas/account-executive-uk-engineered-arts-london-495608"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9lbGFzdGljL2VsYXN0aWMtY29uc3VsdGluZy1hcmNoaXRlY3QtcHVibGljLXNlY3Rvci0xMDYyOTR8ZWxhc3RpYyBjb25zdWx0aW5nIGFyY2hpdGVjdCAtIHB1YmxpYyBzZWN0b3J8ZWxhc3RpYw",
+      "title": "Elastic Consulting Architect - Public Sector",
+      "company": "Elastic",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-31T21:55:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/elastic-consulting-architect-public-sector-106294"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXItYWdlbmN5L3Nlbmlvci1zb2NpYWwtZGVzaWduZXItMTItbW9udGgtZnRjLWxvbmRvbi0yOTY0MnxzZW5pb3Igc29jaWFsIGRlc2lnbmVyIC0gMTIgbW9udGggZnRjfG9saXZlciBhZ2VuY3k",
+      "title": "Senior Social Designer - 12 month FTC",
+      "company": "OLIVER Agency",
+      "location": "London, London, United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-31T21:45:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/senior-social-designer-12-month-ftc-london-29642"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXItYWdlbmN5L3NhbGVzLWRpcmVjdG9yLWxvbmRvbi0yMzI4NDJ8c2FsZXMgZGlyZWN0b3J8b2xpdmVyIGFnZW5jeQ",
+      "title": "Sales Director",
+      "company": "OLIVER Agency",
+      "location": "London, London, United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-08-31T21:45:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/sales-director-london-232842"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hYnplbmEvbWFuYWdlci1mb3JtdWxhdGlvbi1kZXZlbG9wbWVudC1hbmFseXRpY3MtY2FtYnJpZGdlLXVrLTM4NDE4NHxtYW5hZ2VyLCBmb3JtdWxhdGlvbiBkZXZlbG9wbWVudCAoYW5hbHl0aWNzKXxhYnplbmE",
       "title": "Manager, Formulation Development (Analytics)",
@@ -682,6 +786,19 @@
       "postedDate": "2026-07-08T18:06:58.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7799063003?gh_jid=7799063003"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzgwNzA4MDAzP2doX2ppZD03NzgwNzA4MDAzfGZhY2lsaXRpZXMgbWVjaGFuaWNhbCBzcGVjaWFsaXN0fG5ldXJhbGluaw",
+      "title": "Facilities Mechanical Specialist",
+      "company": "Neuralink",
+      "location": "South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-06-23T00:27:53.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7780708003?gh_jid=7780708003"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzgwMTcyMDAzP2doX2ppZD03NzgwMTcyMDAzfGFzc29jaWF0ZSBnZW5lcmFsIGNvdW5zZWwsIHByaXZhY3kgJiBjb21wbGlhbmNlfG5ldXJhbGluaw",
