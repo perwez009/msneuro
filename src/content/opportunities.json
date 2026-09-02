@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T20:35:01.022Z",
+  "generatedAt": "2026-09-02T02:59:29.390Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wcmVjaXNpb25tZWRpY2luZWdyb3VwL3JlbW90ZS1zZW5pb3ItY2xpbmljYWwtcmVzZWFyY2gtYXNzb2NpYXRlLWNsaW5pY2FsLXJlc2VhcmNoLWFzc29jaWF0ZS1paS00NDU1Nzd8c2VuaW9yIGNsaW5pY2FsIHJlc2VhcmNoIGFzc29jaWF0ZS8gY2xpbmljYWwgcmVzZWFyY2ggYXNzb2NpYXRlIGlpfHByZWNpc2lvbm1lZGljaW5lZ3JvdXA",
+      "title": "Senior Clinical Research Associate/ Clinical Research Associate II",
+      "company": "Precisionmedicinegroup",
+      "location": "Remote",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-02T00:55:10.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-senior-clinical-research-associate-clinical-research-associate-ii-445577"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb2xpdmVyL2NsaWVudC1zb2x1dGlvbnMtZGlyZWN0b3ItYWR2ZXJ0aXNpbmctY3JlYXRpdmUtb3BlcmF0aW9ucy1oYW1idXJnLTQyNzI1N3xjbGllbnQgc29sdXRpb25zIGRpcmVjdG9yIChhZHZlcnRpc2luZyAmIGNyZWF0aXZlIG9wZXJhdGlvbnMpfG9saXZlcg",
+      "title": "Client Solutions Director (Advertising & Creative Operations)",
+      "company": "OLIVER",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-01T23:55:03.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/oliver/client-solutions-director-advertising-creative-operations-hamburg-427257"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYm93YXR0L2NoaWVmLW9mLXN0YWZmLW11bmljaC02NTMxOHxjaGllZiBvZiBzdGFmZnxib3dhdHQ",
+      "title": "Chief of Staff",
+      "company": "Bowatt",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-01T23:40:12.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/bowatt/chief-of-staff-munich-65318"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTgzOTkyMDAzP2doX2ppZD03OTgzOTkyMDAzfHF1YWxpdHkgZW5naW5lZXJpbmcgdGVjaG5pY2lhbnxuZXVyYWxpbms",
+      "title": "Quality Engineering Technician",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-09-01T22:41:30.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7983992003?gh_jid=7983992003"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXItYWdlbmN5L2Rlc2lnbi1kaXJlY3Rvci1sb25kb24tMjU5NTc3fGRlc2lnbiBkaXJlY3RvcnxvbGl2ZXIgYWdlbmN5",
+      "title": "Design Director",
+      "company": "OLIVER Agency",
+      "location": "London, England, United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-01T21:45:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/design-director-london-259577"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vZGluL2ZvdW5kaW5nLWdyb3d0aC1sZWFkLXZjLXBlLWxvbmRvbi05NjgwMXxmb3VuZGluZyBncm93dGggbGVhZCwgdmMvcGV8b2Rpbg",
       "title": "Founding Growth Lead, VC/PE",
@@ -123,19 +188,6 @@
       "postedDate": "2026-09-01T11:40:05.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/everai/junior-performance-marketer-full-remote-germany-258211"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbGFyZ2Utc3BhY2Utc3RydWN0dXJlcy1nbWJoL2FpdC1lbmdpbmVlci1lY2hpbmctMTYyMTU1fGFpdCBlbmdpbmVlcnxsYXJnZSBzcGFjZSBzdHJ1Y3R1cmVzIGdtYmg",
-      "title": "AIT Engineer",
-      "company": "Large Space Structures GmbH",
-      "location": "Eching",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-01T10:30:34.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/large-space-structures-gmbh/ait-engineer-eching-162155"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyYWkvanVuaW9yLXBlcmZvcm1hbmNlLW1hcmtldGVyLWZ1bGwtcmVtb3RlLXVrLXVuaXRlZC1raW5nZG9tLTMzODYzNXxqdW5pb3IgcGVyZm9ybWFuY2UgbWFya2V0ZXIgKGZ1bGwgcmVtb3RlIC0gdWspfGV2ZXJhaQ",
@@ -437,45 +489,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/sales-director-london-232842"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hYnplbmEvbWFuYWdlci1mb3JtdWxhdGlvbi1kZXZlbG9wbWVudC1hbmFseXRpY3MtY2FtYnJpZGdlLXVrLTM4NDE4NHxtYW5hZ2VyLCBmb3JtdWxhdGlvbiBkZXZlbG9wbWVudCAoYW5hbHl0aWNzKXxhYnplbmE",
-      "title": "Manager, Formulation Development (Analytics)",
-      "company": "Abzena",
-      "location": "Cambridge, UK",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-31T21:04:04.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/abzena/manager-formulation-development-analytics-cambridge-uk-384184"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wbGVvL2FuYWx5dGljcy1lbmdpbmVlci11bml0ZWQta2luZ2RvbS00ODkwNDJ8YW5hbHl0aWNzIGVuZ2luZWVyfHBsZW8",
-      "title": "Analytics Engineer",
-      "company": "Pleo",
-      "location": "United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-31T18:20:49.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/analytics-engineer-united-kingdom-489042"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wbGVvL2FuYWx5dGljcy1lbmdpbmVlci1sb25kb24tMjEwNDM4fGFuYWx5dGljcyBlbmdpbmVlcnxwbGVv",
-      "title": "Analytics Engineer",
-      "company": "Pleo",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-31T18:20:49.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/analytics-engineer-london-210438"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva2xlaW5lcy1rcmFmdHdlcmstZGUtZ21iaC9zZW5pb3Itc2VvLW1hbmFnZXJpbi1pLW9uLXVuZC1vZmZwYWdlLWktZS1jb21tZXJjZS1oeWJyaWQtYWNoaW0tYWNoaW0tYmVpLWJyZW1lbi00Nzc3MjV8KHNlbmlvcikgc2VvIG1hbmFnZXI6aW4gaSBvbi0gdW5kIG9mZnBhZ2UgaSBlLWNvbW1lcmNlLCBoeWJyaWQsIGFjaGltfGtsZWluZXMga3JhZnR3ZXJrIGRlIGdtYmg",
       "title": "(Senior) SEO Manager:in I On- und Offpage I E-Commerce, hybrid, Achim",
       "company": "Kleines Kraftwerk DE GmbH",
@@ -513,45 +526,6 @@
       "postedDate": "2026-08-31T11:09:37.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/research-data-manager-postdoc-for-mapping-harvesting-relationships-kts-84-koln-278949"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbmFwbGFuL3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1tYW5jaGVzdGVyLTM5ODc0fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlcnxhbmFwbGFu",
-      "title": "Senior Software Engineer",
-      "company": "Anaplan",
-      "location": "Manchester",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-31T06:55:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-software-engineer-manchester-39874"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbmFwbGFuL3Nlbmlvci1tYW5hZ2VyLXNlY3VyaXR5LWFyY2hpdGVjdHVyZS1sb25kb24tMTgzODQzfHNlbmlvciBtYW5hZ2VyLCBzZWN1cml0eSBhcmNoaXRlY3R1cmV8YW5hcGxhbg",
-      "title": "Senior Manager, Security Architecture",
-      "company": "Anaplan",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-31T06:55:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-manager-security-architecture-london-183843"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbmFwbGFuL3Nlbmlvci1tYW5hZ2VyLXNlY3VyaXR5LWFyY2hpdGVjdHVyZS1tYW5jaGVzdGVyLTIxNzI2N3xzZW5pb3IgbWFuYWdlciwgc2VjdXJpdHkgYXJjaGl0ZWN0dXJlfGFuYXBsYW4",
-      "title": "Senior Manager, Security Architecture",
-      "company": "Anaplan",
-      "location": "Manchester",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-31T06:55:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-manager-security-architecture-manchester-217267"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTQ5MjYxMDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgbWVtcGhpc3xuZXVyb3BhY2U",
@@ -812,32 +786,6 @@
       "postedDate": "2026-06-12T18:49:13.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7772049003?gh_jid=7772049003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzYzMDg5MDAzP2doX2ppZD03NzYzMDg5MDAzfHN1cHBsaWVyIGluZHVzdHJpYWxpemF0aW9uIGVuZ2luZWVyfG5ldXJhbGluaw",
-      "title": "Supplier Industrialization Engineer",
-      "company": "Neuralink",
-      "location": "South San Francisco, California, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-06-03T21:27:54.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7763089003?gh_jid=7763089003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzYzMDIxMDAzP2doX2ppZD03NzYzMDIxMDAzfGdsb2JhbCBzdXBwbHkgbWFuYWdlcnxuZXVyYWxpbms",
-      "title": "Global Supply Manager",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States; South San Francisco, California, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-06-03T20:58:46.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7763021003?gh_jid=7763021003"
     }
   ]
 }
