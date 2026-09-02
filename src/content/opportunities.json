@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T02:59:29.390Z",
+  "generatedAt": "2026-09-02T10:40:42.033Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,97 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3Nlbmlvci1sZWdhbC1jb3Vuc2VsLXJlZ3VsYXRvcnktYW5kLWRhdGEtcHJpdmFjeS1iZXJsaW4tbXVuaWNoLTMyMjI1MHxzZW5pb3IgbGVnYWwgY291bnNlbCAocmVndWxhdG9yeSBhbmQgZGF0YSBwcml2YWN5KXxqZXRicmFpbnM",
+      "title": "Senior Legal Counsel (Regulatory and Data Privacy)",
+      "company": "jetbrains",
+      "location": "Berlin; Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-02T08:55:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-legal-counsel-regulatory-and-data-privacy-berlin-munich-322250"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3Nlbmlvci1sZWdhbC1jb3Vuc2VsLXByb2R1Y3QtYW5kLWJ1c2luZXNzLWRldmVsb3BtZW50LWJlcmxpbi1tdW5pY2gtMzMwMzE3fHNlbmlvciBsZWdhbCBjb3Vuc2VsIChwcm9kdWN0IGFuZCBidXNpbmVzcyBkZXZlbG9wbWVudCl8amV0YnJhaW5z",
+      "title": "Senior Legal Counsel (Product and Business Development)",
+      "company": "jetbrains",
+      "location": "Berlin; Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-02T08:55:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-legal-counsel-product-and-business-development-berlin-munich-330317"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdW50ZXJuZWhtZXJ0dW0tZ2dtYmgvdXZjLXBhcnRuZXJzLWRhdGEtYWktbWFzdGVyLXRoZXNpcy1pbnRlcm5zaGlwLW11bmNoZW4ta3JlYXRpdnF1YXJ0aWVyLTQyNDcwN3x1dmMgcGFydG5lcnM6IGRhdGEgJiBhaSAtIG1hc3RlciB0aGVzaXMgLyBpbnRlcm5zaGlwIChmL20veCl8dW50ZXJuZWhtZXJ0dW0gZ2dtYmg",
+      "title": "UVC Partners: Data & AI - Master Thesis / Internship (f/m/x)",
+      "company": "UnternehmerTUM gGmbH",
+      "location": "München Kreativquartier",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-02T08:09:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/unternehmertum-ggmbh/uvc-partners-data-ai-master-thesis-internship-munchen-kreativquartier-424707"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGF0YWlrdS9yZW1vdGUtZnVsbHN0YWNrLXNvZnR3YXJlLWVuZ2luZWVyLWNvcmUtNDM3NDY5fGZ1bGxzdGFjayBzb2Z0d2FyZSBlbmdpbmVlciAtIGNvcmV8ZGF0YWlrdQ",
+      "title": "Fullstack Software Engineer - Core",
+      "company": "dataiku",
+      "location": "Remote",
+      "workModel": "Remote",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-02T05:55:10.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-fullstack-software-engineer-core-437469"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmV3cmVsaWMvYWNjb3VudC1leGVjdXRpdmUtZW50ZXJwcmlzZS1zYWxlcy1uZXctYnVzaW5lc3MtbXVuaWNoLTIwMDM4NnxhY2NvdW50IGV4ZWN1dGl2ZSAtIGVudGVycHJpc2Ugc2FsZXMgLSBuZXcgYnVzaW5lc3N8bmV3cmVsaWM",
+      "title": "Account Executive - Enterprise Sales - New Business",
+      "company": "newrelic",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-02T02:55:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/newrelic/account-executive-enterprise-sales-new-business-munich-200386"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvenNjYWxlci9hY2NvdW50LWV4ZWN1dGl2ZS1lbnRlcnByaXNlLTM3NTU4M3xhY2NvdW50IGV4ZWN1dGl2ZSwgZW50ZXJwcmlzZXx6c2NhbGVy",
+      "title": "Account Executive, Enterprise",
+      "company": "zscaler",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-02T02:55:14.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/zscaler/account-executive-enterprise-375583"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXRpcmEvcHJvZHVjdC1tdW5pY2gtMTU5NDE1fHByb2R1Y3R8YXRpcmE",
+      "title": "Product",
+      "company": "Atira",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-02T02:40:10.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/atira/product-munich-159415"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wcmVjaXNpb25tZWRpY2luZWdyb3VwL3JlbW90ZS1zZW5pb3ItY2xpbmljYWwtcmVzZWFyY2gtYXNzb2NpYXRlLWNsaW5pY2FsLXJlc2VhcmNoLWFzc29jaWF0ZS1paS00NDU1Nzd8c2VuaW9yIGNsaW5pY2FsIHJlc2VhcmNoIGFzc29jaWF0ZS8gY2xpbmljYWwgcmVzZWFyY2ggYXNzb2NpYXRlIGlpfHByZWNpc2lvbm1lZGljaW5lZ3JvdXA",
       "title": "Senior Clinical Research Associate/ Clinical Research Associate II",
@@ -112,19 +203,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/anaplan/director-workforce-strategy-transformation-174366"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcGxhbnRhY29ycC1nbWJoL2hlYWQtb2YtbWFya2V0aW5nLWhhbWJ1cmctMjMwNTU5fGhlYWQgb2YgbWFya2V0aW5nICh3L20vZCl8cGxhbnRhY29ycCBnbWJo",
-      "title": "Head of Marketing (w/m/d)",
-      "company": "PlantaCorp GmbH",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-01T14:47:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/plantacorp-gmbh/head-of-marketing-hamburg-230559"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc25rZS9zZW5pb3ItYWNjb3VudGFudC12b2xsLW9kZXItdGVpbHplaXQtbXVuY2hlbi0xMTg3MTR8c2VuaW9yIGFjY291bnRhbnQgKG0vdy9kKSAodm9sbC0gb2RlciB0ZWlsemVpdCl8c25rZQ",
       "title": "Senior Accountant (m/w/d) (Voll- oder Teilzeit)",
       "company": "Snke",
@@ -188,6 +266,19 @@
       "postedDate": "2026-09-01T11:40:05.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/everai/junior-performance-marketer-full-remote-germany-258211"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbGFyZ2Utc3BhY2Utc3RydWN0dXJlcy1nbWJoL2FpdC1lbmdpbmVlci1lY2hpbmctMTYyMTU1fGFpdCBlbmdpbmVlcnxsYXJnZSBzcGFjZSBzdHJ1Y3R1cmVzIGdtYmg",
+      "title": "AIT Engineer",
+      "company": "Large Space Structures GmbH",
+      "location": "Eching",
+      "workModel": "On-site",
+      "opportunityType": "professional / experienced",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-01T10:30:34.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/large-space-structures-gmbh/ait-engineer-eching-162155"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyYWkvanVuaW9yLXBlcmZvcm1hbmNlLW1hcmtldGVyLWZ1bGwtcmVtb3RlLXVrLXVuaXRlZC1raW5nZG9tLTMzODYzNXxqdW5pb3IgcGVyZm9ybWFuY2UgbWFya2V0ZXIgKGZ1bGwgcmVtb3RlIC0gdWspfGV2ZXJhaQ",
@@ -487,45 +578,6 @@
       "postedDate": "2026-08-31T21:45:29.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/sales-director-london-232842"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva2xlaW5lcy1rcmFmdHdlcmstZGUtZ21iaC9zZW5pb3Itc2VvLW1hbmFnZXJpbi1pLW9uLXVuZC1vZmZwYWdlLWktZS1jb21tZXJjZS1oeWJyaWQtYWNoaW0tYWNoaW0tYmVpLWJyZW1lbi00Nzc3MjV8KHNlbmlvcikgc2VvIG1hbmFnZXI6aW4gaSBvbi0gdW5kIG9mZnBhZ2UgaSBlLWNvbW1lcmNlLCBoeWJyaWQsIGFjaGltfGtsZWluZXMga3JhZnR3ZXJrIGRlIGdtYmg",
-      "title": "(Senior) SEO Manager:in I On- und Offpage I E-Commerce, hybrid, Achim",
-      "company": "Kleines Kraftwerk DE GmbH",
-      "location": "Achim (bei Bremen)",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-31T17:09:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/kleines-kraftwerk-de-gmbh/senior-seo-managerin-i-on-und-offpage-i-e-commerce-hybrid-achim-achim-bei-bremen-477725"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3Rhcmsvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLW1pc3Npb24tYXV0b25vbXktYWxsLWdlbmRlcnMtbXVuaWNoLTI1OTA3MnxzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIgLSBtaXNzaW9uIGF1dG9ub215IChhbGwgZ2VuZGVycyl8c3Rhcms",
-      "title": "Senior Software Engineer - Mission Autonomy (All Genders)",
-      "company": "Stark",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-31T11:09:46.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/senior-software-engineer-mission-autonomy-all-genders-munich-259072"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZ2VzaXMtbGVpYm5pei1pbnN0aXR1dC1mdXItc296aWFsd2lzc2Vuc2NoYWZ0ZW4vcmVzZWFyY2gtZGF0YS1tYW5hZ2VyLXBvc3Rkb2MtZm9yLW1hcHBpbmctaGFydmVzdGluZy1yZWxhdGlvbnNoaXBzLWt0cy04NC1rb2xuLTI3ODk0OXxyZXNlYXJjaCBkYXRhIG1hbmFnZXIgKHBvc3Rkb2MpIGZvciBtYXBwaW5nIGhhcnZlc3RpbmcgcmVsYXRpb25zaGlwcyAoa3RzLTg0KXxnZXNpcyDigJMgbGVpYm5pei1pbnN0aXR1dCBmw7xyIHNvemlhbHdpc3NlbnNjaGFmdGVu",
-      "title": "Research Data Manager (PostDoc) for mapping harvesting relationships (KTS-84)",
-      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
-      "location": "Köln",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-08-31T11:09:37.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/research-data-manager-postdoc-for-mapping-harvesting-relationships-kts-84-koln-278949"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTQ5MjYxMDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgbWVtcGhpc3xuZXVyb3BhY2U",
