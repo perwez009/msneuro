@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T03:01:41.177Z",
+  "generatedAt": "2026-09-03T10:42:51.425Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXRsYW50aWN2Yy9zb2Z0d2FyZS1kZXZlbG9wZXItZ24tYXQtYXV0b25vbW91cy1uYXZpZ2F0aW9uLXZlbnR1cmUtZHJlc2Rlbi0zNjQxMzR8c29mdHdhcmUgZGV2ZWxvcGVyIChnbikgQCBhdXRvbm9tb3VzIG5hdmlnYXRpb24gdmVudHVyZSwgZHJlc2RlbnxhdGxhbnRpYy52Yw",
+      "title": "Software Developer (gn) @ Autonomous Navigation Venture, Dresden",
+      "company": "atlantic.vc",
+      "location": "Dresden, Sachsen, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-03T08:30:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/software-developer-gn-at-autonomous-navigation-venture-dresden-364134"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXIvZGVzaWduLWRpcmVjdG9yLTI1LWRheXMtcC13LWxvbmRvbi0zMTgyNTJ8ZGVzaWduIGRpcmVjdG9yICgyLjUgZGF5cyBwL3cpfG9saXZlcg",
+      "title": "Design Director (2.5 days p/w)",
+      "company": "oliver",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-03T06:55:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver/design-director-25-days-p-w-london-318252"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS9hbmFseXRpY3MtZW5naW5lZXItdWstY2FyZHMtbG9uZG9uLTMzOTAxOXxhbmFseXRpY3MgZW5naW5lZXIgKHVrIGNhcmRzKXxsZW5kYWJsZQ",
+      "title": "Analytics Engineer (UK Cards)",
+      "company": "Lendable",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-03T06:40:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/analytics-engineer-uk-cards-london-339019"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jaGFybGVzcml2ZXJhc3NvY2lhdGVzL3Nlbmlvci1hc3NvY2lhdGUtZXVyb3BlYW4tY29tcGV0aXRpb24tcHJhY3RpY2UtbG9uZG9uLTMwMjg3MXxzZW5pb3IgYXNzb2NpYXRlIChldXJvcGVhbiBjb21wZXRpdGlvbiBwcmFjdGljZSl8Y2hhcmxlc3JpdmVyYXNzb2NpYXRlcw",
+      "title": "Senior Associate (European Competition practice)",
+      "company": "charlesriverassociates",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-03T03:55:39.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/charlesriverassociates/senior-associate-european-competition-practice-london-302871"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jaGFybGVzcml2ZXJhc3NvY2lhdGVzL3ByaW5jaXBhbC1ldXJvcGVhbi1jb21wZXRpdGlvbi1wcmFjdGljZS1sb25kb24tMjc5MzM1fHByaW5jaXBhbCAoZXVyb3BlYW4gY29tcGV0aXRpb24gcHJhY3RpY2UpfGNoYXJsZXNyaXZlcmFzc29jaWF0ZXM",
+      "title": "Principal (European Competition practice)",
+      "company": "charlesriverassociates",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-03T03:55:39.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/charlesriverassociates/principal-european-competition-practice-london-279335"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLXByb2R1Y3QtZGVzaWduZXItZnVsbC1yZW1vdGUtdWstdW5pdGVkLWtpbmdkb20tODYzMjJ8c2VuaW9yIHByb2R1Y3QgZGVzaWduZXIgKGZ1bGwgcmVtb3RlIC0gdWspfGV2ZXJhaQ",
       "title": "Senior Product Designer (Full Remote - UK)",
@@ -255,19 +320,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/zscaler/account-executive-enterprise-375583"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXRpcmEvcHJvZHVjdC1tdW5pY2gtMTU5NDE1fHByb2R1Y3R8YXRpcmE",
-      "title": "Product",
-      "company": "Atira",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-02T02:40:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/atira/product-munich-159415"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wcmVjaXNpb25tZWRpY2luZWdyb3VwL3JlbW90ZS1zZW5pb3ItY2xpbmljYWwtcmVzZWFyY2gtYXNzb2NpYXRlLWNsaW5pY2FsLXJlc2VhcmNoLWFzc29jaWF0ZS1paS00NDU1Nzd8c2VuaW9yIGNsaW5pY2FsIHJlc2VhcmNoIGFzc29jaWF0ZS8gY2xpbmljYWwgcmVzZWFyY2ggYXNzb2NpYXRlIGlpfHByZWNpc2lvbm1lZGljaW5lZ3JvdXA",
       "title": "Senior Clinical Research Associate/ Clinical Research Associate II",
       "company": "Precisionmedicinegroup",
@@ -331,97 +383,6 @@
       "postedDate": "2026-09-01T21:45:27.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/design-director-london-259577"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vZGluL2ZvdW5kaW5nLWdyb3d0aC1sZWFkLXZjLXBlLWxvbmRvbi05NjgwMXxmb3VuZGluZyBncm93dGggbGVhZCwgdmMvcGV8b2Rpbg",
-      "title": "Founding Growth Lead, VC/PE",
-      "company": "Odin",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-01T18:40:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/odin/founding-growth-lead-vc-pe-london-96801"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW5hcGxhbi9zZW5pb3Itc29sdXRpb25zLWNvbnN1bHRhbnQtcHJlc2FsZXMtMzA3Mzg1fHNlbmlvciBzb2x1dGlvbnMgY29uc3VsdGFudCwgcHJlc2FsZXN8YW5hcGxhbg",
-      "title": "Senior Solutions Consultant, Presales",
-      "company": "Anaplan",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-01T14:55:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/anaplan/senior-solutions-consultant-presales-307385"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW5hcGxhbi9kaXJlY3Rvci13b3JrZm9yY2Utc3RyYXRlZ3ktdHJhbnNmb3JtYXRpb24tMTc0MzY2fGRpcmVjdG9yLCB3b3JrZm9yY2Ugc3RyYXRlZ3kgJiB0cmFuc2Zvcm1hdGlvbnxhbmFwbGFu",
-      "title": "Director, Workforce Strategy & Transformation",
-      "company": "Anaplan",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-01T14:55:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/anaplan/director-workforce-strategy-transformation-174366"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc25rZS9zZW5pb3ItYWNjb3VudGFudC12b2xsLW9kZXItdGVpbHplaXQtbXVuY2hlbi0xMTg3MTR8c2VuaW9yIGFjY291bnRhbnQgKG0vdy9kKSAodm9sbC0gb2RlciB0ZWlsemVpdCl8c25rZQ",
-      "title": "Senior Accountant (m/w/d) (Voll- oder Teilzeit)",
-      "company": "Snke",
-      "location": "München",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-01T14:09:13.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-accountant-voll-oder-teilzeit-munchen-118714"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXJjdWx1cy9pbmZyYXN0cnVjdHVyZS1lbmdpbmVlci1kZXBsb3ltZW50cy1tdW5pY2gtMzE5ODQ3fGluZnJhc3RydWN0dXJlIGVuZ2luZWVyIC0gZGVwbG95bWVudHMgKGQvZi9tKXxhcmN1bHVz",
-      "title": "Infrastructure Engineer - Deployments (d/f/m)",
-      "company": "Arculus",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-01T14:09:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/arculus/infrastructure-engineer-deployments-munich-319847"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva2xlaW5lcy1rcmFmdHdlcmstZGUtZ21iaC9zZW5pb3Itc2VvLW1hbmFnZXJpbi1pLXNlby1nZW8tYWktc2VhcmNoLWktZS1jb21tZXJjZS1oeWJyaWQtYWNoaW0tMzQ2NTYxfChzZW5pb3IpIHNlbyBtYW5hZ2VyOmluIGkgc2VvLCBnZW8gJiBhaSBzZWFyY2ggaSBlLWNvbW1lcmNlLCBoeWJyaWQsIGFjaGltfGtsZWluZXMga3JhZnR3ZXJrIGRlIGdtYmg",
-      "title": "(Senior) SEO Manager:in I SEO, GEO & AI Search I E-Commerce, hybrid, Achim",
-      "company": "Kleines Kraftwerk DE GmbH",
-      "location": "Achim",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-01T13:00:45.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/kleines-kraftwerk-de-gmbh/senior-seo-managerin-i-seo-geo-ai-search-i-e-commerce-hybrid-achim-346561"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva3J1Z2VyLW1lZGlhLWdtYmgvanVuaW9yLXNvY2lhbC1tZWRpYS1tYW5hZ2VyaW4tY3JlYXRpdmUtdHJlbmRzLXdpZS1kdS1iaXN0LWJlcmxpbi0zMTc5Mzd8anVuaW9yIHNvY2lhbCBtZWRpYSBtYW5hZ2VyKmluIC0gY3JlYXRpdmUgJiB0cmVuZHMgKHdpZS9kdS9iaXN0KXxrcnVnZXIgbWVkaWEgZ21iaA",
-      "title": "Junior Social Media Manager*in - Creative & Trends (wie/du/bist)",
-      "company": "Kruger Media GmbH",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "berufseinstieg",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-01T12:30:50.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/kruger-media-gmbh/junior-social-media-managerin-creative-trends-wie-du-bist-berlin-317937"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTQ5MjYxMDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgbWVtcGhpc3xuZXVyb3BhY2U",
