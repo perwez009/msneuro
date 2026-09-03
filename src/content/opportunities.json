@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T15:49:16.318Z",
+  "generatedAt": "2026-09-03T20:31:52.778Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmlvbG9naWMvdHJhaW5lZS1haS1lbmdpbmVlcmluZy1pbi1kZXItdW50ZXJuZWhtZW5zYmVyYXR1bmctaHVydGgtNTI4NzJ8dHJhaW5lZSBhaSBlbmdpbmVlcmluZyBpbiBkZXIgdW50ZXJuZWhtZW5zYmVyYXR1bmd8bmlvbG9naWM",
+      "title": "Trainee AI Engineering in der Unternehmensberatung",
+      "company": "niologic",
+      "location": "Hürth",
+      "workModel": "On-site",
+      "opportunityType": "hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-03T20:00:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/niologic/trainee-ai-engineering-in-der-unternehmensberatung-hurth-52872"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTg0OTIwMDAzP2doX2ppZD03OTg0OTIwMDAzfG1hdGVyaWFsIG1hbmFnZW1lbnQgbGVhZHxuZXVyYWxpbms",
+      "title": "Material Management Lead",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-09-03T19:50:51.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7984920003?gh_jid=7984920003"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy92bWxlbnRlcnByaXNlc29sdXRpb25zL2xlYWQtdWktZGVzaWduZXItbG9uZG9uLW1hbmNoZXN0ZXItMzk5MTQ3fGxlYWQgdWkgZGVzaWduZXJ8dm1sZW50ZXJwcmlzZXNvbHV0aW9ucw",
+      "title": "Lead UI Designer",
+      "company": "Vmlenterprisesolutions",
+      "location": "London; Manchester",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-03T18:55:39.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/vmlenterprisesolutions/lead-ui-designer-london-manchester-399147"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcm9vbXByaWNlZ2VuaWUvcmVtb3RlLWFpLXN5c3RlbXMtYXV0b21hdGlvbi1lbmdpbmVlci1pbnRlcm5hbC1vcGVyYXRpb25zLTk2NDUyfHJlbW90ZSBhaSBzeXN0ZW1zICYgYXV0b21hdGlvbiBlbmdpbmVlciAoaW50ZXJuYWwgb3BlcmF0aW9ucykgKG0vZi9kKXxyb29tcHJpY2VnZW5pZQ",
+      "title": "Remote AI Systems & Automation Engineer (Internal Operations) (m/f/d)",
+      "company": "Roompricegenie",
+      "location": "Remote Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-03T17:40:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-ai-systems-automation-engineer-internal-operations-96452"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWFwYm94L3NvZnR3YXJlLWRldmVsb3BtZW50LWVuZ2luZWVyLWlpaS1tYXBzLWFwaS1tYXBib3gtZ2VybWFueS00OTY2NTl8c29mdHdhcmUgZGV2ZWxvcG1lbnQgZW5naW5lZXIgaWlpLCBtYXBzIGFwaXxtYXBib3g",
+      "title": "Software Development Engineer III, Maps API",
+      "company": "Mapbox",
+      "location": "Mapbox Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-03T17:40:10.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/mapbox/software-development-engineer-iii-maps-api-mapbox-germany-496659"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWRvcnN5cy1nbWJoL2FpLWVuZ2luZWVyLW51cm5iZXJnLTI4OTgwMnxhaSBlbmdpbmVlciAobS93L2QpfGFkb3JzeXMgZ21iaA",
       "title": "AI Engineer (m/w/d)",
@@ -110,6 +175,19 @@
       "postedDate": "2026-09-03T03:55:39.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/charlesriverassociates/principal-european-competition-practice-london-279335"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLXByb2R1Y3QtZGVzaWduZXItZnVsbC1yZW1vdGUtdWstdW5pdGVkLWtpbmdkb20tODYzMjJ8c2VuaW9yIHByb2R1Y3QgZGVzaWduZXIgKGZ1bGwgcmVtb3RlIC0gdWspfGV2ZXJhaQ",
+      "title": "Senior Product Designer (Full Remote - UK)",
+      "company": "EverAI",
+      "location": "United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-03T00:40:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/senior-product-designer-full-remote-uk-united-kingdom-86322"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcXBsaXgvd2Vya3N0dWRlbnQtcGVvcGxlLW9yZ2FuaXphdGlvbmFsLWN1bHR1cmUtcG9jLW11bmNoZW4tNDg4Njc4fHdlcmtzdHVkZW50IChtL3cvZCkgfCBwZW9wbGUgJiBvcmdhbml6YXRpb25hbCBjdWx0dXJlIChwb2MpfHFwbGl4",
@@ -268,71 +346,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/simpleclub/content-writerin-pflege-telzeit-werkstudentin-remote-munich-313739"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3Nlbmlvci1sZWdhbC1jb3Vuc2VsLXJlZ3VsYXRvcnktYW5kLWRhdGEtcHJpdmFjeS1iZXJsaW4tbXVuaWNoLTMyMjI1MHxzZW5pb3IgbGVnYWwgY291bnNlbCAocmVndWxhdG9yeSBhbmQgZGF0YSBwcml2YWN5KXxqZXRicmFpbnM",
-      "title": "Senior Legal Counsel (Regulatory and Data Privacy)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-02T08:55:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-legal-counsel-regulatory-and-data-privacy-berlin-munich-322250"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3Nlbmlvci1sZWdhbC1jb3Vuc2VsLXByb2R1Y3QtYW5kLWJ1c2luZXNzLWRldmVsb3BtZW50LWJlcmxpbi1tdW5pY2gtMzMwMzE3fHNlbmlvciBsZWdhbCBjb3Vuc2VsIChwcm9kdWN0IGFuZCBidXNpbmVzcyBkZXZlbG9wbWVudCl8amV0YnJhaW5z",
-      "title": "Senior Legal Counsel (Product and Business Development)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-02T08:55:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-legal-counsel-product-and-business-development-berlin-munich-330317"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdW50ZXJuZWhtZXJ0dW0tZ2dtYmgvdXZjLXBhcnRuZXJzLWRhdGEtYWktbWFzdGVyLXRoZXNpcy1pbnRlcm5zaGlwLW11bmNoZW4ta3JlYXRpdnF1YXJ0aWVyLTQyNDcwN3x1dmMgcGFydG5lcnM6IGRhdGEgJiBhaSAtIG1hc3RlciB0aGVzaXMgLyBpbnRlcm5zaGlwIChmL20veCl8dW50ZXJuZWhtZXJ0dW0gZ2dtYmg",
-      "title": "UVC Partners: Data & AI - Master Thesis / Internship (f/m/x)",
-      "company": "UnternehmerTUM gGmbH",
-      "location": "München Kreativquartier",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-02T08:09:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/unternehmertum-ggmbh/uvc-partners-data-ai-master-thesis-internship-munchen-kreativquartier-424707"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGF0YWlrdS9yZW1vdGUtZnVsbHN0YWNrLXNvZnR3YXJlLWVuZ2luZWVyLWNvcmUtNDM3NDY5fGZ1bGxzdGFjayBzb2Z0d2FyZSBlbmdpbmVlciAtIGNvcmV8ZGF0YWlrdQ",
-      "title": "Fullstack Software Engineer - Core",
-      "company": "dataiku",
-      "location": "Remote",
-      "workModel": "Remote",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-02T05:55:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-fullstack-software-engineer-core-437469"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wcmVjaXNpb25tZWRpY2luZWdyb3VwL3JlbW90ZS1zZW5pb3ItY2xpbmljYWwtcmVzZWFyY2gtYXNzb2NpYXRlLWNsaW5pY2FsLXJlc2VhcmNoLWFzc29jaWF0ZS1paS00NDU1Nzd8c2VuaW9yIGNsaW5pY2FsIHJlc2VhcmNoIGFzc29jaWF0ZS8gY2xpbmljYWwgcmVzZWFyY2ggYXNzb2NpYXRlIGlpfHByZWNpc2lvbm1lZGljaW5lZ3JvdXA",
-      "title": "Senior Clinical Research Associate/ Clinical Research Associate II",
-      "company": "Precisionmedicinegroup",
-      "location": "Remote",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-02T00:55:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-senior-clinical-research-associate-clinical-research-associate-ii-445577"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTgzOTkyMDAzP2doX2ppZD03OTgzOTkyMDAzfHF1YWxpdHkgZW5naW5lZXJpbmcgdGVjaG5pY2lhbnxuZXVyYWxpbms",
       "title": "Quality Engineering Technician",
       "company": "Neuralink",
@@ -344,19 +357,6 @@
       "postedDate": "2026-09-01T22:41:30.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7983992003?gh_jid=7983992003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXItYWdlbmN5L2Rlc2lnbi1kaXJlY3Rvci1sb25kb24tMjU5NTc3fGRlc2lnbiBkaXJlY3RvcnxvbGl2ZXIgYWdlbmN5",
-      "title": "Design Director",
-      "company": "OLIVER Agency",
-      "location": "London, England, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-01T21:45:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/design-director-london-259577"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTQ5MjYxMDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgbWVtcGhpc3xuZXVyb3BhY2U",
