@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T20:31:28.091Z",
+  "generatedAt": "2026-09-03T03:01:41.177Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLXByb2R1Y3QtZGVzaWduZXItZnVsbC1yZW1vdGUtdWstdW5pdGVkLWtpbmdkb20tODYzMjJ8c2VuaW9yIHByb2R1Y3QgZGVzaWduZXIgKGZ1bGwgcmVtb3RlIC0gdWspfGV2ZXJhaQ",
+      "title": "Senior Product Designer (Full Remote - UK)",
+      "company": "EverAI",
+      "location": "United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-03T00:40:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/senior-product-designer-full-remote-uk-united-kingdom-86322"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcXBsaXgvd2Vya3N0dWRlbnQtcGVvcGxlLW9yZ2FuaXphdGlvbmFsLWN1bHR1cmUtcG9jLW11bmNoZW4tNDg4Njc4fHdlcmtzdHVkZW50IChtL3cvZCkgfCBwZW9wbGUgJiBvcmdhbml6YXRpb25hbCBjdWx0dXJlIChwb2MpfHFwbGl4",
+      "title": "Werkstudent (m/w/d) | People & Organizational Culture (POC)",
+      "company": "Qplix",
+      "location": "München",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-02T20:09:50.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/qplix/werkstudent-people-organizational-culture-poc-munchen-488678"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kYXRhaWt1L3JlbW90ZS1mdWxsc3RhY2stc29mdHdhcmUtZW5naW5lZXItY29yZS0xODQyMjB8ZnVsbHN0YWNrIHNvZnR3YXJlIGVuZ2luZWVyIC0gY29yZXxkYXRhaWt1",
       "title": "Fullstack Software Engineer - Core",
@@ -396,32 +422,6 @@
       "postedDate": "2026-09-01T12:30:50.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/kruger-media-gmbh/junior-social-media-managerin-creative-trends-wie-du-bist-berlin-317937"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZlcmFpL2p1bmlvci1wZXJmb3JtYW5jZS1tYXJrZXRlci1mdWxsLXJlbW90ZS1nZXJtYW55LTI1ODIxMXxqdW5pb3IgcGVyZm9ybWFuY2UgbWFya2V0ZXIgKGZ1bGwgcmVtb3RlIC0gZ2VybWFueSl8ZXZlcmFp",
-      "title": "Junior Performance Marketer (Full Remote - Germany)",
-      "company": "EverAI",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-01T11:40:05.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/everai/junior-performance-marketer-full-remote-germany-258211"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbGFyZ2Utc3BhY2Utc3RydWN0dXJlcy1nbWJoL2FpdC1lbmdpbmVlci1lY2hpbmctMTYyMTU1fGFpdCBlbmdpbmVlcnxsYXJnZSBzcGFjZSBzdHJ1Y3R1cmVzIGdtYmg",
-      "title": "AIT Engineer",
-      "company": "Large Space Structures GmbH",
-      "location": "Eching",
-      "workModel": "On-site",
-      "opportunityType": "professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-01T10:30:34.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/large-space-structures-gmbh/ait-engineer-eching-162155"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTQ5MjYxMDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgbWVtcGhpc3xuZXVyb3BhY2U",
