@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T03:02:36.301Z",
+  "generatedAt": "2026-09-04T10:38:27.900Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,84 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90cmV4by1yb2JvdGljcy9jbGluaWNhbC1zcGVjaWFsaXN0LXJvYm90aWMtZXhvc2tlbGV0b24tbWFuY2hlc3Rlci0zOTA1MzV8Y2xpbmljYWwgc3BlY2lhbGlzdCAtIHJvYm90aWMgZXhvc2tlbGV0b258dHJleG8gcm9ib3RpY3M",
+      "title": "Clinical Specialist - Robotic Exoskeleton",
+      "company": "Trexo Robotics",
+      "location": "Manchester",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-04T09:40:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/trexo-robotics/clinical-specialist-robotic-exoskeleton-manchester-390535"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW50cmluc2ljcm9ib3RpY3Mvcm9ib3RpY3Mtc29mdHdhcmUtZW5naW5lZXItZ3Jhc3BpbmctbXVuaWNoLTQ0MDAyNXxyb2JvdGljcyBzb2Z0d2FyZSBlbmdpbmVlciAtIGdyYXNwaW5nfGludHJpbnNpY3JvYm90aWNz",
+      "title": "Robotics Software Engineer - Grasping",
+      "company": "intrinsicrobotics",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-04T08:55:12.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/intrinsicrobotics/robotics-software-engineer-grasping-munich-440025"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmlvbG9naWMvdHJhaW5lZS1haS1lbmdpbmVlcmluZy1pbi1kZXItdW50ZXJuZWhtZW5zYmVyYXR1bmctaHVydGgtNTI4NzJ8dHJhaW5lZSBhaSBlbmdpbmVlcmluZyBpbiBkZXIgdW50ZXJuZWhtZW5zYmVyYXR1bmd8bmlvbG9naWM",
+      "title": "Trainee AI Engineering in der Unternehmensberatung",
+      "company": "niologic",
+      "location": "Hürth",
+      "workModel": "On-site",
+      "opportunityType": "berufseinstieg",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-04T08:32:20.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/niologic/trainee-ai-engineering-in-der-unternehmensberatung-hurth-52872"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbmFwbGFuL3Nlbmlvci1tbC1lbmdpbmVlci1tYW5jaGVzdGVyLTM2MDA5M3xzZW5pb3IgbWwgZW5naW5lZXJ8YW5hcGxhbg",
+      "title": "Senior ML Engineer",
+      "company": "Anaplan",
+      "location": "Manchester",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-04T06:55:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-ml-engineer-manchester-360093"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbmFwbGFuL3ByaW5jaXBhbC1lbmdpbmVlci1haS1sb25kb24tNTUxMzZ8cHJpbmNpcGFsIGVuZ2luZWVyIC0gYWl8YW5hcGxhbg",
+      "title": "Principal Engineer - AI",
+      "company": "Anaplan",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-04T06:55:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-engineer-ai-london-55136"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbmFwbGFuL3ByaW5jaXBhbC1haS1lbmdpbmVlci1sb25kb24tMTg4NDkwfHByaW5jaXBhbCBhaSBlbmdpbmVlcnxhbmFwbGFu",
+      "title": "Principal AI Engineer",
+      "company": "Anaplan",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-04T06:55:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-ai-engineer-london-188490"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9haXNpL21pc3VzZS1yZWQtdGVhbS1yZXNlYXJjaC1lbmdpbmVlci1yZXNlYXJjaC1zY2llbnRpc3QtbG9uZG9uLTE3Nzg1MHxtaXN1c2UgcmVkIHRlYW0gLSByZXNlYXJjaCBlbmdpbmVlci9yZXNlYXJjaCBzY2llbnRpc3R8YWlzaQ",
       "title": "Misuse Red Team - Research Engineer/Research Scientist",
@@ -32,19 +110,6 @@
       "postedDate": "2026-09-04T00:55:17.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/aisi/control-red-team-research-engineer-research-scientist-london-374709"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmlvbG9naWMvdHJhaW5lZS1haS1lbmdpbmVlcmluZy1pbi1kZXItdW50ZXJuZWhtZW5zYmVyYXR1bmctaHVydGgtNTI4NzJ8dHJhaW5lZSBhaSBlbmdpbmVlcmluZyBpbiBkZXIgdW50ZXJuZWhtZW5zYmVyYXR1bmd8bmlvbG9naWM",
-      "title": "Trainee AI Engineering in der Unternehmensberatung",
-      "company": "niologic",
-      "location": "Hürth",
-      "workModel": "On-site",
-      "opportunityType": "hilfstätigkeit / student",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T00:17:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/niologic/trainee-ai-engineering-in-der-unternehmensberatung-hurth-52872"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGlkZS9hY2NvdW50LWV4ZWN1dGl2ZS1zbWUtY3JlZGl0LWJlcmxpbi0xMjkzOTF8YWNjb3VudCBleGVjdXRpdmUg4oCTIHNtZSBjcmVkaXR8dGlkZQ",
@@ -229,19 +294,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/taglichtechnik/werkstudent-recherche-skript-fur-youtube-dokus-munich-416944"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcHJlbWF0Y2gtc3BvcnRzLWdtYmgvc29mdHdhcmUtZW5naW5lZXItZGF0YS1hbGwtZ2VuZGVycy1rb2xuLTQ2MTgwOHxzb2Z0d2FyZSBlbmdpbmVlciAtIGRhdGEgKGFsbCBnZW5kZXJzKXxwcmVtYXRjaCBzcG9ydHMgZ21iaA",
-      "title": "Software Engineer - Data (All Genders)",
-      "company": "PREMATCH Sports GmbH",
-      "location": "Köln",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-03T11:09:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/prematch-sports-gmbh/software-engineer-data-all-genders-koln-461808"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXRsYW50aWN2Yy9zb2Z0d2FyZS1kZXZlbG9wZXItZ24tYXQtYXV0b25vbW91cy1uYXZpZ2F0aW9uLXZlbnR1cmUtZHJlc2Rlbi0zNjQxMzR8c29mdHdhcmUgZGV2ZWxvcGVyIChnbikgQCBhdXRvbm9tb3VzIG5hdmlnYXRpb24gdmVudHVyZSwgZHJlc2RlbnxhdGxhbnRpYy52Yw",
       "title": "Software Developer (gn) @ Autonomous Navigation Venture, Dresden",
       "company": "atlantic.vc",
@@ -318,19 +370,6 @@
       "postedDate": "2026-09-03T00:40:08.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/senior-product-designer-full-remote-uk-united-kingdom-86322"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcXBsaXgvd2Vya3N0dWRlbnQtcGVvcGxlLW9yZ2FuaXphdGlvbmFsLWN1bHR1cmUtcG9jLW11bmNoZW4tNDg4Njc4fHdlcmtzdHVkZW50IChtL3cvZCkgfCBwZW9wbGUgJiBvcmdhbml6YXRpb25hbCBjdWx0dXJlIChwb2MpfHFwbGl4",
-      "title": "Werkstudent (m/w/d) | People & Organizational Culture (POC)",
-      "company": "Qplix",
-      "location": "München",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-02T20:09:50.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/qplix/werkstudent-people-organizational-culture-poc-munchen-488678"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTgzOTkyMDAzP2doX2ppZD03OTgzOTkyMDAzfHF1YWxpdHkgZW5naW5lZXJpbmcgdGVjaG5pY2lhbnxuZXVyYWxpbms",
