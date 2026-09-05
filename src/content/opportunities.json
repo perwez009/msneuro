@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T03:02:45.443Z",
+  "generatedAt": "2026-09-05T09:59:11.196Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,149 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdmVudHgtZ21iaC9idXNpbmVzcy1kZXZlbG9wbWVudC1yZXByZXNlbnRhdGl2ZS1iZHItbXVuaWNoLTE4OTA1MHxidXNpbmVzcyBkZXZlbG9wbWVudCByZXByZXNlbnRhdGl2ZSAoYmRyKSAobS93L2QpfHZlbnR4IGdtYmg",
+      "title": "Business Development Representative (BDR) (m/w/d)",
+      "company": "ventx GmbH",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-05T09:00:31.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/ventx-gmbh/business-development-representative-bdr-munich-189050"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXRpcmEvZGVwbG95bWVudC1zdHJhdGVnaXN0LW11bmljaC0xNjg5OTd8ZGVwbG95bWVudCBzdHJhdGVnaXN0fGF0aXJh",
+      "title": "Deployment Strategist",
+      "company": "Atira",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-05T08:40:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/atira/deployment-strategist-munich-168997"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy92b2xlb24vc2VuaW9yLW1hY2hpbmUtbGVhcm5pbmctZW5naW5lZXItbG9uZG9uLTE3NzAzNHxzZW5pb3IgbWFjaGluZSBsZWFybmluZyBlbmdpbmVlcnx2b2xlb24",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Voleon",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-05T06:40:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/voleon/senior-machine-learning-engineer-london-177034"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29uc3RydWN0b3IvZnVsbHN0YWNrLWVuZ2luZWVyLXByb3NwZWN0LXVpLXNvbHV0aW9ucy1tdW5pY2gtNDE1MDQzfGZ1bGxzdGFjayBlbmdpbmVlciAtIHByb3NwZWN0IHVpIHNvbHV0aW9uc3xjb25zdHJ1Y3Rvcg",
+      "title": "FullStack Engineer - Prospect UI Solutions",
+      "company": "Constructor",
+      "location": "Remote",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-05T05:40:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-ui-solutions-munich-415043"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva2xlaW5lcy1rcmFmdHdlcmstZGUtZ21iaC9zZW5pb3Itc2VvLW1hbmFnZXJpbi1pLXNlby1nZW8tYWktc2VhcmNoLWktZS1jb21tZXJjZS1oeWJyaWQtYWNoaW0tYWNoaW0tYmVpLWJyZW1lbi00Mjg5NzJ8KHNlbmlvcikgc2VvIG1hbmFnZXI6aW4gaSBzZW8sIGdlbyAmIGFpIHNlYXJjaCBpIGUtY29tbWVyY2UsIGh5YnJpZCwgYWNoaW18a2xlaW5lcyBrcmFmdHdlcmsgZGUgZ21iaA",
+      "title": "(Senior) SEO Manager:in I SEO, GEO & AI Search I E-Commerce, hybrid, Achim",
+      "company": "Kleines Kraftwerk DE GmbH",
+      "location": "Achim (bei Bremen)",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-05T05:09:31.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/kleines-kraftwerk-de-gmbh/senior-seo-managerin-i-seo-geo-ai-search-i-e-commerce-hybrid-achim-achim-bei-bremen-428972"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uaWNlL3NvZnR3YXJlLWFyY2hpdGVjdC0zNzcxMDV8c29mdHdhcmUgYXJjaGl0ZWN0fG5pY2U",
+      "title": "Software Architect",
+      "company": "nice",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-05T03:55:10.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/software-architect-377105"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uaWNlL3Nlbmlvci1zb2Z0d2FyZS1hcmNoaXRlY3QtMzU2NjQ2fHNlbmlvciBzb2Z0d2FyZSBhcmNoaXRlY3R8bmljZQ",
+      "title": "Senior Software Architect",
+      "company": "nice",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-05T03:55:10.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/senior-software-architect-356646"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93cml0ZXIvaW5mcmFzdHJ1Y3R1cmUtZW5naW5lZXItdWstbG9uZG9uLTYwNDAzfGluZnJhc3RydWN0dXJlIGVuZ2luZWVyICh1ayl8d3JpdGVy",
+      "title": "Infrastructure engineer (UK)",
+      "company": "Writer",
+      "location": "London, UK",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-05T03:40:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/infrastructure-engineer-uk-london-60403"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wbGFpZC9yZW1vdGUtdGVjaG5pY2FsLXN1cHBvcnQtZW5naW5lZXItMjQxMzU4fHRlY2huaWNhbCBzdXBwb3J0IGVuZ2luZWVyfHBsYWlk",
+      "title": "Technical Support Engineer",
+      "company": "Plaid",
+      "location": "London Office",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-05T03:40:03.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/plaid/remote-technical-support-engineer-241358"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3RhcmsvdGFjdGljYWwtZGF0YS1saW5rLWV4cGVydC1hbGwtZ2VuZGVycy1tdW5pY2gtMjg4MDYxfHRhY3RpY2FsIGRhdGEgbGluayBleHBlcnQgKGFsbCBnZW5kZXJzKXxzdGFyaw",
+      "title": "Tactical Data Link Expert (all genders)",
+      "company": "Stark",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-05T02:09:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/tactical-data-link-expert-all-genders-munich-288061"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3Rhcmsvc2VuaW9yLWFpLXN5c3RlbXMtZW5naW5lZXItcm9ib3RpY3Mtc3dhcm1pbmctYWxsLWdlbmRlcnMtbXVuaWNoLTIyOTA5MnxzZW5pb3IgYWkgc3lzdGVtcyBlbmdpbmVlciDigJMgcm9ib3RpY3Mvc3dhcm1pbmcgKGFsbCBnZW5kZXJzKXxzdGFyaw",
+      "title": "Senior AI Systems Engineer – Robotics/Swarming (all genders)",
+      "company": "Stark",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-05T02:09:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/senior-ai-systems-engineer-robotics-swarming-all-genders-munich-229092"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vZGluL3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1sb25kb24tMjI0OTg1fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlcnxvZGlu",
       "title": "Senior Software Engineer",
@@ -346,32 +489,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/iact/software-engineer-backend-applied-ai-systems-jena-92825"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93YXRlcnNoZWQvc2VuaW9yLXN1c3RhaW5hYmlsaXR5LWFkdmlzb3ItZW5nYWdlbWVudC1tYW5hZ2VyLWpyLXBhcnRuZXItbGV2ZWwtbG9uZG9uLTIwOTMzOHxzZW5pb3Igc3VzdGFpbmFiaWxpdHkgYWR2aXNvciAoZW5nYWdlbWVudCBtYW5hZ2VyIC0ganIuIHBhcnRuZXIgbGV2ZWwpfHdhdGVyc2hlZA",
-      "title": "Senior sustainability advisor (engagement manager - jr. partner level)",
-      "company": "Watershed",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T12:40:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/watershed/senior-sustainability-advisor-engagement-manager-jr-partner-level-london-209338"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pd29jYS9zZW5pb3ItZGF0YS1zY2llbnRpc3QtY3JlZGl0LXJpc2stbW9kZWxsaW5nLWxvbmRvbi0xOTk0NDl8c2VuaW9yIGRhdGEgc2NpZW50aXN0IC0gY3JlZGl0IHJpc2sgbW9kZWxsaW5nfGl3b2Nh",
-      "title": "Senior Data Scientist - Credit Risk Modelling",
-      "company": "iwoca",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T12:40:05.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/senior-data-scientist-credit-risk-modelling-london-199449"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3NvZnR3YXJlLWRldmVsb3Blci1qYXZhLW5vZGVqcy13ZWItZGV2ZWxvcG1lbnQtdGVhbS1iZXJsaW4tbXVuaWNoLTQ1Mzc0MHxzb2Z0d2FyZSBkZXZlbG9wZXIgIGphdmEvIG5vZGUuanMgKHdlYiBkZXZlbG9wbWVudCB0ZWFtKXxqZXRicmFpbnM",
       "title": "Software Developer  Java/ Node.JS (Web Development Team)",
       "company": "jetbrains",
@@ -398,19 +515,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-software-developer-ai-agents-integrations-berlin-235367"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90cmV4by1yb2JvdGljcy9jbGluaWNhbC1zcGVjaWFsaXN0LXJvYm90aWMtZXhvc2tlbGV0b24tbWFuY2hlc3Rlci0zOTA1MzV8Y2xpbmljYWwgc3BlY2lhbGlzdCAtIHJvYm90aWMgZXhvc2tlbGV0b258dHJleG8gcm9ib3RpY3M",
-      "title": "Clinical Specialist - Robotic Exoskeleton",
-      "company": "Trexo Robotics",
-      "location": "Manchester",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T09:40:13.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/trexo-robotics/clinical-specialist-robotic-exoskeleton-manchester-390535"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW50cmluc2ljcm9ib3RpY3Mvcm9ib3RpY3Mtc29mdHdhcmUtZW5naW5lZXItZ3Jhc3BpbmctbXVuaWNoLTQ0MDAyNXxyb2JvdGljcyBzb2Z0d2FyZSBlbmdpbmVlciAtIGdyYXNwaW5nfGludHJpbnNpY3JvYm90aWNz",
       "title": "Robotics Software Engineer - Grasping",
       "company": "intrinsicrobotics",
@@ -422,58 +526,6 @@
       "postedDate": "2026-09-04T08:55:12.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/intrinsicrobotics/robotics-software-engineer-grasping-munich-440025"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmlvbG9naWMvdHJhaW5lZS1haS1lbmdpbmVlcmluZy1pbi1kZXItdW50ZXJuZWhtZW5zYmVyYXR1bmctaHVydGgtNTI4NzJ8dHJhaW5lZSBhaSBlbmdpbmVlcmluZyBpbiBkZXIgdW50ZXJuZWhtZW5zYmVyYXR1bmd8bmlvbG9naWM",
-      "title": "Trainee AI Engineering in der Unternehmensberatung",
-      "company": "niologic",
-      "location": "Hürth",
-      "workModel": "On-site",
-      "opportunityType": "berufseinstieg",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T08:32:20.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/niologic/trainee-ai-engineering-in-der-unternehmensberatung-hurth-52872"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbmFwbGFuL3Nlbmlvci1tbC1lbmdpbmVlci1tYW5jaGVzdGVyLTM2MDA5M3xzZW5pb3IgbWwgZW5naW5lZXJ8YW5hcGxhbg",
-      "title": "Senior ML Engineer",
-      "company": "Anaplan",
-      "location": "Manchester",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T06:55:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-ml-engineer-manchester-360093"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbmFwbGFuL3ByaW5jaXBhbC1lbmdpbmVlci1haS1sb25kb24tNTUxMzZ8cHJpbmNpcGFsIGVuZ2luZWVyIC0gYWl8YW5hcGxhbg",
-      "title": "Principal Engineer - AI",
-      "company": "Anaplan",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T06:55:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-engineer-ai-london-55136"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbmFwbGFuL3ByaW5jaXBhbC1haS1lbmdpbmVlci1sb25kb24tMTg4NDkwfHByaW5jaXBhbCBhaSBlbmdpbmVlcnxhbmFwbGFu",
-      "title": "Principal AI Engineer",
-      "company": "Anaplan",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T06:55:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-ai-engineer-london-188490"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3BlZWNoaWZ5L3NvZnR3YXJlLWVuZ2luZWVyLXBsYXRmb3JtLW11bmljaC1nZXJtYW55LTI2ODc2fHNvZnR3YXJlIGVuZ2luZWVyLCBwbGF0Zm9ybSAtIG11bmljaCwgZ2VybWFueXxzcGVlY2hpZnk",
@@ -554,32 +606,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-berlin-germany-374757"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9haXNpL21pc3VzZS1yZWQtdGVhbS1yZXNlYXJjaC1lbmdpbmVlci1yZXNlYXJjaC1zY2llbnRpc3QtbG9uZG9uLTE3Nzg1MHxtaXN1c2UgcmVkIHRlYW0gLSByZXNlYXJjaCBlbmdpbmVlci9yZXNlYXJjaCBzY2llbnRpc3R8YWlzaQ",
-      "title": "Misuse Red Team - Research Engineer/Research Scientist",
-      "company": "Aisi",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T00:55:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aisi/misuse-red-team-research-engineer-research-scientist-london-177850"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9haXNpL2NvbnRyb2wtcmVkLXRlYW0tcmVzZWFyY2gtZW5naW5lZXItcmVzZWFyY2gtc2NpZW50aXN0LWxvbmRvbi0zNzQ3MDl8Y29udHJvbCByZWQgdGVhbSAtIHJlc2VhcmNoIGVuZ2luZWVyL3Jlc2VhcmNoIHNjaWVudGlzdHxhaXNp",
-      "title": "Control Red Team - Research Engineer/Research Scientist",
-      "company": "Aisi",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T00:55:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aisi/control-red-team-research-engineer-research-scientist-london-374709"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGlkZS9hY2NvdW50LWV4ZWN1dGl2ZS1zbWUtY3JlZGl0LWJlcmxpbi0xMjkzOTF8YWNjb3VudCBleGVjdXRpdmUg4oCTIHNtZSBjcmVkaXR8dGlkZQ",
       "title": "Account Executive – SME Credit",
       "company": "tide",
@@ -645,45 +671,6 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/7984011003?gh_jid=7984011003"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcGFyYWRveGNhdGdtYmgvc2VuaW9yLWVtYmVkZGVkLXBsYXRmb3JtLWxpbnV4LWVuZ2luZWVyLWZyZWVsYW5jZXItbXVuaWNoLW11bmNoZW4tYmF2YXJpYS03NjEwOXxzZW5pb3IgZW1iZWRkZWQgcGxhdGZvcm0gJiBsaW51eCBlbmdpbmVlciBmcmVlbGFuY2VyIChmL20vZCkgLSBtdW5pY2h8cGFyYWRveGNhdGdtYmg",
-      "title": "Senior Embedded Platform & Linux Engineer Freelancer (F/M/D) - Munich",
-      "company": "Paradoxcatgmbh",
-      "location": "München, Bavaria",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-03T20:55:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/paradoxcatgmbh/senior-embedded-platform-linux-engineer-freelancer-munich-munchen-bavaria-76109"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcHJveGltYS1mdXNpb24tZ21iaC9tdWx0aXBoeXNpY3Mtc2ltdWxhdGlvbi1lbmdpbmVlci1tdW5pY2gtNDMwNDczfG11bHRpcGh5c2ljcyBzaW11bGF0aW9uIGVuZ2luZWVyfHByb3hpbWEgZnVzaW9uIGdtYmg",
-      "title": "Multiphysics Simulation Engineer",
-      "company": "Proxima Fusion GmbH",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-03T20:40:04.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/multiphysics-simulation-engineer-munich-430473"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZmFzdG5lZC9jb3VudHJ5LWRpcmVjdG9yLWdlcm1hbnktZml4ZWQtdGVybS1lbXBsb3ltZW50LTEteWVhci1rb2xuLTMzMjUzNXxjb3VudHJ5IGRpcmVjdG9yIGdlcm1hbnkgKGZpeGVkIHRlcm0gZW1wbG95bWVudCAxIHllYXIpfGZhc3RuZWQ",
-      "title": "Country Director Germany (Fixed Term Employment 1 year)",
-      "company": "Fastned",
-      "location": "Köln, Nordrhein-Westfalen, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-03T20:30:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/fastned/country-director-germany-fixed-term-employment-1-year-koln-332535"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTg0OTIwMDAzP2doX2ppZD03OTg0OTIwMDAzfG1hdGVyaWFsIG1hbmFnZW1lbnQgbGVhZHxuZXVyYWxpbms",
       "title": "Material Management Lead",
       "company": "Neuralink",
@@ -695,19 +682,6 @@
       "postedDate": "2026-09-03T19:50:51.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7984920003?gh_jid=7984920003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy92bWxlbnRlcnByaXNlc29sdXRpb25zL2xlYWQtdWktZGVzaWduZXItbG9uZG9uLW1hbmNoZXN0ZXItMzk5MTQ3fGxlYWQgdWkgZGVzaWduZXJ8dm1sZW50ZXJwcmlzZXNvbHV0aW9ucw",
-      "title": "Lead UI Designer",
-      "company": "Vmlenterprisesolutions",
-      "location": "London; Manchester",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-03T18:55:39.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/vmlenterprisesolutions/lead-ui-designer-london-manchester-399147"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTgzOTkyMDAzP2doX2ppZD03OTgzOTkyMDAzfHF1YWxpdHkgZW5naW5lZXJpbmcgdGVjaG5pY2lhbnxuZXVyYWxpbms",
