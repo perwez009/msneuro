@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T14:37:45.271Z",
+  "generatedAt": "2026-09-05T19:57:29.163Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -8,17 +8,82 @@
   ],
   "items": [
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9maWdtYS9hY2NvdW50LWV4ZWN1dGl2ZS1zbWItcGFyaXMtZnJhbmNlLTIyNDg2MXxhY2NvdW50IGV4ZWN1dGl2ZSwgc21iIChwYXJpcywgZnJhbmNlKXxmaWdtYQ",
-      "title": "Account Executive, SMB (Paris, France)",
-      "company": "figma",
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9waWdtZW50L2RhdGEtZW5naW5lZXItZ3Jvd3RoLXRlYW0tcGFyaXMtMTE2MzY2fGRhdGEgZW5naW5lZXIgKGdyb3d0aCB0ZWFtKXxwaWdtZW50",
+      "title": "Data Engineer (Growth Team)",
+      "company": "Pigment",
       "location": "Paris",
       "workModel": "On-site",
-      "opportunityType": "Unspecified",
+      "opportunityType": "Full-time",
       "source": "Arbeitnow",
       "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-05T13:55:15.000Z",
+      "postedDate": "2026-09-05T19:05:02.000Z",
       "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/figma/account-executive-smb-paris-france-224861"
+      "url": "https://www.arbeitnow.fr/jobs/companies/pigment/data-engineer-growth-team-paris-116366"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy92b2x0YS1tZWRpY2FsL2xlYWQtZGF0YS1zY2llbnRpc3QtaC1mLW1hcnNlaWxsZS0xNTM3Njd8bGVhZCBkYXRhIHNjaWVudGlzdCBoL2Z8dm9sdGEgbWVkaWNhbA",
+      "title": "Lead Data Scientist H/F",
+      "company": "Volta Medical",
+      "location": "Marseille",
+      "workModel": "On-site",
+      "opportunityType": "CDI statut cadre",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-05T19:04:43.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/volta-medical/lead-data-scientist-h-f-marseille-153767"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hbnlvbmUtYWkvY2hlbWlzdHJ5LWV4cGVydC1zcGFpbi1wYXJpcy0zNDc4NTF8Y2hlbWlzdHJ5IGV4cGVydCAoc3BhaW4pfGFueW9uZSBhaQ",
+      "title": "Chemistry Expert (Spain)",
+      "company": "Anyone Ai",
+      "location": "France",
+      "workModel": "On-site",
+      "opportunityType": "Contract",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-05T16:40:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/chemistry-expert-spain-paris-347851"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hbnlvbmUtYWkvY2hlbWlzdHJ5LWV4cGVydC1mcmFuY2UtcGFyaXMtMTc3NTc3fGNoZW1pc3RyeSBleHBlcnQgKGZyYW5jZSl8YW55b25lIGFp",
+      "title": "Chemistry Expert (France)",
+      "company": "Anyone Ai",
+      "location": "France",
+      "workModel": "On-site",
+      "opportunityType": "Contract",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-05T16:40:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/chemistry-expert-france-paris-177577"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hbnlvbmUtYWkvYmlvbG9neS1leHBlcnQtYWktdHJhaW5lci1mcmFuY2UtcGFyaXMtMTY3ODMxfGJpb2xvZ3kgZXhwZXJ0IC0gYWkgdHJhaW5lciAoZnJhbmNlKXxhbnlvbmUgYWk",
+      "title": "Biology Expert - AI Trainer (France)",
+      "company": "Anyone Ai",
+      "location": "France",
+      "workModel": "On-site",
+      "opportunityType": "Part-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-05T16:40:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/biology-expert-ai-trainer-france-paris-167831"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYnVuY2gvc2VuaW9yLXRhbGVudC1hY3F1aXNpdGlvbi1tYW5hZ2VyLWd0bS1vcGVyYXRpb25zLWJlcmxpbi0zODYwNTV8c2VuaW9yIHRhbGVudCBhY3F1aXNpdGlvbiBtYW5hZ2VyIHwgZ3RtICYgb3BlcmF0aW9ucyAoZi9tL2QpfGJ1bmNo",
+      "title": "Senior Talent Acquisition Manager | GTM & Operations (f/m/d)",
+      "company": "bunch",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-05T14:40:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/bunch/senior-talent-acquisition-manager-gtm-operations-berlin-386055"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9wYXJhZG94L2dyb3d0aC1oYWNrZXItYWktbmF0aXZlLWZyZW5jaC1mbHVlbnQtcGFyaXMtNzgwODV8Z3Jvd3RoIGhhY2tlciAtIGFpIG5hdGl2ZSAoZnJlbmNoIGZsdWVudCl8cGFyYWRveA",
@@ -567,32 +632,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-product-marketing-manager-london-220521"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pbnRlcmNvbS9zZW5pb3ItcHJvZHVjdC1tYXJrZXRpbmctbWFuYWdlci1sb25kb24tMTU0NjU0fHNlbmlvciBwcm9kdWN0IG1hcmtldGluZyBtYW5hZ2VyfGludGVyY29t",
-      "title": "Senior Product Marketing Manager",
-      "company": "intercom",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T15:55:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-product-marketing-manager-london-154654"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy91aXBhdGgvc2VuaW9yLWZvcndhcmQtZGVwbG95ZWQtc2NpZW50aXN0LWxvbmRvbi0yNTM1NjV8c2VuaW9yIGZvcndhcmQgZGVwbG95ZWQgc2NpZW50aXN0fHVpcGF0aA",
-      "title": "Senior Forward Deployed Scientist",
-      "company": "UiPath",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T15:40:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/uipath/senior-forward-deployed-scientist-london-253565"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGV0cmFzY2llbmNlL3NjaWVudGlmaWMtZGF0YS1hcmNoaXRlY3QtZGFybXN0YWR0LW9yLWR1c3NlbGRvcmYtZ2VybWFueS0zNjg0MTN8c2NpZW50aWZpYyBkYXRhIGFyY2hpdGVjdCAtZGFybXN0YWR0IG9yIGTDvHNzZWxkb3JmLCBnZXJtYW55fHRldHJhc2NpZW5jZQ",
       "title": "Scientific Data Architect -Darmstadt or Düsseldorf, Germany",
       "company": "Tetrascience",
@@ -760,32 +799,6 @@
       "postedDate": "2026-09-04T02:55:15.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-berlin-germany-374757"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGlkZS9hY2NvdW50LWV4ZWN1dGl2ZS1zbWUtY3JlZGl0LWJlcmxpbi0xMjkzOTF8YWNjb3VudCBleGVjdXRpdmUg4oCTIHNtZSBjcmVkaXR8dGlkZQ",
-      "title": "Account Executive – SME Credit",
-      "company": "tide",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-03T23:55:14.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/tide/account-executive-sme-credit-berlin-129391"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmljZS9zZW5pb3ItY3VzdG9tZXItc3VjY2Vzcy1tYW5hZ2VyLTMyNjc3MXxzZW5pb3IgY3VzdG9tZXIgc3VjY2VzcyBtYW5hZ2VyfG5pY2U",
-      "title": "Senior Customer Success Manager",
-      "company": "nice",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-03T23:55:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-customer-success-manager-326771"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTg0MDExMDAzP2doX2ppZD03OTg0MDExMDAzfGRpbWVuc2lvbmFsIHF1YWxpdHkgZW5naW5lZXIsIG1ldHJvbG9neXxuZXVyYWxpbms",
