@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T10:18:15.719Z",
+  "generatedAt": "2026-09-06T14:57:22.700Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9naXNtYXJ0L3JlbW90ZS1iaWxsaW5nLW1hbmFnZXItZml0bWUtMjgxNDM4fGJpbGxpbmcgbWFuYWdlciAoZml0bWUpfGdpc21hcnQ",
+      "title": "Billing Manager (FitMe)",
+      "company": "Gismart",
+      "location": "Remote",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-06T10:40:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/gismart/remote-billing-manager-fitme-281438"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9naXNtYXJ0L3JlbW90ZS1jcmVhdGl2ZS1tYXJrZXRpbmctbWFuYWdlci1maXRtZS0yODI4NzN8Y3JlYXRpdmUgbWFya2V0aW5nIG1hbmFnZXIgKGZpdG1lKXxnaXNtYXJ0",
+      "title": "Creative Marketing Manager (FitMe)",
+      "company": "Gismart",
+      "location": "Remote",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-06T10:40:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/gismart/remote-creative-marketing-manager-fitme-282873"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9lbGV2ZS10YWxlbnQvcmVtb3RlLWtuaXQtbGVhZC1wcm9kdWN0LW1hbmFnZXItMzA4ODg4fGtuaXQgLSBsZWFkIHByb2R1Y3QgbWFuYWdlcnxlbGV2ZSB0YWxlbnQ",
+      "title": "Knit - Lead Product Manager",
+      "company": "Eleve Talent",
+      "location": "Remote",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-06T10:40:10.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-knit-lead-product-manager-308888"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbmFwbGFuL2Fzc29jaWF0ZS1iYWNrZW5kLXNvZnR3YXJlLWVuZ2luZWVyLXB5dGhvbi1tYW5jaGVzdGVyLTQzMDE0N3xhc3NvY2lhdGUgYmFja2VuZCBzb2Z0d2FyZSBlbmdpbmVlciAocHl0aG9uKXxhbmFwbGFu",
+      "title": "Associate Backend Software Engineer (Python)",
+      "company": "Anaplan",
+      "location": "Manchester",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-06T09:55:04.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/associate-backend-software-engineer-python-manchester-430147"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3JlbW90ZS1zdGFmZi1zb2Z0d2FyZS1kZXZlbG9wZXItaWFtLTM4Mzg5NnxzdGFmZiBzb2Z0d2FyZSBkZXZlbG9wZXIgKGlhbSl8amV0YnJhaW5z",
       "title": "Staff Software Developer (IAM)",
@@ -227,58 +279,6 @@
       "postedDate": "2026-09-06T03:40:06.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-frontend-engineer-london-423081"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc25rZS9zZW5pb3ItbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci12aWRlby1haS1tdW5jaGVuLTk4ODkxfHNlbmlvciBtYWNoaW5lIGxlYXJuaW5nIGVuZ2luZWVyIOKAkyB2aWRlbyBhaXxzbmtl",
-      "title": "Senior Machine Learning Engineer – Video AI",
-      "company": "Snke",
-      "location": "München",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T02:09:35.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-machine-learning-engineer-video-ai-munchen-98891"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc25rZS9zZW5pb3ItYWNjb3VudGFudC12b2xsLW9kZXItdGVpbHplaXQtbXVuY2hlbi00ODEzNDJ8c2VuaW9yIGFjY291bnRhbnQgKG0vdy9kKSAodm9sbC0gb2RlciB0ZWlsemVpdCl8c25rZQ",
-      "title": "Senior Accountant (m/w/d) (Voll- oder Teilzeit)",
-      "company": "Snke",
-      "location": "München",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T02:09:35.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-accountant-voll-oder-teilzeit-munchen-481342"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXJjdWx1cy9pbmZyYXN0cnVjdHVyZS1lbmdpbmVlci1kZXBsb3ltZW50cy1tdW5pY2gtMTA5NDY2fGluZnJhc3RydWN0dXJlIGVuZ2luZWVyIC0gZGVwbG95bWVudHMgKGQvZi9tKXxhcmN1bHVz",
-      "title": "Infrastructure Engineer - Deployments (d/f/m)",
-      "company": "Arculus",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T02:09:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/arculus/infrastructure-engineer-deployments-munich-109466"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9taXN0cmFsYWkvcmVzZWFyY2gtZW5naW5lZXItZm9yZ2UtcGFyaXMtNDgwNDV8cmVzZWFyY2ggZW5naW5lZXIsIGZvcmdlfG1pc3RyYWwuYWk",
-      "title": "Research Engineer, Forge",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T01:40:05.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/research-engineer-forge-paris-48045"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyd2F5L3Nlbmlvci1wcm9kdWN0LWRlc2lnbmVyLTIxMzU0fHNlbmlvciBwcm9kdWN0IGRlc2lnbmVyfGV2ZXJ3YXk",
@@ -760,32 +760,6 @@
       "postedDate": "2026-09-04T13:00:50.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/iact/software-engineer-backend-applied-ai-systems-jena-92825"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3NvZnR3YXJlLWRldmVsb3Blci1qYXZhLW5vZGVqcy13ZWItZGV2ZWxvcG1lbnQtdGVhbS1iZXJsaW4tbXVuaWNoLTQ1Mzc0MHxzb2Z0d2FyZSBkZXZlbG9wZXIgIGphdmEvIG5vZGUuanMgKHdlYiBkZXZlbG9wbWVudCB0ZWFtKXxqZXRicmFpbnM",
-      "title": "Software Developer  Java/ Node.JS (Web Development Team)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T11:55:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/software-developer-java-nodejs-web-development-team-berlin-munich-453740"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3Nlbmlvci1zb2Z0d2FyZS1kZXZlbG9wZXItYWktYWdlbnRzLWludGVncmF0aW9ucy1iZXJsaW4tMjM1MzY3fHNlbmlvciBzb2Z0d2FyZSBkZXZlbG9wZXIgKGFpIGFnZW50cyAmIGludGVncmF0aW9ucyl8amV0YnJhaW5z",
-      "title": "Senior Software Developer (AI Agents & Integrations)",
-      "company": "jetbrains",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T11:55:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-software-developer-ai-agents-integrations-berlin-235367"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTg0MDExMDAzP2doX2ppZD03OTg0MDExMDAzfGRpbWVuc2lvbmFsIHF1YWxpdHkgZW5naW5lZXIsIG1ldHJvbG9neXxuZXVyYWxpbms",
