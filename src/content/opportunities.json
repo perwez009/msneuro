@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T15:52:07.837Z",
+  "generatedAt": "2026-09-10T20:27:22.917Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9xdWFudHVtLW1vdGlvbi10ZWNobm9sb2dpZXMtcGVyc29uaW8vc2VuaW9yLWVsZWN0cmljYWwtY2hhcmFjdGVyaXNhdGlvbi1lbmdpbmVlci1sb25kb24tdWstMzkxODU0fHNlbmlvciBlbGVjdHJpY2FsIGNoYXJhY3RlcmlzYXRpb24gZW5naW5lZXJ8cXVhbnR1bSBtb3Rpb24gdGVjaG5vbG9naWVzIC0gcGVyc29uaW8",
+      "title": "Senior Electrical Characterisation Engineer",
+      "company": "Quantum Motion Technologies - Personio",
+      "location": "London, UK",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-10T18:09:54.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum-motion-technologies-personio/senior-electrical-characterisation-engineer-london-uk-391854"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaXNhcmFlcm9zcGFjZS9zZW5pb3Itc2VjdXJpdHktZW5naW5lZXItcGFyc2RvcmYtYmF2YXJpYS03NjM5MnxzZW5pb3Igc2VjdXJpdHkgZW5naW5lZXIgKG0vZi9kKXxpc2FyYWVyb3NwYWNl",
+      "title": "Senior Security Engineer (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Parsdorf, Bavaria",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-10T17:55:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-security-engineer-parsdorf-bavaria-76392"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9qZXRicmFpbnMvc3RhZmYtYWktZW5naW5lZXItZGV2ZWxvcGVyLXRvb2xzLWxvbmRvbi0zNzQwMTh8c3RhZmYgIGFpIGVuZ2luZWVyLSBkZXZlbG9wZXIgdG9vbHN8amV0YnJhaW5z",
+      "title": "Staff  AI Engineer- Developer Tools",
+      "company": "jetbrains",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-10T16:15:18.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/staff-ai-engineer-developer-tools-london-374018"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kYXRhaWt1L2RhdGEtc2NpZW50aXN0LWxvbmRvbi0zNjQ5MzV8ZGF0YSBzY2llbnRpc3R8ZGF0YWlrdQ",
+      "title": "Data Scientist",
+      "company": "dataiku",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-10T15:56:26.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/data-scientist-london-364935"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbnRocm9waWMvYXBwbGllZC1haS1hcmNoaXRlY3QtYmVuZWZpY2lhbC1kZXBsb3ltZW50cy1saWZlLXNjaWVuY2VzLWxvbmRvbi0yMTI1OTR8YXBwbGllZCBhaSBhcmNoaXRlY3QsIGJlbmVmaWNpYWwgZGVwbG95bWVudHMgKGxpZmUgc2NpZW5jZXMpfGFudGhyb3BpYw",
+      "title": "Applied AI Architect, Beneficial Deployments (Life Sciences)",
+      "company": "anthropic",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-10T15:55:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/applied-ai-architect-beneficial-deployments-life-sciences-london-212594"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGF0YWRvZy9yZW1vdGUtc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLXJlZGFwbC1ncmFwaC1lbmdpbmUtMjY0MTAyfHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciAtIHJlZGFwbCBncmFwaCBlbmdpbmV8ZGF0YWRvZw",
       "title": "Senior Software Engineer - REDAPL Graph Engine",
@@ -502,32 +567,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/kleines-kraftwerk-de-gmbh/senior-seo-managerin-i-seo-geo-ai-search-i-e-commerce-hybrid-achim-achim-bei-bremen-480212"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256b3JlZmVycmFscy9zZW5pb3ItZGF0YS1hbmFseXN0LWZpbmFuY2lhbC1oZWFsdGgtY2FyZGlmZi00MTUxOTV8c2VuaW9yIGRhdGEgYW5hbHlzdCwgZmluYW5jaWFsIGhlYWx0aHxtb256b3JlZmVycmFscw",
-      "title": "Senior Data Analyst, Financial Health",
-      "company": "Monzoreferrals",
-      "location": "Cardiff",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-09T15:55:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/senior-data-analyst-financial-health-cardiff-415195"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256b3JlZmVycmFscy9kYXRhLXNjaWVuY2UtbWFuYWdlci1jYXJkaWZmLTE2NzcyfGRhdGEgc2NpZW5jZSBtYW5hZ2VyfG1vbnpvcmVmZXJyYWxz",
-      "title": "Data Science Manager",
-      "company": "Monzoreferrals",
-      "location": "Cardiff",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-09T15:55:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/data-science-manager-cardiff-16772"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW5hcGxhbi9lbnRlcnByaXNlLWFjY291bnQtZXhlY3V0aXZlLTczNjgyfGVudGVycHJpc2UgYWNjb3VudCBleGVjdXRpdmV8YW5hcGxhbg",
       "title": "Enterprise Account Executive",
       "company": "Anaplan",
@@ -578,45 +617,6 @@
       "postedDate": "2026-09-09T14:09:29.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/stark/senior-ai-systems-engineer-robotics-swarming-all-genders-munich-331656"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZ2VzaXMtbGVpYm5pei1pbnN0aXR1dC1mdXItc296aWFsd2lzc2Vuc2NoYWZ0ZW4vcmVzZWFyY2gtZGF0YS1tYW5hZ2VyLXBvc3Rkb2MtZm9yLW1hcHBpbmctaGFydmVzdGluZy1yZWxhdGlvbnNoaXBzLWt0cy04NC1rb2xuLTQwNTU5M3xyZXNlYXJjaCBkYXRhIG1hbmFnZXIgKHBvc3Rkb2MpIGZvciBtYXBwaW5nIGhhcnZlc3RpbmcgcmVsYXRpb25zaGlwcyAoa3RzLTg0KXxnZXNpcyDigJMgbGVpYm5pei1pbnN0aXR1dCBmw7xyIHNvemlhbHdpc3NlbnNjaGFmdGVu",
-      "title": "Research Data Manager (PostDoc) for mapping harvesting relationships (KTS-84)",
-      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
-      "location": "Köln",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-09T14:09:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/research-data-manager-postdoc-for-mapping-harvesting-relationships-kts-84-koln-405593"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZ2VzaXMtbGVpYm5pei1pbnN0aXR1dC1mdXItc296aWFsd2lzc2Vuc2NoYWZ0ZW4vZ3JhZHVhdGUtc3R1ZGVudC1yZXNlYXJjaC1hc3Npc3RhbnQtdGVhbS1hc3Nlc3Npbmctc3VydmV5LWRhdGEtcXVhbGl0eS1kZS1lbi1zaGstc2RtLTIwMjYtMDI0LW1hbm5oZWltLTEzMDQwfGdyYWR1YXRlIHN0dWRlbnQgcmVzZWFyY2ggYXNzaXN0YW50LCB0ZWFtIGFzc2Vzc2luZyBzdXJ2ZXkgZGF0YSBxdWFsaXR5IChkZS9lbikgKHNoa19zZG1fMjAyNl8wMjQpfGdlc2lzIOKAkyBsZWlibml6LWluc3RpdHV0IGbDvHIgc296aWFsd2lzc2Vuc2NoYWZ0ZW4",
-      "title": "Graduate Student Research Assistant, Team Assessing Survey Data Quality (DE/EN) (SHK_SDM_2026_024)",
-      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
-      "location": "Mannheim",
-      "workModel": "On-site",
-      "opportunityType": "Part-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-09T14:09:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/graduate-student-research-assistant-team-assessing-survey-data-quality-de-en-shk-sdm-2026-024-mannheim-13040"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90YW5naWJsZS9xdWFudGl0YXRpdmUtYW5hbHlzdC1ldmVyZ3JlZW4tdGFsZW50LXBvb2wtbG9uZG9uLTkwNTUzfHF1YW50aXRhdGl2ZSBhbmFseXN0IChldmVyZ3JlZW4gLSB0YWxlbnQgcG9vbCl8dGFuZ2libGU",
-      "title": "Quantitative Analyst (Evergreen - Talent Pool)",
-      "company": "Tangible",
-      "location": "London",
-      "workModel": "Remote",
-      "opportunityType": "Contract",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-09T14:00:26.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tangible/quantitative-analyst-evergreen-talent-pool-london-90553"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9uZXdyZWxpYy9zZW5pb3ItYWNjb3VudC1leGVjdXRpdmUtZW50ZXJwcmlzZS1zYWxlcy1wYXJpcy0xMDcxMDJ8c2VuaW9yIGFjY291bnQgZXhlY3V0aXZlIC0gZW50ZXJwcmlzZSBzYWxlc3xuZXdyZWxpYw",
@@ -682,71 +682,6 @@
       "postedDate": "2026-09-09T10:55:24.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-bordeaux-france-337689"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9zdGFmZi1wcm9kdWN0LWRlc2lnbmVyLWNhcmRpZmYtMzM1OTI5fHN0YWZmIHByb2R1Y3QgZGVzaWduZXJ8bW9uem8",
-      "title": "Staff Product Designer",
-      "company": "Monzo",
-      "location": "Cardiff",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-09T09:55:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/staff-product-designer-cardiff-335929"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9zZW5pb3ItbWFjaGluZS1sZWFybmluZy1tYW5hZ2VyLWJvcnJvd2luZy1jYXJkaWZmLTIyNTE0NnxzZW5pb3IgbWFjaGluZSBsZWFybmluZyBtYW5hZ2VyLCBib3Jyb3dpbmd8bW9uem8",
-      "title": "Senior Machine Learning Manager, Borrowing",
-      "company": "Monzo",
-      "location": "Cardiff",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-09T09:55:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-machine-learning-manager-borrowing-cardiff-225146"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9zZW5pb3ItZW5naW5lZXJpbmctbWFuYWdlci1jYXJkaWZmLTMwNDY2fHNlbmlvciBlbmdpbmVlcmluZyBtYW5hZ2VyfG1vbnpv",
-      "title": "Senior Engineering Manager",
-      "company": "Monzo",
-      "location": "Cardiff",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-09T09:55:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-engineering-manager-cardiff-30466"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9sZWFkLXByb2R1Y3QtZGVzaWduZXItZ3Jvd3RoLWNhcmRpZmYtNDA0MDY0fGxlYWQgcHJvZHVjdCBkZXNpZ25lciwgZ3Jvd3RofG1vbnpv",
-      "title": "Lead Product Designer, Growth",
-      "company": "Monzo",
-      "location": "Cardiff",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-09T09:55:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/lead-product-designer-growth-cardiff-404064"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9lbmdpbmVlcmluZy1kaXJlY3Rvci1ldS1jYXJkaWZmLTM4NzU2NXxlbmdpbmVlcmluZyBkaXJlY3RvciwgZXV8bW9uem8",
-      "title": "Engineering Director, EU",
-      "company": "Monzo",
-      "location": "Cardiff",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-09T09:55:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/engineering-director-eu-cardiff-387565"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvc29mdHdhcmUtZW5naW5lZXItZGF0YS1pbmZyYXN0cnVjdHVyZS1hY3F1aXNpdGlvbi10b3Vsb3VzZS1mcmFuY2UtMzA4Njg3fHNvZnR3YXJlIGVuZ2luZWVyLCBkYXRhIGluZnJhc3RydWN0dXJlICYgYWNxdWlzaXRpb24gLSB0b3Vsb3VzZSwgZnJhbmNlfHNwZWVjaGlmeQ",
@@ -929,71 +864,6 @@
       "postedDate": "2026-09-07T01:09:17.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/schiller-international-university/director-international-relations-and-diplomacy-programs-paris-10277"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9yZXNvbHZldG9zYXZlbGl2ZXMvc2VuaW9yLXRlY2huaWNhbC1hZHZpc29yLWRhdGEtdXNlLWFuZC1kZWNpc2lvbi1zY2llbmNlLXJlbW90ZS11cy11ay1mcmFuY2UtZHJjLXVzLXVrLWRyYy0xMzEyNDN8c2VuaW9yIHRlY2huaWNhbCBhZHZpc29yLCBkYXRhIHVzZSBhbmQgZGVjaXNpb24gc2NpZW5jZSAocmVtb3RlIC0gdXMsIHVrLCBmcmFuY2UsIGRyYyl8cmVzb2x2ZXRvc2F2ZWxpdmVz",
-      "title": "Senior Technical Advisor, Data Use and Decision Science (Remote - US, UK, France, DRC)",
-      "company": "Resolvetosavelives",
-      "location": "US, UK, DRC",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T22:55:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/resolvetosavelives/senior-technical-advisor-data-use-and-decision-science-remote-us-uk-france-drc-us-uk-drc-131243"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9yaWxsZXQvcmVtb3RlLWRlcGxveW1lbnQtbGVhZC1lcnAtc29sdXRpb25zLTc2MTA4fGRlcGxveW1lbnQgbGVhZCAtIGVycCBzb2x1dGlvbnN8cmlsbGV0",
-      "title": "Deployment Lead - ERP Solutions",
-      "company": "Rillet",
-      "location": "Remote",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T19:40:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/rillet/remote-deployment-lead-erp-solutions-76108"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9yaWxsZXQvcmVtb3RlLWFjY291bnRpbmctc29sdXRpb25zLWNvbnN1bHRhbnQtMzQyMTEyfGFjY291bnRpbmcgc29sdXRpb25zIGNvbnN1bHRhbnR8cmlsbGV0",
-      "title": "Accounting Solutions Consultant",
-      "company": "Rillet",
-      "location": "Remote",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T19:40:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/rillet/remote-accounting-solutions-consultant-342112"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9yaWxsZXQvcmVtb3RlLWFjY291bnQtZXhlY3V0aXZlLTE2NDYwMHxhY2NvdW50IGV4ZWN1dGl2ZXxyaWxsZXQ",
-      "title": "Account Executive",
-      "company": "Rillet",
-      "location": "Remote",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T19:40:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/rillet/remote-account-executive-164600"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9yaWxsZXQvcmVtb3RlLXNvbHV0aW9ucy1jb25zdWx0YW50LTM1MjgxNXxzb2x1dGlvbnMgY29uc3VsdGFudHxyaWxsZXQ",
-      "title": "Solutions Consultant",
-      "company": "Rillet",
-      "location": "Remote",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T19:40:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/rillet/remote-solutions-consultant-352815"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTg3MjE5MDAzP2doX2ppZD03OTg3MjE5MDAzfGVtYyBjb21wbGlhbmNlIGVuZ2luZWVyfG5ldXJhbGluaw",
@@ -1259,7 +1129,7 @@
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzk5MDg4MDAzP2doX2ppZD03Nzk5MDg4MDAzfG5ldXJvc3VyZ2ljYWwgcm9ib3Qgb3BlcmF0b3J8bmV1cmFsaW5r",
       "title": "Neurosurgical Robot Operator",
       "company": "Neuralink",
-      "location": "Austin - ATX1",
+      "location": "Austin, Texas, United States",
       "workModel": "On-site",
       "opportunityType": "Full-time",
       "source": "Neuralink Jobs",
@@ -1306,19 +1176,6 @@
       "postedDate": "2026-06-22T17:02:55.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7780172003?gh_jid=7780172003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzcyMDQ5MDAzP2doX2ppZD03NzcyMDQ5MDAzfG5ldXJvc3VyZ2ljYWwgcm9ib3Qgb3BlcmF0b3IgKHBhcnQtdGltZSl8bmV1cmFsaW5r",
-      "title": "Neurosurgical Robot Operator (Part-Time)",
-      "company": "Neuralink",
-      "location": "South San Francisco, California, United States",
-      "workModel": "On-site",
-      "opportunityType": "Part-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-06-12T18:49:13.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7772049003?gh_jid=7772049003"
     }
   ]
 }
