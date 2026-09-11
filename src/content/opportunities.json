@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T20:27:22.917Z",
+  "generatedAt": "2026-09-11T03:07:04.987Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9maWdtYS9kaXJlY3Rvci1zbWItc2FsZXMtbG9uZG9uLXVuaXRlZC1raW5nZG9tLTI0NzkzN3xkaXJlY3Rvciwgc21iIHNhbGVzIChsb25kb24sIHVuaXRlZCBraW5nZG9tKXxmaWdtYQ",
+      "title": "Director, SMB Sales (London, United Kingdom)",
+      "company": "figma",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-11T00:55:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/figma/director-smb-sales-london-united-kingdom-247937"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy91aXBhdGgvc2VuaW9yLXNhbGVzLWRpcmVjdG9yLXJ2cC1jb25zdW1lci1pbmR1c3RyaWVzLXVraS1sb25kb24tMTIyMDY0fHNlbmlvciBzYWxlcyBkaXJlY3RvciAocnZwKSwgY29uc3VtZXIgaW5kdXN0cmllcyB1ayZpfHVpcGF0aA",
+      "title": "Senior Sales Director (RVP), Consumer Industries UK&I",
+      "company": "UiPath",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-11T00:40:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/uipath/senior-sales-director-rvp-consumer-industries-uki-london-122064"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jaGFpbmFseXNpcy9zZW5pb3ItcGxhdGZvcm0tZW5naW5lZXItZm91bmRhdGlvbnMtbG9uZG9uLTM5MDAyN3xzZW5pb3IgcGxhdGZvcm0gZW5naW5lZXIsIGZvdW5kYXRpb25zfGNoYWluYWx5c2lz",
+      "title": "Senior Platform Engineer, Foundations",
+      "company": "Chainalysis",
+      "location": "London Office",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-11T00:40:02.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/chainalysis/senior-platform-engineer-foundations-london-390027"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9iYWNrbWFya2V0L2ZyYXVkLWFuZC1yaXNrLW9mZmljZXItaW50ZXJuLXBhcmlzLTM4NDE0fGZyYXVkIGFuZCByaXNrIG9mZmljZXIgaW50ZXJufGJhY2ttYXJrZXQ",
+      "title": "Fraud and Risk Officer Intern",
+      "company": "Backmarket",
+      "location": "Paris",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-10T22:40:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/fraud-and-risk-officer-intern-paris-38414"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9xdWFudHVtLW1vdGlvbi10ZWNobm9sb2dpZXMtcGVyc29uaW8vc2VuaW9yLWVsZWN0cmljYWwtY2hhcmFjdGVyaXNhdGlvbi1lbmdpbmVlci1sb25kb24tdWstMzkxODU0fHNlbmlvciBlbGVjdHJpY2FsIGNoYXJhY3RlcmlzYXRpb24gZW5naW5lZXJ8cXVhbnR1bSBtb3Rpb24gdGVjaG5vbG9naWVzIC0gcGVyc29uaW8",
       "title": "Senior Electrical Characterisation Engineer",
@@ -476,45 +528,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/corcepttherapeutics/senior-director-legal-compliance-ous-regions-munich-bavaria-451028"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9meXhlci9zZW5pb3ItY3VzdG9tZXItc3VjY2Vzcy1tYW5hZ2VyLWxvbmRvbi0xODQwODV8c2VuaW9yIGN1c3RvbWVyIHN1Y2Nlc3MgbWFuYWdlcnxmeXhlcg",
-      "title": "Senior Customer Success Manager",
-      "company": "Fyxer",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-09T18:40:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fyxer/senior-customer-success-manager-london-184085"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb3RvcndheS9zZW5pb3ItZGV2ZWxvcGVyLWV4cGVyaWVuY2UtcGxhdGZvcm0tZW5naW5lZXItbG9uZG9uLTQxNTM0NHxzZW5pb3IgZGV2ZWxvcGVyIGV4cGVyaWVuY2UgcGxhdGZvcm0gZW5naW5lZXJ8bW90b3J3YXk",
-      "title": "Senior Developer Experience Platform Engineer",
-      "company": "Motorway",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-09T18:40:04.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/senior-developer-experience-platform-engineer-london-415344"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb3RvcndheS9zZW5pb3ItZGV2ZWxvcGVyLWV4cGVyaWVuY2Utc2VjdXJpdHktZW5naW5lZXItbG9uZG9uLTE3NTU5MXxzZW5pb3IgZGV2ZWxvcGVyIGV4cGVyaWVuY2Ugc2VjdXJpdHkgZW5naW5lZXJ8bW90b3J3YXk",
-      "title": "Senior Developer Experience Security Engineer",
-      "company": "Motorway",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-09T18:40:04.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/senior-developer-experience-security-engineer-london-175591"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdXB2ZXN0L2Fzc29jaWF0ZS1hY2NvdW50LWV4ZWN1dGl2ZS1nZXJtYW55LWJlcmxpbi0yOTM4Nzl8YXNzb2NpYXRlIGFjY291bnQgZXhlY3V0aXZlIGdlcm1hbnkgKGYvbS9kKXx1cHZlc3Q",
       "title": "Associate Account Executive Germany (f/m/d)",
       "company": "Upvest",
@@ -565,58 +578,6 @@
       "postedDate": "2026-09-09T17:09:54.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/kleines-kraftwerk-de-gmbh/senior-seo-managerin-i-seo-geo-ai-search-i-e-commerce-hybrid-achim-achim-bei-bremen-480212"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW5hcGxhbi9lbnRlcnByaXNlLWFjY291bnQtZXhlY3V0aXZlLTczNjgyfGVudGVycHJpc2UgYWNjb3VudCBleGVjdXRpdmV8YW5hcGxhbg",
-      "title": "Enterprise Account Executive",
-      "company": "Anaplan",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-09T14:55:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/anaplan/enterprise-account-executive-73682"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZlcmFpL3Nlbmlvci1wcm9kdWN0LW1hbmFnZXItZnVsbC1yZW1vdGUtZXVyb3BlLWdlcm1hbnktMTEzOTA3fHNlbmlvciBwcm9kdWN0IG1hbmFnZXIgKGZ1bGwgcmVtb3RlIC0gZXVyb3BlKXxldmVyYWk",
-      "title": "Senior Product Manager (Full Remote - Europe)",
-      "company": "EverAI",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-09T14:40:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/everai/senior-product-manager-full-remote-europe-germany-113907"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3RhcmsvdGFjdGljYWwtZGF0YS1saW5rLWV4cGVydC1hbGwtZ2VuZGVycy1tdW5pY2gtMzU1MzI2fHRhY3RpY2FsIGRhdGEgbGluayBleHBlcnQgKGFsbCBnZW5kZXJzKXxzdGFyaw",
-      "title": "Tactical Data Link Expert (all genders)",
-      "company": "Stark",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-09T14:09:29.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/tactical-data-link-expert-all-genders-munich-355326"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3Rhcmsvc2VuaW9yLWFpLXN5c3RlbXMtZW5naW5lZXItcm9ib3RpY3Mtc3dhcm1pbmctYWxsLWdlbmRlcnMtbXVuaWNoLTMzMTY1NnxzZW5pb3IgYWkgc3lzdGVtcyBlbmdpbmVlciDigJMgcm9ib3RpY3Mvc3dhcm1pbmcgKGFsbCBnZW5kZXJzKXxzdGFyaw",
-      "title": "Senior AI Systems Engineer – Robotics/Swarming (all genders)",
-      "company": "Stark",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-09T14:09:29.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/senior-ai-systems-engineer-robotics-swarming-all-genders-munich-331656"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9uZXdyZWxpYy9zZW5pb3ItYWNjb3VudC1leGVjdXRpdmUtZW50ZXJwcmlzZS1zYWxlcy1wYXJpcy0xMDcxMDJ8c2VuaW9yIGFjY291bnQgZXhlY3V0aXZlIC0gZW50ZXJwcmlzZSBzYWxlc3xuZXdyZWxpYw",
@@ -825,45 +786,6 @@
       "postedDate": "2026-09-07T22:55:08.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-distributed-systems-bordeaux-grenoble-lyon-montpellier-nantes-paris-sophia-antipolis-53740"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hbmFwbGFuL3Nlbmlvci1zb2x1dGlvbi1jb25zdWx0YW50LXBhcmlzLTQ0MDQyOXxzZW5pb3Igc29sdXRpb24gY29uc3VsdGFudHxhbmFwbGFu",
-      "title": "Senior Solution Consultant",
-      "company": "Anaplan",
-      "location": "Paris",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-07T01:55:04.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/anaplan/senior-solution-consultant-paris-440429"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hbmFwbGFuL2FsbGlhbmNlcy1kaXJlY3Rvci1mcmFuY2UtcGFyaXMtMzE2MjU3fGFsbGlhbmNlcyBkaXJlY3RvciwgZnJhbmNlfGFuYXBsYW4",
-      "title": "Alliances Director, France",
-      "company": "Anaplan",
-      "location": "Paris",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-07T01:55:04.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/anaplan/alliances-director-france-paris-316257"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9zY2hpbGxlci1pbnRlcm5hdGlvbmFsLXVuaXZlcnNpdHkvZGlyZWN0b3ItaW50ZXJuYXRpb25hbC1yZWxhdGlvbnMtYW5kLWRpcGxvbWFjeS1wcm9ncmFtcy1wYXJpcy0xMDI3N3xkaXJlY3RvciDigJMgaW50ZXJuYXRpb25hbCByZWxhdGlvbnMgYW5kIGRpcGxvbWFjeSBwcm9ncmFtc3xzY2hpbGxlciBpbnRlcm5hdGlvbmFsIHVuaXZlcnNpdHk",
-      "title": "Director – International Relations and Diplomacy Programs",
-      "company": "Schiller International University",
-      "location": "Paris",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-07T01:09:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/schiller-international-university/director-international-relations-and-diplomacy-programs-paris-10277"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTg3MjE5MDAzP2doX2ppZD03OTg3MjE5MDAzfGVtYyBjb21wbGlhbmNlIGVuZ2luZWVyfG5ldXJhbGluaw",
