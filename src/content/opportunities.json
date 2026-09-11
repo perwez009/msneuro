@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T15:54:07.246Z",
+  "generatedAt": "2026-09-11T20:29:18.888Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9jZW50cmFsZS1seW9uL2NlbnRyYWxlLWx5b24tcG9zdC1kb2N0b3JhbC1wb3NpdGlvbi1mZXJyb2VsZWN0cmljLWJhc2VkLXRlcm5hcnktY29tcHV0aW5nLWZyb20tY2lyY3VpdC1kZXNpZ24tdG8tc3lzdGVtLWxldmVsLWludGVncmF0aW9uLXNjaWVudGlmaWMtY29udGV4dC1lY3VsbC0yMjM0MTl8Y2VudHJhbGUgbHlvbiAtIHBvc3QtZG9jdG9yYWwgcG9zaXRpb24gZmVycm9lbGVjdHJpYy1iYXNlZCB0ZXJuYXJ5IGNvbXB1dGluZzogZnJvbSBjaXJjdWl0IGRlc2lnbiB0byBzeXN0ZW0tbGV2ZWwgaW50ZWdyYXRpb24gc2NpZW50aWZpYyBjb250ZXh0fGNlbnRyYWxlIGx5b24",
+      "title": "CENTRALE LYON - Post-Doctoral Position Ferroelectric-Based Ternary Computing: From Circuit Design to System-Level Integration Scientific Context",
+      "company": "CENTRALE LYON",
+      "location": "Ecully, Auvergne-Rhône-Alpes, France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-11T19:30:04.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/centrale-lyon/centrale-lyon-post-doctoral-position-ferroelectric-based-ternary-computing-from-circuit-design-to-system-level-integration-scientific-context-ecull-223419"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyd2F5L3Nlbmlvci1zYWxlc2ZvcmNlLWFkbWluaXN0cmF0b3ItcmV2dGVjaC00NzQzOTZ8c2VuaW9yIHNhbGVzZm9yY2UgYWRtaW5pc3RyYXRvciAocmV2dGVjaCl8ZXZlcndheQ",
+      "title": "Senior Salesforce Administrator (RevTech)",
+      "company": "Everway",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-11T18:55:14.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/everway/senior-salesforce-administrator-revtech-474396"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9mYXN0bmVkL3Nlbmlvci1leHBhbnNpb24tbWFuYWdlci1mcmFuY2UtZGV2ZWxvcHBldXJzZS1pbW1vYmlsaWVyLXNlbmlvci1zdWQtZXN0LW1hcnNlaWxsZS10b3Vsb24tbmljZS0xMDkzNTV8c2VuaW9yIGV4cGFuc2lvbiBtYW5hZ2VyIGZyYW5jZSAvIGTDqXZlbG9wcGV1ci5zZSBpbW1vYmlsaWVyIHNlbmlvciAtIHN1ZC1lc3R8ZmFzdG5lZA",
+      "title": "Senior Expansion manager France / Développeur.se Immobilier senior - Sud-Est",
+      "company": "Fastned",
+      "location": "Marseille, Toulon, Nice, Provence-Alpes-Côte-d’Azur, France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-11T16:30:21.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/fastned/senior-expansion-manager-france-developpeurse-immobilier-senior-sud-est-marseille-toulon-nice-109355"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9xdWFudGV4YS9jdXN0b21lci1pbnRlbGxpZ2VuY2Utc29sdXRpb25zLWxlYWQtZW1lYS1sb25kb24tNDQ5MjQxfGN1c3RvbWVyIGludGVsbGlnZW5jZSBzb2x1dGlvbnMgbGVhZCAtIGVtZWF8cXVhbnRleGE",
+      "title": "Customer Intelligence Solutions Lead - EMEA",
+      "company": "Quantexa",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-11T15:40:03.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/customer-intelligence-solutions-lead-emea-london-449241"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYnJ1Z2dlbi1lbmdpbmVlcmluZy1nbWJoL3Bvc3Rkb2Mtc2NpZW50aXN0LW51a2xlb3RpZGNoZW1pZS1vcmdhbmlzY2hlLXN5bnRoZXNlLWluLW11bmNoZW4tMTcxNi1tdW5pY2gtMTIxMzkxfHBvc3Rkb2MgLyBzY2llbnRpc3QgKG0vdy9kKSBudWtsZW90aWRjaGVtaWUgLyBvcmdhbmlzY2hlIHN5bnRoZXNlIGluIG3DvG5jaGVuICgxNzE2KXxicsO8Z2dlbiBlbmdpbmVlcmluZyBnbWJo",
       "title": "Postdoc / Scientist (m/w/d) Nukleotidchemie / Organische Synthese in München (1716)",
@@ -242,19 +294,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/data-scientist-london-364935"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbnRocm9waWMvYXBwbGllZC1haS1hcmNoaXRlY3QtYmVuZWZpY2lhbC1kZXBsb3ltZW50cy1saWZlLXNjaWVuY2VzLWxvbmRvbi0yMTI1OTR8YXBwbGllZCBhaSBhcmNoaXRlY3QsIGJlbmVmaWNpYWwgZGVwbG95bWVudHMgKGxpZmUgc2NpZW5jZXMpfGFudGhyb3BpYw",
-      "title": "Applied AI Architect, Beneficial Deployments (Life Sciences)",
-      "company": "anthropic",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-10T15:55:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/applied-ai-architect-beneficial-deployments-life-sciences-london-212594"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGF0YWRvZy9yZW1vdGUtc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLXJlZGFwbC1ncmFwaC1lbmdpbmUtMjY0MTAyfHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciAtIHJlZGFwbCBncmFwaCBlbmdpbmV8ZGF0YWRvZw",
       "title": "Senior Software Engineer - REDAPL Graph Engine",
       "company": "Datadog",
@@ -292,110 +331,6 @@
       "postedDate": "2026-09-10T14:40:06.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/cortea-ai/senior-staff-ai-engineer-quality-evals-berlin-67239"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc25rZS9zZW5pb3ItbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci12aWRlby1haS1tdW5jaGVuLTI0OTY4fHNlbmlvciBtYWNoaW5lIGxlYXJuaW5nIGVuZ2luZWVyIOKAkyB2aWRlbyBhaXxzbmtl",
-      "title": "Senior Machine Learning Engineer – Video AI",
-      "company": "Snke",
-      "location": "München",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-10T14:10:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-machine-learning-engineer-video-ai-munchen-24968"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXJjdWx1cy9pbmZyYXN0cnVjdHVyZS1lbmdpbmVlci1kZXBsb3ltZW50cy1tdW5pY2gtMzA3MDkzfGluZnJhc3RydWN0dXJlIGVuZ2luZWVyIC0gZGVwbG95bWVudHMgKGQvZi9tKXxhcmN1bHVz",
-      "title": "Infrastructure Engineer - Deployments (d/f/m)",
-      "company": "Arculus",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-10T14:09:56.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/arculus/infrastructure-engineer-deployments-munich-307093"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3JlbW90ZS1zdGFmZi1sZWFkLXNvZnR3YXJlLWRldmVsb3Blci1haS1hZ2VudHMtaW50ZWdyYXRpb25zLTQzNTIxMXxzdGFmZi9sZWFkIHNvZnR3YXJlIGRldmVsb3BlciAoYWkgYWdlbnRzICYgaW50ZWdyYXRpb25zKXxqZXRicmFpbnM",
-      "title": "Staff/Lead Software Developer (AI Agents & Integrations)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich; Remote",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-10T11:55:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-staff-lead-software-developer-ai-agents-integrations-435211"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3JlbW90ZS1zdGFmZi1haS1lbmdpbmVlci1kZXZlbG9wZXItdG9vbHMtMjM3Nzc1fHN0YWZmICBhaSBlbmdpbmVlci0gZGV2ZWxvcGVyIHRvb2xzfGpldGJyYWlucw",
-      "title": "Staff  AI Engineer- Developer Tools",
-      "company": "jetbrains",
-      "location": "Berlin; Munich; Remote",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-10T11:55:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-staff-ai-engineer-developer-tools-237775"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3JlbW90ZS1zb2Z0d2FyZS1kZXZlbG9wZXItZm9yLXRoaW5rcmFpbC1pbm5vdmF0aW9uLWh1Yi00NjM1MzF8c29mdHdhcmUgZGV2ZWxvcGVyIGZvciB0aGlua3JhaWwgKGlubm92YXRpb24gaHViKXxqZXRicmFpbnM",
-      "title": "Software Developer for ThinkRail (Innovation Hub)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich; Remote",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-10T11:55:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-software-developer-for-thinkrail-innovation-hub-463531"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3JlbW90ZS1zZW5pb3ItdGVzdC1hdXRvbWF0aW9uLWVuZ2luZWVyLXRlYW1jaXR5LTEzODk5NXxzZW5pb3IgdGVzdCBhdXRvbWF0aW9uIGVuZ2luZWVyICh0ZWFtY2l0eSl8amV0YnJhaW5z",
-      "title": "Senior Test Automation Engineer (TeamCity)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich; Remote",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-10T11:55:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-test-automation-engineer-teamcity-138995"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3JlbW90ZS1zZW5pb3ItZW50ZXJwcmlzZS1hY2NvdW50LWV4ZWN1dGl2ZS1uZXctYnVzaW5lc3MtNTQ2MDF8c2VuaW9yIGVudGVycHJpc2UgYWNjb3VudCBleGVjdXRpdmUgLSBuZXcgYnVzaW5lc3N8amV0YnJhaW5z",
-      "title": "Senior Enterprise Account Executive - New Business",
-      "company": "jetbrains",
-      "location": "Berlin; Munich; Remote",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-10T11:55:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-enterprise-account-executive-new-business-54601"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW50cmluc2ljcm9ib3RpY3Mvcm9ib3RpY3Mtc29mdHdhcmUtZW5naW5lZXItZ3Jhc3BpbmctbXVuaWNoLTI3NzMwOHxyb2JvdGljcyBzb2Z0d2FyZSBlbmdpbmVlciAtIGdyYXNwaW5nfGludHJpbnNpY3JvYm90aWNz",
-      "title": "Robotics Software Engineer - Grasping",
-      "company": "intrinsicrobotics",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-10T11:55:02.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/intrinsicrobotics/robotics-software-engineer-grasping-munich-277308"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9sZW1vbndheS9kZXZlbG9wcGV1ci1iYWNrZW5kLXBocC1hbHRlcm5hbmNlLTEyLW1vaXMtcm91ZW4tNDAxNzIxfGTDqXZlbG9wcGV1ciBiYWNrZW5kIHBocCAoYWx0ZXJuYW5jZSAxMiBtb2lzKXxsZW1vbndheQ",
@@ -630,19 +565,6 @@
       "postedDate": "2026-09-08T19:06:44.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7989339003?gh_jid=7989339003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9mYXN0bmVkL3Nlbmlvci1leHBhbnNpb24tbWFuYWdlci1mcmFuY2UtZGV2ZWxvcHBldXJzZS1pbW1vYmlsaWVyLXNlbmlvci1zdWQtdG91bG91c2UtbW9udHBlbGxpZXItOTE5MDZ8c2VuaW9yIGV4cGFuc2lvbiBtYW5hZ2VyIGZyYW5jZSAvIGTDqXZlbG9wcGV1ci5zZSBpbW1vYmlsaWVyIHNlbmlvciAtIHN1ZHxmYXN0bmVk",
-      "title": "Senior Expansion manager France / Développeur.se Immobilier senior - Sud",
-      "company": "Fastned",
-      "location": "Toulouse, Montpellier, Occitanie, France",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-08T13:30:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/fastned/senior-expansion-manager-france-developpeurse-immobilier-senior-sud-toulouse-montpellier-91906"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTg3MjE5MDAzP2doX2ppZD03OTg3MjE5MDAzfGVtYyBjb21wbGlhbmNlIGVuZ2luZWVyfG5ldXJhbGluaw",
