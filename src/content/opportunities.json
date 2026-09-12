@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T03:13:44.484Z",
+  "generatedAt": "2026-09-12T10:08:33.541Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,84 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZ3JhZmFuYWxhYnMvc2VuaW9yLWJhY2tlbmQtZW5naW5lZXItZGF0YWJhc2VzLWxva2ktcXVlcnktZ2VybWFueS1yZW1vdGUtMTM2ODIzfHNlbmlvciBiYWNrZW5kIGVuZ2luZWVyIC0gZGF0YWJhc2VzIC0gbG9raSBxdWVyecKgIHwgZ2VybWFueSB8IHJlbW90ZXxncmFmYW5hbGFicw",
+      "title": "Senior Backend Engineer - Databases - Loki Query  | Germany | Remote",
+      "company": "grafanalabs",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-12T05:55:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-backend-engineer-databases-loki-query-germany-remote-136823"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZm9jdXNlZC90ZWNobmljYWwtbGVhZC1sYXNlci1hbXBsaWZpY2F0aW9uLWRhcm1zdGFkdC0xMDEwNTF8dGVjaG5pY2FsIGxlYWQsIGxhc2VyIGFtcGxpZmljYXRpb24gKGYvbS9kKXxmb2N1c2Vk",
+      "title": "Technical Lead, Laser Amplification (f/m/d)",
+      "company": "Focused",
+      "location": "Darmstadt, DE",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-12T05:40:04.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/focused/technical-lead-laser-amplification-darmstadt-101051"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXRsYW50aWN2Yy9kaXJlY3Rvci1vZi1wZW9wbGUtZ24tYXQtZGVlcHRlY2gtc2NhbGUtdXAtYmVybGluLW9yLWRyZXNkZW4tNDczNDkwfGRpcmVjdG9yIG9mIHBlb3BsZSAoZ24pIEAgZGVlcHRlY2ggc2NhbGUtdXAsIGJlcmxpbiBvciBkcmVzZGVufGF0bGFudGljLnZj",
+      "title": "Director of People (gn) @ DeepTech Scale-Up, Berlin or Dresden",
+      "company": "atlantic.vc",
+      "location": "Berlin, Berlin, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-12T05:30:30.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/director-of-people-gn-at-deeptech-scale-up-berlin-or-dresden-473490"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hbGdvbGlhL3Nlbmlvci1zaXRlLXJlbGlhYmlsaXR5LWVuZ2luZWVyLXNlYXJjaC1wYXJpcy0zNzMxNjd8c2VuaW9yIHNpdGUgcmVsaWFiaWxpdHkgZW5naW5lZXIgLSBzZWFyY2h8YWxnb2xpYQ",
+      "title": "Senior Site Reliability Engineer - Search",
+      "company": "Algolia",
+      "location": "Paris",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-12T04:55:21.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/algolia/senior-site-reliability-engineer-search-paris-373167"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9pbnN0aXR1dC1taW5lcy10ZWxlY29tL3Bvc3QtZG9jdG9yYXQtZW4taW50ZXJwcmV0YWJpbGl0ZS1tZWNhbmlzdGUtZXQtZGl2ZXJzaXRlLWRlcy1yZXByZXNlbnRhdGlvbnMtYnJlc3QtMTg4NzEzfHBvc3QtZG9jdG9yYXQgZW4gaW50ZXJwcsOpdGFiaWxpdMOpIG3DqWNhbmlzdGUgZXQgZGl2ZXJzaXTDqSBkZXMgcmVwcsOpc2VudGF0aW9uc3xpbnN0aXR1dCBtaW5lcy10w6lsw6ljb20",
+      "title": "Post-doctorat en interprétabilité mécaniste et diversité des représentations",
+      "company": "Institut Mines-Télécom",
+      "location": "Brest, Bretagne, France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-12T04:30:05.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorat-en-interpretabilite-mecaniste-et-diversite-des-representations-brest-188713"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZG9jdG9saWIvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLW5vZGVqcy10eXBlc2NyaXB0LWJlcmxpbi1iZXJsaW4tMzgzOTI0fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciAtIG5vZGUuanMvdHlwZXNjcmlwdCAoeC9mL20pfGRvY3RvbGli",
+      "title": "Senior Software Engineer - Node.js/TypeScript (x/f/m)",
+      "company": "Doctolib",
+      "location": "Berlin, Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-12T02:55:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-software-engineer-nodejs-typescript-berlin-berlin-383924"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9waHlzaWNzeC9kYXRhLXNjaWVudGlzdC1sb25kb24tMjIzMDQ0fGRhdGEgc2NpZW50aXN0fHBoeXNpY3N4",
       "title": "Data Scientist",
@@ -320,19 +398,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/data-science-manager-cardiff-433399"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvd2Vya3N0dWRlbnRpbi1jb21tdW5pdHktbWFuYWdlbWVudC1oYW1idXJnLTQ5MjUxNHx3ZXJrc3R1ZGVudDppbiBjb21tdW5pdHkgbWFuYWdlbWVudCAobS93L2QpfDFrb21tYTVncmFk",
-      "title": "Werkstudent:in Community Management (m/w/d)",
-      "company": "1Komma5Grad",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "Part-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-11T05:09:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-community-management-hamburg-492514"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9kb2N0b2xpYi9zZW5pb3Itc3RhZmYtbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci1jbGluaWNhbC1haS10ZWFtcy1wYXJpcy1wYXJpcy00ODAxNzl8c2VuaW9yIHN0YWZmIG1hY2hpbmUgbGVhcm5pbmcgZW5naW5lZXIgLSBjbGluaWNhbCAtIGFpIHRlYW1zICh4L2YvbSl8ZG9jdG9saWI",
       "title": "Senior Staff Machine Learning Engineer - Clinical - AI Teams (x/f/m)",
       "company": "Doctolib",
@@ -396,19 +461,6 @@
       "postedDate": "2026-09-10T22:40:09.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/fraud-and-risk-officer-intern-paris-38414"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaXNhcmFlcm9zcGFjZS9zZW5pb3Itc2VjdXJpdHktZW5naW5lZXItcGFyc2RvcmYtYmF2YXJpYS03NjM5MnxzZW5pb3Igc2VjdXJpdHkgZW5naW5lZXIgKG0vZi9kKXxpc2FyYWVyb3NwYWNl",
-      "title": "Senior Security Engineer (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Parsdorf, Bavaria",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-10T17:55:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-security-engineer-parsdorf-bavaria-76392"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9sZW1vbndheS9kZXZlbG9wcGV1ci1iYWNrZW5kLXBocC1hbHRlcm5hbmNlLTEyLW1vaXMtcm91ZW4tNDAxNzIxfGTDqXZlbG9wcGV1ciBiYWNrZW5kIHBocCAoYWx0ZXJuYW5jZSAxMiBtb2lzKXxsZW1vbndheQ",
@@ -591,32 +643,6 @@
       "postedDate": "2026-09-09T07:55:13.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/anthropic/applied-ai-engineer-enterprise-paris-233263"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9iYWNrbWFya2V0L2ZpbmFuY2lhbC1wbGFubmluZy1hbmFseXNpcy1pbnRlcm4tYm9yZGVhdXgtNDUwNTA0fGZpbmFuY2lhbCBwbGFubmluZyAmIGFuYWx5c2lzIGludGVybnxiYWNrbWFya2V0",
-      "title": "Financial Planning & Analysis Intern",
-      "company": "Backmarket",
-      "location": "Bordeaux",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-09T07:40:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/financial-planning-analysis-intern-bordeaux-450504"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9pbnN0aXR1dC1taW5lcy10ZWxlY29tL3Bvc3QtZG9jdG9yYW50ZS1vdS1wb3N0LWRvY3RvcmFudC1lbi1pbmZvcm1hdGlxdWUtY2RkLTEyLW1vaXMtc2FpbnQtZXRpZW5uZS0xMTkzMTR8cG9zdC1kb2N0b3JhbnRlIG91IHBvc3QtZG9jdG9yYW50IGVuIGluZm9ybWF0aXF1ZSAtIGNkZCAxMiBtb2lzfGluc3RpdHV0IG1pbmVzLXTDqWzDqWNvbQ",
-      "title": "Post-doctorante ou post-doctorant en Informatique - CDD 12 Mois",
-      "company": "Institut Mines-Télécom",
-      "location": "Saint-Etienne, Auvergne-Rhône-Alpes, France",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-08T22:30:25.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-ou-post-doctorant-en-informatique-cdd-12-mois-saint-etienne-119314"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTg5MzM5MDAzP2doX2ppZD03OTg5MzM5MDAzfGNvbnRyYWN0cyBtYW5hZ2VyfG5ldXJhbGluaw",
