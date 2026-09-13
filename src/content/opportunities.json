@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T20:12:45.005Z",
+  "generatedAt": "2026-09-13T03:17:39.135Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2xpbWF0ZS9pbnRlcmltLXByb2plY3Qtc2VuaW9yLWRldm9wcy1jb25zdWx0YW50LWJlcmxpbi1ocS0zMjUyNDl8aW50ZXJpbSBwcm9qZWN0IC0gc2VuaW9yIGRldm9wcyBjb25zdWx0YW50IChmL20vZCl8Y2xpbWF0ZQ",
+      "title": "Interim project - Senior DevOps Consultant (f/m/d)",
+      "company": "Climate",
+      "location": "Berlin HQ",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-13T02:09:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/climate/interim-project-senior-devops-consultant-berlin-hq-325249"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2xpbWF0ZS9kYXRhLWVuZ2luZWVyLWJlcmxpbi1ocS0xMzE1NDl8ZGF0YSBlbmdpbmVlciAoZi9tL2QpfGNsaW1hdGU",
+      "title": "Data Engineer (f/m/d)",
+      "company": "Climate",
+      "location": "Berlin HQ",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-13T02:09:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-131549"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9oaW1zLWFuZC1oZXJzL3N0YWZmLWRhdGEtc2NpZW50aXN0LWxvbmRvbi0xNTQ0OTh8c3RhZmYgZGF0YSBzY2llbnRpc3R8aGltcyBhbmQgaGVycw",
+      "title": "Staff Data Scientist",
+      "company": "Hims And Hers",
+      "location": "London, England",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-12T21:40:14.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/staff-data-scientist-london-154498"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZlcmFpL3Nlbmlvci1wcm9kdWN0LW1hbmFnZXItZnVsbC1yZW1vdGUtZXVyb3BlLWdlcm1hbnktMzU1MTh8c2VuaW9yIHByb2R1Y3QgbWFuYWdlciAoZnVsbCByZW1vdGUgLSBldXJvcGUpfGV2ZXJhaQ",
+      "title": "Senior Product Manager (Full Remote - Europe)",
+      "company": "EverAI",
+      "location": "Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-12T20:40:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/everai/senior-product-manager-full-remote-europe-germany-35518"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaXNhcmFlcm9zcGFjZS9zZW5pb3ItZ2VuZXJhbC1sZWRnZXItYWNjb3VudGFudC1vdHRvYnJ1bm4tYmF2YXJpYS0zMDA5NDd8c2VuaW9yIGdlbmVyYWwgbGVkZ2VyIGFjY291bnRhbnQgKG0vZi9kKXxpc2FyYWVyb3NwYWNl",
       "title": "Senior General Ledger Accountant (m/f/d)",
@@ -398,6 +450,19 @@
       "url": "https://www.arbeitnow.com/jobs/companies/bowatt/founding-customer-success-manager-german-speaking-munich-272794"
     },
     {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9jZW50cmFsZS1seW9uL2NlbnRyYWxlLWx5b24tcG9zdC1kb2N0b3JhbC1wb3NpdGlvbi1mZXJyb2VsZWN0cmljLWJhc2VkLXRlcm5hcnktY29tcHV0aW5nLWZyb20tY2lyY3VpdC1kZXNpZ24tdG8tc3lzdGVtLWxldmVsLWludGVncmF0aW9uLXNjaWVudGlmaWMtY29udGV4dC1lY3VsbC0yMjM0MTl8Y2VudHJhbGUgbHlvbiAtIHBvc3QtZG9jdG9yYWwgcG9zaXRpb24gZmVycm9lbGVjdHJpYy1iYXNlZCB0ZXJuYXJ5IGNvbXB1dGluZzogZnJvbSBjaXJjdWl0IGRlc2lnbiB0byBzeXN0ZW0tbGV2ZWwgaW50ZWdyYXRpb24gc2NpZW50aWZpYyBjb250ZXh0fGNlbnRyYWxlIGx5b24",
+      "title": "CENTRALE LYON - Post-Doctoral Position Ferroelectric-Based Ternary Computing: From Circuit Design to System-Level Integration Scientific Context",
+      "company": "CENTRALE LYON",
+      "location": "Ecully, Auvergne-Rhône-Alpes, France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-11T19:30:04.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/centrale-lyon/centrale-lyon-post-doctoral-position-ferroelectric-based-ternary-computing-from-circuit-design-to-system-level-integration-scientific-context-ecull-223419"
+    },
+    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyd2F5L3Nlbmlvci1zYWxlc2ZvcmNlLWFkbWluaXN0cmF0b3ItcmV2dGVjaC00NzQzOTZ8c2VuaW9yIHNhbGVzZm9yY2UgYWRtaW5pc3RyYXRvciAocmV2dGVjaCl8ZXZlcndheQ",
       "title": "Senior Salesforce Administrator (RevTech)",
       "company": "Everway",
@@ -474,32 +539,6 @@
       "postedDate": "2026-09-11T13:09:37.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/schiller-international-university/director-international-relations-and-diplomacy-programs-paris-397819"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdW50ZXJuZWhtZXJ0dW0tZ2dtYmgvdXZjLXBhcnRuZXJzLWRhdGEtYWktbWFzdGVyLXRoZXNpcy1pbnRlcm5zaGlwLW11bmNoZW4ta3JlYXRpdnF1YXJ0aWVyLTI5MDU3MXx1dmMgcGFydG5lcnM6IGRhdGEgJiBhaSAtIG1hc3RlciB0aGVzaXMgLyBpbnRlcm5zaGlwIChmL20veCl8dW50ZXJuZWhtZXJ0dW0gZ2dtYmg",
-      "title": "UVC Partners: Data & AI - Master Thesis / Internship (f/m/x)",
-      "company": "UnternehmerTUM gGmbH",
-      "location": "München Kreativquartier",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-11T11:09:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/unternehmertum-ggmbh/uvc-partners-data-ai-master-thesis-internship-munchen-kreativquartier-290571"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yb2t1L3Nlbmlvci1tYWNoaW5lLWxlYXJuaW5nLWVuZ2luZWVyLXNlYXJjaC1yZWNvbW1lbmRhdGlvbnMtY2FtYnJpZGdlLTM4MTcyNHxzZW5pb3IgbWFjaGluZSBsZWFybmluZyBlbmdpbmVlciwgc2VhcmNoICYgcmVjb21tZW5kYXRpb25zfHJva3U",
-      "title": "Senior Machine Learning Engineer, Search & Recommendations",
-      "company": "Roku",
-      "location": "Cambridge",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-11T06:55:41.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-machine-learning-engineer-search-recommendations-cambridge-381724"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9kb2N0b2xpYi9zZW5pb3Itc3RhZmYtbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci1jbGluaWNhbC1haS10ZWFtcy1wYXJpcy1wYXJpcy00ODAxNzl8c2VuaW9yIHN0YWZmIG1hY2hpbmUgbGVhcm5pbmcgZW5naW5lZXIgLSBjbGluaWNhbCAtIGFpIHRlYW1zICh4L2YvbSl8ZG9jdG9saWI",
