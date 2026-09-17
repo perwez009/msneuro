@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T20:53:58.902Z",
+  "generatedAt": "2026-09-17T03:32:06.078Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,84 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pbnRlcmNvbXJlZmVycmFscy9zZW5pb3ItbWFjaGluZS1sZWFybmluZy1zY2llbnRpc3QtbG9uZG9uLTkxNTU3fHNlbmlvciBtYWNoaW5lIGxlYXJuaW5nIHNjaWVudGlzdHxpbnRlcmNvbXJlZmVycmFscw",
+      "title": "Senior Machine Learning Scientist",
+      "company": "intercomreferrals",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-17T00:55:14.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/intercomreferrals/senior-machine-learning-scientist-london-91557"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zb255aW50ZXJhY3RpdmVlbnRlcnRhaW5tZW50Z2xvYmFsL3Nlbmlvci1zdGFmZi1kYXRhLXNjaWVudGlzdC1tZWFzdXJlbWVudC1leHBlcmltZW50YXRpb24tY2F1c2FsLWluZmVyZW5jZS1sb25kb24tMzE2MTU3fHNlbmlvci9zdGFmZiBkYXRhIHNjaWVudGlzdCAtIG1lYXN1cmVtZW50LCBleHBlcmltZW50YXRpb24gJiBjYXVzYWwgaW5mZXJlbmNlfHNvbnlpbnRlcmFjdGl2ZWVudGVydGFpbm1lbnRnbG9iYWw",
+      "title": "Senior/Staff Data Scientist - Measurement, Experimentation & Causal Inference",
+      "company": "sonyinteractiveentertainmentglobal",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-17T00:55:12.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-staff-data-scientist-measurement-experimentation-causal-inference-london-316157"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zb255aW50ZXJhY3RpdmVlbnRlcnRhaW5tZW50Z2xvYmFsL2RhdGEtc2NpZW50aXN0LW1lYXN1cmVtZW50LWV4cGVyaW1lbnRhdGlvbi1jYXVzYWwtaW5mZXJlbmNlLWxvbmRvbi0xMjk4MjB8ZGF0YSBzY2llbnRpc3QgLSBtZWFzdXJlbWVudCwgZXhwZXJpbWVudGF0aW9uICYgY2F1c2FsIGluZmVyZW5jZXxzb255aW50ZXJhY3RpdmVlbnRlcnRhaW5tZW50Z2xvYmFs",
+      "title": "Data Scientist - Measurement, Experimentation & Causal Inference",
+      "company": "sonyinteractiveentertainmentglobal",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-17T00:55:12.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/data-scientist-measurement-experimentation-causal-inference-london-129820"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93cHBtZWRpYS9wbGFubmluZy1kaXJlY3Rvci1sb25kb24tMTEwMzM0fHBsYW5uaW5nIGRpcmVjdG9yfHdwcG1lZGlh",
+      "title": "Planning Director",
+      "company": "wppmedia",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-16T21:55:15.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/planning-director-london-110334"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvaW50ZXJuc2hpcC1haS1hdXRvbWF0aW9uLWVuZXJneS1iZXJsaW4tNzg0MDl8aW50ZXJuc2hpcCBhaSAmIGF1dG9tYXRpb24gLSBlbmVyZ3kgKG0vZi9kKXwxa29tbWE1y5o",
+      "title": "Internship AI & Automation - Energy (m/f/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-16T21:00:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/internship-ai-automation-energy-berlin-78409"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaXNhcmFlcm9zcGFjZS9zZW5pb3Itc3RydWN0dXJlcy1kZXNpZ24tZW5naW5lZXItbGF1bmNoLXZlaGljbGUtc3RydWN0dXJlcy1wYXJzZG9yZi1iYXZhcmlhLTM4MDk1fHNlbmlvciBzdHJ1Y3R1cmVzIGRlc2lnbiBlbmdpbmVlciwgbGF1bmNoIHZlaGljbGUgc3RydWN0dXJlcyAobS9mL2QpfGlzYXJhZXJvc3BhY2U",
+      "title": "Senior Structures Design Engineer, Launch Vehicle Structures (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Parsdorf, Bavaria",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-16T20:55:33.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-structures-design-engineer-launch-vehicle-structures-parsdorf-bavaria-38095"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvaW50ZXJuc2hpcC1wcm9jZXNzLW9wZXJhdGlvbnMtZW5lcmd5LWJlcmxpbi0yNDY4MDN8aW50ZXJuc2hpcCBwcm9jZXNzICYgb3BlcmF0aW9ucyAtIGVuZXJneSAobS9mL2QpfDFrb21tYTXLmg",
       "title": "Internship Process & Operations - Energy (m/f/d)",
@@ -229,43 +307,17 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-machine-learning-scientist-london-189049"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS9oZWFkLW9mLWNvbXBsaWFuY2UtbW9uaXRvcmluZy1sb25kb24tMTQwOTc0fGhlYWQgb2YgY29tcGxpYW5jZSBtb25pdG9yaW5nfGxlbmRhYmxl",
-      "title": "Head of Compliance Monitoring",
-      "company": "Lendable",
-      "location": "London",
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmlvbG9naWMvd2Vya3N0dWRlbnQtaW4tc29mdHdhcmUtZW5naW5lZXJpbmctZm9yLWFpLXN5c3RlbXMtY29sb2duZS0yOTUzNHx3ZXJrc3R1ZGVudC9pbiBzb2Z0d2FyZSBlbmdpbmVlcmluZyBmb3IgYWkgc3lzdGVtcyAobS93L2QpfG5pb2xvZ2lj",
+      "title": "Werkstudent/in Software Engineering for AI Systems (m/w/d)",
+      "company": "niologic",
+      "location": "Cologne",
       "workModel": "On-site",
-      "opportunityType": "Full-time",
+      "opportunityType": "Working student",
       "source": "Arbeitnow",
       "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-16T18:40:05.000Z",
+      "postedDate": "2026-09-16T18:47:28.000Z",
       "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/head-of-compliance-monitoring-london-140974"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9oZWxsb2ZyZXNoL3JlbGlhYmlsaXR5LWVuZ2luZWVyLWRlcmJ5LTE0MTQ4OXxyZWxpYWJpbGl0eSBlbmdpbmVlcnxoZWxsb2ZyZXNo",
-      "title": "Reliability Engineer",
-      "company": "hellofresh",
-      "location": "Derby",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-16T15:55:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hellofresh/reliability-engineer-derby-141489"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90aGVuZXd5b3JrdGltZXMvc2VuaW9yLWVkaXRvci1iMmItdC1icmFuZC1pbnRlcm5hdGlvbmFsLWxvbmRvbi0yODQ3ODV8c2VuaW9yIGVkaXRvciBiMmIsIHQgYnJhbmQgaW50ZXJuYXRpb25hbCwgbG9uZG9ufHRoZW5ld3lvcmt0aW1lcw",
-      "title": "Senior Editor B2B, T Brand International, London",
-      "company": "thenewyorktimes",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-16T15:55:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thenewyorktimes/senior-editor-b2b-t-brand-international-london-284785"
+      "url": "https://www.arbeitnow.com/jobs/companies/niologic/werkstudent-in-software-engineering-for-ai-systems-cologne-29534"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdXB2ZXN0L3Nlbmlvci1mdWxsc3RhY2stZW5naW5lZXItYmVybGluLTE0NDU3OXxzZW5pb3IgZnVsbHN0YWNrIGVuZ2luZWVyIChmL20vZCl8dXB2ZXN0",
@@ -331,45 +383,6 @@
       "postedDate": "2026-09-16T13:30:08.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/centrale-lyon/centrale-lyon-postdoctoral-researcher-position-deep-learning-for-functional-oxide-growth-video-to-spectrum-prediction-by-rheed-xrd-fusion-ecully-390349"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbmFwbGFuL3Nlbmlvci1lbmdpbmVlcmluZy1tYW5hZ2VyLWFpLWxvbmRvbi0xOTI2MTN8c2VuaW9yIGVuZ2luZWVyaW5nIG1hbmFnZXIgLSBhaXxhbmFwbGFu",
-      "title": "Senior Engineering Manager - AI",
-      "company": "Anaplan",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-16T12:55:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-engineering-manager-ai-london-192613"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbmFwbGFuL2VuZ2luZWVyaW5nLW1hbmFnZXItYWktbWFuY2hlc3Rlci0xMTI5NTd8ZW5naW5lZXJpbmcgbWFuYWdlciAtIGFpfGFuYXBsYW4",
-      "title": "Engineering Manager - AI",
-      "company": "Anaplan",
-      "location": "Manchester",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-16T12:55:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/engineering-manager-ai-manchester-112957"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyYWkvbWlkLXNlbmlvci1haS1jaW5lbWF0aWMtdmlkZW8tZWRpdG9yLWZyZWVsYW5jZS1mdWxsLXJlbW90ZS11ay11bml0ZWQta2luZ2RvbS00MzkwNnxtaWQvc2VuaW9yIGFpIGNpbmVtYXRpYyB2aWRlbyBlZGl0b3IgKGZyZWVsYW5jZSAtIGZ1bGwgcmVtb3RlIC0gdWspfGV2ZXJhaQ",
-      "title": "Mid/Senior AI Cinematic Video Editor (Freelance - Full Remote - UK)",
-      "company": "EverAI",
-      "location": "United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-16T12:40:02.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/mid-senior-ai-cinematic-video-editor-freelance-full-remote-uk-united-kingdom-43906"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbW9iaWxleWUvc2VuaW9yLWVuZ2luZWVyaW5nLXByb2dyYW0tbWFuYWdlci1zdHV0dGdhcnQtbXVuaWNoLWdlcm1hbnktMTQxNDA0fHNlbmlvciBlbmdpbmVlcmluZyBwcm9ncmFtIG1hbmFnZXIgLSBzdHV0dGdhcnQgKHcvbS9kKXxtb2JpbGV5ZQ",
@@ -565,58 +578,6 @@
       "postedDate": "2026-09-15T20:32:23.000Z",
       "applyBy": null,
       "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=6187757004"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvd2Vya3N0dWRlbnRpbi1wb2xpY3ktcmVndWxhdG9yeS1hZmZhaXJzLWJlcmxpbi0xODQwNTJ8d2Vya3N0dWRlbnQ6aW4gcG9saWN5ICYgcmVndWxhdG9yeSBhZmZhaXJzIChtL3cvZCl8MWtvbW1hNWdyYWQ",
-      "title": "Werkstudent:in Policy & Regulatory Affairs (m/w/d)",
-      "company": "1Komma5Grad",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Part-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-15T20:09:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-policy-regulatory-affairs-berlin-184052"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvd2Vya3N0dWRlbnRpbi1jb21tdW5pdHktbWFuYWdlbWVudC1oYW1idXJnLTQ1NTYxfHdlcmtzdHVkZW50OmluIGNvbW11bml0eSBtYW5hZ2VtZW50IChtL3cvZCl8MWtvbW1hNWdyYWQ",
-      "title": "Werkstudent:in Community Management (m/w/d)",
-      "company": "1Komma5Grad",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "Part-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-15T20:09:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-community-management-hamburg-45561"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvcHJha3Rpa2FudGluLXBvbGljeS1yZWd1bGF0b3J5LWFmZmFpcnMtYmVybGluLTY1ODIzfHByYWt0aWthbnQ6aW4gcG9saWN5ICYgcmVndWxhdG9yeSBhZmZhaXJzIChtL3cvZCl8MWtvbW1hNWdyYWQ",
-      "title": "Praktikant:in Policy & Regulatory Affairs (m/w/d)",
-      "company": "1Komma5Grad",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-15T20:09:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/praktikantin-policy-regulatory-affairs-berlin-65823"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvaGVhZC1vZi1zZW8tZ2VvLWJlcmxpbi00NDAyNzR8aGVhZCBvZiBzZW8gLyBnZW8gKG0vdy9kKXwxa29tbWE1Z3JhZA",
-      "title": "Head of SEO / GEO (m/w/d)",
-      "company": "1Komma5Grad",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-15T20:09:05.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/head-of-seo-geo-berlin-440274"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9pbnN0aXR1dC1taW5lcy10ZWxlY29tL3Bvc3QtZG9jdG9yYW50ZS1vdS1wb3N0LWRvY3RvcmFudC1lbi1hcHByZW50aXNzYWdlLXN0YXRpc3RpcXVlLWV0LWlhLWdlbmVyYXRpdmUtY2RkLWRlLTEyLW1vaXMtcGFsYWlzZWF1LTIzMTI5OXxwb3N0LWRvY3RvcmFudGUgb3UgcG9zdC1kb2N0b3JhbnQgZW4gYXBwcmVudGlzc2FnZSBzdGF0aXN0aXF1ZSBldCBpYSBnw6luw6lyYXRpdmUgLSBjZGQgZGUgMTIgbW9pc3xpbnN0aXR1dCBtaW5lcy10w6lsw6ljb20",
