@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T11:00:19.910Z",
+  "generatedAt": "2026-09-17T16:17:22.238Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,45 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2xpbWF0ZS9kYXRhLWVuZ2luZWVyLWJlcmxpbi1ocS0yNDYwNjl8ZGF0YSBlbmdpbmVlciAoZi9tL2QpfGNsaW1hdGU",
+      "title": "Data Engineer (f/m/d)",
+      "company": "Climate",
+      "location": "Berlin HQ",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-17T14:09:55.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-246069"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uZWJpdXMvc2VuaW9yLW1sLWVuZ2luZWVyLWFpLXJlc2VhcmNoLXBvcnRhYmlsaXR5LTkzNzY4fHNlbmlvciBtbCBlbmdpbmVlciAoYWkgcmVzZWFyY2gvIHBvcnRhYmlsaXR5KXxuZWJpdXM",
+      "title": "Senior ML Engineer (AI Research/ Portability)",
+      "company": "Nebius",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-17T12:55:04.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-ml-engineer-ai-research-portability-93768"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uZWJpdXMvc2VuaW9yLW1sLWVuZ2luZWVyLWFpLXJlc2VhcmNoLXBoeXNpY2FsLWFpLTQ0Mjg0NnxzZW5pb3IgbWwgZW5naW5lZXIgKGFpIHJlc2VhcmNoLCBwaHlzaWNhbCBhaSl8bmViaXVz",
+      "title": "Senior ML Engineer (AI Research, Physical AI)",
+      "company": "Nebius",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-17T12:55:04.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-ml-engineer-ai-research-physical-ai-442846"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaXVuYS1haS1zeXN0ZW1zLWdtYmgvd2Vya3N0dWRlbnQtZnVyLWFpLWRhdGEtYW5ub3RhdGlvbi1xdWFsaXR5LWFzc3VyYW5jZS1oZWlsYnJvbm4tMjcyNDl8d2Vya3N0dWRlbnQgKG0vdy9kKSBmw7xyIGFpIGRhdGEgYW5ub3RhdGlvbiAmIHF1YWxpdHkgYXNzdXJhbmNlfGl1bmEgYWkgc3lzdGVtcyBnbWJo",
       "title": "Werkstudent (m/w/d) für AI Data Annotation & Quality Assurance",
@@ -398,32 +437,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/1komma50/internship-process-operations-energy-berlin-246803"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbnRocm9waWMvc3RhZmYtc29mdHdhcmUtZW5naW5lZXItc2FmZWd1YXJkcy1pbmZyYXN0cnVjdHVyZS1sb25kb24tNDY5ODF8c3RhZmYrIHNvZnR3YXJlIGVuZ2luZWVyLCBzYWZlZ3VhcmRzIGluZnJhc3RydWN0dXJlfGFudGhyb3BpYw",
-      "title": "Staff+ Software Engineer, Safeguards Infrastructure",
-      "company": "anthropic",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-16T18:55:23.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-software-engineer-safeguards-infrastructure-london-46981"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbnRocm9waWMvc3RhZmYtc29mdHdhcmUtZW5naW5lZXItbm9kZS1pbmZyYS1sb25kb24tMjE3NjEyfHN0YWZmIHNvZnR3YXJlIGVuZ2luZWVyLCBub2RlIGluZnJhfGFudGhyb3BpYw",
-      "title": "Staff Software Engineer, Node Infra",
-      "company": "anthropic",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-16T18:55:23.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-software-engineer-node-infra-london-217612"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmlvbG9naWMvd2Vya3N0dWRlbnQtaW4tc29mdHdhcmUtZW5naW5lZXJpbmctZm9yLWFpLXN5c3RlbXMtY29sb2duZS0yOTUzNHx3ZXJrc3R1ZGVudC9pbiBzb2Z0d2FyZSBlbmdpbmVlcmluZyBmb3IgYWkgc3lzdGVtcyAobS93L2QpfG5pb2xvZ2lj",
       "title": "Werkstudent/in Software Engineering for AI Systems (m/w/d)",
       "company": "niologic",
@@ -476,19 +489,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/niologic/trainee-ai-engineering-in-der-unternehmensberatung-hurth-232683"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb2xpdmVyLWFnZW5jeS9zZW5pb3ItYWNjb3VudC1tYW5hZ2VyLWhhbWJ1cmctNDI5OTcxfHNlbmlvciBhY2NvdW50IG1hbmFnZXIgKHcvbS9kKXxvbGl2ZXIgYWdlbmN5",
-      "title": "Senior Account Manager (w/m/d)",
-      "company": "OLIVER Agency",
-      "location": "Hamburg, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-16T13:45:26.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/oliver-agency/senior-account-manager-hamburg-429971"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9jZW50cmFsZS1seW9uL2NlbnRyYWxlLWx5b24tcG9zdGRvY3RvcmFsLXJlc2VhcmNoZXItcG9zaXRpb24tZGVlcC1sZWFybmluZy1mb3ItZnVuY3Rpb25hbC1veGlkZS1ncm93dGgtdmlkZW8tdG8tc3BlY3RydW0tcHJlZGljdGlvbi1ieS1yaGVlZC14cmQtZnVzaW9uLWVjdWxseS0zOTAzNDl8Y2VudHJhbGUgbHlvbiAtIHBvc3Rkb2N0b3JhbCByZXNlYXJjaGVyIHBvc2l0aW9uIGRlZXAgbGVhcm5pbmcgZm9yIGZ1bmN0aW9uYWwtb3hpZGUgZ3Jvd3RoIHZpZGVvLXRvLXNwZWN0cnVtIHByZWRpY3Rpb24gYnkgcmhlZWQgLyB4cmQgZnVzaW9ufGNlbnRyYWxlIGx5b24",
       "title": "CENTRALE LYON - Postdoctoral Researcher Position Deep Learning for Functional-Oxide Growth Video-to-Spectrum Prediction by RHEED / XRD Fusion",
       "company": "CENTRALE LYON",
@@ -500,84 +500,6 @@
       "postedDate": "2026-09-16T13:30:08.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/centrale-lyon/centrale-lyon-postdoctoral-researcher-position-deep-learning-for-functional-oxide-growth-video-to-spectrum-prediction-by-rheed-xrd-fusion-ecully-390349"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbW9iaWxleWUvc2VuaW9yLWVuZ2luZWVyaW5nLXByb2dyYW0tbWFuYWdlci1zdHV0dGdhcnQtbXVuaWNoLWdlcm1hbnktMTQxNDA0fHNlbmlvciBlbmdpbmVlcmluZyBwcm9ncmFtIG1hbmFnZXIgLSBzdHV0dGdhcnQgKHcvbS9kKXxtb2JpbGV5ZQ",
-      "title": "Senior Engineering Program Manager - Stuttgart (w/m/d)",
-      "company": "Mobileye",
-      "location": "Munich, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-16T11:25:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/mobileye/senior-engineering-program-manager-stuttgart-munich-germany-141404"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaGFuZGxlcmJ1bmQtbWFuYWdlbWVudC1hZy9zZW5pb3ItZnVsbHN0YWNrLWVudHdpY2tsZXItcGhwLWxhcmF2ZWwtcmVtb3RlLTQtdGFnZS13b2NoZS01NzQyNHxzZW5pb3IgZnVsbHN0YWNrIGVudHdpY2tsZXIgcGhwL2xhcmF2ZWwgKG0vdy9kKSAtIHJlbW90ZSwgNC10YWdlLXdvY2hlfGjDpG5kbGVyYnVuZCBtYW5hZ2VtZW50IGFn",
-      "title": "Senior Fullstack Entwickler PHP/Laravel (m/w/d) - Remote, 4-Tage-Woche",
-      "company": "Händlerbund Management AG",
-      "location": "Remote/Leipzig",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-16T11:09:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/handlerbund-management-ag/senior-fullstack-entwickler-php-laravel-remote-4-tage-woche-57424"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvam9iZ2V0aGVyL2Fzc29jaWF0ZS1kaXJlY3Rvci1tZWRpY2FsLWFmZmFpcnMtZ2VybWFueS0yNzU3MzV8YXNzb2NpYXRlIGRpcmVjdG9yLCBtZWRpY2FsIGFmZmFpcnN8am9iZ2V0aGVy",
-      "title": "Associate Director, Medical Affairs",
-      "company": "Jobgether",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-16T11:04:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/associate-director-medical-affairs-germany-275735"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWRkZmFtZS1nbWJoL3dlcmtzdHVkZW50LXBhaWQtc29jaWFsLW11bmljaC0zMzY0NDV8d2Vya3N0dWRlbnQgKG0vdy9kKSBwYWlkIHNvY2lhbHxhZGRmYW1lIGdtYmg",
-      "title": "Werkstudent (m/w/d) Paid Social",
-      "company": "addfame GmbH",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Working student, hilfstätigkeit / student",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-16T09:00:38.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/addfame-gmbh/werkstudent-paid-social-munich-336445"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvenNjYWxlci9zZW5pb3Itc2FsZXMtZW5naW5lZXItZ2VybWFueS0xNTY5OTh8c2VuaW9yIHNhbGVzIGVuZ2luZWVyIC0gZ2VybWFueXx6c2NhbGVy",
-      "title": "Senior Sales Engineer - Germany",
-      "company": "zscaler",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-16T08:55:13.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/zscaler/senior-sales-engineer-germany-156998"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvenNjYWxlci9yZWdpb25hbC1kaXJlY3Rvci1lbnRlcnByaXNlLTI3MTM0OHxyZWdpb25hbCBkaXJlY3RvciwgZW50ZXJwcmlzZXx6c2NhbGVy",
-      "title": "Regional Director, Enterprise",
-      "company": "zscaler",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-16T08:55:13.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/zscaler/regional-director-enterprise-271348"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9iYWNrbWFya2V0L3BheW1lbnQtcGVyZm9ybWFuY2UtYW5hbHlzdC1pbnRlcm4tcGFyaXMtNDExMjI4fHBheW1lbnQgcGVyZm9ybWFuY2UgYW5hbHlzdCBpbnRlcm58YmFja21hcmtldA",
