@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T20:57:54.363Z",
+  "generatedAt": "2026-09-18T03:18:02.516Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,110 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9jZW50cmFsZS1seW9uL2NlbnRyYWxlLWx5b24tcG9zdC1kb2N0b3JhbC1vcGVuLWFuZC1mbGV4aWJsZS1zeXN0ZW0tbGV2ZWwtZXZhbHVhdGlvbi1mcmFtZXdvcmstZm9yLWVtZXJnaW5nLWFpLWNvbXB1dGluZy1hcmNoaXRlY3R1cmVzLWVjdWxseS04MjM3N3xjZW50cmFsZSBseW9uIC0gcG9zdCBkb2N0b3JhbCBvcGVuIGFuZCBmbGV4aWJsZSBzeXN0ZW0tbGV2ZWwgZXZhbHVhdGlvbiBmcmFtZXdvcmsgZm9yIGVtZXJnaW5nIGFpIGNvbXB1dGluZyBhcmNoaXRlY3R1cmVzfGNlbnRyYWxlIGx5b24",
+      "title": "CENTRALE LYON - Post Doctoral Open and Flexible System-Level Evaluation Framework for Emerging AI Computing Architectures",
+      "company": "CENTRALE LYON",
+      "location": "Ecully, Auvergne-Rhône-Alpes, France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-18T01:30:28.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/centrale-lyon/centrale-lyon-post-doctoral-open-and-flexible-system-level-evaluation-framework-for-emerging-ai-computing-architectures-ecully-82377"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hYm5vcm1hbHNlY3VyaXR5L21hY2hpbmUtbGVhcm5pbmctZW5naW5lZXItaWktYmVoYXZpb3JhbC1zZWN1cml0eS1wcm9kdWN0cy02MjQ3NnxtYWNoaW5lIGxlYXJuaW5nIGVuZ2luZWVyIGlpIC0gYmVoYXZpb3JhbCBzZWN1cml0eSBwcm9kdWN0c3xhYm5vcm1hbHNlY3VyaXR5",
+      "title": "Machine Learning Engineer II - Behavioral Security Products",
+      "company": "Abnormalsecurity",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-18T00:55:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/abnormalsecurity/machine-learning-engineer-ii-behavioral-security-products-62476"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9jaGFybGVzcml2ZXJhc3NvY2lhdGVzLzIwMjctcGhkLWFiZC1ncmFkdWF0ZXMtc2VuaW9yLWFzc29jaWF0ZS1hbnRpdHJ1c3QtY29tcGV0aXRpb24tZWNvbm9taWNzLWV1cm9wZWFuLXVuaW9uLXBhcmlzLTM1MTMwM3woMjAyNyBwaGQvYWJkIGdyYWR1YXRlcykgc2VuaW9yIGFzc29jaWF0ZSAoYW50aXRydXN0ICYgY29tcGV0aXRpb24gZWNvbm9taWNzKSAtIGV1cm9wZWFuIHVuaW9ufGNoYXJsZXNyaXZlcmFzc29jaWF0ZXM",
+      "title": "(2027 PhD/ABD graduates) Senior Associate (Antitrust & Competition Economics) - European Union",
+      "company": "charlesriverassociates",
+      "location": "Paris",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-17T22:55:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/charlesriverassociates/2027-phd-abd-graduates-senior-associate-antitrust-competition-economics-european-union-paris-351303"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9wbm8taW5ub3ZhdGlvbi9zZW5pb3ItaW5ub3ZhdGlvbi1jb25zdWx0YW50LWV1LXByb2plY3RzLWZyYW5jZS00NjcxODN8c2VuaW9yIGlubm92YXRpb24gY29uc3VsdGFudCAtIGV1IHByb2plY3RzfHBubyBpbm5vdmF0aW9u",
+      "title": "Senior Innovation Consultant - EU Projects",
+      "company": "PNO Innovation",
+      "location": "France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-17T22:09:02.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/pno-innovation/senior-innovation-consultant-eu-projects-france-467183"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93dW5kZXJtYW50aG9tcHNvbi9zZW5pb3ItdXgtdWktZGVzaWduZXItY3JvLWxvbmRvbi0xMTg2MDZ8c2VuaW9yIHV4L3VpIGRlc2lnbmVyIChjcm8pfHd1bmRlcm1hbnRob21wc29u",
+      "title": "Senior UX/UI Designer (CRO)",
+      "company": "Wundermanthompson",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-17T21:55:19.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-ux-ui-designer-cro-london-118606"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93dW5kZXJtYW50aG9tcHNvbi9vcHRpbWlzYXRpb24tcHJpbmNpcGFsLWxvbmRvbi00MTY1MDR8b3B0aW1pc2F0aW9uIHByaW5jaXBhbHx3dW5kZXJtYW50aG9tcHNvbg",
+      "title": "Optimisation Principal",
+      "company": "Wundermanthompson",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-17T21:55:19.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/optimisation-principal-london-416504"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zb2x2ZWludGVsbGlnZW5jZS9kYXRhLWVuZ2luZWVyLWxvbmRvbi0yMzk5Mzl8ZGF0YSBlbmdpbmVlcnxzb2x2ZWludGVsbGlnZW5jZQ",
+      "title": "Data Engineer",
+      "company": "Solveintelligence",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-17T21:40:02.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/solveintelligence/data-engineer-london-239939"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcG90aWZ5L3Nlbmlvci1kaWdpdGFsLWxlYXJuaW5nLWV4cGVyaWVuY2UtZGVzaWduZXItbGVhcm5pbmctaW5jbHVzaW9uLWxvbmRvbi0xODMxNzN8c2VuaW9yIGRpZ2l0YWwgbGVhcm5pbmcgZXhwZXJpZW5jZSBkZXNpZ25lciwgbGVhcm5pbmcgJiBpbmNsdXNpb258c3BvdGlmeQ",
+      "title": "Senior Digital Learning Experience Designer, Learning & Inclusion",
+      "company": "Spotify",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Permanent",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-17T21:04:44.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-digital-learning-experience-designer-learning-inclusion-london-183173"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb2Rvbm5lbGwtbW9vbnNoaW5lL3BlcmZvcm1hbmNlLW1hcmtldGluZy13b3JraW5nLXN0dWRlbnQtYmVybGluLWtyZXV6YmVyZy02NDQwMnxwZXJmb3JtYW5jZSBtYXJrZXRpbmcgd29ya2luZyBzdHVkZW50IChmL20vZCl8b2Rvbm5lbGwgbW9vbnNoaW5l",
       "title": "Performance Marketing Working Student (f/m/d)",
@@ -149,6 +253,19 @@
       "postedDate": "2026-09-17T15:40:11.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/aerovect/remote-senior-software-engineer-behavior-planning-74582"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2xpbWF0ZS9kYXRhLWVuZ2luZWVyLWJlcmxpbi1ocS0yNDYwNjl8ZGF0YSBlbmdpbmVlciAoZi9tL2QpfGNsaW1hdGU",
+      "title": "Data Engineer (f/m/d)",
+      "company": "Climate",
+      "location": "Berlin HQ",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-17T14:09:55.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-246069"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uZWJpdXMvc2VuaW9yLW1sLWVuZ2luZWVyLWFpLXJlc2VhcmNoLXBvcnRhYmlsaXR5LTkzNzY4fHNlbmlvciBtbCBlbmdpbmVlciAoYWkgcmVzZWFyY2gvIHBvcnRhYmlsaXR5KXxuZWJpdXM",
@@ -487,45 +604,6 @@
       "postedDate": "2026-09-17T02:09:36.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/prematch-sports-gmbh/chief-of-staff-all-genders-koln-131596"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pbnRlcmNvbXJlZmVycmFscy9zZW5pb3ItbWFjaGluZS1sZWFybmluZy1zY2llbnRpc3QtbG9uZG9uLTkxNTU3fHNlbmlvciBtYWNoaW5lIGxlYXJuaW5nIHNjaWVudGlzdHxpbnRlcmNvbXJlZmVycmFscw",
-      "title": "Senior Machine Learning Scientist",
-      "company": "intercomreferrals",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-17T00:55:14.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intercomreferrals/senior-machine-learning-scientist-london-91557"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zb255aW50ZXJhY3RpdmVlbnRlcnRhaW5tZW50Z2xvYmFsL3Nlbmlvci1zdGFmZi1kYXRhLXNjaWVudGlzdC1tZWFzdXJlbWVudC1leHBlcmltZW50YXRpb24tY2F1c2FsLWluZmVyZW5jZS1sb25kb24tMzE2MTU3fHNlbmlvci9zdGFmZiBkYXRhIHNjaWVudGlzdCAtIG1lYXN1cmVtZW50LCBleHBlcmltZW50YXRpb24gJiBjYXVzYWwgaW5mZXJlbmNlfHNvbnlpbnRlcmFjdGl2ZWVudGVydGFpbm1lbnRnbG9iYWw",
-      "title": "Senior/Staff Data Scientist - Measurement, Experimentation & Causal Inference",
-      "company": "sonyinteractiveentertainmentglobal",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-17T00:55:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-staff-data-scientist-measurement-experimentation-causal-inference-london-316157"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zb255aW50ZXJhY3RpdmVlbnRlcnRhaW5tZW50Z2xvYmFsL2RhdGEtc2NpZW50aXN0LW1lYXN1cmVtZW50LWV4cGVyaW1lbnRhdGlvbi1jYXVzYWwtaW5mZXJlbmNlLWxvbmRvbi0xMjk4MjB8ZGF0YSBzY2llbnRpc3QgLSBtZWFzdXJlbWVudCwgZXhwZXJpbWVudGF0aW9uICYgY2F1c2FsIGluZmVyZW5jZXxzb255aW50ZXJhY3RpdmVlbnRlcnRhaW5tZW50Z2xvYmFs",
-      "title": "Data Scientist - Measurement, Experimentation & Causal Inference",
-      "company": "sonyinteractiveentertainmentglobal",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-17T00:55:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/data-scientist-measurement-experimentation-causal-inference-london-129820"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaXNhcmFlcm9zcGFjZS9zZW5pb3Itc3RydWN0dXJlcy1kZXNpZ24tZW5naW5lZXItbGF1bmNoLXZlaGljbGUtc3RydWN0dXJlcy1wYXJzZG9yZi1iYXZhcmlhLTM4MDk1fHNlbmlvciBzdHJ1Y3R1cmVzIGRlc2lnbiBlbmdpbmVlciwgbGF1bmNoIHZlaGljbGUgc3RydWN0dXJlcyAobS9mL2QpfGlzYXJhZXJvc3BhY2U",
