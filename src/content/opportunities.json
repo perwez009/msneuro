@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T15:29:25.688Z",
+  "generatedAt": "2026-09-20T20:21:30.847Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy90cmVhdHdlbGwvbWFya2V0aW5nLWxlYWQtYjJiLXBhcmlzLTE5MzExM3xtYXJrZXRpbmcgbGVhZCAtIGIyYnx0cmVhdHdlbGw",
+      "title": "Marketing Lead - B2B",
+      "company": "Treatwell",
+      "location": "Paris, France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-20T19:20:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/treatwell/marketing-lead-b2b-paris-193113"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9xdWFuZGVsYS9haS1zY2llbnRpc3QtZm9yLXF1YW50dW0tY29tcHV0aW5nLW1hc3N5LTEwMTM5OHxhaSBzY2llbnRpc3QgZm9yIHF1YW50dW0gY29tcHV0aW5nIChtYXNzeSl8cXVhbmRlbGE",
+      "title": "AI scientist for Quantum Computing (Massy)",
+      "company": "Quandela",
+      "location": "Massy, France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-20T19:20:05.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/quandela/ai-scientist-for-quantum-computing-massy-101398"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW1wb3NzaWJsZWNsb3VkL3Byb2R1Y3QtbWFuYWdlci1kaXJlY3Rvci1ncHUtYWktc2VydmljZXMtaGFtYnVyZy0xMzIxNHxwcm9kdWN0IG1hbmFnZXIgLyBkaXJlY3RvciDigJMgZ3B1ICYgYWkgc2VydmljZXN8aW1wb3NzaWJsZWNsb3Vk",
+      "title": "Product Manager / Director – GPU & AI Services",
+      "company": "Impossiblecloud",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-20T17:24:48.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/impossiblecloud/product-manager-director-gpu-ai-services-hamburg-13214"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9zY2hpbGxlci1pbnRlcm5hdGlvbmFsLXVuaXZlcnNpdHkvZGlyZWN0b3ItaW50ZXJuYXRpb25hbC1yZWxhdGlvbnMtYW5kLWRpcGxvbWFjeS1wcm9ncmFtcy1wYXJpcy00NjM0MDd8ZGlyZWN0b3Ig4oCTIGludGVybmF0aW9uYWwgcmVsYXRpb25zIGFuZCBkaXBsb21hY3kgcHJvZ3JhbXN8c2NoaWxsZXIgaW50ZXJuYXRpb25hbCB1bml2ZXJzaXR5",
+      "title": "Director – International Relations and Diplomacy Programs",
+      "company": "Schiller International University",
+      "location": "Paris",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-20T16:09:28.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/schiller-international-university/director-international-relations-and-diplomacy-programs-paris-463407"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdW50ZXJuZWhtZXJ0dW0tZ2dtYmgvdXZjLXBhcnRuZXJzLWRhdGEtYWktbWFzdGVyLXRoZXNpcy1pbnRlcm5zaGlwLW11bmNoZW4ta3JlYXRpdnF1YXJ0aWVyLTQ3MjIxM3x1dmMgcGFydG5lcnM6IGRhdGEgJiBhaSAtIG1hc3RlciB0aGVzaXMgLyBpbnRlcm5zaGlwIChmL20veCl8dW50ZXJuZWhtZXJ0dW0gZ2dtYmg",
       "title": "UVC Partners: Data & AI - Master Thesis / Internship (f/m/x)",
@@ -502,19 +554,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/acadia-job-listings/medical-science-liaison-germany-north-178883"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hcnRlZmFjdGpvYnMvc3RhZ2UtYXNzaXN0YW50ZS1jaGFyZ2VlLWRlLWNvbW11bmljYXRpb24tb3JpZW50ZWUtY29udGVudXMtZGlnaXRhdXgtZi1oLTl0aC1hcnJvbmRpc3NlbWVudC1vZi1wYXJpcy03NTAwOS1wYXJpcy0yNTg1MjJ8c3RhZ2Ug4oCTIGFzc2lzdGFudMK3ZSBjaGFyZ8OpwrdlIGRlIGNvbW11bmljYXRpb24gb3JpZW50w6kuZSBjb250ZW51cyBkaWdpdGF1eCAoZi9oKXxhcnRlZmFjdGpvYnM",
-      "title": "Stage – Assistant·e chargé·e de communication orienté.e contenus digitaux (F/H)",
-      "company": "Artefactjobs",
-      "location": "9th arrondissement of Paris, 75009, Paris",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-20T01:55:05.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-assistante-chargee-de-communication-orientee-contenus-digitaux-f-h-9th-arrondissement-of-paris-75009-paris-258522"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZW5jaGFyZ2VhaTM2L3JlbW90ZS1haS1jb21waWxlci1lbmdpbmVlci0xNTI5NjR8YWkgY29tcGlsZXIgZW5naW5lZXJ8ZW5jaGFyZ2VhaTM2",
       "title": "AI Compiler Engineer",
       "company": "Enchargeai36",
@@ -578,19 +617,6 @@
       "postedDate": "2026-09-19T14:09:30.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/dida/ai-consultant-all-genders-hybrid-berlin-frankfurt-374854"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc291dGh3ZXN0eC9idXNpbmVzcy1pbmR1c3RyeS1jby1mb3VuZGVyLXJvbGUtYXQtc3RhcnR1cC1ndWFyZHNwaGVyZS1zYWFyYnJ1Y2tlbi00OTAwNDR8YnVzaW5lc3MgLyBpbmR1c3RyeSBjby1mb3VuZGVyIChmL20vZCkgcm9sZSBhdCBzdGFydHVwIGd1YXJkc3BoZXJlfHNvdXRod2VzdHg",
-      "title": "Business / Industry Co-Founder (F/M/D) Role At Startup Guardsphere",
-      "company": "SouthwestX",
-      "location": "Saarbrücken",
-      "workModel": "On-site",
-      "opportunityType": "executive",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-19T13:47:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/southwestx/business-industry-co-founder-role-at-startup-guardsphere-saarbrucken-490044"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZm9jdXNlZC9jcnlvZ2VuaWNzLWVuZ2luZWVyLWRhcm1zdGFkdC0yNzU1MHxjcnlvZ2VuaWNzIGVuZ2luZWVyIChmL20vZCl8Zm9jdXNlZA",
@@ -929,19 +955,6 @@
       "postedDate": "2026-06-23T00:27:53.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7780708003?gh_jid=7780708003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzgwMTcyMDAzP2doX2ppZD03NzgwMTcyMDAzfGFzc29jaWF0ZSBnZW5lcmFsIGNvdW5zZWwsIHByaXZhY3kgJiBjb21wbGlhbmNlfG5ldXJhbGluaw",
-      "title": "Associate General Counsel, Privacy & Compliance",
-      "company": "Neuralink",
-      "location": "Austin, Texas, United States; South San Francisco, California, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-06-22T17:02:55.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7780172003?gh_jid=7780172003"
     }
   ]
 }
