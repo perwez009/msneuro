@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T20:21:30.847Z",
+  "generatedAt": "2026-09-21T03:26:16.734Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaGFuZGxlcmJ1bmQtbWFuYWdlbWVudC1hZy9zZW5pb3ItZnVsbHN0YWNrLWVudHdpY2tsZXItcGhwLWxhcmF2ZWwtcmVtb3RlLTQtdGFnZS13b2NoZS0zMDYzNzN8c2VuaW9yIGZ1bGxzdGFjayBlbnR3aWNrbGVyIHBocC9sYXJhdmVsIChtL3cvZCkgLSByZW1vdGUsIDQtdGFnZS13b2NoZXxow6RuZGxlcmJ1bmQgbWFuYWdlbWVudCBhZw",
+      "title": "Senior Fullstack Entwickler PHP/Laravel (m/w/d) - Remote, 4-Tage-Woche",
+      "company": "Händlerbund Management AG",
+      "location": "Remote/Leipzig",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-20T23:09:36.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/handlerbund-management-ag/senior-fullstack-entwickler-php-laravel-remote-4-tage-woche-306373"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb3JlLWluLWNvbW1vbi9zZW5pb3ItcmVzZWFyY2gtYXNzb2NpYXRlLWxvbmRvbi0zMDg5Nzh8c2VuaW9yIHJlc2VhcmNoIGFzc29jaWF0ZXxtb3JlIGluIGNvbW1vbg",
+      "title": "Senior Research Associate",
+      "company": "More In Common",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-20T21:09:38.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/more-in-common/senior-research-associate-london-308978"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy90cmVhdHdlbGwvbWFya2V0aW5nLWxlYWQtYjJiLXBhcmlzLTE5MzExM3xtYXJrZXRpbmcgbGVhZCAtIGIyYnx0cmVhdHdlbGw",
       "title": "Marketing Lead - B2B",
@@ -606,32 +632,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/arculus/infrastructure-engineer-deployments-munich-392732"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGlkYS9haS1jb25zdWx0YW50LWFsbC1nZW5kZXJzLWh5YnJpZC1iZXJsaW4tZnJhbmtmdXJ0LTM3NDg1NHxhaSBjb25zdWx0YW50IChhbGwgZ2VuZGVycykgLSBoeWJyaWQsIGJlcmxpbi9mcmFua2Z1cnR8ZGlkYQ",
-      "title": "AI Consultant (all genders) - Hybrid, Berlin/Frankfurt",
-      "company": "Dida",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-19T14:09:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/dida/ai-consultant-all-genders-hybrid-berlin-frankfurt-374854"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZm9jdXNlZC9jcnlvZ2VuaWNzLWVuZ2luZWVyLWRhcm1zdGFkdC0yNzU1MHxjcnlvZ2VuaWNzIGVuZ2luZWVyIChmL20vZCl8Zm9jdXNlZA",
-      "title": "Cryogenics Engineer (f/m/d)",
-      "company": "Focused",
-      "location": "Darmstadt, DE",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-19T11:40:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/focused/cryogenics-engineer-darmstadt-27550"
-    },
-    {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTkxNjM1MDA0fCBhc3NvY2lhdGUgdGhlcmFweSBjb25zdWx0YW50IG5ldyBqZXJzZXkgKHNhbGVzIHJlcHJlc2VudGF0aXZlKXxuZXVyb3BhY2U",
       "title": " Associate Therapy Consultant New Jersey (Sales Representative)",
       "company": "NeuroPace",
@@ -942,19 +942,6 @@
       "postedDate": "2026-07-08T18:06:58.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7799063003?gh_jid=7799063003"
-    },
-    {
-      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83NzgwNzA4MDAzP2doX2ppZD03NzgwNzA4MDAzfGZhY2lsaXRpZXMgbWVjaGFuaWNhbCBzcGVjaWFsaXN0fG5ldXJhbGluaw",
-      "title": "Facilities Mechanical Specialist",
-      "company": "Neuralink",
-      "location": "South San Francisco, California, United States",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Neuralink Jobs",
-      "sourceUrl": "https://boards.greenhouse.io/neuralink",
-      "postedDate": "2026-06-23T00:27:53.000Z",
-      "applyBy": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7780708003?gh_jid=7780708003"
     }
   ]
 }
