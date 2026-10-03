@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T21:50:38.223Z",
+  "generatedAt": "2026-10-03T03:53:10.327Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,227 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcGFydHNwYWNlL3JlbW90ZS1haS1kZXZlbG9wZXItbnVybmJlcmctMzUwMzQyfGFpIGRldmVsb3BlciAobS9mL2QpfHBhcnRzcGFjZQ",
+      "title": "AI Developer (m/f/d)",
+      "company": "Partspace",
+      "location": "Nürnberg",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-03T02:09:31.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/partspace/remote-ai-developer-nurnberg-350342"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc25rZS9zZW5pb3ItbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci12aWRlby1haS1tdW5jaGVuLTI3MjEwOHxzZW5pb3IgbWFjaGluZSBsZWFybmluZyBlbmdpbmVlciDigJMgdmlkZW8gYWl8c25rZQ",
+      "title": "Senior Machine Learning Engineer – Video AI",
+      "company": "Snke",
+      "location": "München",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-03T02:09:18.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-machine-learning-engineer-video-ai-munchen-272108"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy84NDY3NHRoNDRtZXRyZWE5OTk5L2RhdGEtc2NpZW50aXN0LWVsZWN0cm9tYWduZXRpYy1lbnZpcm9ubWVudC1sb25kb24tMzE0MDk3fGRhdGEgc2NpZW50aXN0IChlbGVjdHJvbWFnbmV0aWMgZW52aXJvbm1lbnQpfDg0Njc0dGg0NG1ldHJlYTk5OTk",
+      "title": "Data Scientist (Electromagnetic Environment)",
+      "company": "84674Th44Metrea9999",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-03T00:55:12.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/84674th44metrea9999/data-scientist-electromagnetic-environment-london-314097"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9jb250cm9scy1wcm9kdWN0LXNlbmlvci1tYW5hZ2VyLTE4NDMyNXxjb250cm9scyBwcm9kdWN0IHNlbmlvciBtYW5hZ2VyfG1vbnpv",
+      "title": "Controls Product Senior Manager",
+      "company": "Monzo",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-03T00:55:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/controls-product-senior-manager-184325"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pb25xL3Nlbmlvci1xdWFudHVtLXBoeXNpY2lzdC1veGZvcmQtNDk3MDIyfHNlbmlvciBxdWFudHVtIHBoeXNpY2lzdHxpb25x",
+      "title": "Senior Quantum Physicist",
+      "company": "ionq",
+      "location": "Oxford",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-03T00:55:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ionq/senior-quantum-physicist-oxford-497022"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3Nlbmlvci1wcm9kdWN0LW1hbmFnZXItYnVzaW5lc3MtYXBwbGljYXRpb25zLWRldmVsb3BtZW50LWJlcmxpbi1tdW5pY2gtMzA1NzU5fHNlbmlvciBwcm9kdWN0IG1hbmFnZXIgKGJ1c2luZXNzIGFwcGxpY2F0aW9ucyBkZXZlbG9wbWVudCl8amV0YnJhaW5z",
+      "title": "Senior Product Manager (Business Applications Development)",
+      "company": "jetbrains",
+      "location": "Berlin; Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-02T23:55:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-product-manager-business-applications-development-berlin-munich-305759"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy92b29kb28vbWFya2V0aW5nLWFydGlzdC1jb3J0ZXgtcGFyaXMtMzQ5MTE2fG1hcmtldGluZyBhcnRpc3QtIGNvcnRleHx2b29kb28",
+      "title": "Marketing Artist- Cortex",
+      "company": "Voodoo",
+      "location": "Paris",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-02T22:40:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/marketing-artist-cortex-paris-349116"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hdGxhbnRpY3ZjL2NoaWVmLWJ1c2luZXNzLW9mZmljZXItZ24tYXQtY2xlYW4tZGF0YS1jZW50cmVzLXZlbnR1cmUtZnJhbmNlLWh5YnJpZC1uYW50ZXMtMTI1MTg1fGNoaWVmIGJ1c2luZXNzIG9mZmljZXIgKGduKSBAIGNsZWFuIGRhdGEgY2VudHJlcyB2ZW50dXJlLCBmcmFuY2UgKGh5YnJpZCl8YXRsYW50aWMudmM",
+      "title": "Chief Business Officer (gn) @ Clean Data Centres Venture, France (hybrid)",
+      "company": "atlantic.vc",
+      "location": "Nantes, Pays-de-la-Loire, France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-02T22:30:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/atlanticvc/chief-business-officer-gn-at-clean-data-centres-venture-france-hybrid-nantes-125185"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXIvc2VuaW9yLWFjY291bnQtbWFuYWdlci1sb25kb24tMTI5NTAxfHNlbmlvciBhY2NvdW50IG1hbmFnZXJ8b2xpdmVy",
+      "title": "Senior Account Manager",
+      "company": "oliver",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-02T21:55:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver/senior-account-manager-london-129501"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yZWFsY2hlbWlzdHJ5L3Nlbmlvci1hY2NvdW50LWFzc29jaWF0ZS1tZWRpY2FsLTMyOTI3NXxzZW5pb3IgYWNjb3VudCBhc3NvY2lhdGUgLSBtZWRpY2FsfHJlYWxjaGVtaXN0cnk",
+      "title": "Senior Account Associate - Medical",
+      "company": "Realchemistry",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-02T21:55:15.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/realchemistry/senior-account-associate-medical-329275"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uZWJpdXMvc2VuaW9yLXJlc2VhcmNoLXNjaWVudGlzdC1hcmNoaXRlY3R1cmVzLXJlc2VhcmNoLTM3ODg4NnxzZW5pb3IgcmVzZWFyY2ggc2NpZW50aXN0IChhcmNoaXRlY3R1cmVzIHJlc2VhcmNoKXxuZWJpdXM",
+      "title": "Senior Research Scientist (Architectures Research)",
+      "company": "Nebius",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-02T21:55:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-research-scientist-architectures-research-378886"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uZXRob2xhYnMvaGFyZHdhcmUtdGVjaG5pY2lhbi1wcmVjbGluaWNhbC1yZXNlYXJjaC1sb25kb24tYnJpZ2h0b24tMjU3NTQ0fGhhcmR3YXJlIHRlY2huaWNpYW4gLSBwcmVjbGluaWNhbCByZXNlYXJjaHxuZXRob2xhYnM",
+      "title": "Hardware Technician - Preclinical Research",
+      "company": "Netholabs",
+      "location": "London/Brighton",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-02T21:40:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/netholabs/hardware-technician-preclinical-research-london-brighton-257544"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uZXRob2xhYnMvbGVhZC1tZWNoYXRyb25pY3MtYW5kLXN5c3RlbXMtZW5naW5lZXItcHJlY2xpbmljYWwtcmVzZWFyY2gtbG9uZG9uLTEyMTExOHxsZWFkIG1lY2hhdHJvbmljcyBhbmQgc3lzdGVtcyBlbmdpbmVlciAtIHByZWNsaW5pY2FsIHJlc2VhcmNofG5ldGhvbGFicw",
+      "title": "Lead Mechatronics and Systems Engineer - Preclinical Research",
+      "company": "Netholabs",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-02T21:40:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/netholabs/lead-mechatronics-and-systems-engineer-preclinical-research-london-121118"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uZXRob2xhYnMvcHJvZHVjdC1tYW5hZ2VyLXByZWNsaW5pY2FsLWRldmljZS1sb25kb24tMTczOTk0fHByb2R1Y3QgbWFuYWdlciAtIHByZWNsaW5pY2FsIGRldmljZXxuZXRob2xhYnM",
+      "title": "Product Manager - Preclinical Device",
+      "company": "Netholabs",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-02T21:40:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/netholabs/product-manager-preclinical-device-london-173994"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9xdWFudGV4YS9maW5hbmNlLW1hbmFnZXItbG9uZG9uLTEyNzQwfGZpbmFuY2UgbWFuYWdlcnxxdWFudGV4YQ",
+      "title": "Finance Manager",
+      "company": "Quantexa",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-02T21:40:06.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/finance-manager-london-12740"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9xdWFudGV4YS90YWxlbnQtcGFydG5lci1ndG0tbG9uZG9uLTI5MTU5Mnx0YWxlbnQgcGFydG5lciAtIGd0bXxxdWFudGV4YQ",
+      "title": "Talent Partner - GTM",
+      "company": "Quantexa",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-02T21:40:06.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/talent-partner-gtm-london-291592"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc291dGh3ZXN0eC9idXNpbmVzcy1kZXZlbG9wbWVudC1tYmEtY28tZm91bmRlci1yb2xlLWF0LXN0YXJ0dXAtY2hpbGxxdWFudGEtYm9jaHVtLTQxNjcxMnxidXNpbmVzcyBkZXZlbG9wbWVudCAvIG1iYSBjby1mb3VuZGVyIChmL20vZCkgcm9sZSBhdCBzdGFydHVwIGNoaWxscXVhbnRhfHNvdXRod2VzdHg",
+      "title": "Business Development / Mba Co-Founder (F/M/D) Role At Startup Chillquanta",
+      "company": "SouthwestX",
+      "location": "Bochum",
+      "workModel": "On-site",
+      "opportunityType": "executive",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-02T21:17:31.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/southwestx/business-development-mba-co-founder-role-at-startup-chillquanta-bochum-416712"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9pbmNlcHRpdmUvZGF0YS1zZWxlY3Rpb24tYW5kLXF1YWxpdHktZXZhbHVhdGlvbi1mb3ItYmlvbG9naWNhbC1mb3VuZGF0aW9uLW1vZGVscy1iZXJsaW4tZ2VybWFueS1vci1wYWxvLWFsdG8tY2Etb3ItenVyaWNoLTQ5NDU2OXxkYXRhIHNlbGVjdGlvbiBhbmQgcXVhbGl0eSBldmFsdWF0aW9uIGZvciBiaW9sb2dpY2FsIGZvdW5kYXRpb24gbW9kZWxzfGluY2VwdGl2ZQ",
       "title": "Data selection and quality evaluation for biological foundation models",
@@ -190,19 +411,6 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/ionq/distinguished-pqc-cryptography-architecture-leader-geneva-105282"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc291dGh3ZXN0eC9idXNpbmVzcy1kZXZlbG9wbWVudC1tYmEtY28tZm91bmRlci1yb2xlLWF0LXN0YXJ0dXAtY2hpbGxxdWFudGEtYm9jaHVtLTQxNjcxMnxidXNpbmVzcyBkZXZlbG9wbWVudCAvIG1iYSBjby1mb3VuZGVyIChmL20vZCkgcm9sZSBhdCBzdGFydHVwIGNoaWxscXVhbnRhfHNvdXRod2VzdHg",
-      "title": "Business Development / Mba Co-Founder (F/M/D) Role At Startup Chillquanta",
-      "company": "SouthwestX",
-      "location": "Bochum",
-      "workModel": "On-site",
-      "opportunityType": "executive",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T17:00:45.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/southwestx/business-development-mba-co-founder-role-at-startup-chillquanta-bochum-416712"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy90aGUtZXhwbG9yYXRpb24tY29tcGFueS9wcm9wdWxzaW9uLXRlc3QtZW5naW5lZXItYm9yZGVhdXgtNDg3NTg4fHByb3B1bHNpb24gdGVzdCBlbmdpbmVlcnx0aGUgZXhwbG9yYXRpb24gY29tcGFueQ",
       "title": "Propulsion Test Engineer",
       "company": "The Exploration Company",
@@ -268,19 +476,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/smartnumbers/senior-sales-executive-new-business-hybrid-london-283085"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9rd2FsZWUvc2VuaW9yLWdyb3d0aC1hbmFseXN0LWxlYW1pbmd0b24tc3BhLWVuZ2xhbmQtMTI4OTU5fHNlbmlvciBncm93dGggYW5hbHlzdHxrd2FsZWU",
-      "title": "Senior Growth Analyst",
-      "company": "Kwalee",
-      "location": "Leamington Spa, England",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T15:04:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kwalee/senior-growth-analyst-leamington-spa-england-128959"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaGVpbXdhdHQtZ21iaC9lbGVrdHJpa2VyLXBob3Rvdm9sdGFpay1ncm9zc3Byb2pla3RlLWtvbG4tYWFjaGVuZXItc3RyLTIxOTY5MHxlbGVrdHJpa2VyIHBob3Rvdm9sdGFpayBncm_Dn3Byb2pla3RlIChtL3cvZCl8aGVpbXdhdHQgZ21iaA",
       "title": "Elektriker Photovoltaik Großprojekte (m/w/d)",
       "company": "heimWatt GmbH",
@@ -318,19 +513,6 @@
       "postedDate": "2026-10-02T13:17:29.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/on-point-connect-gmbh/senior-snowflake-consultant-german-speaking-dusseldorf-159807"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9xdWFudHVtLW1vdGlvbi10ZWNobm9sb2dpZXMtcGVyc29uaW8vc2VuaW9yLWVsZWN0cmljYWwtY2hhcmFjdGVyaXNhdGlvbi1lbmdpbmVlci1sb25kb24tdWstMTMzNzMxfHNlbmlvciBlbGVjdHJpY2FsIGNoYXJhY3RlcmlzYXRpb24gZW5naW5lZXJ8cXVhbnR1bSBtb3Rpb24gdGVjaG5vbG9naWVzIC0gcGVyc29uaW8",
-      "title": "Senior Electrical Characterisation Engineer",
-      "company": "Quantum Motion Technologies - Personio",
-      "location": "London, UK",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T12:09:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum-motion-technologies-personio/senior-electrical-characterisation-engineer-london-uk-133731"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZ3JpZHNjYWxlLWdtYmgvc2VuaW9yLXNpdGUtcmVsaWFiaWxpdHktZW5naW5lZXItY2VwaC1vbi1wcmVtLWNsb3VkLXN0b3JhZ2Uta29sbi00MTI1OTZ8c2VuaW9yIHNpdGUgcmVsaWFiaWxpdHkgZW5naW5lZXIgLSBjZXBoIC8gb24tcHJlbSBjbG91ZCBzdG9yYWdlIChtL2YvZCl8Z3JpZHNjYWxlIGdtYmg",
@@ -398,32 +580,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/embedded-electrical-engineer-som-paris-292702"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9qZXRicmFpbnMvc2VuaW9yLXByb2R1Y3QtbWFuYWdlci1idXNpbmVzcy1hcHBsaWNhdGlvbnMtZGV2ZWxvcG1lbnQtbG9uZG9uLTk0ODY5fHNlbmlvciBwcm9kdWN0IG1hbmFnZXIgKGJ1c2luZXNzIGFwcGxpY2F0aW9ucyBkZXZlbG9wbWVudCl8amV0YnJhaW5z",
-      "title": "Senior Product Manager (Business Applications Development)",
-      "company": "jetbrains",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T09:55:13.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/senior-product-manager-business-applications-development-london-94869"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9naXRsYWIvcmVtb3RlLXNlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci10eXBlc2NyaXB0LWFpLWNsaWVudHMtZHVvLWNsaS0zMTE2NTF8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyICh0eXBlc2NyaXB0KSwgYWkgY2xpZW50czogZHVvIGNsaXxnaXRsYWI",
-      "title": "Senior Software Engineer (Typescript), AI Clients: Duo CLI",
-      "company": "gitlab",
-      "location": "Remote",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T09:55:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-software-engineer-typescript-ai-clients-duo-cli-311651"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdHJhd2EvcGFydG5lci1zYWxlcy1tYW5hZ2VyLWJhdHRlcnktc29sdXRpb25zLWJlcmxpbi0xNTY0fHBhcnRuZXIgc2FsZXMgbWFuYWdlciAtIGJhdHRlcnkgc29sdXRpb25zfHRyYXdh",
       "title": "Partner Sales Manager - Battery Solutions",
       "company": "trawa",
@@ -435,97 +591,6 @@
       "postedDate": "2026-10-02T08:40:05.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/trawa/partner-sales-manager-battery-solutions-berlin-1564"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hd2luL2hlYWQtb2YtZW5naW5lZXJpbmctZGV2ZWxvcGVyLWV4cGVyaWVuY2UtcGxhdGZvcm0tbG9uZG9uLTM0MzUzMXxoZWFkIG9mIGVuZ2luZWVyaW5nIC0gZGV2ZWxvcGVyIGV4cGVyaWVuY2UgJiBwbGF0Zm9ybSAoZi9tL2QpfGF3aW4",
-      "title": "Head of Engineering - Developer Experience & Platform (f/m/d)",
-      "company": "Awin",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T06:55:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/awin/head-of-engineering-developer-experience-platform-london-343531"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy96c2NhbGVyL3Nlbmlvci1zcGVjaWFsaXN0LXNhbGVzLWVuZ2luZWVyLWRhdGEtc2VjdXJpdHktMjYyMDN8c2VuaW9yIHNwZWNpYWxpc3Qgc2FsZXMgZW5naW5lZXIgLSBkYXRhIHNlY3VyaXR5fHpzY2FsZXI",
-      "title": "Senior Specialist Sales Engineer - Data Security",
-      "company": "zscaler",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T06:55:05.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/senior-specialist-sales-engineer-data-security-26203"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yZWxhdGlvbnJ4L3Nlbmlvci1kYXRhLXNjaWVudGlzdC1zaW5nbGUtY2VsbC1sb25kb24tMjc2NzA2fHNlbmlvciBkYXRhIHNjaWVudGlzdCAoc2luZ2xlIGNlbGwpfHJlbGF0aW9ucng",
-      "title": "Senior Data Scientist (Single Cell)",
-      "company": "Relationrx",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T06:40:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/relationrx/senior-data-scientist-single-cell-london-276706"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yZWxhdGlvbnJ4L3Nlbmlvci1tYWNoaW5lLWxlYXJuaW5nLXJlc2VhcmNoLWVuZ2luZWVyLWxvbmRvbi0yNTE4MTF8c2VuaW9yIG1hY2hpbmUgbGVhcm5pbmcgcmVzZWFyY2ggZW5naW5lZXJ8cmVsYXRpb25yeA",
-      "title": "Senior Machine Learning Research Engineer",
-      "company": "Relationrx",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T06:40:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/relationrx/senior-machine-learning-research-engineer-london-251811"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yZWxhdGlvbnJ4L3Nlbmlvci1kYXRhLXNjaWVudGlzdC1pbWFnaW5nLWxvbmRvbi04NzMwfHNlbmlvciBkYXRhIHNjaWVudGlzdCAoaW1hZ2luZyl8cmVsYXRpb25yeA",
-      "title": "Senior Data Scientist (Imaging)",
-      "company": "Relationrx",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T06:40:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/relationrx/senior-data-scientist-imaging-london-8730"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yZWxhdGlvbnJ4L3Nlbmlvci1tYWNoaW5lLWxlYXJuaW5nLXNjaWVudGlzdC1zaW5nbGUtY2VsbC1sb25kb24tMjk2MDI5fHNlbmlvciBtYWNoaW5lIGxlYXJuaW5nIHNjaWVudGlzdCAoc2luZ2xlIGNlbGwpfHJlbGF0aW9ucng",
-      "title": "Senior Machine Learning Scientist (Single Cell)",
-      "company": "Relationrx",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T06:40:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/relationrx/senior-machine-learning-scientist-single-cell-london-296029"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yZWxhdGlvbnJ4L3Nlbmlvci1tYWNoaW5lLWxlYXJuaW5nLXNjaWVudGlzdC1nZW5lcmF0aXZlLW1vZGVsbGluZy1sb25kb24tMzE2MDQyfHNlbmlvciBtYWNoaW5lIGxlYXJuaW5nIHNjaWVudGlzdCAoZ2VuZXJhdGl2ZSBtb2RlbGxpbmcpfHJlbGF0aW9ucng",
-      "title": "Senior Machine Learning Scientist (Generative Modelling)",
-      "company": "Relationrx",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T06:40:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/relationrx/senior-machine-learning-scientist-generative-modelling-london-316042"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZ3JpZHNjYWxlLWdtYmgvc2VuaW9yLXNpdGUtcmVsaWFiaWxpdHktZW5naW5lZXItY2VwaC1vbi1wcmVtLWNsb3VkLXN0b3JhZ2Uta29sbi0yNDMyMTV8c2VuaW9yIHNpdGUgcmVsaWFiaWxpdHkgZW5naW5lZXIgLSBjZXBoIC8gb24tcHJlbSBjbG91ZCBzdG9yYWdlIChtL2YvZCl8Z3JpZHNjYWxlIGdtYmg",
@@ -619,19 +684,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/wemolo/talent-acquisition-manager-all-genders-munchen-404226"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3Rhcmsvc2VuaW9yLWFpLWZsaWdodC1keW5hbWljcy1pbnRlZ3JhdGlvbi1lbmdpbmVlci1hbGwtZ2VuZGVycy1tdW5pY2gtNDcwNTcwfHNlbmlvciBhaSAmIGZsaWdodCBkeW5hbWljcyBpbnRlZ3JhdGlvbiBlbmdpbmVlciAgKGFsbCBnZW5kZXJzKXxzdGFyaw",
-      "title": "Senior AI & Flight Dynamics Integration Engineer  (All genders)",
-      "company": "Stark",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T02:09:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/senior-ai-flight-dynamics-integration-engineer-all-genders-munich-470570"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9pbnN0aXR1dC1taW5lcy10ZWxlY29tL3Bvc3QtZG9jdG9yYW50ZS1lbi1pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWluZm9ybWVlLXBhci1sYS1waHlzaXF1ZS1wb3VyLWxhLW1vZGVsaXNhdGlvbi1oeWRyb2dlb2xvZ2lxdWUtY2RkLTEzLW1vaXMtaW10LW1pbmVzLWFsZXMtNDg2NDAxfHBvc3QtZG9jdG9yYW50wrdlIGVuIGludGVsbGlnZW5jZSBhcnRpZmljaWVsbGUgaW5mb3Jtw6llIHBhciBsYSBwaHlzaXF1ZSBwb3VyIGxhIG1vZMOpbGlzYXRpb24gaHlkcm9nw6lvbG9naXF1ZSAtIGNkZCAxMyBtb2lzIC0gaW10IG1pbmVzIGFsw6hzfGluc3RpdHV0IG1pbmVzLXTDqWzDqWNvbQ",
       "title": "Post-Doctorant·e en Intelligence artificielle informée par la physique pour la modélisation hydrogéologique - CDD 13 mois - IMT Mines Alès",
       "company": "Institut Mines-Télécom",
@@ -656,19 +708,6 @@
       "postedDate": "2026-10-02T01:30:31.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/professeure-en-data-ia-appliquee-aux-materiaux-et-procedes-rattachee-au-centre-institut-clement-ader-albi-ica-a-86654"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWFwYm94L3NvZnR3YXJlLWRldmVsb3BtZW50LWVuZ2luZWVyLWlpLTNkbG4tbWFwYm94LWdlcm1hbnktMTgwMDk2fHNvZnR3YXJlIGRldmVsb3BtZW50IGVuZ2luZWVyLCBpaSwgM2RsbnxtYXBib3g",
-      "title": "Software Development Engineer, II, 3DLN",
-      "company": "Mapbox",
-      "location": "Mapbox Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-01T23:40:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/mapbox/software-development-engineer-ii-3dln-mapbox-germany-180096"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9oZXhhL2hlYWQtb2Ytc2FsZXMtYXQtcGVsYWdvbi1iYWNrZWQtYnktaGV4YS1wYXJpcy0zOTIzODR8aGVhZCBvZiBzYWxlcyBAcGVsYWdvbiAoYmFja2VkIGJ5IGhleGEpfGhleGE",
@@ -723,32 +762,6 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/neuralconcept/technical-marketing-engineer-lausanne-118628"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9xdWFuZGVsYS9wcm9jZXNzLWVuZ2luZWVyLXNlbWljb25kdWN0b3ItcHJvY2Vzc2VzLXBhbGFpc2VhdS0xOTc1MjN8cHJvY2VzcyBlbmdpbmVlciAtIHNlbWljb25kdWN0b3IgcHJvY2Vzc2VzfHF1YW5kZWxh",
-      "title": "Process Engineer - Semiconductor Processes",
-      "company": "Quandela",
-      "location": "Palaiseau, France",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-01T13:20:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/quandela/process-engineer-semiconductor-processes-palaiseau-197523"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9wbm8taW5ub3ZhdGlvbi9zZW5pb3ItaW5ub3ZhdGlvbi1jb25zdWx0YW50LWV1LXByb2plY3RzLWZyYW5jZS0zODAzNDl8c2VuaW9yIGlubm92YXRpb24gY29uc3VsdGFudCAtIGV1IHByb2plY3RzfHBubyBpbm5vdmF0aW9u",
-      "title": "Senior Innovation Consultant - EU Projects",
-      "company": "PNO Innovation",
-      "location": "France",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-01T13:09:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/pno-innovation/senior-innovation-consultant-eu-projects-france-380349"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9oYXJtYXR0YW4tYWkvc2VuaW9yLXBvd2VyLWVsZWN0cm9uaWNzLWVuZ2luZWVyLWxhdXNhbm5lLTkzMTEyfHNlbmlvciBwb3dlciBlbGVjdHJvbmljcyBlbmdpbmVlcnxoYXJtYXR0YW4gYWk",
       "title": "Senior Power Electronics Engineer",
       "company": "Harmattan Ai",
@@ -786,19 +799,6 @@
       "postedDate": "2026-10-01T08:40:09.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/embedded-electrical-engineer-som-lausanne-470046"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9nZW5lc2lzL3Nlbmlvci10ZWNobmljYWwtcHJvZ3JhbS1tYW5hZ2VyLWZyLXBhcmlzLTEzOTh8c2VuaW9yIHRlY2huaWNhbCBwcm9ncmFtIG1hbmFnZXIgKGZyKXxnZW5lc2lz",
-      "title": "Senior Technical Program Manager (FR)",
-      "company": "Genesis",
-      "location": "Paris",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-01T07:40:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/genesis/senior-technical-program-manager-fr-paris-1398"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9uZWJpdXMvc2VuaW9yLWFwcGxpZWQtc2NpZW50aXN0LWVmZmljaWVudC1sbG0taW5mZXJlbmNlLW1vZGVsLW9wdGltaXphdGlvbi16dXJpY2gtMzEzMDN8c2VuaW9yIGFwcGxpZWQgc2NpZW50aXN0LCBlZmZpY2llbnQgbGxtIGluZmVyZW5jZSAmIG1vZGVsIG9wdGltaXphdGlvbnxuZWJpdXM",
@@ -994,19 +994,6 @@
       "postedDate": "2026-09-28T08:55:24.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.ch/jobs/companies/capco/genai-ml-engineer-67759"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9pbnRyaW5zaWNyb2JvdGljcy9yb2JvdGljcy1zb2Z0d2FyZS1lbmdpbmVlci1ncmFzcGluZy16dXJpY2gtMzk4NzA3fHJvYm90aWNzIHNvZnR3YXJlIGVuZ2luZWVyIC0gZ3Jhc3Bpbmd8aW50cmluc2ljcm9ib3RpY3M",
-      "title": "Robotics Software Engineer - Grasping",
-      "company": "intrinsicrobotics",
-      "location": "Zurich",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-28T05:55:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.ch/jobs/companies/intrinsicrobotics/robotics-software-engineer-grasping-zurich-398707"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy84MDA1NzYyMDAzP2doX2ppZD04MDA1NzYyMDAzfHNvZnR3YXJlIGVuZ2luZWVyIC0gc2ltdWxhdGlvbnxuZXVyYWxpbms",
