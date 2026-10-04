@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T11:48:46.353Z",
+  "generatedAt": "2026-10-04T16:28:35.358Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9jYXN0cm9sL2FsdGVybmFuY2UtYXNzaXN0YW50LXJoLWYtaC05Njk0MXxhbHRlcm5hbmNlIGFzc2lzdGFudCByaCAoZi9oKXxjYXN0cm9s",
+      "title": "Alternance Assistant RH (F/H)",
+      "company": "Castrol",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-04T13:55:04.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/castrol/alternance-assistant-rh-f-h-96941"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9mYWN1bHR5L2N1c3RvbWVyLWRpcmVjdG9yLWxvbmRvbi0xNTg5NTF8Y3VzdG9tZXIgZGlyZWN0b3J8ZmFjdWx0eQ",
       "title": "Customer Director",
@@ -411,19 +424,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/appliedai/principal-ai-engineer-industrial-ai-engineering-munchen-81671-453769"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yaWxsZXQvYWNjb3VudGluZy1zdWNjZXNzLW1hbmFnZXItdWstbG9uZG9uLTc4NDU3fGFjY291bnRpbmcgc3VjY2VzcyBtYW5hZ2VyIC0gdWt8cmlsbGV0",
-      "title": "Accounting Success Manager - UK",
-      "company": "Rillet",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-03T09:40:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/rillet/accounting-success-manager-uk-london-78457"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva2xlZWdvLWdtYmgvcG1pLWZvdW5kZXJzLWFzc29jaWF0ZS1tdW5pY2gtMTc2MTQ0fHBtaSAmIGZvdW5kZXJzIGFzc29jaWF0ZSAobS93L2QpfGtsZWVnbyBnbWJo",
       "title": "PMI & Founders Associate (m/w/d)",
       "company": "KLEEGO GmbH",
@@ -513,71 +513,6 @@
       "postedDate": "2026-10-03T08:40:06.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-robot-autonomy-reliability-test-infrastructure-zurich-362461"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXItYWdlbmN5L2dsb2JhbC1wcm9ncmFtbWUtZGlyZWN0b3ItbG9uZG9uLTI1MDA3OXxnbG9iYWwgcHJvZ3JhbW1lIGRpcmVjdG9yfG9saXZlciBhZ2VuY3k",
-      "title": "Global Programme Director",
-      "company": "OLIVER Agency",
-      "location": "London, England, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-03T07:45:26.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/global-programme-director-london-250079"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uc2NhbGVvcGVyYXRpb25zdWtsdGQvc29sdXRpb25zLWVuZ2luZWVyLTQ5NTQ5NHxzb2x1dGlvbnMgZW5naW5lZXJ8bnNjYWxlb3BlcmF0aW9uc3VrbHRk",
-      "title": "Solutions Engineer",
-      "company": "Nscaleoperationsukltd",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-03T06:55:04.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nscaleoperationsukltd/solutions-engineer-495494"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uc2NhbGVvcGVyYXRpb25zdWtsdGQvY2VudHJlLW9mLWV4Y2VsbGVuY2Utc2VuaW9yLWVuZ2luZWVyLTc2MTkwfGNlbnRyZSBvZiBleGNlbGxlbmNlIHNlbmlvciBlbmdpbmVlcnxuc2NhbGVvcGVyYXRpb25zdWtsdGQ",
-      "title": "Centre of Excellence Senior Engineer",
-      "company": "Nscaleoperationsukltd",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-03T06:55:04.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nscaleoperationsukltd/centre-of-excellence-senior-engineer-76190"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jb21pbmQvcHJpbmNpcGFsLWRhdGEtc2NpZW50aXN0LWxvbmRvbi0xNDg0MDJ8cHJpbmNpcGFsIGRhdGEgc2NpZW50aXN0fGNvbWluZA",
-      "title": "Principal Data Scientist",
-      "company": "Comind",
-      "location": "London, UK",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-03T06:40:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/principal-data-scientist-london-148402"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXVndXN0dXMvc2VjdXJpdHktZW5naW5lZXItYmVybGluLTM3OTQxNnxzZWN1cml0eSBlbmdpbmVlcnxhdWd1c3R1cw",
-      "title": "Security Engineer",
-      "company": "Augustus",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-03T05:40:03.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/augustus/security-engineer-berlin-379416"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy92b29kb28vbWFya2V0aW5nLWFydGlzdC1jb3J0ZXgtcGFyaXMtMzQ5MTE2fG1hcmtldGluZyBhcnRpc3QtIGNvcnRleHx2b29kb28",
