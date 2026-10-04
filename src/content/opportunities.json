@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T20:36:59.680Z",
+  "generatedAt": "2026-10-04T04:24:55.647Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWRqb2Uvc2VuaW9yLXN0YWZmLW1sLXNjaWVudGlzdC1iaWRkaW5nLW9wdGltaXphdGlvbi1iZXJsaW4tMTgwMjU2fHNlbmlvci9zdGFmZiBtbCBzY2llbnRpc3QgLSBiaWRkaW5nICYgb3B0aW1pemF0aW9uIChmL20vZCl8YWRqb2U",
+      "title": "Senior/Staff ML Scientist - Bidding & Optimization (f/m/d)",
+      "company": "adjoe",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-03T20:40:10.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-staff-ml-scientist-bidding-optimization-berlin-180256"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kZWxpdmVyb28vc2VuaW9yLWRhdGEtc2NpZW50aXN0LWVjb25vbWlzdC1sb25kb24tOTkwNjd8c2VuaW9yIGRhdGEgc2NpZW50aXN0IChlY29ub21pc3QpfGRlbGl2ZXJvbw",
       "title": "Senior Data Scientist (Economist)",
@@ -567,19 +580,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/controls-product-senior-manager-184325"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pb25xL3Nlbmlvci1xdWFudHVtLXBoeXNpY2lzdC1veGZvcmQtNDk3MDIyfHNlbmlvciBxdWFudHVtIHBoeXNpY2lzdHxpb25x",
-      "title": "Senior Quantum Physicist",
-      "company": "ionq",
-      "location": "Oxford",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-03T00:55:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ionq/senior-quantum-physicist-oxford-497022"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3Nlbmlvci1wcm9kdWN0LW1hbmFnZXItYnVzaW5lc3MtYXBwbGljYXRpb25zLWRldmVsb3BtZW50LWJlcmxpbi1tdW5pY2gtMzA1NzU5fHNlbmlvciBwcm9kdWN0IG1hbmFnZXIgKGJ1c2luZXNzIGFwcGxpY2F0aW9ucyBkZXZlbG9wbWVudCl8amV0YnJhaW5z",
       "title": "Senior Product Manager (Business Applications Development)",
       "company": "jetbrains",
@@ -645,19 +645,6 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/inceptive/computational-design-of-biological-experiments-for-model-development-berlin-germany-or-palo-alto-ca-or-zurich-446408"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZGlkYS9haS1jb25zdWx0YW50LWFsbC1nZW5kZXJzLWh5YnJpZC1iZXJsaW4tZnJhbmtmdXJ0LTM3NzgwMHxhaSBjb25zdWx0YW50IChhbGwgZ2VuZGVycykgLSBoeWJyaWQsIGJlcmxpbi9mcmFua2Z1cnR8ZGlkYQ",
-      "title": "AI Consultant (all genders) - Hybrid, Berlin/Frankfurt",
-      "company": "Dida",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T20:09:51.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/dida/ai-consultant-all-genders-hybrid-berlin-frankfurt-377800"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hbGx1Y2VudC9zci1jbGluaWNhbC1yZXNlYXJjaC1hc3NvY2lhdGUtY29udHJhY3Rvci1mcmFuY2UtcGFyaXMtMzg2Njc4fHNyIGNsaW5pY2FsIHJlc2VhcmNoIGFzc29jaWF0ZSBjb250cmFjdG9yIChmcmFuY2UpfGFsbHVjZW50",
       "title": "Sr Clinical Research Associate Contractor (France)",
       "company": "Allucent",
@@ -669,19 +656,6 @@
       "postedDate": "2026-10-02T19:20:05.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/allucent/sr-clinical-research-associate-contractor-france-paris-386678"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvenNjYWxlci9zZW5pb3ItcmVjcnVpdGVyLTI3NzcwN3xzZW5pb3IgcmVjcnVpdGVyfHpzY2FsZXI",
-      "title": "Senior Recruiter",
-      "company": "zscaler",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T17:55:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/zscaler/senior-recruiter-277707"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9pb25xL3N0YWZmLXN5c3RlbS1hcmNoaXRlY3Qtc25zcGQtc3lzdGVtcy1nZW5ldmEtNDc3NDE0fHN0YWZmIHN5c3RlbSBhcmNoaXRlY3QgLXNuc3BkIHN5c3RlbXN8aW9ucQ",
@@ -825,32 +799,6 @@
       "postedDate": "2026-10-02T10:40:02.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/embedded-electrical-engineer-som-paris-292702"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9pbnN0aXR1dC1taW5lcy10ZWxlY29tL3Bvc3QtZG9jdG9yYW50ZS1lbi1pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxlLWluZm9ybWVlLXBhci1sYS1waHlzaXF1ZS1wb3VyLWxhLW1vZGVsaXNhdGlvbi1oeWRyb2dlb2xvZ2lxdWUtY2RkLTEzLW1vaXMtaW10LW1pbmVzLWFsZXMtNDg2NDAxfHBvc3QtZG9jdG9yYW50wrdlIGVuIGludGVsbGlnZW5jZSBhcnRpZmljaWVsbGUgaW5mb3Jtw6llIHBhciBsYSBwaHlzaXF1ZSBwb3VyIGxhIG1vZMOpbGlzYXRpb24gaHlkcm9nw6lvbG9naXF1ZSAtIGNkZCAxMyBtb2lzIC0gaW10IG1pbmVzIGFsw6hzfGluc3RpdHV0IG1pbmVzLXTDqWzDqWNvbQ",
-      "title": "Post-Doctorant·e en Intelligence artificielle informée par la physique pour la modélisation hydrogéologique - CDD 13 mois - IMT Mines Alès",
-      "company": "Institut Mines-Télécom",
-      "location": "Alès, Occitanie, France",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T01:30:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-en-intelligence-artificielle-informee-par-la-physique-pour-la-modelisation-hydrogeologique-cdd-13-mois-imt-mines-ales-486401"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9pbnN0aXR1dC1taW5lcy10ZWxlY29tL3Byb2Zlc3NldXJlLWVuLWRhdGEtaWEtYXBwbGlxdWVlLWF1eC1tYXRlcmlhdXgtZXQtcHJvY2VkZXMtcmF0dGFjaGVlLWF1LWNlbnRyZS1pbnN0aXR1dC1jbGVtZW50LWFkZXItYWxiaS1pY2EtYS04NjY1NHxwcm9mZXNzZXVyKGUpIGVuIGRhdGEvaWEgYXBwbGlxdcOpZSBhdXggbWF0w6lyaWF1eCBldCBwcm9jw6lkw6lzIHJhdHRhY2jDqShlKSBhdSBjZW50cmUgaW5zdGl0dXQgY2zDqW1lbnQgYWRlciBhbGJpIChpY2EtYSl8aW5zdGl0dXQgbWluZXMtdMOpbMOpY29t",
-      "title": "Professeur(e) en Data/IA appliquée aux Matériaux et Procédés Rattaché(e) au Centre Institut Clément Ader Albi (ICA-A)",
-      "company": "Institut Mines-Télécom",
-      "location": "Albi, Occitanie, France",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T01:30:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/professeure-en-data-ia-appliquee-aux-materiaux-et-procedes-rattachee-au-centre-institut-clement-ader-albi-ica-a-86654"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MjEyMzg3MDA0fHJlZ2lvbmFsIHNhbGVzIG1hbmFnZXIgLSBub3J0aGVhc3R8bmV1cm9wYWNl",
