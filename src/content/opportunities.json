@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T13:40:07.693Z",
+  "generatedAt": "2026-10-05T23:45:56.761Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,136 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy92bWxlbnRlcnByaXNlc29sdXRpb25zL3ByaW5jaXBhbC1zb2x1dGlvbnMtYXJjaGl0ZWN0LWxvbmRvbi0zNzk1ODJ8cHJpbmNpcGFsIHNvbHV0aW9ucyBhcmNoaXRlY3R8dm1sZW50ZXJwcmlzZXNvbHV0aW9ucw",
+      "title": "Principal Solutions Architect",
+      "company": "Vmlenterprisesolutions",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-05T21:55:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/vmlenterprisesolutions/principal-solutions-architect-london-379582"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9saWxhc2NpZW5jZXMvc2VuaW9yLXByaW5jaXBhbC1jaGVtaXN0LWFpLXNhZmV0eS1sb25kb24tMjQ0NjIwfHNlbmlvciAvIHByaW5jaXBhbCBjaGVtaXN0LCBhaSBzYWZldHl8bGlsYXNjaWVuY2Vz",
+      "title": "Senior / Principal Chemist, AI Safety",
+      "company": "Lilasciences",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-05T21:55:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lilasciences/senior-principal-chemist-ai-safety-london-244620"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGFpdGlhbC9yZXNlYXJjaC1zY2llbnRpc3QtM2QtcmVjb25zdHJ1Y3Rpb24tbm92ZWwtdmlldy1zeW50aGVzaXMtbG9uZG9uLTQxNjA5NHxyZXNlYXJjaCBzY2llbnRpc3QgLSAzZCByZWNvbnN0cnVjdGlvbiAmIG5vdmVsIHZpZXcgc3ludGhlc2lzfHNwYWl0aWFs",
+      "title": "Research Scientist - 3D Reconstruction & Novel View Synthesis",
+      "company": "Spaitial",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-05T21:40:05.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/spaitial/research-scientist-3d-reconstruction-novel-view-synthesis-london-416094"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGFpdGlhbC9yZXNlYXJjaC1lbmdpbmVlci0zZC1yZWNvbnN0cnVjdGlvbi1sb25kb24tMjExNzh8cmVzZWFyY2ggZW5naW5lZXIgLSAzZCByZWNvbnN0cnVjdGlvbnxzcGFpdGlhbA",
+      "title": "Research Engineer - 3D Reconstruction",
+      "company": "Spaitial",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-05T21:40:05.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/spaitial/research-engineer-3d-reconstruction-london-21178"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGFpdGlhbC8zZC1jb250ZW50LWNyZWF0b3Itc29jaWFsLWxlYWQtbG9uZG9uLTM5OTM0MHwzZCBjb250ZW50IGNyZWF0b3IgJiBzb2NpYWwgbGVhZHxzcGFpdGlhbA",
+      "title": "3D Content Creator & Social Lead",
+      "company": "Spaitial",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-05T21:40:05.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/spaitial/3d-content-creator-social-lead-london-399340"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zcGFpdGlhbC9wZW9wbGUtYW5kLXRhbGVudC1tYW5hZ2VyLWxvbmRvbi0xNzY1OTl8cGVvcGxlIGFuZCB0YWxlbnQgbWFuYWdlcnxzcGFpdGlhbA",
+      "title": "People and Talent Manager",
+      "company": "Spaitial",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-05T21:40:05.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/spaitial/people-and-talent-manager-london-176599"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9iYWNrbWFya2V0L3Nlbmlvci1kYXRhLXNjaWVudGlzdC1wcmljaW5nLXBhcmlzLTQ4OTEyOHxzZW5pb3IgZGF0YSBzY2llbnRpc3QgLSBwcmljaW5nfGJhY2ttYXJrZXQ",
+      "title": "Senior Data Scientist - Pricing",
+      "company": "Backmarket",
+      "location": "Paris",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-05T16:40:10.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/senior-data-scientist-pricing-paris-489128"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9xdWFuZGVsYS9xdWFudHVtLWluZm9ybWF0aW9uLXNjaWVudGlzdC1hcmNoaXRlY3R1cmUtcGVyZm9ybWFuY2UtcGFyaXMtMTA5NTk5fHF1YW50dW0gaW5mb3JtYXRpb24gc2NpZW50aXN0IC0gYXJjaGl0ZWN0dXJlICYgcGVyZm9ybWFuY2V8cXVhbmRlbGE",
+      "title": "Quantum Information Scientist - Architecture & Performance",
+      "company": "Quandela",
+      "location": "Paris, France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-05T16:20:19.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/quandela/quantum-information-scientist-architecture-performance-paris-109599"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9xdWFuZGVsYS9xdWFudHVtLWluZm9ybWF0aW9uLXNjaWVudGlzdC1hcmNoaXRlY3R1cmUtcGVyZm9ybWFuY2UtbWFzc3ktMzk3ODI2fHF1YW50dW0gaW5mb3JtYXRpb24gc2NpZW50aXN0IC0gYXJjaGl0ZWN0dXJlICYgcGVyZm9ybWFuY2V8cXVhbmRlbGE",
+      "title": "Quantum Information Scientist - Architecture & Performance",
+      "company": "Quandela",
+      "location": "Massy, France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-05T16:20:19.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/quandela/quantum-information-scientist-architecture-performance-massy-397826"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93dW5kZXJtYW50aG9tcHNvbi9wcmluY2lwYWwtc29sdXRpb25zLWFyY2hpdGVjdC1sb25kb24tNDEzMjM2fHByaW5jaXBhbCBzb2x1dGlvbnMgYXJjaGl0ZWN0fHd1bmRlcm1hbnRob21wc29u",
+      "title": "Principal Solutions Architect",
+      "company": "Wundermanthompson",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-05T15:55:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/principal-solutions-architect-london-413236"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9zZW5pb3ItcHJvZHVjdC1tYXJrZXRpbmctbWFuYWdlci1idXNpbmVzcy1iYW5raW5nLWNhcmRpZmYtMTU1NTA3fHNlbmlvciBwcm9kdWN0IG1hcmtldGluZyBtYW5hZ2VyLCBidXNpbmVzcyBiYW5raW5nfG1vbnpv",
       "title": "Senior Product Marketing Manager, Business Banking",
@@ -164,45 +294,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/castrol/alternance-assistant-rh-f-h-96941"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9mYWN1bHR5L2N1c3RvbWVyLWRpcmVjdG9yLWxvbmRvbi0xNTg5NTF8Y3VzdG9tZXIgZGlyZWN0b3J8ZmFjdWx0eQ",
-      "title": "Customer Director",
-      "company": "Faculty",
-      "location": "UK - London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-04T09:40:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/customer-director-london-158951"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdHJhd2EvY3VzdG9tZXItc3VjY2Vzcy1hc3NvY2lhdGUtcmVuZXdhYmxlLWVuZXJneS1iZXJsaW4tMTMzNTE2fGN1c3RvbWVyIHN1Y2Nlc3MgYXNzb2NpYXRlIC0gcmVuZXdhYmxlIGVuZXJneXx0cmF3YQ",
-      "title": "Customer Success Associate - Renewable Energy",
-      "company": "trawa",
-      "location": "Berlin HQ",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-04T05:40:04.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/trawa/customer-success-associate-renewable-energy-berlin-133516"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaGFuZGxlcmJ1bmQtbWFuYWdlbWVudC1hZy9zZW5pb3ItZnVsbHN0YWNrLWVudHdpY2tsZXItcGhwLWxhcmF2ZWwtcmVtb3RlLTQtdGFnZS13b2NoZS0zOTEyNTh8c2VuaW9yIGZ1bGxzdGFjayBlbnR3aWNrbGVyIHBocC9sYXJhdmVsIChtL3cvZCkgLSByZW1vdGUsIDQtdGFnZS13b2NoZXxow6RuZGxlcmJ1bmQgbWFuYWdlbWVudCBhZw",
-      "title": "Senior Fullstack Entwickler PHP/Laravel (m/w/d) - Remote, 4-Tage-Woche",
-      "company": "Händlerbund Management AG",
-      "location": "Remote/Leipzig",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-04T05:09:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/handlerbund-management-ag/senior-fullstack-entwickler-php-laravel-remote-4-tage-woche-391258"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9kYXRhZG9nL3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1hdXRvbm9tb3VzLW9wcy1tYWludGVuYW5jZS1hdG9tLXBhcmlzLTI0NjQ5N3xzZW5pb3Igc29mdHdhcmUgZW5naW5lZXIgLSBhdXRvbm9tb3VzIG9wcyAmIG1haW50ZW5hbmNlIChhdG9tKXxkYXRhZG9n",
       "title": "Senior Software Engineer - Autonomous Ops & Maintenance (ATOM)",
       "company": "Datadog",
@@ -214,19 +305,6 @@
       "postedDate": "2026-10-04T04:55:12.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-autonomous-ops-maintenance-atom-paris-246497"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWRqb2Uvc2VuaW9yLXN0YWZmLW1sLXNjaWVudGlzdC1iaWRkaW5nLW9wdGltaXphdGlvbi1iZXJsaW4tMTgwMjU2fHNlbmlvci9zdGFmZiBtbCBzY2llbnRpc3QgLSBiaWRkaW5nICYgb3B0aW1pemF0aW9uIChmL20vZCl8YWRqb2U",
-      "title": "Senior/Staff ML Scientist - Bidding & Optimization (f/m/d)",
-      "company": "adjoe",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-03T20:40:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-staff-ml-scientist-bidding-optimization-berlin-180256"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9zd2FybWFlcm8vcmVtb3RlLXBlcmNlcHRpb24tYW5kLWZ1c2lvbi1lbmdpbmVlci0xMDEzMjh8cGVyY2VwdGlvbiBhbmQgZnVzaW9uIGVuZ2luZWVyfHN3YXJtYWVybw",
@@ -385,19 +463,6 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/inceptive/computational-design-of-biological-experiments-for-model-development-berlin-germany-or-palo-alto-ca-or-zurich-446408"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hbGx1Y2VudC9zci1jbGluaWNhbC1yZXNlYXJjaC1hc3NvY2lhdGUtY29udHJhY3Rvci1mcmFuY2UtcGFyaXMtMzg2Njc4fHNyIGNsaW5pY2FsIHJlc2VhcmNoIGFzc29jaWF0ZSBjb250cmFjdG9yIChmcmFuY2UpfGFsbHVjZW50",
-      "title": "Sr Clinical Research Associate Contractor (France)",
-      "company": "Allucent",
-      "location": "Paris, France",
-      "workModel": "On-site",
-      "opportunityType": "Part-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T19:20:05.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/allucent/sr-clinical-research-associate-contractor-france-paris-386678"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9pb25xL3N0YWZmLXN5c3RlbS1hcmNoaXRlY3Qtc25zcGQtc3lzdGVtcy1nZW5ldmEtNDc3NDE0fHN0YWZmIHN5c3RlbSBhcmNoaXRlY3QgLXNuc3BkIHN5c3RlbXN8aW9ucQ",
       "title": "Staff System Architect -SNSPD Systems",
       "company": "ionq",
@@ -474,19 +539,6 @@
       "postedDate": "2026-10-02T17:55:08.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.ch/jobs/companies/ionq/distinguished-pqc-cryptography-architecture-leader-geneva-105282"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy90aGUtZXhwbG9yYXRpb24tY29tcGFueS9wcm9wdWxzaW9uLXRlc3QtZW5naW5lZXItYm9yZGVhdXgtNDg3NTg4fHByb3B1bHNpb24gdGVzdCBlbmdpbmVlcnx0aGUgZXhwbG9yYXRpb24gY29tcGFueQ",
-      "title": "Propulsion Test Engineer",
-      "company": "The Exploration Company",
-      "location": "Bordeaux, France",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T16:40:04.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/propulsion-test-engineer-bordeaux-487588"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MjEyMzg3MDA0fHJlZ2lvbmFsIHNhbGVzIG1hbmFnZXIgLSBub3J0aGVhc3R8bmV1cm9wYWNl",
