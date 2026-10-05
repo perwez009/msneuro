@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T04:10:56.099Z",
+  "generatedAt": "2026-10-05T13:40:07.693Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9zZW5pb3ItcHJvZHVjdC1tYXJrZXRpbmctbWFuYWdlci1idXNpbmVzcy1iYW5raW5nLWNhcmRpZmYtMTU1NTA3fHNlbmlvciBwcm9kdWN0IG1hcmtldGluZyBtYW5hZ2VyLCBidXNpbmVzcyBiYW5raW5nfG1vbnpv",
+      "title": "Senior Product Marketing Manager, Business Banking",
+      "company": "Monzo",
+      "location": "Cardiff",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-05T09:55:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-product-marketing-manager-business-banking-cardiff-155507"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXIvZ2xvYmFsLXByb2dyYW1tZS1kaXJlY3Rvci1sb25kb24tMTkzNHxnbG9iYWwgcHJvZ3JhbW1lIGRpcmVjdG9yfG9saXZlcg",
+      "title": "Global Programme Director",
+      "company": "oliver",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-05T06:55:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver/global-programme-director-london-1934"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zdHJlZXQtZ3JvdXAvbGVhZC1wcm9kdWN0LWRlc2lnbmVyLW1hbmNoZXN0ZXItMjQ5MzAxfGxlYWQgcHJvZHVjdCBkZXNpZ25lcnxzdHJlZXQgZ3JvdXA",
       "title": "Lead Product Designer",
@@ -151,32 +177,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/customer-director-london-158951"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90aWRlL3Nlbmlvci1wcm9kdWN0LW1hbmFnZXItb25nb2luZy1tb25pdG9yaW5nLTQyNTYzMnxzZW5pb3IgcHJvZHVjdCBtYW5hZ2VyLCBvbmdvaW5nIG1vbml0b3Jpbmd8dGlkZQ",
-      "title": "Senior Product Manager, Ongoing Monitoring",
-      "company": "tide",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-04T06:55:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tide/senior-product-manager-ongoing-monitoring-425632"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90aWRlL2RpcmVjdG9yLW9mLW1vYmlsZS1hbmQtd2ViLXBsYXRmb3JtLTQxMTQ5fGRpcmVjdG9yIG9mIG1vYmlsZSBhbmQgd2ViIHBsYXRmb3JtfHRpZGU",
-      "title": "Director of Mobile and Web Platform",
-      "company": "tide",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-04T06:55:12.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tide/director-of-mobile-and-web-platform-41149"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdHJhd2EvY3VzdG9tZXItc3VjY2Vzcy1hc3NvY2lhdGUtcmVuZXdhYmxlLWVuZXJneS1iZXJsaW4tMTMzNTE2fGN1c3RvbWVyIHN1Y2Nlc3MgYXNzb2NpYXRlIC0gcmVuZXdhYmxlIGVuZXJneXx0cmF3YQ",
       "title": "Customer Success Associate - Renewable Energy",
       "company": "trawa",
@@ -216,19 +216,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-autonomous-ops-maintenance-atom-paris-246497"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93YXRlcnNoZWQvZGF0YS1zcGVjaWFsaXN0LWxvbmRvbi0xNzQ5NTV8ZGF0YSBzcGVjaWFsaXN0fHdhdGVyc2hlZA",
-      "title": "Data specialist",
-      "company": "Watershed",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-04T03:40:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/watershed/data-specialist-london-174955"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWRqb2Uvc2VuaW9yLXN0YWZmLW1sLXNjaWVudGlzdC1iaWRkaW5nLW9wdGltaXphdGlvbi1iZXJsaW4tMTgwMjU2fHNlbmlvci9zdGFmZiBtbCBzY2llbnRpc3QgLSBiaWRkaW5nICYgb3B0aW1pemF0aW9uIChmL20vZCl8YWRqb2U",
       "title": "Senior/Staff ML Scientist - Bidding & Optimization (f/m/d)",
       "company": "adjoe",
@@ -266,71 +253,6 @@
       "postedDate": "2026-10-03T16:30:22.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-en-apprentissage-decentralise-sur-conficentiel-et-explicable-cdd-12-mois-evry-428047"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvcmVtb3RlLXdlcmtzdHVkZW50aW4tb3BlcmF0aW9uYWwtZXhjZWxsZW5jZS1iZXJsaW4tMTI4NDU5fHdlcmtzdHVkZW50OmluIG9wZXJhdGlvbmFsIGV4Y2VsbGVuY2UgKG0vdy9kKXwxa29tbWE1Z3JhZA",
-      "title": "Werkstudent:in Operational Excellence (m/w/d)",
-      "company": "1Komma5Grad",
-      "location": "Berlin",
-      "workModel": "Remote",
-      "opportunityType": "Part-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-03T14:09:35.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/remote-werkstudentin-operational-excellence-berlin-128459"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvcmVtb3RlLXdlcmtzdHVkZW50aW4tZGF0YS1hbmFseXRpY3MtY29udHJvbGxpbmctZm9jdXMtaGFtYnVyZy0zNDA2ODl8d2Vya3N0dWRlbnQ6aW4gZGF0YSBhbmFseXRpY3MgKGNvbnRyb2xsaW5nIGZvY3VzKSAobS93L2QpfDFrb21tYTVncmFk",
-      "title": "Werkstudent:in Data Analytics (Controlling Focus) (m/w/d)",
-      "company": "1Komma5Grad",
-      "location": "Hamburg",
-      "workModel": "Remote",
-      "opportunityType": "Part-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-03T14:09:35.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/remote-werkstudentin-data-analytics-controlling-focus-hamburg-340689"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvd2Vya3N0dWRlbnRpbi1jb21tdW5pdHktbWFuYWdlbWVudC1oYW1idXJnLTYxMzM4fHdlcmtzdHVkZW50OmluIGNvbW11bml0eSBtYW5hZ2VtZW50IChtL3cvZCl8MWtvbW1hNWdyYWQ",
-      "title": "Werkstudent:in Community Management (m/w/d)",
-      "company": "1Komma5Grad",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "Part-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-03T14:09:35.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-community-management-hamburg-61338"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvaW50ZXJuc2hpcC1haS1hdXRvbWF0aW9uLWVuZXJneS1iZXJsaW4tMzM3OTMyfGludGVybnNoaXAgYWkgJiBhdXRvbWF0aW9uIC0gZW5lcmd5IChtL2YvZCl8MWtvbW1hNWdyYWQ",
-      "title": "Internship AI & Automation - Energy (m/f/d)",
-      "company": "1Komma5Grad",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-03T14:09:35.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/internship-ai-automation-energy-berlin-337932"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNWdyYWQvanVuaW9yLXNlby1haS1tYXJrZXRpbmctbWFuYWdlci1iZXJsaW4tMTk5NDJ8KGp1bmlvcikgc2VvICYgYWkgbWFya2V0aW5nIG1hbmFnZXIgKG0vdy9kKXwxa29tbWE1Z3JhZA",
-      "title": "(Junior) SEO & AI Marketing Manager (m/w/d)",
-      "company": "1Komma5Grad",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-03T14:09:35.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/junior-seo-ai-marketing-manager-berlin-19942"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9taXJha2wvYnJhbmQtZGVzaWduLWludGVybi1vci1hcHByZW50aWNlLXBhcmlzLTEwMjUzM3xicmFuZCBkZXNpZ24gaW50ZXJuIG9yIGFwcHJlbnRpY2V8bWlyYWts",
