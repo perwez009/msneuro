@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T20:53:35.747Z",
+  "generatedAt": "2026-10-05T04:10:56.099Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zdHJlZXQtZ3JvdXAvbGVhZC1wcm9kdWN0LWRlc2lnbmVyLW1hbmNoZXN0ZXItMjQ5MzAxfGxlYWQgcHJvZHVjdCBkZXNpZ25lcnxzdHJlZXQgZ3JvdXA",
+      "title": "Lead Product Designer",
+      "company": "Street Group",
+      "location": "Manchester",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-04T21:40:05.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/street-group/lead-product-designer-manchester-249301"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdXB2ZXN0L29wZXJhdGlvbnMtaW50ZXJuLWZvci1hdmQtYWx0ZXJzdm9yc29yZ2VkZXBvdC1iZXJsaW4tMTAwMzA2fG9wZXJhdGlvbnMgaW50ZXJuIGZvciBhdmQgKGFsdGVyc3ZvcnNvcmdlZGVwb3QpIChmL20vZCl8dXB2ZXN0",
       "title": "Operations Intern for AVD (Altersvorsorgedepot) (f/m/d)",
@@ -229,19 +242,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-staff-ml-scientist-bidding-optimization-berlin-180256"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kZWxpdmVyb28vc2VuaW9yLWRhdGEtc2NpZW50aXN0LWVjb25vbWlzdC1sb25kb24tOTkwNjd8c2VuaW9yIGRhdGEgc2NpZW50aXN0IChlY29ub21pc3QpfGRlbGl2ZXJvbw",
-      "title": "Senior Data Scientist (Economist)",
-      "company": "Deliveroo",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-03T18:55:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-data-scientist-economist-london-99067"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9zd2FybWFlcm8vcmVtb3RlLXBlcmNlcHRpb24tYW5kLWZ1c2lvbi1lbmdpbmVlci0xMDEzMjh8cGVyY2VwdGlvbiBhbmQgZnVzaW9uIGVuZ2luZWVyfHN3YXJtYWVybw",
       "title": "Perception and Fusion Engineer",
       "company": "Swarmaero",
@@ -344,45 +344,6 @@
       "postedDate": "2026-10-03T13:55:19.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/mirakl/brand-design-intern-or-apprentice-paris-102533"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXBwbGllZGFpL3ByaW5jaXBhbC1haS1lbmdpbmVlci1pbmR1c3RyaWFsLWFpLWVuZ2luZWVyaW5nLW11bmNoZW4tODE2NzEtNDUzNzY5fHByaW5jaXBhbCBhaSBlbmdpbmVlciAobS9mL3gpIC0gaW5kdXN0cmlhbCBhaSBlbmdpbmVlcmluZ3xhcHBsaWVkYWk",
-      "title": "Principal AI Engineer (m/f/x) - Industrial AI Engineering",
-      "company": "Appliedai",
-      "location": "München (81671)",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-03T11:09:39.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/appliedai/principal-ai-engineer-industrial-ai-engineering-munchen-81671-453769"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva2xlZWdvLWdtYmgvcG1pLWZvdW5kZXJzLWFzc29jaWF0ZS1tdW5pY2gtMTc2MTQ0fHBtaSAmIGZvdW5kZXJzIGFzc29jaWF0ZSAobS93L2QpfGtsZWVnbyBnbWJo",
-      "title": "PMI & Founders Associate (m/w/d)",
-      "company": "KLEEGO GmbH",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-03T09:31:00.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/kleego-gmbh/pmi-founders-associate-munich-176144"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW5jZXB0aXZlL2RhdGEtc2VsZWN0aW9uLWFuZC1xdWFsaXR5LWV2YWx1YXRpb24tZm9yLWJpb2xvZ2ljYWwtZm91bmRhdGlvbi1tb2RlbHMtYmVybGluLWNhLW9yLXp1cmljaC1zd2l0emVybGFuZC00MzUzN3xkYXRhIHNlbGVjdGlvbiBhbmQgcXVhbGl0eSBldmFsdWF0aW9uIGZvciBiaW9sb2dpY2FsIGZvdW5kYXRpb24gbW9kZWxzfGluY2VwdGl2ZQ",
-      "title": "Data selection and quality evaluation for biological foundation models",
-      "company": "Inceptive",
-      "location": "Berlin, CA or Zurich, Switzerland",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-03T08:55:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/inceptive/data-selection-and-quality-evaluation-for-biological-foundation-models-berlin-ca-or-zurich-switzerland-43537"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9sYWVsYXBzL3NvZnR3YXJlLWVuZ2luZWVyLWNvbW1hbmQtY2VudHJlLWZyb250ZW5kLXVpLXV4LXp1cmljaC0zMzkwMzR8c29mdHdhcmUgZW5naW5lZXIsIGNvbW1hbmQgY2VudHJlIChmcm9udGVuZCAmIHVpL3V4KXxsYWVsYXBz",
