@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T23:45:56.761Z",
+  "generatedAt": "2026-10-06T04:59:46.821Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,123 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9wbm8taW5ub3ZhdGlvbi9zZW5pb3ItaW5ub3ZhdGlvbi1jb25zdWx0YW50LWV1LXByb2plY3RzLWZyYW5jZS0yMzAzMDR8c2VuaW9yIGlubm92YXRpb24gY29uc3VsdGFudCAtIGV1IHByb2plY3RzfHBubyBpbm5vdmF0aW9u",
+      "title": "Senior Innovation Consultant - EU Projects",
+      "company": "PNO Innovation",
+      "location": "France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-06T04:09:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/pno-innovation/senior-innovation-consultant-eu-projects-france-230304"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93cHAvc2VuaW9yLWVuZ2luZWVyLWZkZS1hZ2VudGljLWVjby1zeXN0ZW0tMjM0MDMwfHNlbmlvciBlbmdpbmVlciwgZmRlIChhZ2VudGljICYgZWNvLXN5c3RlbSl8d3Bw",
+      "title": "Senior Engineer, FDE (Agentic & Eco-System)",
+      "company": "Wpp",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-06T03:55:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wpp/senior-engineer-fde-agentic-eco-system-234030"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9lbGV2ZW5sYWJzL2ZvcndhcmQtZGVwbG95ZWQtZW5naW5lZXItc29mdHdhcmUtZW5naW5lZXItdW5pdGVkLWtpbmdkb20tbG9uZG9uLTEzNDAxM3xmb3J3YXJkIGRlcGxveWVkIGVuZ2luZWVyIC0gc29mdHdhcmUgZW5naW5lZXIgLSB1bml0ZWQga2luZ2RvbXxlbGV2ZW5sYWJz",
+      "title": "Forward Deployed Engineer - Software Engineer - United Kingdom",
+      "company": "Elevenlabs",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-06T03:40:06.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/forward-deployed-engineer-software-engineer-united-kingdom-london-134013"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvdGVjaC1sZWFkLWFuZHJvaWQtY29yZS1wcm9kdWN0LXRvdWxvdXNlLWZyYW5jZS0yNjE2MTJ8dGVjaCBsZWFkLCBhbmRyb2lkIGNvcmUgcHJvZHVjdCAtIHRvdWxvdXNlLCBmcmFuY2V8c3BlZWNoaWZ5",
+      "title": "Tech Lead, Android Core Product - Toulouse, France",
+      "company": "speechify",
+      "location": "Toulouse",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-06T01:55:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/speechify/tech-lead-android-core-product-toulouse-france-261612"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvdGVjaC1sZWFkLWFuZHJvaWQtY29yZS1wcm9kdWN0LXBhcmlzLWZyYW5jZS02NzcwNnx0ZWNoIGxlYWQsIGFuZHJvaWQgY29yZSBwcm9kdWN0IC0gcGFyaXMsIGZyYW5jZXxzcGVlY2hpZnk",
+      "title": "Tech Lead, Android Core Product - Paris, France",
+      "company": "speechify",
+      "location": "Paris",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-06T01:55:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/speechify/tech-lead-android-core-product-paris-france-67706"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvdGVjaC1sZWFkLWFuZHJvaWQtY29yZS1wcm9kdWN0LW5hbnRlcy1mcmFuY2UtMTEyNjA2fHRlY2ggbGVhZCwgYW5kcm9pZCBjb3JlIHByb2R1Y3QgLSBuYW50ZXMsIGZyYW5jZXxzcGVlY2hpZnk",
+      "title": "Tech Lead, Android Core Product - Nantes, France",
+      "company": "speechify",
+      "location": "Nantes",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-06T01:55:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/speechify/tech-lead-android-core-product-nantes-france-112606"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvdGVjaC1sZWFkLWFuZHJvaWQtY29yZS1wcm9kdWN0LWx5b24tZnJhbmNlLTE1ODc2Mnx0ZWNoIGxlYWQsIGFuZHJvaWQgY29yZSBwcm9kdWN0IC0gbHlvbiwgZnJhbmNlfHNwZWVjaGlmeQ",
+      "title": "Tech Lead, Android Core Product - Lyon, France",
+      "company": "speechify",
+      "location": "Lyon",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-06T01:55:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/speechify/tech-lead-android-core-product-lyon-france-158762"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvdGVjaC1sZWFkLWFuZHJvaWQtY29yZS1wcm9kdWN0LWxpbGxlLWZyYW5jZS0zNTMyODV8dGVjaCBsZWFkLCBhbmRyb2lkIGNvcmUgcHJvZHVjdCAtIGxpbGxlLCBmcmFuY2V8c3BlZWNoaWZ5",
+      "title": "Tech Lead, Android Core Product - Lille, France",
+      "company": "speechify",
+      "location": "Lille",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-06T01:55:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/speechify/tech-lead-android-core-product-lille-france-353285"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9zcGVlY2hpZnkvdGVjaC1sZWFkLWFuZHJvaWQtY29yZS1wcm9kdWN0LWJvcmRlYXV4LWZyYW5jZS0zNzI0Mnx0ZWNoIGxlYWQsIGFuZHJvaWQgY29yZSBwcm9kdWN0IC0gYm9yZGVhdXgsIGZyYW5jZXxzcGVlY2hpZnk",
+      "title": "Tech Lead, Android Core Product - Bordeaux, France",
+      "company": "speechify",
+      "location": "Bordeaux",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-06T01:55:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/speechify/tech-lead-android-core-product-bordeaux-france-37242"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy92bWxlbnRlcnByaXNlc29sdXRpb25zL3ByaW5jaXBhbC1zb2x1dGlvbnMtYXJjaGl0ZWN0LWxvbmRvbi0zNzk1ODJ8cHJpbmNpcGFsIHNvbHV0aW9ucyBhcmNoaXRlY3R8dm1sZW50ZXJwcmlzZXNvbHV0aW9ucw",
       "title": "Principal Solutions Architect",
@@ -268,19 +385,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/odin/operations-engineer-london-36081"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kYXlob2ZmLWxhYnMvcmVzZWFyY2gtc2NpZW50aXN0LWNvbXB1dGF0aW9uYWwtZW56eW1vbG9neS1jYW1icmlkZ2UtbWEtNTYyODF8cmVzZWFyY2ggc2NpZW50aXN0LCBjb21wdXRhdGlvbmFsIGVuenltb2xvZ3l8ZGF5aG9mZiBsYWJz",
-      "title": "Research Scientist, Computational Enzymology",
-      "company": "Dayhoff Labs",
-      "location": "Cambridge, MA",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-04T15:40:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dayhoff-labs/research-scientist-computational-enzymology-cambridge-ma-56281"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9jYXN0cm9sL2FsdGVybmFuY2UtYXNzaXN0YW50LXJoLWYtaC05Njk0MXxhbHRlcm5hbmNlIGFzc2lzdGFudCByaCAoZi9oKXxjYXN0cm9s",
       "title": "Alternance Assistant RH (F/H)",
       "company": "Castrol",
@@ -409,32 +513,6 @@
       "postedDate": "2026-10-03T08:40:06.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-robot-autonomy-reliability-test-infrastructure-zurich-362461"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy92b29kb28vbWFya2V0aW5nLWFydGlzdC1jb3J0ZXgtcGFyaXMtMzQ5MTE2fG1hcmtldGluZyBhcnRpc3QtIGNvcnRleHx2b29kb28",
-      "title": "Marketing Artist- Cortex",
-      "company": "Voodoo",
-      "location": "Paris",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T22:40:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/marketing-artist-cortex-paris-349116"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hdGxhbnRpY3ZjL2NoaWVmLWJ1c2luZXNzLW9mZmljZXItZ24tYXQtY2xlYW4tZGF0YS1jZW50cmVzLXZlbnR1cmUtZnJhbmNlLWh5YnJpZC1uYW50ZXMtMTI1MTg1fGNoaWVmIGJ1c2luZXNzIG9mZmljZXIgKGduKSBAIGNsZWFuIGRhdGEgY2VudHJlcyB2ZW50dXJlLCBmcmFuY2UgKGh5YnJpZCl8YXRsYW50aWMudmM",
-      "title": "Chief Business Officer (gn) @ Clean Data Centres Venture, France (hybrid)",
-      "company": "atlantic.vc",
-      "location": "Nantes, Pays-de-la-Loire, France",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-02T22:30:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/atlanticvc/chief-business-officer-gn-at-clean-data-centres-venture-france-hybrid-nantes-125185"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9pbmNlcHRpdmUvZGF0YS1zZWxlY3Rpb24tYW5kLXF1YWxpdHktZXZhbHVhdGlvbi1mb3ItYmlvbG9naWNhbC1mb3VuZGF0aW9uLW1vZGVscy1iZXJsaW4tZ2VybWFueS1vci1wYWxvLWFsdG8tY2Etb3ItenVyaWNoLTQ5NDU2OXxkYXRhIHNlbGVjdGlvbiBhbmQgcXVhbGl0eSBldmFsdWF0aW9uIGZvciBiaW9sb2dpY2FsIGZvdW5kYXRpb24gbW9kZWxzfGluY2VwdGl2ZQ",
