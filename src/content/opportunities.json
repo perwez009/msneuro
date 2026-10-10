@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T22:17:16.326Z",
+  "generatedAt": "2026-10-10T04:26:36.517Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,45 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW1wb3NzaWJsZWNsb3VkL3Nlbmlvci1zYWxlcy1tYW5hZ2VyLWRhY2gtYWktaW5mZXJlbmNlLWhhbWJ1cmctMTIwOTI2fChzZW5pb3IpIHNhbGVzIG1hbmFnZXIgZGFjaCAtIGFpICYgaW5mZXJlbmNlfGltcG9zc2libGVjbG91ZA",
+      "title": "(Senior) Sales Manager DACH - AI & Inference",
+      "company": "Impossiblecloud",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-10T02:04:42.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/impossiblecloud/senior-sales-manager-dach-ai-inference-hamburg-120926"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbGl2ZXIvc29jaWFsLWluZmx1ZW5jZS1kaXJlY3Rvci1sb25kb24tNDYyMzg5fHNvY2lhbCAmIGluZmx1ZW5jZSBkaXJlY3RvcnxvbGl2ZXI",
+      "title": "Social & Influence Director",
+      "company": "oliver",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-09T21:55:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver/social-influence-director-london-462389"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uZWJpdXMvc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLXlkYi10ZWFtLWxvbmRvbi0yMTU4OTd8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyICh5ZGIgdGVhbSl8bmViaXVz",
+      "title": "Senior Software Engineer (YDB Team)",
+      "company": "Nebius",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-09T21:55:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-software-engineer-ydb-team-london-215897"
+    },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy84MDIwNzUxMDAzP2doX2ppZD04MDIwNzUxMDAzfGhpc3RvcGF0aG9sb2d5IGludGVybnxuZXVyYWxpbms",
       "title": "Histopathology Intern",
@@ -424,19 +463,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/bumble-inc/principal-machine-learning-engineer-matching-recommendations-london-417918"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90b2RheXRpeC1ncm91cC9zZW5pb3ItY3JlYXRpdmUtZGVzaWduZXItbG9uZG9uLXVrLTQ1MzI5fHNlbmlvciBjcmVhdGl2ZSBkZXNpZ25lcnx0b2RheXRpeCBncm91cA",
-      "title": "Senior Creative Designer",
-      "company": "TodayTix Group",
-      "location": "London, UK",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-09T06:04:50.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/todaytix-group/senior-creative-designer-london-uk-45329"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9sYWVsYXBzL3NvZnR3YXJlLWVuZ2luZWVyLXJvYm90LWF1dG9ub215LWludGVybi16dXJpY2gtMzA4NTM2fHNvZnR3YXJlIGVuZ2luZWVyLCByb2JvdCBhdXRvbm9teSwgaW50ZXJufGxhZWxhcHM",
       "title": "Software Engineer, Robot Autonomy, Intern",
       "company": "Laelaps",
@@ -463,58 +489,6 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/system-engineer-lausanne-366436"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29maW5pdHkteC1nbWJoL2xlYWQtbWwtZW5naW5lZXIta29sbi0xNzIwMjF8bGVhZCBtbCBlbmdpbmVlciAobS9mL3gpfGNvZmluaXR5LXggZ21iaA",
-      "title": "Lead ML Engineer (m/f/x)",
-      "company": "Cofinity-X GmbH",
-      "location": "Köln",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-09T05:09:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/cofinity-x-gmbh/lead-ml-engineer-koln-172021"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbHJ6L2RhdGEtcGxhdGZvcm0tZW5naW5lZXItZm9yLXRoZS1ldXJvcGVhbi1haS1mYWN0b3J5LWhhbW1lcmhhaS1nYXJjaGluZy1iZWktbXVuY2hlbi0xNjg2Mzl8ZGF0YSBwbGF0Zm9ybSBlbmdpbmVlciAoZi9tL2QpICBmb3IgdGhlIGV1cm9wZWFuIGFpIGZhY3RvcnkgaGFtbWVyaGFpfGxyeg",
-      "title": "Data Platform Engineer (f/m/d)  for the European AI Factory HammerHAI",
-      "company": "Lrz",
-      "location": "Garching bei München",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-09T05:09:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/lrz/data-platform-engineer-for-the-european-ai-factory-hammerhai-garching-bei-munchen-168639"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbHJ6L2FpLWVkdWNhdGlvbi1leHBlcnQtZm9yLXRoZS1ldXJvcGVhbi1haS1mYWN0b3J5LWhhbW1lcmhhaS1nYXJjaGluZy1iZWktbXVuY2hlbi01NzI1OXxhaSBlZHVjYXRpb24gZXhwZXJ0IChtL2YvZCkgZm9yIHRoZSBldXJvcGVhbiBhaSBmYWN0b3J5IGhhbW1lcmhhaXxscno",
-      "title": "AI Education Expert (m/f/d) for the European AI Factory HammerHAI",
-      "company": "Lrz",
-      "location": "Garching bei München",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-09T05:09:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/lrz/ai-education-expert-for-the-european-ai-factory-hammerhai-garching-bei-munchen-57259"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW1wb3NzaWJsZWNsb3VkL2NoaWVmLW9mLXN0YWZmLWhhbWJ1cmctMjgzMjc0fGNoaWVmIG9mIHN0YWZmfGltcG9zc2libGVjbG91ZA",
-      "title": "Chief of Staff",
-      "company": "Impossiblecloud",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-09T05:04:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/impossiblecloud/chief-of-staff-hamburg-283274"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9tYWx0L3N0YWdlLXN1cHBvcnQtaXQtamFudmllci0yMDI3LXBhcmlzLTI0MDY1OHxzdGFnZSAtIHN1cHBvcnQgaXQgKGphbnZpZXIgMjAyNyl8bWFsdA",
       "title": "Stage - Support IT (Janvier 2027)",
       "company": "Malt",
@@ -526,84 +500,6 @@
       "postedDate": "2026-10-09T04:04:05.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/malt/stage-support-it-janvier-2027-paris-240658"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93ZWFyZWJleW9uZHNwb3J0cy90ZWNobmljYWwtZGVsaXZlcnktbGVhZC1tYWNoaW5lLWxlYXJuaW5nLWxvbmRvbi01MzE2M3x0ZWNobmljYWwgZGVsaXZlcnkgbGVhZCAtIG1hY2hpbmUgbGVhcm5pbmd8d2VhcmViZXlvbmRzcG9ydHM",
-      "title": "Technical Delivery Lead - Machine Learning",
-      "company": "Wearebeyondsports",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-09T03:40:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wearebeyondsports/technical-delivery-lead-machine-learning-london-53163"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9lbGxpcHRpYy9kYXRhLXNjaWVuY2UtbGVhZC1sb25kb24tdW5pdGVkLWtpbmdkb20tMjM4OTYxfGRhdGEgc2NpZW5jZSBsZWFkfGVsbGlwdGlj",
-      "title": "Data Science Lead",
-      "company": "Elliptic",
-      "location": "London, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-09T03:40:05.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/data-science-lead-london-united-kingdom-238961"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9lbGxpcHRpYy9zZW5pb3ItY3J5cHRvLXRocmVhdC1hbmFseXN0LXRlcnJvcmlzbS1sb25kb24tdW5pdGVkLWtpbmdkb20tMjk0OTA0fHNlbmlvciBjcnlwdG8gdGhyZWF0IGFuYWx5c3QgLSB0ZXJyb3Jpc218ZWxsaXB0aWM",
-      "title": "Senior Crypto Threat Analyst - Terrorism",
-      "company": "Elliptic",
-      "location": "London, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-09T03:40:05.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/senior-crypto-threat-analyst-terrorism-london-united-kingdom-294904"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaGVsbG9mcmVzaC9zZW5pb3ItZGF0YS1zY2llbnRpc3QtZ3Jvd3RoLWJlcmxpbi1iZXJsaW4tMzA4OTcyfHNlbmlvciBkYXRhIHNjaWVudGlzdCwgZ3Jvd3RoIChmL20veCl8aGVsbG9mcmVzaA",
-      "title": "Senior Data Scientist, Growth (f/m/x)",
-      "company": "hellofresh",
-      "location": "Berlin, Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-09T02:55:14.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-data-scientist-growth-berlin-berlin-308972"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uZXRob2xhYnMvbmV1cm9zY2llbnRpc3QtYnJpZ2h0b24tMTg4NTIyfG5ldXJvc2NpZW50aXN0fG5ldGhvbGFicw",
-      "title": "Neuroscientist",
-      "company": "Netholabs",
-      "location": "Brighton",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-09T00:40:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/netholabs/neuroscientist-brighton-188522"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb250dS11ay9yZW1vdGUtY29uc3VsdGFudC1uZXVyb2xvZ2lzdC1wYXllLTQ4OTgxOXxjb25zdWx0YW50IG5ldXJvbG9naXN0IHBheWV8bW9udHUgdWs",
-      "title": "Consultant Neurologist PAYE",
-      "company": "Montu Uk",
-      "location": "Remote",
-      "workModel": "On-site",
-      "opportunityType": "Part-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-09T00:40:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/remote-consultant-neurologist-paye-489819"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy84MDE3MzI4MDAzP2doX2ppZD04MDE3MzI4MDAzfHJhcGlkIHByb3RvdHlwaW5nIHRlY2huaWNpYW58bmV1cmFsaW5r",
