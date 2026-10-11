@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T04:08:33.849Z",
+  "generatedAt": "2026-10-11T12:08:40.370Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9oZWxsb2ZyZXNoL3JlbGlhYmlsaXR5LWVuZ2luZWVyLWRlcmJ5LTQxODIxN3xyZWxpYWJpbGl0eSBlbmdpbmVlcnxoZWxsb2ZyZXNo",
+      "title": "Reliability Engineer",
+      "company": "hellofresh",
+      "location": "Derby",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-11T09:55:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hellofresh/reliability-engineer-derby-418217"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kZWVwZ3JhbS9kaXJlY3Rvci10ZXh0LXRvLXNwZWVjaC1zeW50aGVzaXMtcmVzZWFyY2gtbG9uZG9uLTQ3OTI5MHxkaXJlY3RvciwgdGV4dC10by1zcGVlY2ggc3ludGhlc2lzIHJlc2VhcmNofGRlZXBncmFt",
+      "title": "Director, Text-to-Speech Synthesis Research",
+      "company": "Deepgram",
+      "location": "London, UK",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-11T03:40:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deepgram/director-text-to-speech-synthesis-research-london-479290"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kZWVwZ3JhbS9yZXNlYXJjaC1zdGFmZi12b2ljZS1haS1mb3VuZGF0aW9ucy11ay1yZW1vdGUtbG9uZG9uLTE5MjAzNHxyZXNlYXJjaCBzdGFmZiwgdm9pY2UgYWkgZm91bmRhdGlvbnMgW3VrIC0gcmVtb3RlXXxkZWVwZ3JhbQ",
+      "title": "Research Staff, Voice AI Foundations [UK - Remote]",
+      "company": "Deepgram",
+      "location": "London, UK",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-11T03:40:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deepgram/research-staff-voice-ai-foundations-uk-remote-london-192034"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zZmcyMC9wcm9qZWN0LWNvb3JkaW5hdG9yLW1hbmNoZXN0ZXItMTk4Nzg2fHByb2plY3QgY29vcmRpbmF0b3J8c2ZnMjA",
+      "title": "Project Coordinator",
+      "company": "Sfg20",
+      "location": "Remote UK - North",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-11T03:40:05.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sfg20/project-coordinator-manchester-198786"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9rYXJib24vcmVtb3RlLXNlbmlvci1pbXBsZW1lbnRhdGlvbi1zcGVjaWFsaXN0LTQ5OTI1MXxzZW5pb3IgaW1wbGVtZW50YXRpb24gc3BlY2lhbGlzdHxrYXJib24",
       "title": "Senior Implementation Specialist",
@@ -346,32 +398,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/flexa/senior-mlops-engineer-munchen-447928"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yZWxhdGlvbnJ4L2RpcmVjdG9yLWNsaW5pY2FsLXBoYXJtYWNvbG9neS1sb25kb24tNDgxMHxkaXJlY3RvciwgY2xpbmljYWwgcGhhcm1hY29sb2d5fHJlbGF0aW9ucng",
-      "title": "Director, Clinical Pharmacology",
-      "company": "Relationrx",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-10T12:40:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/relationrx/director-clinical-pharmacology-london-4810"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zaGllbGQtYWkvc2VuaW9yLWVuZ2luZWVyLWF1dG9ub215LWFuZC1tb3Rpb24tcGxhbm5pbmctcjUyNjMtbG9uZG9uLTE1ODg3MHxzZW5pb3IgZW5naW5lZXIsIGF1dG9ub215IGFuZCBtb3Rpb24gcGxhbm5pbmcgKHI1MjYzKXxzaGllbGQgYWk",
-      "title": "Senior Engineer, Autonomy and Motion Planning (R5263)",
-      "company": "Shield AI",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-10T12:05:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/shield-ai/senior-engineer-autonomy-and-motion-planning-r5263-london-158870"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW1mdXNpb24vcmVzZWFyY2gtZW5naW5lZXItbWFjaGluZS1sZWFybmluZy1tZWRpY2FsLWltYWdpbmctbXVuaWNoLTExMTE4NnxyZXNlYXJjaCBlbmdpbmVlciDigJMgbWFjaGluZSBsZWFybmluZyAmIG1lZGljYWwgaW1hZ2luZ3xpbWZ1c2lvbg",
       "title": "Research Engineer – Machine Learning & Medical Imaging",
       "company": "Imfusion",
@@ -424,84 +450,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/evident-europe-gmbh/spinning-disk-confocal-specialist-advanced-life-science-systems-central-europe-hamburg-343137"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy96eW5nYWNhcmVlcnMvc2VydmVyLWluZnJhc3RydWN0dXJlLWVuZ2luZWVyLXVuYW5ub3VuY2VkLXByb2plY3QtbG9uZG9uLTY1MTMwfHNlcnZlciAmIGluZnJhc3RydWN0dXJlIGVuZ2luZWVyIC0gdW5hbm5vdW5jZWQgcHJvamVjdHx6eW5nYWNhcmVlcnM",
-      "title": "Server & Infrastructure Engineer - Unannounced project",
-      "company": "Zyngacareers",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-10T09:55:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/server-infrastructure-engineer-unannounced-project-london-65130"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy96eW5nYWNhcmVlcnMvc2VuaW9yLXRlY2huaWNhbC1hbmltYXRvci11bmFubm91bmNlZC1wcm9qZWN0LWxvbmRvbi0zMDA5NDl8c2VuaW9yIHRlY2huaWNhbCBhbmltYXRvciAtIHVuYW5ub3VuY2VkIHByb2plY3R8enluZ2FjYXJlZXJz",
-      "title": "Senior Technical Animator - Unannounced Project",
-      "company": "Zyngacareers",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-10T09:55:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/senior-technical-animator-unannounced-project-london-300949"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9leGNsYWltZXIvZW50ZXJwcmlzZS1hY2NvdW50LWV4ZWN1dGl2ZS1sb25kb24tMzQ5NTgxfGVudGVycHJpc2UgYWNjb3VudCBleGVjdXRpdmV8ZXhjbGFpbWVy",
-      "title": "Enterprise Account Executive",
-      "company": "Exclaimer",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-10T09:55:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/exclaimer/enterprise-account-executive-london-349581"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ncmFwaGNvcmUvc2VuaW9yLW1hY2hpbmUtbGVhcm5pbmctZW5naW5lZXItbGFyZ2Utc3lzdGVtcy1jYW1icmlkZ2UtMzc4ODgwfHNlbmlvciBtYWNoaW5lIGxlYXJuaW5nIGVuZ2luZWVyIChsYXJnZSBzeXN0ZW1zKXxncmFwaGNvcmU",
-      "title": "Senior Machine Learning Engineer (Large Systems)",
-      "company": "Graphcore",
-      "location": "Cambridge",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-10T09:55:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-machine-learning-engineer-large-systems-cambridge-378880"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ncmFwaGNvcmUvc2VuaW9yLW1hY2hpbmUtbGVhcm5pbmctZW5naW5lZXItbGFyZ2Utc3lzdGVtcy1icmlzdG9sLTE2NzQ2MXxzZW5pb3IgbWFjaGluZSBsZWFybmluZyBlbmdpbmVlciAobGFyZ2Ugc3lzdGVtcyl8Z3JhcGhjb3Jl",
-      "title": "Senior Machine Learning Engineer (Large Systems)",
-      "company": "Graphcore",
-      "location": "Bristol",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-10T09:55:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-machine-learning-engineer-large-systems-bristol-167461"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ncmFwaGNvcmUvc2VuaW9yLW1hY2hpbmUtbGVhcm5pbmctZW5naW5lZXItbGFyZ2Utc3lzdGVtcy1sb25kb24tMTkzNzYzfHNlbmlvciBtYWNoaW5lIGxlYXJuaW5nIGVuZ2luZWVyIChsYXJnZSBzeXN0ZW1zKXxncmFwaGNvcmU",
-      "title": "Senior Machine Learning Engineer (Large Systems)",
-      "company": "Graphcore",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-10T09:55:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-machine-learning-engineer-large-systems-london-193763"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW5hcGxhbi9yZW1vdGUtZW50ZXJwcmlzZS1hY2NvdW50LWV4ZWN1dGl2ZS0xMjMyMjd8ZW50ZXJwcmlzZSBhY2NvdW50IGV4ZWN1dGl2ZXxhbmFwbGFu",
       "title": "Enterprise Account Executive",
       "company": "Anaplan",
@@ -552,19 +500,6 @@
       "postedDate": "2026-10-10T05:24:31.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/hackers-wanted-senior-software-engineer-hamburg-118878"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW1wb3NzaWJsZWNsb3VkL3Nlbmlvci1zYWxlcy1tYW5hZ2VyLWRhY2gtYWktaW5mZXJlbmNlLWhhbWJ1cmctMTIwOTI2fChzZW5pb3IpIHNhbGVzIG1hbmFnZXIgZGFjaCAtIGFpICYgaW5mZXJlbmNlfGltcG9zc2libGVjbG91ZA",
-      "title": "(Senior) Sales Manager DACH - AI & Inference",
-      "company": "Impossiblecloud",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-10T02:04:42.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/impossiblecloud/senior-sales-manager-dach-ai-inference-hamburg-120926"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy84MDIwNzUxMDAzP2doX2ppZD04MDIwNzUxMDAzfGhpc3RvcGF0aG9sb2d5IGludGVybnxuZXVyYWxpbms",
@@ -656,19 +591,6 @@
       "postedDate": "2026-10-09T16:24:49.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/veepee/stage-chargee-de-contenu-social-media-janvier-2027-saint-denis-239557"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29ydGVhLWFpL3Nlbmlvci1zdGFmZi1haS1lbmdpbmVlci1xdWFsaXR5LWV2YWxzLWJlcmxpbi0zODc2MTl8c2VuaW9yL3N0YWZmIGFpIGVuZ2luZWVyLCBxdWFsaXR5ICYgZXZhbHMgKG0vZi94KXxjb3J0ZWEgYWk",
-      "title": "Senior/Staff AI Engineer, Quality & Evals (m/f/x)",
-      "company": "Cortea AI",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-09T14:40:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/cortea-ai/senior-staff-ai-engineer-quality-evals-berlin-387619"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9zY2hvbGFycm9jay9hc3NvY2lhdGUtZGlyZWN0b3ItZGlyZWN0b3ItZnBhLWVtZWEtenVnLTQ1MjYyOHxhc3NvY2lhdGUgZGlyZWN0b3IvIGRpcmVjdG9yIGZwJmEgZW1lYXxzY2hvbGFycm9jaw",
