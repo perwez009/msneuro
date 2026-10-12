@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T21:30:37.401Z",
+  "generatedAt": "2026-10-12T04:26:59.041Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy90cmFuc211dGV4L3Nlbmlvci1yYWRpb2NoZW1pc3QtZ2VuZXZhLTM5ODc3MnxzZW5pb3IgcmFkaW9jaGVtaXN0fHRyYW5zbXV0ZXg",
+      "title": "Senior Radiochemist",
+      "company": "Transmutex",
+      "location": "Geneva",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-12T02:04:05.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.ch/jobs/companies/transmutex/senior-radiochemist-geneva-398772"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaWN0LWRpZ2l0YWwtc29sdXRpb25zL2VtYmVkZGVkLXNvZnR3YXJlZW50d2lja2xlci1tdW5pY2gtNDc1MTk1fGVtYmVkZGVkIHNvZnR3YXJlZW50d2lja2xlciAobS93L2QpfGljdCBkaWdpdGFsIHNvbHV0aW9ucw",
+      "title": "Embedded Softwareentwickler (m/w/d)",
+      "company": "ICT Digital Solutions",
+      "location": "Munich",
+      "workModel": "Remote",
+      "opportunityType": "Unbefristeter arbeitsvertrag",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-11T22:00:36.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/embedded-softwareentwickler-munich-475195"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jYXN0cm9sL3Nlbmlvci1lbmdpbmVlci1hcHBsaWVkLWVuZ2luZWVyaW5nLXRlc3RpbmctMTc5NDA3fHNlbmlvciBlbmdpbmVlciDigJMgYXBwbGllZCBlbmdpbmVlcmluZyAmIHRlc3Rpbmd8Y2FzdHJvbA",
       "title": "Senior Engineer – Applied Engineering & Testing",
@@ -437,19 +463,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/newrelic/account-executive-enterprise-sales-berlin-munich-339398"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yaXZlcmxhbmUvc29mdHdhcmUtZW5naW5lZXJpbmctaW50ZXJuc2hpcC0yMDI3LWNhbWJyaWRnZS0zNTU2NjN8c29mdHdhcmUgZW5naW5lZXJpbmcgaW50ZXJuc2hpcCAyMDI3fHJpdmVybGFuZQ",
-      "title": "Software Engineering Internship 2027",
-      "company": "Riverlane",
-      "location": "Cambridge",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-10T21:55:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/riverlane/software-engineering-internship-2027-cambridge-355663"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWxlcGhhbHBoYS9zZW5pb3ItYWktcmVzZWFyY2hlci1wcmUtdHJhaW5pbmctaGVpZGVsYmVyZy0zNjc3NHxzZW5pb3IgYWkgcmVzZWFyY2hlci0gcHJlLXRyYWluaW5nIChmL20vZCl8YWxlcGhhbHBoYQ",
       "title": "Senior AI Researcher- Pre-training (f/m/d)",
       "company": "Alephalpha",
@@ -682,19 +695,6 @@
       "postedDate": "2026-10-10T05:24:31.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/hackers-wanted-senior-software-engineer-hamburg-118878"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW1wb3NzaWJsZWNsb3VkL3Nlbmlvci1zYWxlcy1tYW5hZ2VyLWRhY2gtYWktaW5mZXJlbmNlLWhhbWJ1cmctMTIwOTI2fChzZW5pb3IpIHNhbGVzIG1hbmFnZXIgZGFjaCAtIGFpICYgaW5mZXJlbmNlfGltcG9zc2libGVjbG91ZA",
-      "title": "(Senior) Sales Manager DACH - AI & Inference",
-      "company": "Impossiblecloud",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-10T02:04:42.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/impossiblecloud/senior-sales-manager-dach-ai-inference-hamburg-120926"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy84MDIwNzUxMDAzP2doX2ppZD04MDIwNzUxMDAzfGhpc3RvcGF0aG9sb2d5IGludGVybnxuZXVyYWxpbms",
