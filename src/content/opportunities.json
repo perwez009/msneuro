@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T22:18:15.965Z",
+  "generatedAt": "2026-10-14T03:37:59.947Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,123 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbnRocm9waWMvZW50ZXJwcmlzZS1hY2NvdW50LWV4ZWN1dGl2ZS1iYW5raW5nLWxvbmRvbi0zOTk2MDF8ZW50ZXJwcmlzZSBhY2NvdW50IGV4ZWN1dGl2ZSwgYmFua2luZ3xhbnRocm9waWM",
+      "title": "Enterprise Account Executive, Banking",
+      "company": "anthropic",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-14T00:55:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/enterprise-account-executive-banking-london-399601"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbnRocm9waWMvYXBwbGllZC1haS1lbmdpbmVlci1iZW5lZmljaWFsLWRlcGxveW1lbnRzLWxhYi1hdXRvbWF0aW9uLWxvbmRvbi0zMTM5ODZ8YXBwbGllZCBhaSBlbmdpbmVlciwgYmVuZWZpY2lhbCBkZXBsb3ltZW50cyAobGFiIGF1dG9tYXRpb24pfGFudGhyb3BpYw",
+      "title": "Applied AI Engineer, Beneficial Deployments (Lab Automation)",
+      "company": "anthropic",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-14T00:55:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/applied-ai-engineer-beneficial-deployments-lab-automation-london-313986"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy96c2NhbGVyL3Nlbmlvci1zYWxlcy1lbmdpbmVlci11ay0xMzM4MzZ8c2VuaW9yIHNhbGVzIGVuZ2luZWVyIC0gdWt8enNjYWxlcg",
+      "title": "Senior Sales Engineer - UK",
+      "company": "zscaler",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-14T00:55:10.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/senior-sales-engineer-uk-133836"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9qZXRicmFpbnMvZm91bmRpbmctZ3RtLWVuZ2luZWVyaW5nLWxlYWQtZ3Jvd3RoYnJpY2tzLWFtc3RlcmRhbS0zMDQxNDB8Zm91bmRpbmcgZ3RtIGVuZ2luZWVyaW5nIGxlYWQgKGdyb3d0aGJyaWNrcyl8amV0YnJhaW5z",
+      "title": "Founding GTM Engineering Lead (GrowthBricks)",
+      "company": "jetbrains",
+      "location": "Amsterdam",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-14T00:55:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.nl/jobs/companies/jetbrains/founding-gtm-engineering-lead-growthbricks-amsterdam-304140"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yYWRpYW50L3Nlbmlvci1zZGV0LWxvbmRvbi0yNDM1NjN8c2VuaW9yIHNkZXR8cmFkaWFudA",
+      "title": "Senior SDET",
+      "company": "Radiant",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-13T23:40:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/senior-sdet-london-243563"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yYWRpYW50L3ByaW5jaXBhbC1iYWNrZW5kLXNvZnR3YXJlLWVuZ2luZWVyLWxvbmRvbi0xMzE2OXxwcmluY2lwYWwgYmFja2VuZCBzb2Z0d2FyZSBlbmdpbmVlcnxyYWRpYW50",
+      "title": "Principal Backend Software Engineer",
+      "company": "Radiant",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-13T23:40:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/principal-backend-software-engineer-london-13169"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yYWRpYW50L3Nlbmlvci1iYWNrZW5kLXNvZnR3YXJlLWVuZ2luZWVyLWxvbmRvbi0xNjYzODd8c2VuaW9yIGJhY2tlbmQgc29mdHdhcmUgZW5naW5lZXJ8cmFkaWFudA",
+      "title": "Senior Backend Software Engineer",
+      "company": "Radiant",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-13T23:40:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/senior-backend-software-engineer-london-166387"
+    },
+    {
+      "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MjIzNjA1MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSBuZXcgeW9yayBjaXR5fG5ldXJvcGFjZQ",
+      "title": "Associate Therapy Consultant - New York City",
+      "company": "NeuroPace",
+      "location": "United States",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "NeuroPace Careers",
+      "sourceUrl": "https://boards.greenhouse.io/neuropace",
+      "postedDate": "2026-10-13T22:29:52.000Z",
+      "applyBy": null,
+      "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=6223605004"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ncmFmYW5hbGFicy9zZW5pb3Itc29sdXRpb25zLWFyY2hpdGVjdC11ay1yZW1vdGUtMTczMTI2fHNlbmlvciBzb2x1dGlvbnMgYXJjaGl0ZWN0IHwgdWsgfCByZW1vdGV8Z3JhZmFuYWxhYnM",
+      "title": "Senior Solutions Architect | UK | Remote",
+      "company": "grafanalabs",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-13T21:55:02.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-solutions-architect-uk-remote-173126"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9uZWJpdXMvc2VuaW9yLWFwcGxpZWQtc2NpZW50aXN0LWVmZmljaWVudC1sbG0taW5mZXJlbmNlLW1vZGVsLW9wdGltaXphdGlvbi16dXJpY2gtMjQzMzV8c2VuaW9yIGFwcGxpZWQgc2NpZW50aXN0LCBlZmZpY2llbnQgbGxtIGluZmVyZW5jZSAmIG1vZGVsIG9wdGltaXphdGlvbnxuZWJpdXM",
       "title": "Senior Applied Scientist, Efficient LLM Inference & Model Optimization",
@@ -1594,6 +1711,19 @@
       "url": "https://www.arbeitnow.com/jobs/companies/artemis/remote-senior-account-executive-enterprise-291558"
     },
     {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9lbmNvcmQvcmVzZWFyY2gtZW5naW5lZXItbG9uZG9uLTQzNTY0MnxyZXNlYXJjaCBlbmdpbmVlcnxlbmNvcmQ",
+      "title": "Research Engineer",
+      "company": "Encord",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-13T08:40:46.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/encord/research-engineer-london-435642"
+    },
+    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9taWNyb2FnaS9lbWJlZGRlZC1lbmdpbmVlci16dXJpY2gtMTg2NTE4fGVtYmVkZGVkIGVuZ2luZWVyfG1pY3JvYWdp",
       "title": "Embedded Engineer",
       "company": "Microagi",
@@ -1672,19 +1802,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/computer-vision-ai-engineer-interceptor-cuas-wessling-20456"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGhlZmFiZXJzL21hcmtldGluZy1tYW5hZ2VyLWxldmVya3VzZW4tMjQzOTMzfG1hcmtldGluZyBtYW5hZ2VyIChtL3cvZCl8dGhlZmFiZXJz",
-      "title": "Marketing Manager (m/w/d)",
-      "company": "THEFABERS",
-      "location": "Leverkusen",
-      "workModel": "Remote",
-      "opportunityType": "Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-13T07:30:45.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/thefabers/marketing-manager-leverkusen-243933"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9iYXMtZ3JvdXAvdHJhaW5lZXNoaXAtYWZ0ZXJzYWxlcy1zZXJ2aWNlY29udHJhY3Rlbi12ZWdoZWwtNDc0NTQ1fHRyYWluZWVzaGlwIGFmdGVyc2FsZXMgc2VydmljZWNvbnRyYWN0ZW58YmFzIGdyb3Vw",
       "title": "Traineeship Aftersales Servicecontracten",
       "company": "BAS Group",
@@ -1711,84 +1828,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/jobgether/analytical-chemistry-specialist-freelance-ai-trainer-project-netherlands-426972"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb21lZ2dhL2ZvdW5kZXItYXNzb2NpYXRlLWludGVybi1tdW5pY2gtMzUxOTI0fGZvdW5kZXIgYXNzb2NpYXRlIGludGVybiAobS9mL2QpfG9tZWdnYQ",
-      "title": "Founder Associate intern (m/f/d)",
-      "company": "Omegga",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-13T05:41:02.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/omegga/founder-associate-intern-munich-351924"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93YXRlcnNoZWQvc2VuaW9yLXN1c3RhaW5hYmlsaXR5LWFkdmlzb3ItZW5nYWdlbWVudC1tYW5hZ2VyLWpyLXBhcnRuZXItbGV2ZWwtbG9uZG9uLTE4NDU4NHxzZW5pb3Igc3VzdGFpbmFiaWxpdHkgYWR2aXNvciAoZW5nYWdlbWVudCBtYW5hZ2VyIC0ganIuIHBhcnRuZXIgbGV2ZWwpfHdhdGVyc2hlZA",
-      "title": "Senior sustainability advisor (Engagement manager - Jr. partner level)",
-      "company": "Watershed",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-13T05:41:01.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/watershed/senior-sustainability-advisor-engagement-manager-jr-partner-level-london-184584"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93YXRlcnNoZWQvZGF0YS1zcGVjaWFsaXN0LWxvbmRvbi0yMjQ5MTd8ZGF0YSBzcGVjaWFsaXN0fHdhdGVyc2hlZA",
-      "title": "Data specialist",
-      "company": "Watershed",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-13T05:41:01.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/watershed/data-specialist-london-224917"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93YXRlcnNoZWQvYWNjb3VudC1leGVjdXRpdmUtZW50ZXJwcmlzZS1ub3J0aGVybi1ldXJvcGUtbG9uZG9uLTI0ODc4OHxhY2NvdW50IGV4ZWN1dGl2ZSwgZW50ZXJwcmlzZSwgbm9ydGhlcm4gZXVyb3BlfHdhdGVyc2hlZA",
-      "title": "Account executive, enterprise, northern Europe",
-      "company": "Watershed",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-13T05:41:01.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/watershed/account-executive-enterprise-northern-europe-london-248788"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93YXRlcnNoZWQvc3VzdGFpbmFiaWxpdHktZGF0YS1hZHZpc29yLWxvbmRvbi0zNzQ1NTZ8c3VzdGFpbmFiaWxpdHkgZGF0YSBhZHZpc29yfHdhdGVyc2hlZA",
-      "title": "Sustainability data advisor",
-      "company": "Watershed",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-13T05:41:01.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/watershed/sustainability-data-advisor-london-374556"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wZXJrL3Nlbmlvci1mcm9udGVuZC1lbmdpbmVlci1sb25kb24tMzM3MzF8c2VuaW9yIGZyb250ZW5kIGVuZ2luZWVyIC0gbG9uZG9ufHBlcms",
-      "title": "Senior Frontend Engineer - London",
-      "company": "Perk",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-13T05:41:01.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-frontend-engineer-london-33731"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9rYW5kb3UtYWkvY2hhcmFjdGVyaXphdGlvbi1sZWFkLXNhaW50LXN1bHBpY2UtMTY4OTc2fGNoYXJhY3Rlcml6YXRpb24gbGVhZHxrYW5kb3UgYWk",
       "title": "Characterization Lead",
       "company": "Kandou Ai",
@@ -1813,19 +1852,6 @@
       "postedDate": "2026-10-13T01:40:06.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/research-lead-predictive-oncology-villejuif-411380"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9jbGlja2hvdXNlL3Nlbmlvci1wcm9kdWN0LXNlY3VyaXR5LWVuZ2luZWVyLXRoZS1uZXRoZXJsYW5kcy0xMzg4Mzh8c2VuaW9yIHByb2R1Y3Qgc2VjdXJpdHkgZW5naW5lZXJ8Y2xpY2tob3VzZQ",
-      "title": "Senior Product Security Engineer",
-      "company": "Clickhouse",
-      "location": "The Netherlands",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-13T00:40:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/clickhouse/senior-product-security-engineer-the-netherlands-138838"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9oZXhhL2VtYmVkZGVkLXN5c3RlbS1sZWFkLWVuZ2luZWVyLWZyYW5jZS00NTIzNTl8ZW1iZWRkZWQgc3lzdGVtIGxlYWQgZW5naW5lZXJ8aGV4YQ",
@@ -2008,19 +2034,6 @@
       "postedDate": "2026-10-09T21:31:08.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/8020751003?gh_jid=8020751003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9sZW1vbndheS9wbGF0Zm9ybS1kZXZvcHMtZW5naW5lZXItcGFyaXMtMTM0NTY4fHBsYXRmb3JtIC8gZGV2b3BzIGVuZ2luZWVyfGxlbW9ud2F5",
-      "title": "Platform / DevOps Engineer",
-      "company": "Lemonway",
-      "location": "Paris, Île-de-France, France",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-09T19:30:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/lemonway/platform-devops-engineer-paris-134568"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9zY2hvbGFycm9jay9hc3NvY2lhdGUtZGlyZWN0b3ItZGlyZWN0b3ItZnBhLWVtZWEtenVnLTQ1MjYyOHxhc3NvY2lhdGUgZGlyZWN0b3IvIGRpcmVjdG9yIGZwJmEgZW1lYXxzY2hvbGFycm9jaw",
