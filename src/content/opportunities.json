@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T03:18:34.783Z",
+  "generatedAt": "2026-10-15T10:53:40.842Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2VvLWdhbGF4eS1nbWJoL29mZnBhZ2Utc2VvLXB1Ymxpc2hlci1tYW5hZ2VyLXVsbWVuLTU5NTkzfG9mZnBhZ2Ugc2VvICYgcHVibGlzaGVyIG1hbmFnZXIgKG0vdy9kKXxzZW8gZ2FsYXh5IGdtYmg",
+      "title": "Offpage SEO & Publisher Manager (m/w/d)",
+      "company": "SEO Galaxy GmbH",
+      "location": "Ulmen",
+      "workModel": "Remote",
+      "opportunityType": "Arbeitskraft, worker, berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-15T09:47:30.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/seo-galaxy-gmbh/offpage-seo-publisher-manager-ulmen-59593"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWFuZXgtYWktZ21iaC92cC1jdXN0b21lci1zdWNjZXNzLW11bmljaC0xNDE1MzR8dnAgY3VzdG9tZXIgc3VjY2VzcyAoZi9tL2QpfG1hbmV4IGFpIGdtYmg",
+      "title": "VP Customer Success (f/m/d)",
+      "company": "Manex AI GmbH",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-15T08:40:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/vp-customer-success-munich-141534"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva3BsdXNhLWNvbW11bmljYXRpb25zLWdtYmgvcGZsaWNodC1wcmFrdGlrdW0tcHJha3Rpa2FudC1pbi1zb2NpYWwtbWVkaWEtb25saW5lLW1hcmtldGluZy1kdXNzZWxkb3JmLTEzNDI0MXwocGZsaWNodC0pIHByYWt0aWt1bSBwcmFrdGlrYW50L2luIHNvY2lhbCBtZWRpYSAmIG9ubGluZSBtYXJrZXRpbmcgKG0vdy9kKXxrcGx1c2EgY29tbXVuaWNhdGlvbnMgZ21iaA",
+      "title": "(Pflicht-) Praktikum Praktikant/in Social Media & Online Marketing (m/w/d)",
+      "company": "KplusA Communications GmbH",
+      "location": "Düsseldorf",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-15T07:31:21.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/kplusa-communications-gmbh/pflicht-praktikum-praktikant-in-social-media-online-marketing-dusseldorf-134241"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyd2F5L3Nlbmlvci1zYWxlc2ZvcmNlLWFkbWluaXN0cmF0b3ItcmV2dGVjaC00NjIwMTB8c2VuaW9yIHNhbGVzZm9yY2UgYWRtaW5pc3RyYXRvciAocmV2dGVjaCl8ZXZlcndheQ",
+      "title": "Senior Salesforce Administrator (RevTech)",
+      "company": "Everway",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-15T05:55:14.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/everway/senior-salesforce-administrator-revtech-462010"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWxlcGhhbHBoYS9zZW5pb3ItYWktcmVzZWFyY2hlci1sbG0tcG9zdC10cmFpbmluZy1mb3ItaGFsbHVjaW5hdGlvbi1yZWR1Y3Rpb24taGVpZGVsYmVyZy0yMzU4NnxzZW5pb3IgYWkgcmVzZWFyY2hlcjogbGxtIHBvc3QtdHJhaW5pbmcgZm9yIGhhbGx1Y2luYXRpb24gcmVkdWN0aW9uIChmL20vZCl8YWxlcGhhbHBoYQ",
+      "title": "Senior AI Researcher: LLM post-training for hallucination reduction (f/m/d)",
+      "company": "Alephalpha",
+      "location": "Heidelberg",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-15T05:40:15.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/alephalpha/senior-ai-researcher-llm-post-training-for-hallucination-reduction-heidelberg-23586"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcm9vbXByaWNlZ2VuaWUvcmVtb3RlLXNhbGVzLWRldmVsb3BtZW50LXJlcHJlc2VudGF0aXZlLWdlcm1hbnktMTcxODYzfHJlbW90ZSBzYWxlcyBkZXZlbG9wbWVudCByZXByZXNlbnRhdGl2ZSBnZXJtYW55IChtL2YvZCl8cm9vbXByaWNlZ2VuaWU",
       "title": "Remote Sales Development Representative Germany (m/f/d)",
@@ -1386,71 +1451,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/ropa-gmbh/mitarbeiter-kundenservice-customer-support-schwabisch-gmund-135219"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9lbGFzdGljL3Nlbmlvci1mdWxsLXN0YWNrLXNvZnR3YXJlLWRldmVsb3Blci1vYnNlcnZhYmlsaXR5LTIyMTAzOXxzZW5pb3IgZnVsbCBzdGFjayBzb2Z0d2FyZSBkZXZlbG9wZXIgLSBvYnNlcnZhYmlsaXR5fGVsYXN0aWM",
-      "title": "Senior Full Stack Software Developer - Observability",
-      "company": "Elastic",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-14T05:56:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/senior-full-stack-software-developer-observability-221039"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sYW5nYW5lbmdpbmVlcmluZ2FuZGVudmlyb25tZW50YWxzZXJ2aWNlc2xsYy9zZW5pb3ItY2l2aWwtZW5naW5lZXItbG9uZG9uLTIxODE0NnxzZW5pb3IgY2l2aWwgZW5naW5lZXJ8bGFuZ2FuZW5naW5lZXJpbmdhbmRlbnZpcm9ubWVudGFsc2VydmljZXNsbGM",
-      "title": "Senior Civil Engineer",
-      "company": "Langanengineeringandenvironmentalservicesllc",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-14T05:55:55.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/senior-civil-engineer-london-218146"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sYW5nYW5lbmdpbmVlcmluZ2FuZGVudmlyb25tZW50YWxzZXJ2aWNlc2xsYy9ncmFkdWF0ZS1nZW90ZWNobmljYWwtZW5naW5lZXItbG9uZG9uLTIyNTQ2NHxncmFkdWF0ZSBnZW90ZWNobmljYWwgZW5naW5lZXJ8bGFuZ2FuZW5naW5lZXJpbmdhbmRlbnZpcm9ubWVudGFsc2VydmljZXNsbGM",
-      "title": "Graduate Geotechnical Engineer",
-      "company": "Langanengineeringandenvironmentalservicesllc",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-14T05:55:55.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/graduate-geotechnical-engineer-london-225464"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sYW5nYW5lbmdpbmVlcmluZ2FuZGVudmlyb25tZW50YWxzZXJ2aWNlc2xsYy9ncmFkdWF0ZS1jaXZpbC1lbmdpbmVlci1sb25kb24tMTc5Mjk2fGdyYWR1YXRlIGNpdmlsIGVuZ2luZWVyfGxhbmdhbmVuZ2luZWVyaW5nYW5kZW52aXJvbm1lbnRhbHNlcnZpY2VzbGxj",
-      "title": "Graduate Civil Engineer",
-      "company": "Langanengineeringandenvironmentalservicesllc",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-14T05:55:55.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/graduate-civil-engineer-london-179296"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sYW5nYW5lbmdpbmVlcmluZ2FuZGVudmlyb25tZW50YWxzZXJ2aWNlc2xsYy9ncmFkdWF0ZS1jaXZpbC1lbmdpbmVlci1sb25kb24tMTYwMTg3fGdyYWR1YXRlIGNpdmlsIGVuZ2luZWVyfGxhbmdhbmVuZ2luZWVyaW5nYW5kZW52aXJvbm1lbnRhbHNlcnZpY2VzbGxj",
-      "title": "Graduate Civil Engineer",
-      "company": "Langanengineeringandenvironmentalservicesllc",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-14T05:55:55.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/graduate-civil-engineer-london-160187"
-    },
-    {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MjIzNjA1MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSBuZXcgeW9yayBjaXR5fG5ldXJvcGFjZQ",
       "title": "Associate Therapy Consultant - New York City",
       "company": "NeuroPace",
@@ -1488,45 +1488,6 @@
       "postedDate": "2026-10-13T20:30:31.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/otsuka-pharma-gmbh/lead-medical-affairs-nephrology-dach-frankfurt-103292"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd29ya21vdGlvbi9yZW1vdGUtanVuaW9yLWFjY291bnQtZXhlY3V0aXZlLWRhY2gtZ2VybWFuLXNwZWFraW5nLWdlcm1hbnktNDc1ODQ3fGp1bmlvciBhY2NvdW50IGV4ZWN1dGl2ZSBkYWNoIChnZXJtYW4tc3BlYWtpbmcpfHdvcmttb3Rpb24",
-      "title": "Junior Account Executive DACH (German-speaking)",
-      "company": "Workmotion",
-      "location": "Germany",
-      "workModel": "Remote",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-13T20:20:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/workmotion/remote-junior-account-executive-dach-german-speaking-germany-475847"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3ByaW5nLWhlYWx0aC9yZW1vdGUtdmljZS1wcmVzaWRlbnQtdXMtcHJpdmFjeS1hbmQtZ2xvYmFsLWRhdGEtcHJvdGVjdGlvbi1vZmZpY2VyLTE5OTMzNHx2aWNlIHByZXNpZGVudCwgdXMgcHJpdmFjeSBhbmQgZ2xvYmFsIGRhdGEgcHJvdGVjdGlvbiBvZmZpY2VyfHNwcmluZyBoZWFsdGg",
-      "title": "Vice President, US Privacy and Global Data Protection Officer",
-      "company": "Spring Health",
-      "location": "Remote",
-      "workModel": "Remote",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-13T17:41:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/spring-health/remote-vice-president-us-privacy-and-global-data-protection-officer-199334"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3dhcm1hZXJvL3JlbW90ZS1wZXJjZXB0aW9uLWFuZC1mdXNpb24tZW5naW5lZXItMzU3NTA5fHBlcmNlcHRpb24gYW5kIGZ1c2lvbiBlbmdpbmVlcnxzd2FybWFlcm8",
-      "title": "Perception and Fusion Engineer",
-      "company": "Swarmaero",
-      "location": "Remote",
-      "workModel": "Remote",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-13T17:40:53.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-perception-and-fusion-engineer-357509"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hbW8vY2FtYm9kaWEtY29udGVudC1zcGVjaWFsaXN0LXBhcmlzLTIyMjM4MnxjYW1ib2RpYSBjb250ZW50IHNwZWNpYWxpc3R8YW1v",
@@ -1579,19 +1540,6 @@
       "postedDate": "2026-10-13T17:40:45.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/hightouch-inc/enterprise-account-executive-paris-paris-office-240103"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva2Fpcm9zLXByb2plY3QvcmVtb3RlLXNwYXItcmVzZWFyY2gtbWFuYWdlci0yMjk3NTh8c3BhciByZXNlYXJjaCBtYW5hZ2VyfGthaXJvcyBwcm9qZWN0",
-      "title": "SPAR Research Manager",
-      "company": "Kairos Project",
-      "location": "Remote",
-      "workModel": "Remote",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-13T17:40:44.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/kairos-project/remote-spar-research-manager-229758"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy8zNjBsZWFybmluZy9yZW1vdGUtZGV2b3BzLWVuZ2luZWVyLTM5Mzg3N3xkZXZvcHMgZW5naW5lZXJ8MzYwbGVhcm5pbmc",
@@ -1943,32 +1891,6 @@
       "postedDate": "2026-10-08T11:40:14.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.ch/jobs/companies/microagi/head-of-hardware-zurich-409855"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9naXNtYXJ0L3JlbW90ZS1jcmVhdGl2ZS1tYXJrZXRpbmctbWFuYWdlci1kYW5jZWJpdC00MzU0NnxjcmVhdGl2ZSBtYXJrZXRpbmcgbWFuYWdlciAoZGFuY2ViaXQpfGdpc21hcnQ",
-      "title": "Creative Marketing Manager (DanceBit)",
-      "company": "Gismart",
-      "location": "Remote",
-      "workModel": "Remote",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-08T05:40:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-creative-marketing-manager-dancebit-43546"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9zd2lzc2Jsb2NrL3Nlbmlvci1xdWFudGl0YXRpdmUtcmlzay1tYW5hZ2VyLWJhYXItemctMTEwMjY5fHNlbmlvciBxdWFudGl0YXRpdmUgcmlzayBtYW5hZ2VyfHN3aXNzYmxvY2s",
-      "title": "Senior Quantitative Risk Manager",
-      "company": "Swissblock",
-      "location": "Baar ZG",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-08T05:04:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.ch/jobs/companies/swissblock/senior-quantitative-risk-manager-baar-zg-110269"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTQ2ODU2MDA0fGFjY291bnRpbmcgbWFuYWdlcnxuZXVyb3BhY2U",
