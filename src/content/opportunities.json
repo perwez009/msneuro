@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T16:07:35.030Z",
+  "generatedAt": "2026-10-16T20:31:47.961Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,84 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb25pZXBvaW50L3JlbW90ZS1oZWFkLW9mLWVuZ2luZWVyaW5nLXJld2FyZHMtMzg3MDY5fGhlYWQgb2YgZW5naW5lZXJpbmcsIHJld2FyZHN8bW9uaWVwb2ludA",
+      "title": "Head of Engineering, Rewards",
+      "company": "Moniepoint",
+      "location": "Remote, London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-16T17:55:39.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/moniepoint/remote-head-of-engineering-rewards-387069"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaGVsbG9mcmVzaC9kaXJlY3Rvci11eC1kZXNpZ24tYmVybGluLWJlcmxpbi05MDE1MXxkaXJlY3RvciB1eCBkZXNpZ258aGVsbG9mcmVzaA",
+      "title": "Director UX Design",
+      "company": "hellofresh",
+      "location": "Berlin, Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-16T17:55:37.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/director-ux-design-berlin-berlin-90151"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2tkc2UvZGlyZWN0b3ItbWluZXJ2YS1mcm9udGxpbmUtYWxsLWdlbmRlcnMtYmVybGluLTE0Mjg4MXxkaXJlY3RvciBtaW5lcnZhIGZyb250bGluZSAoYWxsIGdlbmRlcnMpfHNrZHNl",
+      "title": "Director Minerva Frontline (All genders)",
+      "company": "Skdse",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-16T17:55:37.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/director-minerva-frontline-all-genders-berlin-142881"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2tkc2UvZGlyZWN0b3ItbWluZXJ2YS1mcm9udGxpbmUtYWxsLWdlbmRlcnMtbXVuaWNoLWJhdmFyaWEtNDU1NTczfGRpcmVjdG9yIG1pbmVydmEgZnJvbnRsaW5lIChhbGwgZ2VuZGVycyl8c2tkc2U",
+      "title": "Director Minerva Frontline (All genders)",
+      "company": "Skdse",
+      "location": "Munich, Bavaria",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-16T17:55:37.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/director-minerva-frontline-all-genders-munich-bavaria-455573"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWFwYm94L3RlY2huaWNhbC1wcm9ncmFtLW1hbmFnZXItaWlpLWF1dG9tb3RpdmUtbWFwYm94LWdlcm1hbnktNTI4NzN8dGVjaG5pY2FsIHByb2dyYW0gbWFuYWdlciBpaWksIGF1dG9tb3RpdmV8bWFwYm94",
+      "title": "Technical Program Manager III, Automotive",
+      "company": "Mapbox",
+      "location": "Mapbox Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-16T17:40:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/mapbox/technical-program-manager-iii-automotive-mapbox-germany-52873"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9kZXN0aW51c2dyb3VwL21hY2hpbmUtbGVhcm5pbmctY2VydGlmaWNhdGlvbi1yZXNlYXJjaGVyLXp1cmljaC0yMDMyNjh8bWFjaGluZSBsZWFybmluZyBjZXJ0aWZpY2F0aW9uIHJlc2VhcmNoZXJ8ZGVzdGludXNncm91cA",
+      "title": "Machine Learning Certification Researcher",
+      "company": "Destinusgroup",
+      "location": "Zürich, Switzerland",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-16T17:20:23.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/machine-learning-certification-researcher-zurich-203268"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9icmlkZ2ViaW8vYXNzb2NpYXRlLWRpcmVjdG9yLW1lZGljYWwtYWR2aXNvci1ldS13ZXN0LTE5NDMyNHxhc3NvY2lhdGUgZGlyZWN0b3IsIG1lZGljYWwgYWR2aXNvciwgZXUgd2VzdHxicmlkZ2ViaW8",
       "title": "Associate Director, Medical Advisor, EU West",
@@ -253,19 +331,6 @@
       "postedDate": "2026-10-16T11:20:12.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/bts-network-gmbh/werkstudent-videograf-12-bis-20-std-woche-erftstadt-103249"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmVvbnRvL2FpLWRhdGEtZW5naW5lZXItY29sb2duZS0yOTM2NzZ8ZGF0YSBlbmdpbmVlciAobS93L2QpfG5lb250bw",
-      "title": "Data Engineer (m/w/d)",
-      "company": "neonto",
-      "location": "Cologne",
-      "workModel": "On-site",
-      "opportunityType": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T11:02:25.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/neonto/ai-data-engineer-cologne-293676"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvN254dC1nbWJoL3Nlbmlvci1iYWNrZW5kLWVuZ2luZWVyLWdvbGFuZy1iZXJsaW4tMTY1MjN8KHNlbmlvcikgYmFja2VuZCBlbmdpbmVlciDigJMgZ29sYW5nfDdueHQgZ21iaA",
@@ -760,32 +825,6 @@
       "postedDate": "2026-10-15T17:55:17.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/director-market-growth-strategy-molecule-to-market-lab-automation-51549"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vZGluL2NsaWVudC1wYXJ0bmVyLWxvbmRvbi0yMjU0Mzd8Y2xpZW50IHBhcnRuZXJ8b2Rpbg",
-      "title": "Client Partner",
-      "company": "Odin",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-15T14:40:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/odin/client-partner-london-225437"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9rYXJib24vcmVtb3RlLXNlbmlvci1pbXBsZW1lbnRhdGlvbi1zcGVjaWFsaXN0LTM0MzU1NXxzZW5pb3IgaW1wbGVtZW50YXRpb24gc3BlY2lhbGlzdHxrYXJib24",
-      "title": "Senior Implementation Specialist",
-      "company": "Karbon",
-      "location": "Remote",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-15T11:55:14.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/karbon/remote-senior-implementation-specialist-343555"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9lbmFjdGludGVsbGlnZW5jZS9yb2JvdGljcy1pbnRlZ3JhdGlvbi1lbmdpbmVlci16dXJpY2gtMTY3NTV8cm9ib3RpY3MgaW50ZWdyYXRpb24gZW5naW5lZXJ8ZW5hY3RpbnRlbGxpZ2VuY2U",
