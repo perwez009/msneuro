@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T03:05:29.249Z",
+  "generatedAt": "2026-10-17T10:11:17.031Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,97 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hbW8vdHVya2V5LWNvbnRlbnQtc3BlY2lhbGlzdC1wYXJpcy01MDEzNXx0dXJrZXkgY29udGVudCBzcGVjaWFsaXN0fGFtbw",
+      "title": "Turkey Content Specialist",
+      "company": "Amo",
+      "location": "Paris",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-17T05:40:34.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/amo/turkey-content-specialist-paris-50135"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9xdWFudHdhcmUvZGlyZWN0b3Itb2Ytc2FsZXMtZGVsZnQtNzM0ODZ8ZGlyZWN0b3Igb2Ygc2FsZXN8cXVhbnR3YXJl",
+      "title": "Director of Sales",
+      "company": "Quantware",
+      "location": "Delft",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-17T05:40:34.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.nl/jobs/companies/quantware/director-of-sales-delft-73486"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcm9iY28vZW5naW5lZXJpbmctbWFuYWdlci1yb2JvdC1pbnRlbGxpZ2VuY2UtbXVuaWNoLTQzMzAyOHxlbmdpbmVlcmluZyBtYW5hZ2VyIOKAkyByb2JvdCBpbnRlbGxpZ2VuY2V8cm9iY28",
+      "title": "Engineering Manager – Robot Intelligence",
+      "company": "RobCo",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-17T05:40:31.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/robco/engineering-manager-robot-intelligence-munich-433028"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy96eW5nYWNhcmVlcnMvc2VuaW9yLXByb2R1Y3QtbWFuYWdlci11bmFubm91bmNlZC1wcm9qZWN0LWxvbmRvbi0zNDU1ODl8c2VuaW9yIHByb2R1Y3QgbWFuYWdlciAtIHVuYW5ub3VuY2VkIHByb2plY3R8enluZ2FjYXJlZXJz",
+      "title": "Senior Product Manager - Unannounced Project",
+      "company": "Zyngacareers",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-17T02:55:20.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/senior-product-manager-unannounced-project-london-345589"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy96eW5nYWNhcmVlcnMvc2VuaW9yLXByb2R1Y2VyLXVuYW5ub3VuY2VkLXByb2plY3QtbG9uZG9uLTI1ODE5N3xzZW5pb3IgcHJvZHVjZXIgLSB1bmFubm91bmNlZCBwcm9qZWN0fHp5bmdhY2FyZWVycw",
+      "title": "Senior Producer - Unannounced Project",
+      "company": "Zyngacareers",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-17T02:55:20.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/senior-producer-unannounced-project-london-258197"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9tZWV0ZGF2aXMvZ3RtLXN0cmF0ZWd5LWFuYWx5c3QtcGFyaXMtMzQ3NTM2fGd0bSAmIHN0cmF0ZWd5IGFuYWx5c3R8bWVldGRhdmlz",
+      "title": "GTM & Strategy Analyst",
+      "company": "Meetdavis",
+      "location": "Paris",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-17T02:40:37.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/meetdavis/gtm-strategy-analyst-paris-347536"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uaWFudGljLXNwYXRpYWwvM2QtcmVjb25zdHJ1Y3Rpb24tcmVzZWFyY2gtc2NpZW50aXN0LWVuZ2luZWVyLWxvbmRvbi00ODA5NDV8M2QgcmVjb25zdHJ1Y3Rpb24gcmVzZWFyY2ggc2NpZW50aXN0L2VuZ2luZWVyfG5pYW50aWMgc3BhdGlhbA",
+      "title": "3D Reconstruction Research Scientist/Engineer",
+      "company": "Niantic Spatial",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-17T02:40:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/niantic-spatial/3d-reconstruction-research-scientist-engineer-london-480945"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3N0YWZmLWZvcndhcmQtZGVwbG95ZWQtZW5naW5lZXItYWktbmF0aXZlLXNvZnR3YXJlLWRldmVsb3BtZW50LWJlcmxpbi1tdW5pY2gtMjczMzEzfHN0YWZmIGZvcndhcmQgZGVwbG95ZWQgZW5naW5lZXIg4oCTIGFpLW5hdGl2ZSBzb2Z0d2FyZSBkZXZlbG9wbWVudHxqZXRicmFpbnM",
       "title": "Staff Forward Deployed Engineer – AI-Native Software Development",
@@ -34,19 +125,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-web-ux-ui-designer-berlin-munich-316297"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9qZXRicmFpbnMvc3RhZmYtZm9yd2FyZC1kZXBsb3llZC1lbmdpbmVlci1haS1uYXRpdmUtc29mdHdhcmUtZGV2ZWxvcG1lbnQtbG9uZG9uLTEwNjE0MHxzdGFmZiBmb3J3YXJkIGRlcGxveWVkIGVuZ2luZWVyIOKAkyBhaS1uYXRpdmUgc29mdHdhcmUgZGV2ZWxvcG1lbnR8amV0YnJhaW5z",
-      "title": "Staff Forward Deployed Engineer – AI-Native Software Development",
-      "company": "jetbrains",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T23:55:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/staff-forward-deployed-engineer-ai-native-software-development-london-106140"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9qZXRicmFpbnMvc3RhZmYtZm9yd2FyZC1kZXBsb3llZC1lbmdpbmVlci1haS1uYXRpdmUtc29mdHdhcmUtZGV2ZWxvcG1lbnQtYW1zdGVyZGFtLTMyNjM4OXxzdGFmZiBmb3J3YXJkIGRlcGxveWVkIGVuZ2luZWVyIOKAkyBhaS1uYXRpdmUgc29mdHdhcmUgZGV2ZWxvcG1lbnR8amV0YnJhaW5z",
       "title": "Staff Forward Deployed Engineer – AI-Native Software Development",
       "company": "jetbrains",
@@ -58,6 +136,19 @@
       "postedDate": "2026-10-16T23:55:21.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/jetbrains/staff-forward-deployed-engineer-ai-native-software-development-amsterdam-326389"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9qZXRicmFpbnMvc3RhZmYtZm9yd2FyZC1kZXBsb3llZC1lbmdpbmVlci1haS1uYXRpdmUtc29mdHdhcmUtZGV2ZWxvcG1lbnQtbG9uZG9uLTEwNjE0MHxzdGFmZiBmb3J3YXJkIGRlcGxveWVkIGVuZ2luZWVyIOKAkyBhaS1uYXRpdmUgc29mdHdhcmUgZGV2ZWxvcG1lbnR8amV0YnJhaW5z",
+      "title": "Staff Forward Deployed Engineer – AI-Native Software Development",
+      "company": "jetbrains",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-16T23:55:21.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/staff-forward-deployed-engineer-ai-native-software-development-london-106140"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9iamFrL21hY2hpbmUtbGVhcm5pbmctZW5naW5lZXItYXBwbGllZC1haS16dXJpY2gtNDI3Nzk0fG1hY2hpbmUgbGVhcm5pbmcgZW5naW5lZXIsIGFwcGxpZWQgYWl8Ymphaw",
@@ -606,30 +697,43 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver/director-of-social-creator-london-311596"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ubWNhcmVlcnMvc2VuaW9yLXByb2R1Y3QtbWFuYWdlci11bmFubm91bmNlZC1wcm9qZWN0LWxvbmRvbi03Mjk5NnxzZW5pb3IgcHJvZHVjdCBtYW5hZ2VyIC0gdW5hbm5vdW5jZWQgcHJvamVjdHxubWNhcmVlcnM",
-      "title": "Senior Product Manager - Unannounced Project",
-      "company": "Nmcareers",
-      "location": "London",
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9ldmVyYWkvcHJvZHVjdC1tYW5hZ2VyLXRydXN0LXNhZmV0eS1mdWxsLXJlbW90ZS1uZXRoZXJsYW5kcy05NDAwN3xwcm9kdWN0IG1hbmFnZXIgLSB0cnVzdCAmIHNhZmV0eSAoZnVsbCByZW1vdGUgLSBuZXRoZXJsYW5kcyl8ZXZlcmFp",
+      "title": "Product Manager - Trust & Safety (Full Remote - Netherlands)",
+      "company": "EverAI",
+      "location": "Netherlands",
       "workModel": "On-site",
-      "opportunityType": "Unspecified",
+      "opportunityType": "Full-time",
       "source": "Arbeitnow",
       "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T05:55:17.000Z",
+      "postedDate": "2026-10-16T05:40:18.000Z",
       "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nmcareers/senior-product-manager-unannounced-project-london-72996"
+      "url": "https://www.arbeitnow.nl/jobs/companies/everai/product-manager-trust-safety-full-remote-netherlands-94007"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ubWNhcmVlcnMvc2VuaW9yLXByb2R1Y2VyLXVuYW5ub3VuY2VkLXByb2plY3QtbG9uZG9uLTI1ODQ5fHNlbmlvciBwcm9kdWNlciAtIHVuYW5ub3VuY2VkIHByb2plY3R8bm1jYXJlZXJz",
-      "title": "Senior Producer - Unannounced Project",
-      "company": "Nmcareers",
-      "location": "London",
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLWxpZmVjeWNsZS1tYXJrZXRpbmctbWFuYWdlci1mdWxsLXJlbW90ZS1uZXRoZXJsYW5kcy0zNDY0MTl8c2VuaW9yIGxpZmVjeWNsZSBtYXJrZXRpbmcgbWFuYWdlciAoZnVsbCByZW1vdGUgLSBuZXRoZXJsYW5kcyl8ZXZlcmFp",
+      "title": "Senior Lifecycle Marketing Manager (Full Remote - Netherlands)",
+      "company": "EverAI",
+      "location": "Netherlands",
       "workModel": "On-site",
-      "opportunityType": "Unspecified",
+      "opportunityType": "Full-time",
       "source": "Arbeitnow",
       "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T05:55:17.000Z",
+      "postedDate": "2026-10-16T05:40:18.000Z",
       "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nmcareers/senior-producer-unannounced-project-london-25849"
+      "url": "https://www.arbeitnow.nl/jobs/companies/everai/senior-lifecycle-marketing-manager-full-remote-netherlands-346419"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLXBlcmZvcm1hbmNlLW1hcmtldGVyLWZ1bGwtcmVtb3RlLW5ldGhlcmxhbmRzLTQwMDQ2OXxzZW5pb3IgcGVyZm9ybWFuY2UgbWFya2V0ZXIgKGZ1bGwgcmVtb3RlIC0gbmV0aGVybGFuZHMpfGV2ZXJhaQ",
+      "title": "Senior Performance Marketer (Full Remote - Netherlands)",
+      "company": "EverAI",
+      "location": "Netherlands",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-16T05:40:18.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.nl/jobs/companies/everai/senior-performance-marketer-full-remote-netherlands-400469"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9ldmVyYWkvcHJvZHVjdC1tYW5hZ2VyLXRydXN0LXNhZmV0eS1mdWxsLXJlbW90ZS1mcmFuY2UtMjQ0NTkzfHByb2R1Y3QgbWFuYWdlciAtIHRydXN0ICYgc2FmZXR5IChmdWxsIHJlbW90ZSAtIGZyYW5jZSl8ZXZlcmFp",
@@ -671,45 +775,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/everai/senior-performance-marketer-full-remote-france-267952"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9ldmVyYWkvcHJvZHVjdC1tYW5hZ2VyLXRydXN0LXNhZmV0eS1mdWxsLXJlbW90ZS1uZXRoZXJsYW5kcy05NDAwN3xwcm9kdWN0IG1hbmFnZXIgLSB0cnVzdCAmIHNhZmV0eSAoZnVsbCByZW1vdGUgLSBuZXRoZXJsYW5kcyl8ZXZlcmFp",
-      "title": "Product Manager - Trust & Safety (Full Remote - Netherlands)",
-      "company": "EverAI",
-      "location": "Netherlands",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T05:40:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/everai/product-manager-trust-safety-full-remote-netherlands-94007"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLWxpZmVjeWNsZS1tYXJrZXRpbmctbWFuYWdlci1mdWxsLXJlbW90ZS1uZXRoZXJsYW5kcy0zNDY0MTl8c2VuaW9yIGxpZmVjeWNsZSBtYXJrZXRpbmcgbWFuYWdlciAoZnVsbCByZW1vdGUgLSBuZXRoZXJsYW5kcyl8ZXZlcmFp",
-      "title": "Senior Lifecycle Marketing Manager (Full Remote - Netherlands)",
-      "company": "EverAI",
-      "location": "Netherlands",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T05:40:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/everai/senior-lifecycle-marketing-manager-full-remote-netherlands-346419"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLXBlcmZvcm1hbmNlLW1hcmtldGVyLWZ1bGwtcmVtb3RlLW5ldGhlcmxhbmRzLTQwMDQ2OXxzZW5pb3IgcGVyZm9ybWFuY2UgbWFya2V0ZXIgKGZ1bGwgcmVtb3RlIC0gbmV0aGVybGFuZHMpfGV2ZXJhaQ",
-      "title": "Senior Performance Marketer (Full Remote - Netherlands)",
-      "company": "EverAI",
-      "location": "Netherlands",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T05:40:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/everai/senior-performance-marketer-full-remote-netherlands-400469"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZlcmFpL3Nlbmlvci1saWZlY3ljbGUtbWFya2V0aW5nLW1hbmFnZXItZnVsbC1yZW1vdGUtZ2VybWFueS0zODY4NTV8c2VuaW9yIGxpZmVjeWNsZSBtYXJrZXRpbmcgbWFuYWdlciAoZnVsbCByZW1vdGUgLSBnZXJtYW55KXxldmVyYWk",
       "title": "Senior Lifecycle Marketing Manager (Full Remote - Germany)",
       "company": "EverAI",
@@ -749,58 +814,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/everai/product-manager-trust-safety-full-remote-germany-483423"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyYWkvcHJvZHVjdC1tYW5hZ2VyLXRydXN0LXNhZmV0eS1mdWxsLXJlbW90ZS11ay11bml0ZWQta2luZ2RvbS0yODg3OTR8cHJvZHVjdCBtYW5hZ2VyIC0gdHJ1c3QgJiBzYWZldHkgKGZ1bGwgcmVtb3RlIC0gdWspfGV2ZXJhaQ",
-      "title": "Product Manager - Trust & Safety (Full Remote - UK)",
-      "company": "EverAI",
-      "location": "United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T05:40:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/product-manager-trust-safety-full-remote-uk-united-kingdom-288794"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLWxpZmVjeWNsZS1tYXJrZXRpbmctbWFuYWdlci1mdWxsLXJlbW90ZS11ay11bml0ZWQta2luZ2RvbS0xMDcyMDN8c2VuaW9yIGxpZmVjeWNsZSBtYXJrZXRpbmcgbWFuYWdlciAoZnVsbCByZW1vdGUgLSB1ayl8ZXZlcmFp",
-      "title": "Senior Lifecycle Marketing Manager (Full Remote - UK)",
-      "company": "EverAI",
-      "location": "United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T05:40:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/senior-lifecycle-marketing-manager-full-remote-uk-united-kingdom-107203"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLXBlcmZvcm1hbmNlLW1hcmtldGVyLWZ1bGwtcmVtb3RlLXVrLXVuaXRlZC1raW5nZG9tLTM0ODIxNXxzZW5pb3IgcGVyZm9ybWFuY2UgbWFya2V0ZXIgKGZ1bGwgcmVtb3RlIC0gdWspfGV2ZXJhaQ",
-      "title": "Senior Performance Marketer (Full Remote - UK)",
-      "company": "EverAI",
-      "location": "United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T05:40:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/senior-performance-marketer-full-remote-uk-united-kingdom-348215"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLWFmZmlsaWF0ZS1tYW5hZ2VyLWZ1bGwtcmVtb3RlLXVrLXVuaXRlZC1raW5nZG9tLTE4MDIyM3xzZW5pb3IgYWZmaWxpYXRlIG1hbmFnZXIgKGZ1bGwgcmVtb3RlIC0gdWspfGV2ZXJhaQ",
-      "title": "Senior Affiliate Manager (Full Remote - UK)",
-      "company": "EverAI",
-      "location": "United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T05:40:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/senior-affiliate-manager-full-remote-uk-united-kingdom-180223"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYmxhY2stc2VtaWNvbmR1Y3Rvci1nbWJoL2dyYXBoZW5lLXBob3Rvbmljcy1kYXRhLWFuYWx5c3QtYWFjaGVuLTM4MTI4MnxncmFwaGVuZSBwaG90b25pY3MgZGF0YSBhbmFseXN0IChmL20vZCl8YmxhY2sgc2VtaWNvbmR1Y3RvciBnbWJo",
       "title": "Graphene Photonics Data Analyst (f/m/d)",
       "company": "Black Semiconductor GmbH",
@@ -825,45 +838,6 @@
       "postedDate": "2026-10-16T02:55:15.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/doctolib/principal-machine-learning-engineer-applied-ai-llms-berlin-berlin-429414"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zdHJlZXQtZ3JvdXAvc2VuaW9yLXBlb3BsZS1wYXJ0bmVyLW1hbmNoZXN0ZXItMjIwODgzfHNlbmlvciBwZW9wbGUgcGFydG5lcnxzdHJlZXQgZ3JvdXA",
-      "title": "Senior People Partner",
-      "company": "Street Group",
-      "location": "Manchester",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T02:40:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/street-group/senior-people-partner-manchester-220883"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vbmkvcHJvZHVjdC1tYW5hZ2VyLWtpdHMtYW5kLWludGVncmF0ZWQtd29ya2Zsb3dzLW94Zm9yZC1vbi1zaXRlLTQzNDY4fHByb2R1Y3QgbWFuYWdlciDigJQga2l0cyBhbmQgaW50ZWdyYXRlZCB3b3JrZmxvd3N8b25p",
-      "title": "Product Manager — Kits and Integrated Workflows",
-      "company": "Oni",
-      "location": "Oxford (On-site)",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T02:30:25.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/oni/product-manager-kits-and-integrated-workflows-oxford-on-site-43468"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy91c21vYmlsZS9zZW5pb3ItcHJvZHVjdC1kZXNpZ25lci1sb25kb24tNDI5OTY4fHNlbmlvciBwcm9kdWN0IGRlc2lnbmVyfHVzbW9iaWxl",
-      "title": "Senior Product Designer",
-      "company": "Usmobile",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T02:30:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/usmobile/senior-product-designer-london-429968"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2xpY2t1cC9yZW1vdGUtc2VuaW9yLWVuZ2FnZW1lbnQtbWFuYWdlci0yMTQxOTN8c2VuaW9yIGVuZ2FnZW1lbnQgbWFuYWdlcnxjbGlja3Vw",
@@ -1332,19 +1306,6 @@
       "postedDate": "2026-10-14T20:32:31.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/movares/senior-werktuigbouwkundig-adviseur-installatietechniek-utrecht-424964"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9tb3ZhcmVzL3Nlbmlvci1jb25zdHJ1Y3RldXItcm90dGVyZGFtLTE5NTU4N3xzZW5pb3IgY29uc3RydWN0ZXVyfG1vdmFyZXM",
-      "title": "Senior constructeur",
-      "company": "Movares",
-      "location": "Rotterdam, Zuid-Holland, Nederland",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-14T20:32:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/movares/senior-constructeur-rotterdam-195587"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9zd2lzc3BlYWstcGFydG5lcnMtZ21iaC9pb3QtZW1iZWRkZWQtc3lzdGVtcy1lbmdpbmVlci1iZXJuLTE5NDYwNXxpb3QgZW1iZWRkZWQgc3lzdGVtcyBlbmdpbmVlcnxzd2lzc3BlYWsgcGFydG5lcnMgZ21iaA",
