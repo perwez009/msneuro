@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T20:07:51.503Z",
+  "generatedAt": "2026-10-19T03:21:51.988Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93cHAvc2VuaW9yLXRlY2hub2xvZ3ktcmlzay1hbmFseXN0LTMyNjY4OXxzZW5pb3IgdGVjaG5vbG9neSByaXNrIGFuYWx5c3R8d3Bw",
+      "title": "Senior Technology Risk Analyst",
+      "company": "Wpp",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-18T23:55:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wpp/senior-technology-risk-analyst-326689"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9hbWYtYmFrZXJ5LXN5c3RlbXMtYnYvc2VuaW9yLWNvbnRyb2xzLWVuZ2luZWVyLWdvcmluY2hlbS00ODg4OTJ8c2VuaW9yIGNvbnRyb2xzIGVuZ2luZWVyfGFtZiBiYWtlcnkgc3lzdGVtcyBiLnYu",
+      "title": "Senior Controls Engineer",
+      "company": "AMF Bakery Systems B.V.",
+      "location": "Gorinchem, Zuid-Holland, Nederland",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-18T23:51:50.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-488892"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy91bmVhdC9pbmdlbmlldXItc2VjdXJpdGUtZW5kcG9pbnQtcG9zdGUtZGUtdHJhdmFpbC1jbGVybW9udC1mZXJyYW5kLTI0MDA4N3xpbmfDqW5pZXVyIHPDqWN1cml0w6kgZW5kcG9pbnQgLyBwb3N0ZSBkZSB0cmF2YWlsfHVuZWF0",
+      "title": "Ingénieur sécurité Endpoint / poste de travail",
+      "company": "UNEAT",
+      "location": "Clermont-Ferrand",
+      "workModel": "On-site",
+      "opportunityType": "Cdi - contrat à durée indéterminée, professionnel / expérimenté",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-18T20:00:50.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/uneat/ingenieur-securite-endpoint-poste-de-travail-clermont-ferrand-240087"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy91bmVhdC9pbmdlbmlldXItc2VjdXJpdGUtZW5kcG9pbnQtcG9zdGUtZGUtdHJhdmFpbC1seW9uLTU2MjQyfGluZ8OpbmlldXIgc8OpY3VyaXTDqSBlbmRwb2ludCAvIHBvc3RlIGRlIHRyYXZhaWx8dW5lYXQ",
+      "title": "Ingénieur sécurité Endpoint / poste de travail",
+      "company": "UNEAT",
+      "location": "Lyon",
+      "workModel": "On-site",
+      "opportunityType": "Cdi - contrat à durée indéterminée, professionnel / expérimenté",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-18T20:00:44.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/uneat/ingenieur-securite-endpoint-poste-de-travail-lyon-56242"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9jZGRzLWFnL2NvbnRyb2wtZmxpZ2h0LXRlc3QtZW5naW5lZXItenVyaWNoLTI5NTI1Mnxjb250cm9sICYgZmxpZ2h0IHRlc3QgZW5naW5lZXJ8Y2RkcyBhZw",
+      "title": "Control & Flight Test Engineer",
+      "company": "CDDS AG",
+      "location": "Zürich",
+      "workModel": "On-site",
+      "opportunityType": "Contract",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-18T19:31:01.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.ch/jobs/companies/cdds-ag/control-flight-test-engineer-zurich-295252"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9jZGRzLWFnL3Nlbmlvci12aXNpb24tcGVyY2VwdGlvbi1lbmdpbmVlci16dXJpY2gtMzkwMzYzfHNlbmlvciB2aXNpb24gJiBwZXJjZXB0aW9uIGVuZ2luZWVyfGNkZHMgYWc",
       "title": "Senior Vision & Perception Engineer",
@@ -19,19 +84,6 @@
       "postedDate": "2026-10-18T18:31:01.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.ch/jobs/companies/cdds-ag/senior-vision-perception-engineer-zurich-390363"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9jZGRzLWFnL3Nlbmlvci1zeXN0ZW0tc29mdHdhcmUtZW5naW5lZXItenVyaWNoLTI5NzQ1MHwoc2VuaW9yKSBzeXN0ZW0gc29mdHdhcmUgZW5naW5lZXJ8Y2RkcyBhZw",
-      "title": "(Senior) System software engineer",
-      "company": "CDDS AG",
-      "location": "Zürich",
-      "workModel": "On-site",
-      "opportunityType": "Contract",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-18T18:00:48.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.ch/jobs/companies/cdds-ag/senior-system-software-engineer-zurich-297450"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9mb3JtMy9zZW5pb3ItY2xvdWQtc2VjdXJpdHktZW5naW5lZXItYWktcmVzaWxpZW5jZS1zZWN1cml0eS1lbmhhbmNlbWVudHMtZml4ZWQtdGVybS1jb250cmFjdC04ODg4MnxzZW5pb3IgY2xvdWQgc2VjdXJpdHkgZW5naW5lZXIgLSBhaSByZXNpbGllbmNlICYgc2VjdXJpdHkgZW5oYW5jZW1lbnRzIChmaXhlZC10ZXJtIGNvbnRyYWN0KXxmb3JtMw",
@@ -515,32 +567,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/robco/engineering-manager-robot-intelligence-munich-433028"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy96eW5nYWNhcmVlcnMvc2VuaW9yLXByb2R1Y3QtbWFuYWdlci11bmFubm91bmNlZC1wcm9qZWN0LWxvbmRvbi0zNDU1ODl8c2VuaW9yIHByb2R1Y3QgbWFuYWdlciAtIHVuYW5ub3VuY2VkIHByb2plY3R8enluZ2FjYXJlZXJz",
-      "title": "Senior Product Manager - Unannounced Project",
-      "company": "Zyngacareers",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-17T02:55:20.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/senior-product-manager-unannounced-project-london-345589"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy96eW5nYWNhcmVlcnMvc2VuaW9yLXByb2R1Y2VyLXVuYW5ub3VuY2VkLXByb2plY3QtbG9uZG9uLTI1ODE5N3xzZW5pb3IgcHJvZHVjZXIgLSB1bmFubm91bmNlZCBwcm9qZWN0fHp5bmdhY2FyZWVycw",
-      "title": "Senior Producer - Unannounced Project",
-      "company": "Zyngacareers",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-17T02:55:20.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/senior-producer-unannounced-project-london-258197"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9qZXRicmFpbnMvc3RhZmYtZm9yd2FyZC1kZXBsb3llZC1lbmdpbmVlci1haS1uYXRpdmUtc29mdHdhcmUtZGV2ZWxvcG1lbnQtYW1zdGVyZGFtLTMyNjM4OXxzdGFmZiBmb3J3YXJkIGRlcGxveWVkIGVuZ2luZWVyIOKAkyBhaS1uYXRpdmUgc29mdHdhcmUgZGV2ZWxvcG1lbnR8amV0YnJhaW5z",
       "title": "Staff Forward Deployed Engineer – AI-Native Software Development",
       "company": "jetbrains",
@@ -643,19 +669,6 @@
       "postedDate": "2026-10-16T17:55:37.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/skdse/director-minerva-frontline-all-genders-munich-bavaria-455573"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWFwYm94L3RlY2huaWNhbC1wcm9ncmFtLW1hbmFnZXItaWlpLWF1dG9tb3RpdmUtbWFwYm94LWdlcm1hbnktNTI4NzN8dGVjaG5pY2FsIHByb2dyYW0gbWFuYWdlciBpaWksIGF1dG9tb3RpdmV8bWFwYm94",
-      "title": "Technical Program Manager III, Automotive",
-      "company": "Mapbox",
-      "location": "Mapbox Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T17:40:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/mapbox/technical-program-manager-iii-automotive-mapbox-germany-52873"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9ldmVyYWkvcHJvZHVjdC1tYW5hZ2VyLXRydXN0LXNhZmV0eS1mdWxsLXJlbW90ZS1uZXRoZXJsYW5kcy05NDAwN3xwcm9kdWN0IG1hbmFnZXIgLSB0cnVzdCAmIHNhZmV0eSAoZnVsbCByZW1vdGUgLSBuZXRoZXJsYW5kcyl8ZXZlcmFp",
@@ -892,19 +905,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/unive/senior-business-informatie-analist-omnichannel-salesfunnels-zwolle-456959"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy91bml2ZS9pbnRlcmltLXNlbmlvci1idXNpbmVzcy1jaGFuZ2UtbWFuYWdlci1zbGllZHJlY2h0LTQ0NTA4fGludGVyaW0gc2VuaW9yIGJ1c2luZXNzIGNoYW5nZSBtYW5hZ2VyfHVuaXbDqQ",
-      "title": "Interim Senior Business Change Manager",
-      "company": "Univé",
-      "location": "Sliedrecht, Zuid-Holland, Nederland",
-      "workModel": "On-site",
-      "opportunityType": "Temporary",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-14T20:32:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/unive/interim-senior-business-change-manager-sliedrecht-44508"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy91bml2ZS9hcmNoaXRlY3QtZGF0YS1haS16d29sbGUtMzY4Njl8YXJjaGl0ZWN0IGRhdGEgJiBhaXx1bml2w6k",
       "title": "Architect Data & AI",
       "company": "Univé",
@@ -942,71 +942,6 @@
       "postedDate": "2026-10-14T20:32:32.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/centric/allround-software-engineer-gouda-326062"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9jZW50cmljL3N0YWdlLW1hcmtldGluZy1yZXRhaWwtZW4tbG9naXN0aWVrLWdvdWRhLTMzODY4N3xzdGFnZTogbWFya2V0aW5nIHJldGFpbCBlbiBsb2dpc3RpZWt8Y2VudHJpYw",
-      "title": "Stage: Marketing Retail en Logistiek",
-      "company": "Centric",
-      "location": "Gouda, Zuid-Holland, Nederland",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-14T20:32:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/centric/stage-marketing-retail-en-logistiek-gouda-338687"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9jZW50cmljL3Nlbmlvci10aGlua3dpc2UtY29uc3VsdGFudC1nb3VkYS0yNzE2MTJ8c2VuaW9yIHRoaW5rd2lzZSBjb25zdWx0YW50fGNlbnRyaWM",
-      "title": "Senior Thinkwise Consultant",
-      "company": "Centric",
-      "location": "Gouda, Zuid-Holland, Nederland",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-14T20:32:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/centric/senior-thinkwise-consultant-gouda-271612"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9jZW50cmljL3Nlbmlvci1maW5hbmNpYWwtY29udHJvbGxlci1jb29yZGluYXRvci1wbGFubmluZy1jb250cm9sLWdlbWVlbnRlLW1pZGRlbi1uZWRlcmxhbmQtYWxtZXJlLTE3NjgyfHNlbmlvciBmaW5hbmNpYWwgY29udHJvbGxlciAmIGNvw7ZyZGluYXRvciBwbGFubmluZyAmIGNvbnRyb2wgZ2VtZWVudGUgKG1pZGRlbi1uZWRlcmxhbmQpfGNlbnRyaWM",
-      "title": "Senior Financial Controller & Coördinator Planning & Control Gemeente (Midden-Nederland)",
-      "company": "Centric",
-      "location": "Almere, Flevoland, Nederland",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-14T20:32:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/centric/senior-financial-controller-coordinator-planning-control-gemeente-midden-nederland-almere-17682"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9jZW50cmljL3Nlbmlvci1wbGFubmVyLWdvdWRhLTE5Mzk2OXxzZW5pb3IgcGxhbm5lcnxjZW50cmlj",
-      "title": "Senior Planner",
-      "company": "Centric",
-      "location": "Gouda, Zuid-Holland, Nederland",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-14T20:32:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/centric/senior-planner-gouda-193969"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9jZW50cmljL3RlY2huaWNhbC1sZWFkLXNvZnR3YXJlLWVuZ2luZWVyaW5nLWdvdWRhLTE2MTYwOHx0ZWNobmljYWwgbGVhZCBzb2Z0d2FyZSBlbmdpbmVlcmluZ3xjZW50cmlj",
-      "title": "Technical Lead Software Engineering",
-      "company": "Centric",
-      "location": "Gouda, Zuid-Holland, Nederland",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-14T20:32:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/centric/technical-lead-software-engineering-gouda-161608"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MjIzNjA1MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSBuZXcgeW9yayBjaXR5fG5ldXJvcGFjZQ",
