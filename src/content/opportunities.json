@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T03:21:51.988Z",
+  "generatedAt": "2026-10-19T12:11:35.184Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,45 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvcHJha3Rpa2FudGluLWNmby1vZmZpY2UtaGFtYnVyZy00NTM2MDh8cHJha3Rpa2FudDppbiAtIGNmbyBvZmZpY2UgKG0vdy9kKXwxa29tbWE1y5o",
+      "title": "Praktikant:in - CFO Office (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-19T06:30:49.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/praktikantin-cfo-office-hamburg-453608"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS9zdW1tZXItaW50ZXJuLTIwMjctbG9uZG9uLTIxOTM4MXxzdW1tZXIgaW50ZXJuIDIwMjd8bGVuZGFibGU",
+      "title": "Summer Intern 2027",
+      "company": "Lendable",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-19T05:40:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/summer-intern-2027-london-219381"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS9jcmVkaXQtYW5hbHlzdC1pbnRlcm4tanVuZS0yMDI3LWxvbmRvbi02NTQxMHxjcmVkaXQgYW5hbHlzdCBpbnRlcm4gKGp1bmUgMjAyNyl8bGVuZGFibGU",
+      "title": "Credit Analyst Intern (June 2027)",
+      "company": "Lendable",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-19T05:40:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/credit-analyst-intern-june-2027-london-65410"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93cHAvc2VuaW9yLXRlY2hub2xvZ3ktcmlzay1hbmFseXN0LTMyNjY4OXxzZW5pb3IgdGVjaG5vbG9neSByaXNrIGFuYWx5c3R8d3Bw",
       "title": "Senior Technology Risk Analyst",
@@ -45,19 +84,6 @@
       "postedDate": "2026-10-18T20:00:50.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/uneat/ingenieur-securite-endpoint-poste-de-travail-clermont-ferrand-240087"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy91bmVhdC9pbmdlbmlldXItc2VjdXJpdGUtZW5kcG9pbnQtcG9zdGUtZGUtdHJhdmFpbC1seW9uLTU2MjQyfGluZ8OpbmlldXIgc8OpY3VyaXTDqSBlbmRwb2ludCAvIHBvc3RlIGRlIHRyYXZhaWx8dW5lYXQ",
-      "title": "Ingénieur sécurité Endpoint / poste de travail",
-      "company": "UNEAT",
-      "location": "Lyon",
-      "workModel": "On-site",
-      "opportunityType": "Cdi - contrat à durée indéterminée, professionnel / expérimenté",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-18T20:00:44.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/uneat/ingenieur-securite-endpoint-poste-de-travail-lyon-56242"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9jZGRzLWFnL2NvbnRyb2wtZmxpZ2h0LXRlc3QtZW5naW5lZXItenVyaWNoLTI5NTI1Mnxjb250cm9sICYgZmxpZ2h0IHRlc3QgZW5naW5lZXJ8Y2RkcyBhZw",
@@ -320,19 +346,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/nomios/senior-security-engineering-consultant-basingstoke-88283"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGlkZS93ZXJrc3R1ZGVudGluLW9wZXJhdGlvbnMtb2ZmaWNlLW1hbmFnZW1lbnQtYmVybGluLTM2OTI5N3x3ZXJrc3R1ZGVudDppbiAobS93L2QpIOKAkyBvcGVyYXRpb25zICYgb2ZmaWNlIG1hbmFnZW1lbnR8dGlkZQ",
-      "title": "Werkstudent:in (m/w/d) – Operations & Office Management",
-      "company": "tide",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-18T05:55:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/tide/werkstudentin-operations-office-management-berlin-369297"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90aWRlL2RpcmVjdG9yLW9mLWZpbmFuY2lhbC1yaXNrLTYwNjMxfGRpcmVjdG9yIG9mIGZpbmFuY2lhbCByaXNrfHRpZGU",
       "title": "Director of Financial Risk",
       "company": "tide",
@@ -344,6 +357,19 @@
       "postedDate": "2026-10-18T05:55:21.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/tide/director-of-financial-risk-60631"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGlkZS93ZXJrc3R1ZGVudGluLW9wZXJhdGlvbnMtb2ZmaWNlLW1hbmFnZW1lbnQtYmVybGluLTM2OTI5N3x3ZXJrc3R1ZGVudDppbiAobS93L2QpIOKAkyBvcGVyYXRpb25zICYgb2ZmaWNlIG1hbmFnZW1lbnR8dGlkZQ",
+      "title": "Werkstudent:in (m/w/d) – Operations & Office Management",
+      "company": "tide",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-18T05:55:21.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/tide/werkstudentin-operations-office-management-berlin-369297"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9za3l0ZWFtL2RpcmVjdG9yLXJlc2VhcmNoLWRldmVsb3BtZW50LWFtc3RlbHZlZW4tMzMxMjI2fGRpcmVjdG9yIHJlc2VhcmNoICYgZGV2ZWxvcG1lbnR8c2t5dGVhbQ",
@@ -502,45 +528,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/machine-learning-engineering-manager-london-162059"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdHJhd2EvbWFya2V0aW5nLWFzc29jaWF0ZS1zcGVjaWFsLXByb2plY3RzLWV2ZW50cy1iZXJsaW4tNDk3NDI1fG1hcmtldGluZyBhc3NvY2lhdGUg4oCTIHNwZWNpYWwgcHJvamVjdHMgJiBldmVudHN8dHJhd2E",
-      "title": "Marketing Associate – Special Projects & Events",
-      "company": "trawa",
-      "location": "Berlin HQ",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-17T11:40:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/trawa/marketing-associate-special-projects-events-berlin-497425"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd2Vtb2xvL3RlY2gtcmVjcnVpdGVyLWFsbC1nZW5kZXJzLW11bmNoZW4tNDk4NTkzfHRlY2ggcmVjcnVpdGVyIChhbGwgZ2VuZGVycyl8d2Vtb2xv",
-      "title": "Tech Recruiter (all genders)",
-      "company": "Wemolo",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-17T11:40:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/wemolo/tech-recruiter-all-genders-munchen-498593"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd2Vtb2xvL2hlYWQtb2YtZmluYW5jZS1hY2NvdW50aW5nLWFsbC1nZW5kZXJzLW11bmNoZW4tMzY4NTc0fGhlYWQgb2YgZmluYW5jZSAmIGFjY291bnRpbmcgKGFsbCBnZW5kZXJzKXx3ZW1vbG8",
-      "title": "Head of Finance & Accounting (all genders)",
-      "company": "Wemolo",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-17T11:40:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/wemolo/head-of-finance-accounting-all-genders-munchen-368574"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9xdWFudHdhcmUvZGlyZWN0b3Itb2Ytc2FsZXMtZGVsZnQtNzM0ODZ8ZGlyZWN0b3Igb2Ygc2FsZXN8cXVhbnR3YXJl",
       "title": "Director of Sales",
       "company": "Quantware",
@@ -554,19 +541,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/quantware/director-of-sales-delft-73486"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcm9iY28vZW5naW5lZXJpbmctbWFuYWdlci1yb2JvdC1pbnRlbGxpZ2VuY2UtbXVuaWNoLTQzMzAyOHxlbmdpbmVlcmluZyBtYW5hZ2VyIOKAkyByb2JvdCBpbnRlbGxpZ2VuY2V8cm9iY28",
-      "title": "Engineering Manager – Robot Intelligence",
-      "company": "RobCo",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-17T05:40:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/robco/engineering-manager-robot-intelligence-munich-433028"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9qZXRicmFpbnMvc3RhZmYtZm9yd2FyZC1kZXBsb3llZC1lbmdpbmVlci1haS1uYXRpdmUtc29mdHdhcmUtZGV2ZWxvcG1lbnQtYW1zdGVyZGFtLTMyNjM4OXxzdGFmZiBmb3J3YXJkIGRlcGxveWVkIGVuZ2luZWVyIOKAkyBhaS1uYXRpdmUgc29mdHdhcmUgZGV2ZWxvcG1lbnR8amV0YnJhaW5z",
       "title": "Staff Forward Deployed Engineer – AI-Native Software Development",
       "company": "jetbrains",
@@ -578,97 +552,6 @@
       "postedDate": "2026-10-16T23:55:21.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/jetbrains/staff-forward-deployed-engineer-ai-native-software-development-amsterdam-326389"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3N0YWZmLWZvcndhcmQtZGVwbG95ZWQtZW5naW5lZXItYWktbmF0aXZlLXNvZnR3YXJlLWRldmVsb3BtZW50LWJlcmxpbi1tdW5pY2gtMjczMzEzfHN0YWZmIGZvcndhcmQgZGVwbG95ZWQgZW5naW5lZXIg4oCTIGFpLW5hdGl2ZSBzb2Z0d2FyZSBkZXZlbG9wbWVudHxqZXRicmFpbnM",
-      "title": "Staff Forward Deployed Engineer – AI-Native Software Development",
-      "company": "jetbrains",
-      "location": "Berlin; Munich",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T23:55:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/staff-forward-deployed-engineer-ai-native-software-development-berlin-munich-273313"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3Nlbmlvci13ZWItdXgtdWktZGVzaWduZXItYmVybGluLW11bmljaC0zMTYyOTd8c2VuaW9yIHdlYiB1eC91aSBkZXNpZ25lcnxqZXRicmFpbnM",
-      "title": "Senior Web UX/UI Designer",
-      "company": "jetbrains",
-      "location": "Berlin; Munich",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T23:55:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-web-ux-ui-designer-berlin-munich-316297"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYmphay9tYWNoaW5lLWxlYXJuaW5nLWVuZ2luZWVyLWFwcGxpZWQtYWktZ2VybWFueS0zNzE4Mjd8bWFjaGluZSBsZWFybmluZyBlbmdpbmVlciwgYXBwbGllZCBhaXxiamFr",
-      "title": "Machine Learning Engineer, Applied AI",
-      "company": "Bjak",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T23:40:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/machine-learning-engineer-applied-ai-germany-371827"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWxlcGhhbHBoYS9zZW5pb3ItYWktcmQtZW5naW5lZXItcGVyZm9ybWFuY2UtcHJlLXRyYWluaW5nLWhlaWRlbGJlcmctMTE5OTg2fHNlbmlvciBhaSByJmQgZW5naW5lZXIgLSBwZXJmb3JtYW5jZSAtIHByZS10cmFpbmluZyAoZi9tL2QpfGFsZXBoYWxwaGE",
-      "title": "Senior AI R&D Engineer - Performance - Pre-training (f/m/d)",
-      "company": "Alephalpha",
-      "location": "Heidelberg",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T20:40:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/alephalpha/senior-ai-rd-engineer-performance-pre-training-heidelberg-119986"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaGVsbG9mcmVzaC9kaXJlY3Rvci11eC1kZXNpZ24tYmVybGluLWJlcmxpbi05MDE1MXxkaXJlY3RvciB1eCBkZXNpZ258aGVsbG9mcmVzaA",
-      "title": "Director UX Design",
-      "company": "hellofresh",
-      "location": "Berlin, Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T17:55:37.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/director-ux-design-berlin-berlin-90151"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2tkc2UvZGlyZWN0b3ItbWluZXJ2YS1mcm9udGxpbmUtYWxsLWdlbmRlcnMtYmVybGluLTE0Mjg4MXxkaXJlY3RvciBtaW5lcnZhIGZyb250bGluZSAoYWxsIGdlbmRlcnMpfHNrZHNl",
-      "title": "Director Minerva Frontline (All genders)",
-      "company": "Skdse",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T17:55:37.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/director-minerva-frontline-all-genders-berlin-142881"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2tkc2UvZGlyZWN0b3ItbWluZXJ2YS1mcm9udGxpbmUtYWxsLWdlbmRlcnMtbXVuaWNoLWJhdmFyaWEtNDU1NTczfGRpcmVjdG9yIG1pbmVydmEgZnJvbnRsaW5lIChhbGwgZ2VuZGVycyl8c2tkc2U",
-      "title": "Director Minerva Frontline (All genders)",
-      "company": "Skdse",
-      "location": "Munich, Bavaria",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T17:55:37.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/director-minerva-frontline-all-genders-munich-bavaria-455573"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9ldmVyYWkvcHJvZHVjdC1tYW5hZ2VyLXRydXN0LXNhZmV0eS1mdWxsLXJlbW90ZS1uZXRoZXJsYW5kcy05NDAwN3xwcm9kdWN0IG1hbmFnZXIgLSB0cnVzdCAmIHNhZmV0eSAoZnVsbCByZW1vdGUgLSBuZXRoZXJsYW5kcyl8ZXZlcmFp",
