@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:00:35.251Z",
+  "generatedAt": "2026-10-20T03:30:36.915Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy91bml2ZS9kYXRhLWVuZ2luZWVyLXp3b2xsZS04Mjk3N3xkYXRhIGVuZ2luZWVyfHVuaXbDqQ",
+      "title": "Data Engineer",
+      "company": "Univé",
+      "location": "Zwolle, Overijssel, Nederland",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-20T02:31:51.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.nl/jobs/companies/unive/data-engineer-zwolle-82977"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9kdXJhLXZlcm1lZXIvcmVtb3RlLXNlbmlvci11aXR2b2VyZGVyLWthYmVscy1sZWlkaW5nZW4tcmFpbGluZnJhLXV0cmVjaHQtNDA2NzczfHNlbmlvciB1aXR2b2VyZGVyIGthYmVscyAmIGxlaWRpbmdlbiByYWlsaW5mcmF8ZHVyYSB2ZXJtZWVy",
+      "title": "Senior Uitvoerder kabels & leidingen Railinfra",
+      "company": "Dura Vermeer",
+      "location": "Werken op afstand",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-20T02:31:50.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.nl/jobs/companies/dura-vermeer/remote-senior-uitvoerder-kabels-leidingen-railinfra-utrecht-406773"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yaXZlcmxhbmUvc29mdHdhcmUtZW5naW5lZXJpbmctaW50ZXJuc2hpcC0yMDI3LWNhbWJyaWRnZS02ODcxM3xzb2Z0d2FyZSBlbmdpbmVlcmluZyBpbnRlcm5zaGlwIDIwMjd8cml2ZXJsYW5l",
+      "title": "Software Engineering Internship 2027",
+      "company": "Riverlane",
+      "location": "Cambridge",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-19T23:55:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/riverlane/software-engineering-internship-2027-cambridge-68713"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9taXN0cmFsYWkvYXBwbGllZC1zY2llbmNlLXJlc2VhcmNoLWVuZ2luZWVyLXJvYm90aWNzLXBhcmlzLTEzNzgzNXxhcHBsaWVkIHNjaWVuY2UgLSByZXNlYXJjaCBlbmdpbmVlciAocm9ib3RpY3MpfG1pc3RyYWwuYWk",
+      "title": "Applied Science - Research Engineer (Robotics)",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-19T23:40:18.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-science-research-engineer-robotics-paris-137835"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hdGxhbnRpY3ZjL2NvbXB1dGF0aW9uYWwtY2hlbWlzdC1nbi1hdC1jaGVtaXN0cnktYWktdmVudHVyZS1sb25kb24tMTQ4NjU2fGNvbXB1dGF0aW9uYWwgY2hlbWlzdCAoZ24pIEAgY2hlbWlzdHJ5IGFpIHZlbnR1cmUsIGxvbmRvbnxhdGxhbnRpYy52Yw",
       "title": "Computational Chemist (gn) @ Chemistry AI Venture, London",
@@ -554,58 +606,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/resolvetosavelives/senior-technical-advisor-data-use-and-decision-science-us-rwanda-nigeria-india-france-ethiopia-drc-74583"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9tb2RlbC12YWxpZGF0aW9uLXNlbmlvci1tYW5hZ2VyLWNhcmRpZmYtMTU1Mzg4fG1vZGVsIHZhbGlkYXRpb24gc2VuaW9yIG1hbmFnZXJ8bW9uem8",
-      "title": "Model Validation Senior Manager",
-      "company": "Monzo",
-      "location": "Cardiff",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-17T14:55:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/model-validation-senior-manager-cardiff-155388"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9saWxhc2NpZW5jZXMvc3RhZmYtcHJpbmNpcGFsLXNlY3VyaXR5LWVuZ2luZWVyLWFpLXNhZmV0eS1hbmQtc2VjdXJpdHktbG9uZG9uLTEzNjQ5OXxzdGFmZiAvIHByaW5jaXBhbCBzZWN1cml0eSBlbmdpbmVlciwgYWkgc2FmZXR5IGFuZCBzZWN1cml0eXxsaWxhc2NpZW5jZXM",
-      "title": "Staff / Principal Security Engineer, AI Safety and Security",
-      "company": "Lilasciences",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-17T14:55:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lilasciences/staff-principal-security-engineer-ai-safety-and-security-london-136499"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9qdW5pb3ItYWkvaGVhZC1vZi1maW5hbmNlLWxvbmRvbi0yMzk0OTJ8aGVhZCBvZiBmaW5hbmNlfGp1bmlvciBhaQ",
-      "title": "Head of Finance",
-      "company": "Junior AI",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-17T14:40:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/junior-ai/head-of-finance-london-239492"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90cmFpbmxpbmUvbWFjaGluZS1sZWFybmluZy1lbmdpbmVlcmluZy1tYW5hZ2VyLWxvbmRvbi0xNjIwNTl8bWFjaGluZSBsZWFybmluZyBlbmdpbmVlcmluZyBtYW5hZ2VyfHRyYWlubGluZQ",
-      "title": "Machine Learning Engineering Manager",
-      "company": "Trainline",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-17T14:40:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/machine-learning-engineering-manager-london-162059"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9xdWFudHdhcmUvZGlyZWN0b3Itb2Ytc2FsZXMtZGVsZnQtNzM0ODZ8ZGlyZWN0b3Igb2Ygc2FsZXN8cXVhbnR3YXJl",
       "title": "Director of Sales",
       "company": "Quantware",
@@ -838,45 +838,6 @@
       "postedDate": "2026-10-14T20:32:32.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/adesso-netherlands/lead-software-engineering-utrecht-479562"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy91bml2ZS9zcGVjaWFsaXN0LXByb2R1Y3RvbnR3aWtrZWxpbmctcGFydGljdWxpZXJlLXZlcnpla2VyaW5nZW4tYXNzZW4tOTUxMjB8c3BlY2lhbGlzdCBwcm9kdWN0b250d2lra2VsaW5nIHBhcnRpY3VsaWVyZSB2ZXJ6ZWtlcmluZ2VufHVuaXbDqQ",
-      "title": "Specialist Productontwikkeling particuliere Verzekeringen",
-      "company": "Univé",
-      "location": "Assen, Drenthe, Nederland",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-14T20:32:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/unive/specialist-productontwikkeling-particuliere-verzekeringen-assen-95120"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy91bml2ZS9zZW5pb3ItYnVzaW5lc3MtaW5mb3JtYXRpZS1hbmFsaXN0LW9tbmljaGFubmVsLXNhbGVzZnVubmVscy16d29sbGUtNDU2OTU5fHNlbmlvciBidXNpbmVzcyBpbmZvcm1hdGllLWFuYWxpc3QgLSBvbW5pY2hhbm5lbCBzYWxlc2Z1bm5lbHN8dW5pdsOp",
-      "title": "Senior Business Informatie-analist - Omnichannel Salesfunnels",
-      "company": "Univé",
-      "location": "Zwolle, Overijssel, Nederland",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-14T20:32:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/unive/senior-business-informatie-analist-omnichannel-salesfunnels-zwolle-456959"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy91bml2ZS9hcmNoaXRlY3QtZGF0YS1haS16d29sbGUtMzY4Njl8YXJjaGl0ZWN0IGRhdGEgJiBhaXx1bml2w6k",
-      "title": "Architect Data & AI",
-      "company": "Univé",
-      "location": "Zwolle, Overijssel, Nederland",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-14T20:32:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/unive/architect-data-ai-zwolle-36869"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MjIzNjA1MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSBuZXcgeW9yayBtZXRyb3xuZXVyb3BhY2U",
