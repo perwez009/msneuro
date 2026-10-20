@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T03:30:36.915Z",
+  "generatedAt": "2026-10-20T10:57:14.015Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,110 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy96c2NhbGVyL3Nlbmlvci1zYWxlcy1lbmdpbmVlci11ay00ODk0Njd8c2VuaW9yIHNhbGVzIGVuZ2luZWVyIC0gdWt8enNjYWxlcg",
+      "title": "Senior Sales Engineer - UK",
+      "company": "zscaler",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-20T08:55:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/senior-sales-engineer-uk-489467"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW50aHJvcGljL2VudGVycHJpc2UtYWNjb3VudC1leGVjdXRpdmUtZGlnaXRhbC1uYXRpdmUtYnVzaW5lc3MtbXVuaWNoLTUxNTg0fGVudGVycHJpc2UgYWNjb3VudCBleGVjdXRpdmUsIGRpZ2l0YWwgbmF0aXZlIGJ1c2luZXNzIC0gbXVuaWNofGFudGhyb3BpYw",
+      "title": "Enterprise Account Executive, Digital Native Business - Munich",
+      "company": "anthropic",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-20T08:55:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/anthropic/enterprise-account-executive-digital-native-business-munich-51584"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hbnRocm9waWMvbWFuYWdlci1vZi1hcHBsaWVkLWFpLWFyY2hpdGVjdHVyZS1pbmR1c3RyaWVzLXBhcmlzLTc1ODl8bWFuYWdlciBvZiBhcHBsaWVkIGFpIGFyY2hpdGVjdHVyZSwgaW5kdXN0cmllc3xhbnRocm9waWM",
+      "title": "Manager of Applied AI Architecture, Industries",
+      "company": "anthropic",
+      "location": "Paris",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-20T08:55:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/anthropic/manager-of-applied-ai-architecture-industries-paris-7589"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jb2Rlci9oci1nZW5lcmFsaXN0LWxvbmRvbi0xMDU3NjB8aHIgZ2VuZXJhbGlzdCAobG9uZG9uKXxjb2Rlcg",
+      "title": "HR Generalist (London)",
+      "company": "Coder",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-20T08:40:18.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/hr-generalist-london-105760"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9kZXdhcm10ZS9yZW1vdGUtaG9vZmRtb250ZXVyLXdhcm10ZXBvbXBlbi04NTAyMnxob29mZG1vbnRldXIgd2FybXRlcG9tcGVufGRld2FybXRl",
+      "title": "Hoofdmonteur Warmtepompen",
+      "company": "DeWarmte",
+      "location": "Remote",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-20T08:40:18.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.nl/jobs/companies/dewarmte/remote-hoofdmonteur-warmtepompen-85022"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9pb25xL3Nlbmlvci1jcnlvZ2VuaWMtZW5naW5lZXItZ2VuZXZhLTM5MDcxMnxzZW5pb3IgY3J5b2dlbmljIGVuZ2luZWVyfGlvbnE",
+      "title": "Senior Cryogenic Engineer",
+      "company": "ionq",
+      "location": "Geneva",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-20T05:55:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.ch/jobs/companies/ionq/senior-cryogenic-engineer-geneva-390712"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zYWxpZW5jZS1sYWJzL2xlYWQtcGhvdG9uaWNzLWRlc2lnbi1lbmdpbmVlci1paWktdi1jb21wb25lbnRzLW94Zm9yZC0zNzg1NjF8bGVhZCBwaG90b25pY3MgZGVzaWduIGVuZ2luZWVyIC0gaWlpL3YgY29tcG9uZW50c3xzYWxpZW5jZSBsYWJz",
+      "title": "Lead Photonics Design Engineer - III/V Components",
+      "company": "Salience Labs",
+      "location": "Oxford, United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-20T05:40:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/salience-labs/lead-photonics-design-engineer-iii-v-components-oxford-378561"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy91aXBhdGgvZW50ZXJwcmlzZS1zYWxlcy1leGVjdXRpdmUtbWFudWZhY3R1cmluZy1sb25kb24tNDI2Mjk1fGVudGVycHJpc2Ugc2FsZXMgZXhlY3V0aXZlLCBtYW51ZmFjdHVyaW5nfHVpcGF0aA",
+      "title": "Enterprise Sales Executive, Manufacturing",
+      "company": "UiPath",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-20T05:40:19.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/uipath/enterprise-sales-executive-manufacturing-london-426295"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy91bml2ZS9kYXRhLWVuZ2luZWVyLXp3b2xsZS04Mjk3N3xkYXRhIGVuZ2luZWVyfHVuaXbDqQ",
       "title": "Data Engineer",
@@ -424,45 +528,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/cortex-reply/finops-data-analyst-consultant-munich-189989"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcm9vbXByaWNlZ2VuaWUvcmVtb3RlLW1hbmFnZXItZGlyZWN0b3ItcGFydG5lcnNoaXBzLWRhY2gtMjAxNjE0fHJlbW90ZSBtYW5hZ2VyIChkaXJlY3RvcikgcGFydG5lcnNoaXBzIGRhY2ggKG0vZi9kKXxyb29tcHJpY2VnZW5pZQ",
-      "title": "Remote Manager (Director) Partnerships DACH (m/f/d)",
-      "company": "Roompricegenie",
-      "location": "Remote Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-18T08:40:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-manager-director-partnerships-dach-201614"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcm9vbXByaWNlZ2VuaWUvcmVtb3RlLWhlYWQtb2YtdXgtNzU1NDh8cmVtb3RlIGhlYWQgb2YgdXggKG0vZi9kKXxyb29tcHJpY2VnZW5pZQ",
-      "title": "Remote Head of UX (m/f/d)",
-      "company": "Roompricegenie",
-      "location": "Remote Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-18T08:40:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-head-of-ux-75548"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcm9vbXByaWNlZ2VuaWUvcmVtb3RlLXNhbGVzLWRldmVsb3BtZW50LXJlcHJlc2VudGF0aXZlLWdlcm1hbnktODI3MXxyZW1vdGUgc2FsZXMgZGV2ZWxvcG1lbnQgcmVwcmVzZW50YXRpdmUgZ2VybWFueSAobS9mL2QpfHJvb21wcmljZWdlbmll",
-      "title": "Remote Sales Development Representative Germany (m/f/d)",
-      "company": "Roompricegenie",
-      "location": "Remote Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-18T08:40:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-sales-development-representative-germany-8271"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90aGUtZW50b3VyYWdlLWdyb3VwL21yLXBvcnRlci1sb25kb24tcGFzdHJ5LXNlbmlvci1jaGVmLWRlLXBhcnRpZS0yOTc3MTV8bXIgcG9ydGVyIGxvbmRvbiAtIHBhc3RyeSBzZW5pb3IgY2hlZiBkZSBwYXJ0aWV8dGhlIGVudG91cmFnZSBncm91cA",
       "title": "MR PORTER LONDON - Pastry Senior Chef de Partie",
       "company": "THE ENTOURAGE GROUP",
@@ -513,19 +578,6 @@
       "postedDate": "2026-10-18T05:55:21.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/tide/director-of-financial-risk-60631"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGlkZS93ZXJrc3R1ZGVudGluLW9wZXJhdGlvbnMtb2ZmaWNlLW1hbmFnZW1lbnQtYmVybGluLTM2OTI5N3x3ZXJrc3R1ZGVudDppbiAobS93L2QpIOKAkyBvcGVyYXRpb25zICYgb2ZmaWNlIG1hbmFnZW1lbnR8dGlkZQ",
-      "title": "Werkstudent:in (m/w/d) – Operations & Office Management",
-      "company": "tide",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-18T05:55:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/tide/werkstudentin-operations-office-management-berlin-369297"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9za3l0ZWFtL2RpcmVjdG9yLXJlc2VhcmNoLWRldmVsb3BtZW50LWFtc3RlbHZlZW4tMzMxMjI2fGRpcmVjdG9yIHJlc2VhcmNoICYgZGV2ZWxvcG1lbnR8c2t5dGVhbQ",
@@ -580,32 +632,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/payter-bv/product-owner-rotterdam-432962"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wbGVvL2FuYWx5dGljcy1lbmdpbmVlci11bml0ZWQta2luZ2RvbS00Mzg0NTR8YW5hbHl0aWNzIGVuZ2luZWVyfHBsZW8",
-      "title": "Analytics Engineer",
-      "company": "Pleo",
-      "location": "United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-17T20:40:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/analytics-engineer-united-kingdom-438454"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yZXNvbHZldG9zYXZlbGl2ZXMvc2VuaW9yLXRlY2huaWNhbC1hZHZpc29yLWRhdGEtdXNlLWFuZC1kZWNpc2lvbi1zY2llbmNlLXVzLXJ3YW5kYS1uaWdlcmlhLWluZGlhLWZyYW5jZS1ldGhpb3BpYS1kcmMtNzQ1ODN8c2VuaW9yIHRlY2huaWNhbCBhZHZpc29yLCBkYXRhIHVzZSBhbmQgZGVjaXNpb24gc2NpZW5jZXxyZXNvbHZldG9zYXZlbGl2ZXM",
-      "title": "Senior Technical Advisor, Data Use and Decision Science",
-      "company": "Resolvetosavelives",
-      "location": "US, Rwanda, Nigeria, India, France, Ethiopia, DRC",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-17T17:55:20.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/resolvetosavelives/senior-technical-advisor-data-use-and-decision-science-us-rwanda-nigeria-india-france-ethiopia-drc-74583"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9xdWFudHdhcmUvZGlyZWN0b3Itb2Ytc2FsZXMtZGVsZnQtNzM0ODZ8ZGlyZWN0b3Igb2Ygc2FsZXN8cXVhbnR3YXJl",
       "title": "Director of Sales",
       "company": "Quantware",
@@ -643,32 +669,6 @@
       "postedDate": "2026-10-16T05:40:18.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/everai/product-manager-trust-safety-full-remote-netherlands-94007"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLWxpZmVjeWNsZS1tYXJrZXRpbmctbWFuYWdlci1mdWxsLXJlbW90ZS1uZXRoZXJsYW5kcy0zNDY0MTl8c2VuaW9yIGxpZmVjeWNsZSBtYXJrZXRpbmcgbWFuYWdlciAoZnVsbCByZW1vdGUgLSBuZXRoZXJsYW5kcyl8ZXZlcmFp",
-      "title": "Senior Lifecycle Marketing Manager (Full Remote - Netherlands)",
-      "company": "EverAI",
-      "location": "Netherlands",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T05:40:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/everai/senior-lifecycle-marketing-manager-full-remote-netherlands-346419"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLXBlcmZvcm1hbmNlLW1hcmtldGVyLWZ1bGwtcmVtb3RlLW5ldGhlcmxhbmRzLTQwMDQ2OXxzZW5pb3IgcGVyZm9ybWFuY2UgbWFya2V0ZXIgKGZ1bGwgcmVtb3RlIC0gbmV0aGVybGFuZHMpfGV2ZXJhaQ",
-      "title": "Senior Performance Marketer (Full Remote - Netherlands)",
-      "company": "EverAI",
-      "location": "Netherlands",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-16T05:40:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/everai/senior-performance-marketer-full-remote-netherlands-400469"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9jcmlzcC9tYW5hZ2VyLW9wZXJhdGlvbnMtcGxhbm5pbmctcGVyZm9ybWFuY2UtYW1zdGVyZGFtLTM1OTk5MnxtYW5hZ2VyIG9wZXJhdGlvbnMgcGxhbm5pbmcgJiBwZXJmb3JtYW5jZXxjcmlzcA",
@@ -825,19 +825,6 @@
       "postedDate": "2026-10-14T20:32:33.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/adesso-netherlands/microsoft-ai-consultant-utrecht-164890"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9hZGVzc28tbmV0aGVybGFuZHMvbGVhZC1zb2Z0d2FyZS1lbmdpbmVlcmluZy11dHJlY2h0LTQ3OTU2MnxsZWFkIHNvZnR3YXJlIGVuZ2luZWVyaW5nfGFkZXNzbyBuZXRoZXJsYW5kcw",
-      "title": "Lead Software Engineering",
-      "company": "adesso Netherlands",
-      "location": "Utrecht, Utrecht, Netherlands",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-14T20:32:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/adesso-netherlands/lead-software-engineering-utrecht-479562"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MjIzNjA1MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSBuZXcgeW9yayBtZXRyb3xuZXVyb3BhY2U",
