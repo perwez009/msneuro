@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T16:30:00.858Z",
+  "generatedAt": "2026-10-23T21:01:00.606Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,110 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9xdWFuZGVsYS9zZW5pb3Itb3B0aWNhbC1zeXN0ZW1zLWVuZ2luZWVyLW1hc3N5LTM4MTU5M3xzZW5pb3Igb3B0aWNhbCBzeXN0ZW1zIGVuZ2luZWVyfHF1YW5kZWxh",
+      "title": "Senior Optical Systems Engineer",
+      "company": "Quandela",
+      "location": "Massy, France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T19:20:14.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/quandela/senior-optical-systems-engineer-massy-381593"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wcmVjaXNpb25tZWRpY2luZWdyb3VwL3ByaW5jaXBhbC1iaW9zdGF0aXN0aWNpYW4tbG9uZG9uLTM0MzU0fHByaW5jaXBhbCBiaW9zdGF0aXN0aWNpYW58cHJlY2lzaW9ubWVkaWNpbmVncm91cA",
+      "title": "Principal Biostatistician",
+      "company": "Precisionmedicinegroup",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T17:55:20.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/principal-biostatistician-london-34354"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcXVhbnR1bWRpYW1vbmRzL2RhdGEtc2NpZW50aXN0LW1lYXN1cmVtZW50LXNpZ25hbC1wcm9jZXNzaW5nLW11bmljaC0yMzkxNDJ8ZGF0YSBzY2llbnRpc3QgKG1lYXN1cmVtZW50ICYgc2lnbmFsIHByb2Nlc3NpbmcpIChmL20vZCl8cXVhbnR1bWRpYW1vbmRz",
+      "title": "Data Scientist (Measurement & Signal Processing) (f/m/d)",
+      "company": "Quantumdiamonds",
+      "location": "Munich HQ",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T17:40:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/quantumdiamonds/data-scientist-measurement-signal-processing-munich-239142"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcXVhbnR1bWRpYW1vbmRzL3F1YW50dW0tc2Vuc2luZy1lbmdpbmVlci1udi1jZW50ZXJzLW11bmljaC0yMTA3MDF8cXVhbnR1bSBzZW5zaW5nIGVuZ2luZWVyIChudiBjZW50ZXJzKSAoZi9tL2QpfHF1YW50dW1kaWFtb25kcw",
+      "title": "Quantum Sensing Engineer (NV Centers) (f/m/d)",
+      "company": "Quantumdiamonds",
+      "location": "Munich HQ",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T17:40:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/quantumdiamonds/quantum-sensing-engineer-nv-centers-munich-210701"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jb2Rlci9zZW5pb3Itc29sdXRpb25zLWVuZ2luZWVyLWV1cm9wZS11bml0ZWQta2luZ2RvbS01NTkyMHxzZW5pb3Igc29sdXRpb25zIGVuZ2luZWVyIChldXJvcGUpfGNvZGVy",
+      "title": "Senior Solutions Engineer (Europe)",
+      "company": "Coder",
+      "location": "United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T17:40:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/senior-solutions-engineer-europe-united-kingdom-55920"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9kZXdhcm10ZS90ZWNobmlzY2gtc3VwcG9ydC1lbmdpbmVlci10aGUtaGFndWUtNDA4MjB8dGVjaG5pc2NoIHN1cHBvcnQgZW5naW5lZXJ8ZGV3YXJtdGU",
+      "title": "Technisch Support Engineer",
+      "company": "DeWarmte",
+      "location": "The Hague",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T17:40:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.nl/jobs/companies/dewarmte/technisch-support-engineer-the-hague-40820"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9kZXdhcm10ZS9maW5hbmNpYWwtZGlyZWN0b3ItdGhlLWhhZ3VlLTEzOTE2fGZpbmFuY2lhbCBkaXJlY3RvcnxkZXdhcm10ZQ",
+      "title": "Financial Director",
+      "company": "DeWarmte",
+      "location": "The Hague",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T17:40:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.nl/jobs/companies/dewarmte/financial-director-the-hague-13916"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvcXVhbGl0eS1jb250cm9sLWV4cGVydC13YXJtZXB1bXBlLWJlcmxpbi00MjAwODN8cXVhbGl0eSBjb250cm9sIGV4cGVydCAod8Okcm1lcHVtcGUpIChtL3cvZCl8MWtvbW1hNcua",
+      "title": "Quality Control Expert (Wärmepumpe) (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "workModel": "Remote",
+      "opportunityType": "Unbefristeter arbeitsvertrag",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T16:01:06.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/quality-control-expert-warmepumpe-berlin-420083"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uaWNlL3Nlbmlvci1zb2x1dGlvbnMtYXJjaGl0ZWN0LTIzODM5N3xzZW5pb3Igc29sdXRpb25zIGFyY2hpdGVjdHxuaWNl",
       "title": "Senior Solutions Architect",
@@ -71,19 +175,6 @@
       "postedDate": "2026-10-23T14:31:07.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/1komma50/payroll-manager-hamburg-27585"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvN254dC1nbWJoL3Nlbmlvci1jdXN0b21lci1zdXBwb3J0LWFnZW50LWJlcmxpbi03NTAzMHxzZW5pb3Iga3VuZGVuYmV0cmV1ZXIgKG0vdy9kKXw3bnh0IGdtYmg",
-      "title": "Senior Kundenbetreuer (m/w/d)",
-      "company": "7NXT GmbH",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Befristeter arbeitsvertrag, berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-23T13:47:35.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/senior-customer-support-agent-berlin-75030"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvN254dC1nbWJoL2NybS1tYW5hZ2VyLWxpZmVjeWNsZS1lbmdhZ2VtZW50LWJlcmxpbi0xMzgwMzB8Y3JtIG1hbmFnZXIg4oCTIGxpZmVjeWNsZSAmIGdyb3d0aCAoZi9tL2QpfDdueHQgZ21iaA",
@@ -645,19 +736,6 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/fusionality/computational-scientist-scientific-machine-learning-lausanne-323897"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvN254dC1nbWJoL3NvY2lhbC1tZWRpYS1tYXJrZXRpbmctaW50ZXJuLWJlcmxpbi00NDk2NjV8c29jaWFsIG1lZGlhIG1hcmtldGluZyBpbnRlcm58N254dCBnbWJo",
-      "title": "Social Media Marketing Intern",
-      "company": "7NXT GmbH",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T12:31:13.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/social-media-marketing-intern-berlin-449665"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9mdXNpb25hbGl0eS9kYXRhLW1sLWVuZ2luZWVyLWZ1c2lvbi1kYXRhLWxhdXNhbm5lLTQ3OTk1NHxkYXRhL21sIGVuZ2luZWVyLCBmdXNpb24gZGF0YXxmdXNpb25hbGl0eQ",
       "title": "Data/ML engineer, fusion data",
       "company": "Fusionality",
@@ -669,45 +747,6 @@
       "postedDate": "2026-10-22T12:31:11.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.ch/jobs/companies/fusionality/data-ml-engineer-fusion-data-lausanne-479954"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaXNhcmFlcm9zcGFjZS9zZW5pb3ItcHJvcHVsc2lvbi1lbmdpbmVlci1jb21idXN0aW9uLWRldmljZXMtcGFyc2RvcmYtYmF2YXJpYS01NDAwOXxzZW5pb3IgcHJvcHVsc2lvbiBlbmdpbmVlciAtIGNvbWJ1c3Rpb24gZGV2aWNlcyAobS9mL2QpfGlzYXJhZXJvc3BhY2U",
-      "title": "Senior Propulsion Engineer - Combustion Devices (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Parsdorf, Bavaria",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T11:55:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-propulsion-engineer-combustion-devices-parsdorf-bavaria-54009"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWxwaW5lZWFnbGUvY29tcHV0ZXItcmFkYXItc29mdHdhcmUtZW5naW5lZXItZm9yLWRyb25lLXN5c3RlbXMta2FybHNydWhlLWJhZGVuLXd1cnR0ZW1iZXJnLW11bmNoZW4tYmF2YXJpYS0yODQ3MTN8Y29tcHV0ZXIgcmFkYXIgc29mdHdhcmUgZW5naW5lZXIgZm9yIGRyb25lIHN5c3RlbXMgKG0vdy9kKXxhbHBpbmVlYWdsZQ",
-      "title": "Computer Radar Software Engineer for Drone Systems (m/w/d)",
-      "company": "Alpineeagle",
-      "location": "Karlsruhe, Baden-Württemberg, München, Bavaria",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T11:55:20.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/alpineeagle/computer-radar-software-engineer-for-drone-systems-karlsruhe-baden-wurttemberg-munchen-bavaria-284713"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZm9vZGxhYnMvZm91bmRpbmctZW5naW5lZXItZ24taGFyZHdhcmUtYmlvZW5naW5lZXJpbmctbXVuaWNoLTIzMDc3NHxmb3VuZGluZyBlbmdpbmVlciAoZ24pIOKAkyBoYXJkd2FyZSAmIGJpb2VuZ2luZWVyaW5nLCBtdW5pY2h8Zm9vZGxhYnM",
-      "title": "Founding Engineer (gn) – Hardware & Bioengineering, Munich",
-      "company": "FoodLabs",
-      "location": "Munich, Bayern, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T11:51:55.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/foodlabs/founding-engineer-gn-hardware-bioengineering-munich-230774"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9zaGlmdGJhc2UtYnYvYWNjb3VudC1leGVjdXRpdmUtbmwtcmVnaW9uLXpvZXRlcm1lZXItMTY3MDY1fGFjY291bnQgZXhlY3V0aXZlIC0gbmwgcmVnaW9ufHNoaWZ0YmFzZSBiLnYu",
@@ -1048,45 +1087,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/i3d/senior-supply-chain-coordinator-capelle-a-d-ijssel-416924"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9saW1iaWMvc2VuaW9yLWFpLW1sLWVuZ2luZWVyLWxvbmRvbi03Mzg4OXxzZW5pb3IgYWkvbWwgZW5naW5lZXJ8bGltYmlj",
-      "title": "Senior AI/ML Engineer",
-      "company": "Limbic",
-      "location": "UK",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T11:40:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/limbic/senior-ai-ml-engineer-london-73889"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9saW1iaWMvYWktbWwtZW5naW5lZXItbG9uZG9uLTI3MDg5NXxhaS9tbCBlbmdpbmVlcnxsaW1iaWM",
-      "title": "AI/ML Engineer",
-      "company": "Limbic",
-      "location": "UK",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T11:40:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/limbic/ai-ml-engineer-london-270895"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS9wcm9kdWN0LW1hbmFnZXItdWstbG9hbnMtbG9uZG9uLTM2OTgxOXxwcm9kdWN0IG1hbmFnZXIgKHVrIGxvYW5zKXxsZW5kYWJsZQ",
-      "title": "Product Manager (UK Loans)",
-      "company": "Lendable",
-      "location": "London, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T11:40:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/product-manager-uk-loans-london-369819"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hbnRocm9waWMvY3VzdG9tZXItc3VjY2Vzcy1tYW5hZ2VyLXNvdXRoZXJuLWV1cm9wZS1wYXJpcy0yMTE2NjZ8Y3VzdG9tZXIgc3VjY2VzcyBtYW5hZ2VyLCBzb3V0aGVybiBldXJvcGV8YW50aHJvcGlj",
       "title": "Customer Success Manager, Southern Europe",
       "company": "anthropic",
@@ -1321,17 +1321,17 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/ionq/senior-cryogenic-engineer-geneva-390712"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9zd2lzc3BlYWstcGFydG5lcnMtZ21iaC9pb3QtZW1iZWRkZWQtc3lzdGVtcy1lbmdpbmVlci1iZXJuLTgyNDcxfGlvdCBlbWJlZGRlZCBzeXN0ZW1zIGVuZ2luZWVyfHN3aXNzcGVhayBwYXJ0bmVycyBnbWJo",
-      "title": "IoT Embedded Systems Engineer",
-      "company": "SwissPeak Partners GmbH",
-      "location": "Bern, Berne, Switzerland",
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9jZGRzLWFnL2NvbnRyb2wtZmxpZ2h0LXRlc3QtZW5naW5lZXItenVyaWNoLTI5NTI1Mnxjb250cm9sICYgZmxpZ2h0IHRlc3QgZW5naW5lZXJ8Y2RkcyBhZw",
+      "title": "Control & Flight Test Engineer",
+      "company": "CDDS AG",
+      "location": "Zürich",
       "workModel": "On-site",
-      "opportunityType": "Full-time",
+      "opportunityType": "Contract",
       "source": "Arbeitnow",
       "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-19T17:31:28.000Z",
+      "postedDate": "2026-10-18T19:31:01.000Z",
       "applyBy": null,
-      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/iot-embedded-systems-engineer-bern-82471"
+      "url": "https://www.arbeitnow.ch/jobs/companies/cdds-ag/control-flight-test-engineer-zurich-295252"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MjIzNjA1MDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSBuZXcgeW9yayBtZXRyb3xuZXVyb3BhY2U",
