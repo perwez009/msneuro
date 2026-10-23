@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:03:00.248Z",
+  "generatedAt": "2026-10-23T16:30:00.858Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,123 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uaWNlL3Nlbmlvci1zb2x1dGlvbnMtYXJjaGl0ZWN0LTIzODM5N3xzZW5pb3Igc29sdXRpb25zIGFyY2hpdGVjdHxuaWNl",
+      "title": "Senior Solutions Architect",
+      "company": "nice",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T14:55:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/senior-solutions-architect-238397"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uaWNlL3Nlbmlvci1kZXZvcHMtZW5naW5lZXItbmlnaHQtc2hpZnQxMDAwLXBtLTYwMC1hbS0yMTA0NDN8c2VuaW9yIGRldm9wcyBlbmdpbmVlci0gbmlnaHQgc2hpZnQoMTA6MDAgcG0gLSA2OjAwIGFtKXxuaWNl",
+      "title": "Senior DevOps Engineer- Night Shift(10:00 PM - 6:00 AM)",
+      "company": "nice",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T14:55:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/senior-devops-engineer-night-shift1000-pm-600-am-210443"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uaWNlL2xlYWQtc29mdHdhcmUtYXJjaGl0ZWN0LTM5NDc1OHxsZWFkIHNvZnR3YXJlIGFyY2hpdGVjdHxuaWNl",
+      "title": "Lead Software Architect",
+      "company": "nice",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T14:55:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/lead-software-architect-394758"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvc2VuaW9yLXBheXJvbGwtc3BlY2lhbGlzdC1oYW1idXJnLTQ3MTE5NXwoc2VuaW9yKSBwYXlyb2xsIHNwZWNpYWxpc3QgKG0vdy9kKXwxa29tbWE1y5o",
+      "title": "(Senior) Payroll Specialist (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Unbefristeter arbeitsvertrag",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T14:31:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-payroll-specialist-hamburg-471195"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvcGF5cm9sbC1tYW5hZ2VyLWhhbWJ1cmctMjc1ODV8cGF5cm9sbCBtYW5hZ2VyIChtL3cvZCl8MWtvbW1hNcua",
+      "title": "Payroll Manager (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Unbefristeter arbeitsvertrag",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T14:31:07.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/payroll-manager-hamburg-27585"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvN254dC1nbWJoL3Nlbmlvci1jdXN0b21lci1zdXBwb3J0LWFnZW50LWJlcmxpbi03NTAzMHxzZW5pb3Iga3VuZGVuYmV0cmV1ZXIgKG0vdy9kKXw3bnh0IGdtYmg",
+      "title": "Senior Kundenbetreuer (m/w/d)",
+      "company": "7NXT GmbH",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Befristeter arbeitsvertrag, berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T13:47:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/senior-customer-support-agent-berlin-75030"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvN254dC1nbWJoL2NybS1tYW5hZ2VyLWxpZmVjeWNsZS1lbmdhZ2VtZW50LWJlcmxpbi0xMzgwMzB8Y3JtIG1hbmFnZXIg4oCTIGxpZmVjeWNsZSAmIGdyb3d0aCAoZi9tL2QpfDdueHQgZ21iaA",
+      "title": "CRM Manager – Lifecycle & Growth (f/m/d)",
+      "company": "7NXT GmbH",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Contract",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T12:32:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/crm-manager-lifecycle-engagement-berlin-138030"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9mbGFnc3RvbmUvaGVhZC1vZi1zYWxlc2ZvcmNlLWFuZC1jbGllbnQtZW5nYWdlbWVudC1wbGF0Zm9ybXMtbG9uZG9uLTQ4MDkzNXxoZWFkIG9mIHNhbGVzZm9yY2UgYW5kIGNsaWVudCBlbmdhZ2VtZW50IHBsYXRmb3Jtc3xmbGFnc3RvbmU",
+      "title": "Head of Salesforce and Client Engagement Platforms",
+      "company": "Flagstone",
+      "location": "London Office",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T11:40:12.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/flagstone/head-of-salesforce-and-client-engagement-platforms-london-480935"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9ldXJvcGVhbi1keW5hbWljcy9yZW1vdGUtdGVzdC1hdXRvbWF0aW9uLWVuZ2luZWVyLXN0cmFzYm91cmctNDQ5MzY2fHRlc3QgYXV0b21hdGlvbiBlbmdpbmVlcnxldXJvcGVhbiBkeW5hbWljcw",
+      "title": "Test Automation Engineer",
+      "company": "European Dynamics",
+      "location": "Strasbourg, France",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T10:20:08.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/european-dynamics/remote-test-automation-engineer-strasbourg-449366"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy96dXJpY2gtc29mdC1yb2JvdGljcy1nbWJoL2xlYWQtc29mdHdhcmUtZW5naW5lZXItenVyaWNoLTM2OTI5N3xsZWFkIHNvZnR3YXJlIGVuZ2luZWVyfHp1cmljaCBzb2Z0IHJvYm90aWNzIGdtYmg",
       "title": "Lead Software Engineer",
@@ -385,19 +502,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/everai/security-engineer-full-remote-france-373500"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZlcmFpL3NlY3VyaXR5LWVuZ2luZWVyLWZ1bGwtcmVtb3RlLWdlcm1hbnktMTMzMDk5fHNlY3VyaXR5IGVuZ2luZWVyIChmdWxsIHJlbW90ZSAtIGdlcm1hbnkpfGV2ZXJhaQ",
-      "title": "Security Engineer (Full Remote - Germany)",
-      "company": "EverAI",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T20:40:14.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/everai/security-engineer-full-remote-germany-133099"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLXByb2R1Y3QtZGVzaWduZXItZnVsbC1yZW1vdGUtdWstdW5pdGVkLWtpbmdkb20tMjQyMjk4fHNlbmlvciBwcm9kdWN0IGRlc2lnbmVyIChmdWxsIHJlbW90ZSAtIHVrKXxldmVyYWk",
       "title": "Senior Product Designer (Full Remote - UK)",
       "company": "EverAI",
@@ -409,6 +513,19 @@
       "postedDate": "2026-10-22T20:40:14.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/senior-product-designer-full-remote-uk-united-kingdom-242298"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZlcmFpL3NlY3VyaXR5LWVuZ2luZWVyLWZ1bGwtcmVtb3RlLWdlcm1hbnktMTMzMDk5fHNlY3VyaXR5IGVuZ2luZWVyIChmdWxsIHJlbW90ZSAtIGdlcm1hbnkpfGV2ZXJhaQ",
+      "title": "Security Engineer (Full Remote - Germany)",
+      "company": "EverAI",
+      "location": "Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-22T20:40:14.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/everai/security-engineer-full-remote-germany-133099"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbHBoYXNlbnNlL3ByaW5jaXBhbC1lbmdpbmVlci1jb3JlLWNsb3VkLXBsYXRmb3JtLTQxMjI1M3xwcmluY2lwYWwgZW5naW5lZXIgLSBjb3JlIGNsb3VkIHBsYXRmb3JtfGFscGhhc2Vuc2U",
@@ -448,32 +565,6 @@
       "postedDate": "2026-10-22T17:40:16.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/sandboxaq/ai-engineer-united-kingdom-241612"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvN254dC1nbWJoL3Nlbmlvci1jdXN0b21lci1zdXBwb3J0LWFnZW50LWJlcmxpbi03NTAzMHxzZW5pb3IgY3VzdG9tZXIgc3VwcG9ydCBhZ2VudCAobS93L2QpfDdueHQgZ21iaA",
-      "title": "Senior Customer Support Agent (m/w/d)",
-      "company": "7NXT GmbH",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Befristeter arbeitsvertrag, berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T16:47:34.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/senior-customer-support-agent-berlin-75030"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvN254dC1nbWJoL2NybS1tYW5hZ2VyLWxpZmVjeWNsZS1lbmdhZ2VtZW50LWJlcmxpbi0xMzgwMzB8Y3JtIG1hbmFnZXIg4oCTIGxpZmVjeWNsZSAmIGVuZ2FnZW1lbnQgKGYvbS9kKXw3bnh0IGdtYmg",
-      "title": "CRM Manager – Lifecycle & Engagement (f/m/d)",
-      "company": "7NXT GmbH",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Permanent employment (unbefristeter arbeitsvertrag)",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T15:31:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/crm-manager-lifecycle-engagement-berlin-138030"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWRiYWtlci9zZW5pb3ItY2F0ZWdvcnktbWFuYWdlci1iZWF1dHktYWxsLWdlbmRlcnMtY29sb2duZS05NjA1fHNlbmlvciBjYXRlZ29yeSBtYW5hZ2VyIC0gYmVhdXR5IChhbGwgZ2VuZGVycyl8YWRiYWtlcg",
@@ -996,84 +1087,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/product-manager-uk-loans-london-369819"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS9hbmFseXRpY3MtZW5naW5lZXItdWstY2FyZHMtbG9uZG9uLTQ2Njc5M3xhbmFseXRpY3MgZW5naW5lZXIgKHVrIGNhcmRzKXxsZW5kYWJsZQ",
-      "title": "Analytics Engineer (UK Cards)",
-      "company": "Lendable",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T11:40:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/analytics-engineer-uk-cards-london-466793"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS9zZW5pb3ItcHJvZHVjdC1tYW5hZ2VyLXVzLWNhcmRzLWxvbmRvbi0yNTg4OTh8c2VuaW9yIHByb2R1Y3QgbWFuYWdlciAodXMgY2FyZHMpfGxlbmRhYmxl",
-      "title": "Senior Product Manager (US Cards)",
-      "company": "Lendable",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T11:40:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/senior-product-manager-us-cards-london-258898"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS9mcmF1ZC1kaXNwdXRlcy1zcGVjaWFsaXN0LWxvbmRvbi0zOTE3NzR8ZnJhdWQgJiBkaXNwdXRlcyBzcGVjaWFsaXN0fGxlbmRhYmxl",
-      "title": "Fraud & Disputes Specialist",
-      "company": "Lendable",
-      "location": "London, United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T11:40:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/fraud-disputes-specialist-london-391774"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zZWNjbC9qdW5pb3ItaXQtc3VwcG9ydC1hbmFseXN0LWVkaW5idXJnaC05MTg2N3xqdW5pb3IgaXQgc3VwcG9ydCBhbmFseXN0fHNlY2Ns",
-      "title": "Junior IT support analyst",
-      "company": "Seccl",
-      "location": "Edinburgh",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T11:40:30.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/seccl/junior-it-support-analyst-edinburgh-91867"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbmVqby90ZWNoLWxlYWQtYWktZW5naW5lZXJpbmctY29sb2duZS00MjY4OHx0ZWNoIGxlYWQgYWkgZW5naW5lZXJpbmcgKG0vdy9kKXxuZWpv",
-      "title": "Tech Lead AI Engineering (m/w/d)",
-      "company": "Nejo",
-      "location": "Cologne",
-      "workModel": "On-site",
-      "opportunityType": "Permanent employment (unbefristeter arbeitsvertrag), manager",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T10:31:14.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/nejo/tech-lead-ai-engineering-cologne-42688"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvenNjYWxlci9hY2NvdW50LWV4ZWN1dGl2ZS1lbnRlcnByaXNlLTQ4NDYxOXxhY2NvdW50IGV4ZWN1dGl2ZSwgZW50ZXJwcmlzZXx6c2NhbGVy",
-      "title": "Account Executive, Enterprise",
-      "company": "zscaler",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T05:55:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/zscaler/account-executive-enterprise-484619"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hbnRocm9waWMvY3VzdG9tZXItc3VjY2Vzcy1tYW5hZ2VyLXNvdXRoZXJuLWV1cm9wZS1wYXJpcy0yMTE2NjZ8Y3VzdG9tZXIgc3VjY2VzcyBtYW5hZ2VyLCBzb3V0aGVybiBldXJvcGV8YW50aHJvcGlj",
       "title": "Customer Success Manager, Southern Europe",
       "company": "anthropic",
@@ -1085,32 +1098,6 @@
       "postedDate": "2026-10-22T05:55:20.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/anthropic/customer-success-manager-southern-europe-paris-211666"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLWJhY2tlbmQtZW5naW5lZXItZ29sYW5nLWJhbmstYmFsYW5jZS1iZXJsaW4tNjgxNTd8c2VuaW9yIGJhY2tlbmQgZW5naW5lZXIgKGdvbGFuZykgLSBiYW5rIGJhbGFuY2V8c3VtdXA",
-      "title": "Senior Backend Engineer (Golang) - Bank Balance",
-      "company": "sumup",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T05:55:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-golang-bank-balance-berlin-68157"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvc2VuaW9yLWFuZHJvaWQtZW5naW5lZXIta21wLWJlcmxpbi0xODQyMjJ8c2VuaW9yIGFuZHJvaWQgZW5naW5lZXIgLSBrbXB8c3VtdXA",
-      "title": "Senior Android Engineer - KMP",
-      "company": "sumup",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T05:55:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-android-engineer-kmp-berlin-184222"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9xdWFuZGVsYS9xdWFudHVtLWFwcGxpY2F0aW9ucy1lbmdpbmVlci1tYXNzeS04MDQ5OXxxdWFudHVtIGFwcGxpY2F0aW9ucyBlbmdpbmVlcnxxdWFuZGVsYQ",
