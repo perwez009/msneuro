@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:01:00.606Z",
+  "generatedAt": "2026-10-24T03:23:02.244Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,97 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdHJhd2EvYWNjb3VudGFudC1iZXJsaW4tMjI3ODQ2fGFjY291bnRhbnR8dHJhd2E",
+      "title": "Accountant",
+      "company": "trawa",
+      "location": "Berlin HQ",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-24T02:40:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/trawa/accountant-berlin-227846"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy90cmFpbmxpbmUvc2VuaW9yLW1sb3BzLWVuZ2luZWVyLWxvbmRvbi0yODc1OXxzZW5pb3IgbWxvcHMgZW5naW5lZXJ8dHJhaW5saW5l",
+      "title": "Senior MLOps Engineer",
+      "company": "Trainline",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-24T02:40:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/senior-mlops-engineer-london-28759"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9oZWFsdGh0ZWNoLTEvcmV2ZW51ZS1vcGVyYXRpb25zLW1hbmFnZXItbG9uZG9uLTQyMzY3N3xyZXZlbnVlIG9wZXJhdGlvbnMgbWFuYWdlcnxoZWFsdGh0ZWNoIDE",
+      "title": "Revenue Operations Manager",
+      "company": "Healthtech 1",
+      "location": "Stratford, East London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T23:40:14.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/healthtech-1/revenue-operations-manager-london-423677"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd2Vtb2xvL3dvcmtpbmctc3R1ZGVudC1idXNpbmVzcy1kZXZlbG9wbWVudC1zYWxlcy1vcGVyYXRpb25zLWFsbC1nZW5kZXJzLW11bmNoZW4tNzU3NXx3b3JraW5nIHN0dWRlbnQgYnVzaW5lc3MgZGV2ZWxvcG1lbnQgJiBzYWxlcyBvcGVyYXRpb25zIChhbGwgZ2VuZGVycyl8d2Vtb2xv",
+      "title": "Working Student Business Development & Sales Operations (all genders)",
+      "company": "Wemolo",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Part-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T23:40:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/wemolo/working-student-business-development-sales-operations-all-genders-munchen-7575"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9haXNpL2FsaWdubWVudC1yZWQtdGVhbS1yZXNlYXJjaC1lbmdpbmVlci1yZXNlYXJjaC1zY2llbnRpc3QtbG9uZG9uLTI2NTg2MHxhbGlnbm1lbnQgcmVkIHRlYW0gLSByZXNlYXJjaCBlbmdpbmVlci9yZXNlYXJjaCBzY2llbnRpc3R8YWlzaQ",
+      "title": "Alignment Red Team - Research Engineer/Research Scientist",
+      "company": "Aisi",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T20:55:19.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/aisi/alignment-red-team-research-engineer-research-scientist-london-265860"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVuc29yZHluZS9zb2Z0d2FyZS1lbmdpbmVlci1jbG91ZC1zZXJ2aWNlcy1ydXN0LW11bmljaC0xOTI1NDl8c29mdHdhcmUgZW5naW5lZXIg4oCTIGNsb3VkIHNlcnZpY2VzIOKAkyBydXN0fHRlbnNvcmR5bmU",
+      "title": "Software Engineer – Cloud Services – Rust",
+      "company": "Tensordyne",
+      "location": "Munich, Bavaria, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T20:45:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/tensordyne/software-engineer-cloud-services-rust-munich-192549"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVuc29yZHluZS9vcHMtZGV2ZWxvcGVyLXBsYXRmb3JtLWVuZ2luZWVyLW11bmljaC0yMjA0MjR8b3BzL2RldmVsb3BlciBwbGF0Zm9ybSBlbmdpbmVlcnx0ZW5zb3JkeW5l",
+      "title": "Ops/Developer Platform Engineer",
+      "company": "Tensordyne",
+      "location": "Munich, Bavaria, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T20:45:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/tensordyne/ops-developer-platform-engineer-munich-220424"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9xdWFuZGVsYS9zZW5pb3Itb3B0aWNhbC1zeXN0ZW1zLWVuZ2luZWVyLW1hc3N5LTM4MTU5M3xzZW5pb3Igb3B0aWNhbCBzeXN0ZW1zIGVuZ2luZWVyfHF1YW5kZWxh",
       "title": "Senior Optical Systems Engineer",
@@ -60,19 +151,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/quantumdiamonds/quantum-sensing-engineer-nv-centers-munich-210701"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jb2Rlci9zZW5pb3Itc29sdXRpb25zLWVuZ2luZWVyLWV1cm9wZS11bml0ZWQta2luZ2RvbS01NTkyMHxzZW5pb3Igc29sdXRpb25zIGVuZ2luZWVyIChldXJvcGUpfGNvZGVy",
-      "title": "Senior Solutions Engineer (Europe)",
-      "company": "Coder",
-      "location": "United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-23T17:40:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/senior-solutions-engineer-europe-united-kingdom-55920"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9kZXdhcm10ZS90ZWNobmlzY2gtc3VwcG9ydC1lbmdpbmVlci10aGUtaGFndWUtNDA4MjB8dGVjaG5pc2NoIHN1cHBvcnQgZW5naW5lZXJ8ZGV3YXJtdGU",
       "title": "Technisch Support Engineer",
       "company": "DeWarmte",
@@ -97,6 +175,19 @@
       "postedDate": "2026-10-23T17:40:17.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/dewarmte/financial-director-the-hague-13916"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jb2Rlci9zZW5pb3Itc29sdXRpb25zLWVuZ2luZWVyLWV1cm9wZS11bml0ZWQta2luZ2RvbS01NTkyMHxzZW5pb3Igc29sdXRpb25zIGVuZ2luZWVyIChldXJvcGUpfGNvZGVy",
+      "title": "Senior Solutions Engineer (Europe)",
+      "company": "Coder",
+      "location": "United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-23T17:40:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/senior-solutions-engineer-europe-united-kingdom-55920"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvcXVhbGl0eS1jb250cm9sLWV4cGVydC13YXJtZXB1bXBlLWJlcmxpbi00MjAwODN8cXVhbGl0eSBjb250cm9sIGV4cGVydCAod8Okcm1lcHVtcGUpIChtL3cvZCl8MWtvbW1hNcua",
@@ -175,19 +266,6 @@
       "postedDate": "2026-10-23T14:31:07.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/1komma50/payroll-manager-hamburg-27585"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvN254dC1nbWJoL2NybS1tYW5hZ2VyLWxpZmVjeWNsZS1lbmdhZ2VtZW50LWJlcmxpbi0xMzgwMzB8Y3JtIG1hbmFnZXIg4oCTIGxpZmVjeWNsZSAmIGdyb3d0aCAoZi9tL2QpfDdueHQgZ21iaA",
-      "title": "CRM Manager – Lifecycle & Growth (f/m/d)",
-      "company": "7NXT GmbH",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Contract",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-23T12:32:35.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/crm-manager-lifecycle-engagement-berlin-138030"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9mbGFnc3RvbmUvaGVhZC1vZi1zYWxlc2ZvcmNlLWFuZC1jbGllbnQtZW5nYWdlbWVudC1wbGF0Zm9ybXMtbG9uZG9uLTQ4MDkzNXxoZWFkIG9mIHNhbGVzZm9yY2UgYW5kIGNsaWVudCBlbmdhZ2VtZW50IHBsYXRmb3Jtc3xmbGFnc3RvbmU",
@@ -437,58 +515,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/seller-operation-manager-paris-296132"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jdXNwYWkvYXBwbGljYXRpb24tc2NpZW50aXN0LWxvbmRvbi0zNzYyMzF8YXBwbGljYXRpb24gc2NpZW50aXN0fGN1c3BhaQ",
-      "title": "Application Scientist",
-      "company": "Cuspai",
-      "location": "London, UK",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-23T02:40:14.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cuspai/application-scientist-london-376231"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tYXAvc2VuaW9yLWFkb2JlLWFwcGxpY2F0aW9uLWNvbnN1bHRhbnQtbG9uZG9uLTI0MjgwNnxzZW5pb3IgYWRvYmUgYXBwbGljYXRpb24gY29uc3VsdGFudHxtYXA",
-      "title": "Senior Adobe Application Consultant",
-      "company": "Map",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T23:55:26.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/map/senior-adobe-application-consultant-london-242806"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tYXAvZW50ZXJwcmlzZS1hcmNoaXRlY3Qtc2FsZXNmb3JjZS1tYXJrZXRpbmctY2xvdWQtbG9uZG9uLTMyNjI4N3xlbnRlcnByaXNlIGFyY2hpdGVjdCAtIHNhbGVzZm9yY2UgbWFya2V0aW5nIGNsb3VkfG1hcA",
-      "title": "Enterprise Architect - Salesforce Marketing Cloud",
-      "company": "Map",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T23:55:26.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/map/enterprise-architect-salesforce-marketing-cloud-london-326287"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93cHAvZGlyZWN0b3ItcHJvZHVjdC13b3JrZmxvdy13b3JrLW1hbmFnZW1lbnQtMjYxNzA3fGRpcmVjdG9yLCBwcm9kdWN0LCB3b3JrZmxvdyAmIHdvcmsgbWFuYWdlbWVudHx3cHA",
-      "title": "Director, Product, Workflow & Work Management",
-      "company": "Wpp",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T23:55:26.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wpp/director-product-workflow-work-management-261707"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy84MDQyMjg1MDAzP2doX2ppZD04MDQyMjg1MDAzfHNlbmlvciBhY2NvdW50YW50LCBjb3N0IGFuZCBtYW51ZmFjdHVyaW5nIGFjY291bnRpbmd8bmV1cmFsaW5r",
       "title": "Senior Accountant, Cost and Manufacturing Accounting",
       "company": "Neuralink",
@@ -656,58 +682,6 @@
       "postedDate": "2026-10-22T17:40:16.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/sandboxaq/ai-engineer-united-kingdom-241612"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWRiYWtlci9zZW5pb3ItY2F0ZWdvcnktbWFuYWdlci1iZWF1dHktYWxsLWdlbmRlcnMtY29sb2duZS05NjA1fHNlbmlvciBjYXRlZ29yeSBtYW5hZ2VyIC0gYmVhdXR5IChhbGwgZ2VuZGVycyl8YWRiYWtlcg",
-      "title": "Senior Category Manager - Beauty (all genders)",
-      "company": "ADBAKER",
-      "location": "Cologne",
-      "workModel": "On-site",
-      "opportunityType": "Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T15:31:23.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/adbaker/senior-category-manager-beauty-all-genders-cologne-9605"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWRiYWtlci9zZW5pb3ItY2F0ZWdvcnktbWFuYWdlci1mbWNnLWFsbC1nZW5kZXJzLWNvbG9nbmUtMTM5MzgyfHNlbmlvciBjYXRlZ29yeSBtYW5hZ2VyIC0gZm1jZyAoYWxsIGdlbmRlcnMpfGFkYmFrZXI",
-      "title": "Senior Category Manager - FMCG (all genders)",
-      "company": "ADBAKER",
-      "location": "Cologne",
-      "workModel": "On-site",
-      "opportunityType": "Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T15:31:23.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/adbaker/senior-category-manager-fmcg-all-genders-cologne-139382"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sYW5nYW5lbmdpbmVlcmluZ2FuZGVudmlyb25tZW50YWxzZXJ2aWNlc2xsYy9wcmluY2lwYWwtZW5naW5lZXItbG9uZG9uLTQwMTE0fHByaW5jaXBhbCBlbmdpbmVlcnxsYW5nYW5lbmdpbmVlcmluZ2FuZGVudmlyb25tZW50YWxzZXJ2aWNlc2xsYw",
-      "title": "Principal Engineer",
-      "company": "Langanengineeringandenvironmentalservicesllc",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T14:55:28.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/langanengineeringandenvironmentalservicesllc/principal-engineer-london-40114"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jb21pbmQvYWNjb3VudHMtYXNzaXN0YW50LWxvbmRvbi00NDY4OTF8YWNjb3VudHMgYXNzaXN0YW50fGNvbWluZA",
-      "title": "Accounts Assistant",
-      "company": "Comind",
-      "location": "London, UK",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T14:40:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/accounts-assistant-london-446891"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9rcmFrZW4vc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWFpLWZvdW5kYXRpb25zLWNkaS1wYXJpcy0yNjE5OTF8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyIC0gYWkgZm91bmRhdGlvbnMgKGYvaC94KSAtIGNkaXxrcmFrZW4",
@@ -1022,19 +996,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/claus-group/stagiair-finance-hoofddorp-107972"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ibHAtZGlnaXRhbC1hZy9zZW5pb3ItZW50ZXJwcmlzZS1hZS1sb25kb24tMjE3MDY5fHNlbmlvciBlbnRlcnByaXNlIGFlIGxvbmRvbnxibHAgZGlnaXRhbCBhZw",
-      "title": "Senior Enterprise AE London",
-      "company": "BLP Digital AG",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T11:40:34.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/blp-digital-ag/senior-enterprise-ae-london-217069"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9ibGV1LXJvYm90aWNzL21sLXBsYXRmb3JtLWVuZ2luZWVyLXBhcmlzLTExMzg0NnxtbCBwbGF0Zm9ybSBlbmdpbmVlcnxibGV1IHJvYm90aWNz",
       "title": "ML Platform Engineer",
       "company": "Bleu Robotics",
@@ -1189,19 +1150,6 @@
       "postedDate": "2026-10-21T05:31:35.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/berenschot-groep-bv/projectleider-cybersecurity-congres-rdi-amersfoort-382488"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9rZXVuZS1oYWlyY29zbWV0aWNzLW1hbnVmYWN0dXJpbmctYnYvc2VuaW9yLWNvc21ldGljLWNoZW1pc3Qtc29lc3QtMjQwNzY3fHNlbmlvciBjb3NtZXRpYyBjaGVtaXN0fGtldW5lIGhhaXJjb3NtZXRpY3MgbWFudWZhY3R1cmluZyBiLnYu",
-      "title": "Senior Cosmetic Chemist",
-      "company": "Keune Haircosmetics Manufacturing B.V.",
-      "location": "Soest, Utrecht, Nederland",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-21T05:31:35.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/keune-haircosmetics-manufacturing-bv/senior-cosmetic-chemist-soest-240767"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9zY2hvbGFycm9jay9zZW5pb3ItZGlyZWN0b3ItcGF0aWVudC1hZHZvY2FjeS1jb21tdW5pY2F0aW9ucy1sZWFkLWVtZWEtenVnLTczNDA0fHNlbmlvciBkaXJlY3RvciwgcGF0aWVudCBhZHZvY2FjeSAmIGNvbW11bmljYXRpb25zIGxlYWQsIGVtZWF8c2Nob2xhcnJvY2s",
