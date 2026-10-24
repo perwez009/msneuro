@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:24:55.152Z",
+  "generatedAt": "2026-10-24T20:15:31.051Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,84 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1haS1hdXRvbWF0aW9uLWVuZXJneS1iZXJsaW4tMzM5MzQ3fHdlcmtzdHVkZW50OmluIGFpICYgYXV0b21hdGlvbiAtIGVuZXJneSAobS93L2QpfDFrb21tYTXLmg",
+      "title": "Werkstudent:in AI & Automation - Energy (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-24T18:47:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-ai-automation-energy-berlin-339347"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vZ2lsdnktdWsvc2VuaW9yLWFjY291bnQtZXhlY3V0aXZlLWxvbmRvbi0xMTAxMjF8c2VuaW9yIGFjY291bnQgZXhlY3V0aXZlfG9naWx2eSB1aw",
+      "title": "Senior Account Executive",
+      "company": "Ogilvy UK",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-24T17:55:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ogilvy-uk/senior-account-executive-london-110121"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jdXNwYWkvcGVyZm9ybWFuY2UtZW5naW5lZXItbG9uZG9uLTIzNzU5NnxwZXJmb3JtYW5jZSBlbmdpbmVlcnxjdXNwYWk",
+      "title": "Performance Engineer",
+      "company": "Cuspai",
+      "location": "Cambridge, UK",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-24T17:40:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cuspai/performance-engineer-london-237596"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jdXNwYWkvbWF0ZXJpYWxzLWtub3dsZWRnZS1hcmNoaXRlY3QtbG9uZG9uLTM0MDk1MXxtYXRlcmlhbHMga25vd2xlZGdlIGFyY2hpdGVjdHxjdXNwYWk",
+      "title": "Materials Knowledge Architect",
+      "company": "Cuspai",
+      "location": "Cambridge, UK",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-24T17:40:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cuspai/materials-knowledge-architect-london-340951"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9rYXJnbzIyL3Nlbmlvci1pbnRlcmFjdGl2ZS1kZXNpZ25lci1sb25kb24tMTkzNzQyfHNlbmlvciBpbnRlcmFjdGl2ZSBkZXNpZ25lcnxrYXJnbzIy",
+      "title": "Senior Interactive Designer",
+      "company": "Kargo22",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-24T14:55:35.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kargo22/senior-interactive-designer-london-193742"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93dW5kZXJtYW50aG9tcHNvbi9zZW5pb3ItY29udGVudC1kZXNpZ25lci11ay1sb25kb24tMzM2NDI2fHNlbmlvciBjb250ZW50IGRlc2lnbmVyIHVrfHd1bmRlcm1hbnRob21wc29u",
+      "title": "Senior Content Designer UK",
+      "company": "Wundermanthompson",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-24T14:55:34.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-content-designer-uk-london-336426"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3NvZnR3YXJlLWRldmVsb3Blci1qYXZhLW5vZGVqcy13ZWItZGV2ZWxvcG1lbnQtdGVhbS1iZXJsaW4tbXVuaWNoLTEwMTA0OHxzb2Z0d2FyZSBkZXZlbG9wZXIgIGphdmEvIG5vZGUuanMgKHdlYiBkZXZlbG9wbWVudCB0ZWFtKXxqZXRicmFpbnM",
       "title": "Software Developer  Java/ Node.JS (Web Development Team)",
@@ -84,19 +162,6 @@
       "postedDate": "2026-10-24T11:40:13.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/senior-performance-marketer-full-remote-uk-united-kingdom-193087"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1haS1hdXRvbWF0aW9uLWVuZXJneS1iZXJsaW4tMzM5MzQ3fHdlcmtzdHVkZW50OmluIGFpICYgYXV0b21hdGlvbiAtIGVuZXJneSAobS93L2QpfDFrb21tYTXLmg",
-      "title": "Werkstudent:in AI & Automation - Energy (m/w/d)",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-24T10:30:41.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-ai-automation-energy-berlin-339347"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wbG9zL2Fzc29jaWF0ZS1lZGl0b3JpYWwtZGlyZWN0b3ItMi15ZWFyLWZ0Yy0zMDc0MDR8YXNzb2NpYXRlIGVkaXRvcmlhbCBkaXJlY3Rvci0gMiB5ZWFyIGZ0Y3xwbG9z",
@@ -697,110 +762,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/thermal-analysis-engineer-munich-442826"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWFwYm94L3RlY2huaWNhbC1wcm9ncmFtLW1hbmFnZXItaWlpLWF1dG9tb3RpdmUtbWFwYm94LWdlcm1hbnktODkxNzJ8dGVjaG5pY2FsIHByb2dyYW0gbWFuYWdlciBpaWksIGF1dG9tb3RpdmV8bWFwYm94",
-      "title": "Technical Program Manager III, Automotive",
-      "company": "Mapbox",
-      "location": "Mapbox Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-23T05:40:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/mapbox/technical-program-manager-iii-automotive-mapbox-germany-89172"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jbGVhcmJhbmsvc2VuaW9yLWZpbmFuY2UtYnVzaW5lc3MtcGFydG5lci1sb25kb24tOTAxNzV8c2VuaW9yIGZpbmFuY2UgYnVzaW5lc3MgcGFydG5lcnxjbGVhcmJhbms",
-      "title": "Senior Finance Business Partner",
-      "company": "Clearbank",
-      "location": "London Office - 2/3 days a week",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-23T05:40:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clearbank/senior-finance-business-partner-london-90175"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jbGVhcmJhbmsvYWNjb3VudC1sZWFkLW1pZC1tYXJrZXQtbG9uZG9uLTI5NjQwMnxhY2NvdW50IGxlYWQgbWlkLW1hcmtldHxjbGVhcmJhbms",
-      "title": "Account Lead Mid-Market",
-      "company": "Clearbank",
-      "location": "London Office - 2/3 days a week",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-23T05:40:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clearbank/account-lead-mid-market-london-296402"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jbGVhcmJhbmsvc2VuaW9yLWFjY291bnQtbGVhZC1jbGllbnQtc3VjY2Vzcy1sb25kb24tNDMyMTcxfHNlbmlvciBhY2NvdW50IGxlYWQgLSBjbGllbnQgc3VjY2Vzc3xjbGVhcmJhbms",
-      "title": "Senior Account Lead - Client Success",
-      "company": "Clearbank",
-      "location": "London Office - 2/3 days a week",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-23T05:40:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clearbank/senior-account-lead-client-success-london-432171"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jbGVhcmJhbmsvYXNzb2NpYXRlLWRpcmVjdG9yLWNsaWVudC1zdWNjZXNzLWxvbmRvbi0zMDY3MTZ8YXNzb2NpYXRlIGRpcmVjdG9yIC0gY2xpZW50IHN1Y2Nlc3N8Y2xlYXJiYW5r",
-      "title": "Associate Director - Client Success",
-      "company": "Clearbank",
-      "location": "London Office - 2/3 days a week",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-23T05:40:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clearbank/associate-director-client-success-london-306716"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jbGVhcmJhbmsvYWNjb3VudC1sZWFkLWNsaWVudC1zdWNjZXNzLWxvbmRvbi01NjI3fGFjY291bnQgbGVhZCAtIGNsaWVudCBzdWNjZXNzfGNsZWFyYmFuaw",
-      "title": "Account Lead - Client Success",
-      "company": "Clearbank",
-      "location": "London Office - 2/3 days a week",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-23T05:40:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clearbank/account-lead-client-success-london-5627"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXRpcmEvcHJvZHVjdC1tdW5pY2gtNDkwMjQ4fHByb2R1Y3R8YXRpcmE",
-      "title": "Product",
-      "company": "Atira",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-23T05:40:14.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/atira/product-munich-490248"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXRsYW50aWN2Yy9zb2Z0d2FyZS1kZXZlbG9wZXItZ24tYXQtYXV0b25vbW91cy1uYXZpZ2F0aW9uLXZlbnR1cmUtZHJlc2Rlbi05NTQ1MHxzb2Z0d2FyZSBkZXZlbG9wZXIgKGduKSBAIGF1dG9ub21vdXMgbmF2aWdhdGlvbiB2ZW50dXJlLCBkcmVzZGVufGF0bGFudGljLnZj",
-      "title": "Software Developer (gn) @ Autonomous Navigation Venture, Dresden",
-      "company": "atlantic.vc",
-      "location": "Dresden, Sachsen, Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-23T05:31:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/software-developer-gn-at-autonomous-navigation-venture-dresden-95450"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9iYWNrbWFya2V0L3NlbGxlci1vcGVyYXRpb24tbWFuYWdlci1wYXJpcy0yOTYxMzJ8c2VsbGVyIG9wZXJhdGlvbiBtYW5hZ2VyfGJhY2ttYXJrZXQ",
       "title": "Seller Operation Manager",
       "company": "Backmarket",
@@ -864,6 +825,19 @@
       "postedDate": "2026-10-22T20:40:15.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/everai/security-engineer-full-remote-netherlands-46968"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VjdXJpdHktZW5naW5lZXItZnVsbC1yZW1vdGUtZnJhbmNlLTM3MzUwMHxzZWN1cml0eSBlbmdpbmVlciAoZnVsbCByZW1vdGUgLSBmcmFuY2UpfGV2ZXJhaQ",
+      "title": "Security Engineer (Full Remote - France)",
+      "company": "EverAI",
+      "location": "France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-22T20:40:14.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/everai/security-engineer-full-remote-france-373500"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9rcmFrZW4vc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWFpLWZvdW5kYXRpb25zLWNkaS1wYXJpcy0yNjE5OTF8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyIC0gYWkgZm91bmRhdGlvbnMgKGYvaC94KSAtIGNkaXxrcmFrZW4",
@@ -1202,32 +1176,6 @@
       "postedDate": "2026-10-22T11:40:33.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/quantware/finance-growth-projects-specialist-delft-28088"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9xdWFudHdhcmUvcmYtdGVzdC1pbmZyYXN0cnVjdHVyZS1lbmdpbmVlci1kZWxmdC0zNjQwNDF8cmYgdGVzdCBpbmZyYXN0cnVjdHVyZSBlbmdpbmVlcnxxdWFudHdhcmU",
-      "title": "RF Test Infrastructure Engineer",
-      "company": "Quantware",
-      "location": "Delft",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T11:40:33.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/quantware/rf-test-infrastructure-engineer-delft-364041"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9pM2Qvc2VuaW9yLXN1cHBseS1jaGFpbi1jb29yZGluYXRvci1jYXBlbGxlLWEtZC1panNzZWwtNDE2OTI0fHNlbmlvciBzdXBwbHkgY2hhaW4gY29vcmRpbmF0b3J8aTNk",
-      "title": "Senior Supply Chain Coordinator",
-      "company": "I3D",
-      "location": "Rotterdam HQ",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T11:40:33.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/i3d/senior-supply-chain-coordinator-capelle-a-d-ijssel-416924"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hbnRocm9waWMvY3VzdG9tZXItc3VjY2Vzcy1tYW5hZ2VyLXNvdXRoZXJuLWV1cm9wZS1wYXJpcy0yMTE2NjZ8Y3VzdG9tZXIgc3VjY2VzcyBtYW5hZ2VyLCBzb3V0aGVybiBldXJvcGV8YW50aHJvcGlj",
