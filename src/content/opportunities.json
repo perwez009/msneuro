@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T10:19:22.399Z",
+  "generatedAt": "2026-10-24T15:24:55.152Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,97 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvamV0YnJhaW5zL3NvZnR3YXJlLWRldmVsb3Blci1qYXZhLW5vZGVqcy13ZWItZGV2ZWxvcG1lbnQtdGVhbS1iZXJsaW4tbXVuaWNoLTEwMTA0OHxzb2Z0d2FyZSBkZXZlbG9wZXIgIGphdmEvIG5vZGUuanMgKHdlYiBkZXZlbG9wbWVudCB0ZWFtKXxqZXRicmFpbnM",
+      "title": "Software Developer  Java/ Node.JS (Web Development Team)",
+      "company": "jetbrains",
+      "location": "Berlin; Munich",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-24T11:55:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/software-developer-java-nodejs-web-development-team-berlin-munich-101048"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jYW1icmlkZ2Vjb25zdWx0YW50c2xpbWl0ZWQvZ3JhZHVhdGUtdGVjaG5vbG9neS1zdHJhdGVneS1hbmFseXN0LXBoeXNpY2FsLXNjaWVuY2VzLWVuZ2luZWVyaW5nLTIwMjctc3RhcnQtMzg5MDQ1fGdyYWR1YXRlIHRlY2hub2xvZ3kgc3RyYXRlZ3kgYW5hbHlzdCwgcGh5c2ljYWwgc2NpZW5jZXMgLyBlbmdpbmVlcmluZyAoMjAyNyBzdGFydCl8Y2FtYnJpZGdlY29uc3VsdGFudHNsaW1pdGVk",
+      "title": "Graduate Technology Strategy Analyst, Physical Sciences / Engineering (2027 start)",
+      "company": "Cambridgeconsultantslimited",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-24T11:55:21.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-technology-strategy-analyst-physical-sciences-engineering-2027-start-389045"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLXBlcmZvcm1hbmNlLW1hcmtldGVyLWZ1bGwtcmVtb3RlLWZyYW5jZS0zNjMyMjV8c2VuaW9yIHBlcmZvcm1hbmNlIG1hcmtldGVyIChmdWxsIHJlbW90ZSAtIGZyYW5jZSl8ZXZlcmFp",
+      "title": "Senior Performance Marketer (Full Remote - France)",
+      "company": "EverAI",
+      "location": "France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-24T11:40:14.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/everai/senior-performance-marketer-full-remote-france-363225"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLXBlcmZvcm1hbmNlLW1hcmtldGVyLWZ1bGwtcmVtb3RlLW5ldGhlcmxhbmRzLTIyMTQyOXxzZW5pb3IgcGVyZm9ybWFuY2UgbWFya2V0ZXIgKGZ1bGwgcmVtb3RlIC0gbmV0aGVybGFuZHMpfGV2ZXJhaQ",
+      "title": "Senior Performance Marketer (Full Remote - Netherlands)",
+      "company": "EverAI",
+      "location": "Netherlands",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-24T11:40:14.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.nl/jobs/companies/everai/senior-performance-marketer-full-remote-netherlands-221429"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZlcmFpL3Nlbmlvci1wZXJmb3JtYW5jZS1tYXJrZXRlci1mdWxsLXJlbW90ZS1nZXJtYW55LTQ5MjM1MnxzZW5pb3IgcGVyZm9ybWFuY2UgbWFya2V0ZXIgKGZ1bGwgcmVtb3RlIC0gZ2VybWFueSl8ZXZlcmFp",
+      "title": "Senior Performance Marketer (Full Remote - Germany)",
+      "company": "EverAI",
+      "location": "Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-24T11:40:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/everai/senior-performance-marketer-full-remote-germany-492352"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLXBlcmZvcm1hbmNlLW1hcmtldGVyLWZ1bGwtcmVtb3RlLXVrLXVuaXRlZC1raW5nZG9tLTE5MzA4N3xzZW5pb3IgcGVyZm9ybWFuY2UgbWFya2V0ZXIgKGZ1bGwgcmVtb3RlIC0gdWspfGV2ZXJhaQ",
+      "title": "Senior Performance Marketer (Full Remote - UK)",
+      "company": "EverAI",
+      "location": "United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-24T11:40:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/senior-performance-marketer-full-remote-uk-united-kingdom-193087"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1haS1hdXRvbWF0aW9uLWVuZXJneS1iZXJsaW4tMzM5MzQ3fHdlcmtzdHVkZW50OmluIGFpICYgYXV0b21hdGlvbiAtIGVuZXJneSAobS93L2QpfDFrb21tYTXLmg",
+      "title": "Werkstudent:in AI & Automation - Energy (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-24T10:30:41.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-ai-automation-energy-berlin-339347"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wbG9zL2Fzc29jaWF0ZS1lZGl0b3JpYWwtZGlyZWN0b3ItMi15ZWFyLWZ0Yy0zMDc0MDR8YXNzb2NpYXRlIGVkaXRvcmlhbCBkaXJlY3Rvci0gMiB5ZWFyIGZ0Y3xwbG9z",
       "title": "Associate Editorial Director- 2 Year FTC",
@@ -723,58 +814,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/seller-operation-manager-paris-296132"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jdXNwYWkvYXBwbGljYXRpb24tc2NpZW50aXN0LWxvbmRvbi0zNzYyMzF8YXBwbGljYXRpb24gc2NpZW50aXN0fGN1c3BhaQ",
-      "title": "Application Scientist",
-      "company": "Cuspai",
-      "location": "London, UK",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-23T02:40:14.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cuspai/application-scientist-london-376231"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tYXAvc2VuaW9yLWFkb2JlLWFwcGxpY2F0aW9uLWNvbnN1bHRhbnQtbG9uZG9uLTI0MjgwNnxzZW5pb3IgYWRvYmUgYXBwbGljYXRpb24gY29uc3VsdGFudHxtYXA",
-      "title": "Senior Adobe Application Consultant",
-      "company": "Map",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T23:55:26.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/map/senior-adobe-application-consultant-london-242806"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tYXAvZW50ZXJwcmlzZS1hcmNoaXRlY3Qtc2FsZXNmb3JjZS1tYXJrZXRpbmctY2xvdWQtbG9uZG9uLTMyNjI4N3xlbnRlcnByaXNlIGFyY2hpdGVjdCAtIHNhbGVzZm9yY2UgbWFya2V0aW5nIGNsb3VkfG1hcA",
-      "title": "Enterprise Architect - Salesforce Marketing Cloud",
-      "company": "Map",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T23:55:26.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/map/enterprise-architect-salesforce-marketing-cloud-london-326287"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93cHAvZGlyZWN0b3ItcHJvZHVjdC13b3JrZmxvdy13b3JrLW1hbmFnZW1lbnQtMjYxNzA3fGRpcmVjdG9yLCBwcm9kdWN0LCB3b3JrZmxvdyAmIHdvcmsgbWFuYWdlbWVudHx3cHA",
-      "title": "Director, Product, Workflow & Work Management",
-      "company": "Wpp",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T23:55:26.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wpp/director-product-workflow-work-management-261707"
-    },
-    {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy84MDQyMjg1MDAzP2doX2ppZD04MDQyMjg1MDAzfHNlbmlvciBhY2NvdW50YW50LCBjb3N0IGFuZCBtYW51ZmFjdHVyaW5nIGFjY291bnRpbmd8bmV1cmFsaW5r",
       "title": "Senior Accountant, Cost and Manufacturing Accounting",
       "company": "Neuralink",
@@ -825,19 +864,6 @@
       "postedDate": "2026-10-22T20:40:15.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/everai/security-engineer-full-remote-netherlands-46968"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VjdXJpdHktZW5naW5lZXItZnVsbC1yZW1vdGUtZnJhbmNlLTM3MzUwMHxzZWN1cml0eSBlbmdpbmVlciAoZnVsbCByZW1vdGUgLSBmcmFuY2UpfGV2ZXJhaQ",
-      "title": "Security Engineer (Full Remote - France)",
-      "company": "EverAI",
-      "location": "France",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T20:40:14.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/everai/security-engineer-full-remote-france-373500"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9rcmFrZW4vc2VuaW9yLXNvZnR3YXJlLWVuZ2luZWVyLWFpLWZvdW5kYXRpb25zLWNkaS1wYXJpcy0yNjE5OTF8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyIC0gYWkgZm91bmRhdGlvbnMgKGYvaC94KSAtIGNkaXxrcmFrZW4",
@@ -1254,19 +1280,6 @@
       "postedDate": "2026-10-21T14:40:18.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/energetic-materials-scientist-munitions-lausanne-465601"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9taXN0cmFsYWkvYXBwbGllZC1zY2llbnRpc3QtcmVzZWFyY2gtZW5naW5lZXItZm9ybWFsLW1ldGhvZHMtZW1lYS1wYXJpcy0xMzg5NzB8YXBwbGllZCBzY2llbnRpc3QgLSByZXNlYXJjaCBlbmdpbmVlciAoZm9ybWFsIG1ldGhvZHMpLCBlbWVhfG1pc3RyYWwuYWk",
-      "title": "Applied Scientist - Research Engineer (Formal Methods), EMEA",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-21T14:40:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-scientist-research-engineer-formal-methods-emea-paris-138970"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9zY2hvbGFycm9jay9zZW5pb3ItZGlyZWN0b3ItcGF0aWVudC1hZHZvY2FjeS1jb21tdW5pY2F0aW9ucy1sZWFkLWVtZWEtenVnLTczNDA0fHNlbmlvciBkaXJlY3RvciwgcGF0aWVudCBhZHZvY2FjeSAmIGNvbW11bmljYXRpb25zIGxlYWQsIGVtZWF8c2Nob2xhcnJvY2s",
