@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:24:03.743Z",
+  "generatedAt": "2026-10-26T03:20:02.940Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,110 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ub3VzL2NoaWVmLW9mLXN0YWZmLWxvbmRvbi00NTM0MTR8Y2hpZWYgb2Ygc3RhZmZ8bm91cw",
+      "title": "Chief of Staff",
+      "company": "Nous",
+      "location": "Nous HQ",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-26T00:40:28.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nous/chief-of-staff-london-453414"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hbnlvbmUtYWkvY2hlbWlzdHJ5LWV4cGVydC1zcGFpbi1wYXJpcy05MTYxNXxjaGVtaXN0cnkgZXhwZXJ0IChzcGFpbil8YW55b25lIGFp",
+      "title": "Chemistry Expert (Spain)",
+      "company": "Anyone Ai",
+      "location": "France",
+      "workModel": "On-site",
+      "opportunityType": "Contract",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-26T00:40:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/chemistry-expert-spain-paris-91615"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hbnlvbmUtYWkvY2hlbWlzdHJ5LWV4cGVydC1mcmFuY2UtcGFyaXMtMjQ0MjQzfGNoZW1pc3RyeSBleHBlcnQgKGZyYW5jZSl8YW55b25lIGFp",
+      "title": "Chemistry Expert (France)",
+      "company": "Anyone Ai",
+      "location": "France",
+      "workModel": "On-site",
+      "opportunityType": "Contract",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-26T00:40:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/chemistry-expert-france-paris-244243"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hbnlvbmUtYWkvYmlvbG9neS1leHBlcnQtYWktdHJhaW5lci1mcmFuY2UtcGFyaXMtMTExNzh8YmlvbG9neSBleHBlcnQgLSBhaSB0cmFpbmVyIChmcmFuY2UpfGFueW9uZSBhaQ",
+      "title": "Biology Expert - AI Trainer (France)",
+      "company": "Anyone Ai",
+      "location": "France",
+      "workModel": "On-site",
+      "opportunityType": "Part-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-26T00:40:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/biology-expert-ai-trainer-france-paris-11178"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wbGFpZC9yZW1vdGUtdGVjaG5pY2FsLXN1cHBvcnQtZW5naW5lZXItMjIwOTJ8dGVjaG5pY2FsIHN1cHBvcnQgZW5naW5lZXJ8cGxhaWQ",
+      "title": "Technical Support Engineer",
+      "company": "Plaid",
+      "location": "London Office",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-25T21:40:32.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/plaid/remote-technical-support-engineer-22092"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd29ya21vdGlvbi9yZW1vdGUtYWNjb3VudC1leGVjdXRpdmUtZGFjaC1zd2lzcy1nZXJtYW4tc3BlYWtpbmctZ2VybWFuLWZyZW5jaC1zcGVha2luZy1nZXJtYW55LTMyNTMzMHxhY2NvdW50IGV4ZWN1dGl2ZSBkYWNoIChzd2lzcyBnZXJtYW4tc3BlYWtpbmcpIC8gKGdlcm1hbiArIGZyZW5jaC1zcGVha2luZyl8d29ya21vdGlvbg",
+      "title": "Account Executive DACH (Swiss German-speaking) / (German + French-speaking)",
+      "company": "Workmotion",
+      "location": "Germany",
+      "workModel": "Remote",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-25T21:20:15.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/workmotion/remote-account-executive-dach-swiss-german-speaking-german-french-speaking-germany-325330"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9mdXNpb25hbGl0eS9jb21wdXRhdGlvbmFsLXNjaWVudGlzdC1zY2llbnRpZmljLW1hY2hpbmUtbGVhcm5pbmctbGF1c2FubmUtMzIzODk3fGNvbXB1dGF0aW9uYWwgc2NpZW50aXN0IC8gc2NpZW50aWZpYyBtYWNoaW5lIGxlYXJuaW5nfGZ1c2lvbmFsaXR5",
+      "title": "Computational Scientist / Scientific Machine Learning",
+      "company": "Fusionality",
+      "location": "Lausanne",
+      "workModel": "On-site",
+      "opportunityType": "Contract",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-25T21:17:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.ch/jobs/companies/fusionality/computational-scientist-scientific-machine-learning-lausanne-323897"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9mdXNpb25hbGl0eS9kYXRhLW1sLWVuZ2luZWVyLWZ1c2lvbi1kYXRhLWxhdXNhbm5lLTQ3OTk1NHxkYXRhL21sIGVuZ2luZWVyLCBmdXNpb24gZGF0YXxmdXNpb25hbGl0eQ",
+      "title": "Data/ML engineer, fusion data",
+      "company": "Fusionality",
+      "location": "Lausanne",
+      "workModel": "On-site",
+      "opportunityType": "Contract",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-25T21:02:24.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.ch/jobs/companies/fusionality/data-ml-engineer-fusion-data-lausanne-479954"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9pbnN0aXR1dC1taW5lcy10ZWxlY29tL3Bvc3QtZG9jdG9yYW50ZS1vdS1wb3N0LWRvY3RvcmFudC1lbi1ldmFsdWF0aW9uLWRlLWxhLXZ1bG5lcmFiaWxpdGUtZHVuLXJlc2VhdS1kYWNjZXMtdGVsZWNvbS1kZS10eXBlLXBvbi1wYXNzaXZlLW9wdGljYWwtbmV0d29yay12aXMtYS12aXMtZGVjb3UtNDk1MDUxfHBvc3QtZG9jdG9yYW50ZSBvdSBwb3N0LWRvY3RvcmFudCBlbiBldmFsdWF0aW9uIGRlIGxhIHZ1bG7DqXJhYmlsaXTDqSBk4oCZdW4gcsOpc2VhdSBk4oCZYWNjw6hzIHTDqWzDqWNvbSBkZSB0eXBlIHBvbiAocGFzc2l2ZSBvcHRpY2FsIG5ldHdvcmspIHZpcy3DoC12aXMgZOKAmcOpY291dGVzIHBvdGVudGllbGxlcyBwYXIgZGFzIChkaXN0cmlidXRlZCBhY291c3RpYyBzZW5zb3IpIC0gY2RkIGRlIDEyIG1vaXN8aW5zdGl0dXQgbWluZXMtdMOpbMOpY29t",
       "title": "Post-doctorante ou Post-doctorant en Evaluation de la vulnérabilité d’un réseau d’accès Télécom de type PON (Passive Optical Network) vis-à-vis d’écoutes potentielles par DAS (Distributed Acoustic Sensor) - CDD de 12 mois",
@@ -1126,19 +1230,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/zego/large-loss-claims-handler-halifax-uk-163248"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS90YWxlbnQtYWNxdWlzaXRpb24tbWFuYWdlci1vcGVyYXRpb25zLWxvbmRvbi0zMjE0MjZ8dGFsZW50IGFjcXVpc2l0aW9uIG1hbmFnZXIgLSBvcGVyYXRpb25zfGxlbmRhYmxl",
-      "title": "Talent Acquisition Manager - Operations",
-      "company": "Lendable",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-24T05:40:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/talent-acquisition-manager-operations-london-321426"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdHJhd2EvYWNjb3VudGFudC1iZXJsaW4tMjI3ODQ2fGFjY291bnRhbnR8dHJhd2E",
       "title": "Accountant",
       "company": "trawa",
@@ -1282,19 +1373,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-payroll-specialist-hamburg-471195"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvcGF5cm9sbC1tYW5hZ2VyLWhhbWJ1cmctMjc1ODV8cGF5cm9sbCBtYW5hZ2VyIChtL3cvZCl8MWtvbW1hNcua",
-      "title": "Payroll Manager (m/w/d)",
-      "company": "1KOMMA5˚",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-23T14:31:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/payroll-manager-hamburg-27585"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9ldXJvcGVhbi1keW5hbWljcy9yZW1vdGUtdGVzdC1hdXRvbWF0aW9uLWVuZ2luZWVyLXN0cmFzYm91cmctNDQ5MzY2fHRlc3QgYXV0b21hdGlvbiBlbmdpbmVlcnxldXJvcGVhbiBkeW5hbWljcw",
       "title": "Test Automation Engineer",
       "company": "European Dynamics",
@@ -1319,19 +1397,6 @@
       "postedDate": "2026-10-23T09:31:32.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.ch/jobs/companies/zurich-soft-robotics-gmbh/lead-software-engineer-zurich-369297"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9iYWNrbWFya2V0L3NlbGxlci1vcGVyYXRpb24tbWFuYWdlci1wYXJpcy0yOTYxMzJ8c2VsbGVyIG9wZXJhdGlvbiBtYW5hZ2VyfGJhY2ttYXJrZXQ",
-      "title": "Seller Operation Manager",
-      "company": "Backmarket",
-      "location": "Paris",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-23T02:40:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/seller-operation-manager-paris-296132"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy84MDQyMjg1MDAzP2doX2ppZD04MDQyMjg1MDAzfHNlbmlvciBhY2NvdW50YW50LCBjb3N0IGFuZCBtYW51ZmFjdHVyaW5nIGFjY291bnRpbmd8bmV1cmFsaW5r",
@@ -1371,32 +1436,6 @@
       "postedDate": "2026-10-22T20:40:15.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/everai/security-engineer-full-remote-netherlands-46968"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9mdXNpb25hbGl0eS9jb21wdXRhdGlvbmFsLXNjaWVudGlzdC1zY2llbnRpZmljLW1hY2hpbmUtbGVhcm5pbmctbGF1c2FubmUtMzIzODk3fGNvbXB1dGF0aW9uYWwgc2NpZW50aXN0IC8gc2NpZW50aWZpYyBtYWNoaW5lIGxlYXJuaW5nfGZ1c2lvbmFsaXR5",
-      "title": "Computational Scientist / Scientific Machine Learning",
-      "company": "Fusionality",
-      "location": "Lausanne",
-      "workModel": "On-site",
-      "opportunityType": "Contract",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T13:01:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.ch/jobs/companies/fusionality/computational-scientist-scientific-machine-learning-lausanne-323897"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9mdXNpb25hbGl0eS9kYXRhLW1sLWVuZ2luZWVyLWZ1c2lvbi1kYXRhLWxhdXNhbm5lLTQ3OTk1NHxkYXRhL21sIGVuZ2luZWVyLCBmdXNpb24gZGF0YXxmdXNpb25hbGl0eQ",
-      "title": "Data/ML engineer, fusion data",
-      "company": "Fusionality",
-      "location": "Lausanne",
-      "workModel": "On-site",
-      "opportunityType": "Contract",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-22T12:31:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.ch/jobs/companies/fusionality/data-ml-engineer-fusion-data-lausanne-479954"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9oYXJtYXR0YW4tYWkvZW5lcmdldGljLW1hdGVyaWFscy1zY2llbnRpc3QtbXVuaXRpb25zLWxhdXNhbm5lLTQ2NTYwMXxlbmVyZ2V0aWMgbWF0ZXJpYWxzIHNjaWVudGlzdCAobXVuaXRpb25zKXxoYXJtYXR0YW4gYWk",
