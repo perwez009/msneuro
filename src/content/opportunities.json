@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T22:19:01.655Z",
+  "generatedAt": "2026-10-27T03:48:12.510Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pZGVvL3Nlbmlvci1idXNpbmVzcy1kZXZlbG9wbWVudC1hc3NvY2lhdGUtbG9uZG9uLTkwODM3fHNlbmlvciBidXNpbmVzcyBkZXZlbG9wbWVudCBhc3NvY2lhdGV8aWRlbw",
+      "title": "Senior Business Development Associate",
+      "company": "Ideo",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-27T00:55:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ideo/senior-business-development-associate-london-90837"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9jZGRzLWFnL2NvbnRyb2wtZmxpZ2h0LXRlc3QtZW5naW5lZXItenVyaWNoLTI5NTI1Mnxjb250cm9sICYgZmxpZ2h0IHRlc3QgZW5naW5lZXJ8Y2RkcyBhZw",
       "title": "Control & Flight Test Engineer",
@@ -359,6 +372,19 @@
       "url": "https://www.arbeitnow.com/jobs/companies/rizm/founding-recruiter-munich-107384"
     },
     {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9iYWNrbWFya2V0L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1jaXJjdWxhcml0eS1vcmRlci1saWZlY3ljbGUtcGFyaXMtMzc4NjEzfHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciAtIGNpcmN1bGFyaXR5IG9yZGVyIGxpZmVjeWNsZXxiYWNrbWFya2V0",
+      "title": "Senior Software Engineer - Circularity Order Lifecycle",
+      "company": "Backmarket",
+      "location": "Paris",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-26T12:40:12.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/senior-software-engineer-circularity-order-lifecycle-paris-378613"
+    },
+    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXRpcmEvZGVwbG95bWVudC1zdHJhdGVnaXN0LW11bmljaC0zNzM0Mzh8ZGVwbG95bWVudCBzdHJhdGVnaXN0fGF0aXJh",
       "title": "Deployment Strategist",
       "company": "Atira",
@@ -422,6 +448,19 @@
       "postedDate": "2026-10-26T09:52:08.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/global-talent-acquisition-partner-gtm-all-genders-berlin-290240"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9jZW50cmFsZS1seW9uL2NlbnRyYWxlLWx5b24tZG9jdG9yYXQtbW9kZWxpc2F0aW9uLXByZWRpY3RpdmUtZGUtbWF0ZXJpYXV4LXBvbHltZXJlcy1yZWN5Y2xlcy1wYXItaW5mZXJlbmNlLXN0YXRpc3RpcXVlLWV0LWFwcHJlbnRpc3NhZ2UtbWFjaGluZS1oeWJyaWRlLWVjdWxseS00NDM5fGNlbnRyYWxlIGx5b24gLSBkb2N0b3JhdCBtb2TDqWxpc2F0aW9uIHByw6lkaWN0aXZlIGRlIG1hdMOpcmlhdXggcG9seW3DqHJlcyByZWN5Y2zDqXMgcGFyIGluZsOpcmVuY2Ugc3RhdGlzdGlxdWUgZXQgYXBwcmVudGlzc2FnZSBtYWNoaW5lIGh5YnJpZGUufGNlbnRyYWxlIGx5b24",
+      "title": "CENTRALE LYON - Doctorat Modélisation prédictive de matériaux polymères recyclés par inférence statistique et apprentissage machine hybride.",
+      "company": "CENTRALE LYON",
+      "location": "Ecully, Auvergne-Rhône-Alpes, France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-26T09:51:53.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/centrale-lyon/centrale-lyon-doctorat-modelisation-predictive-de-materiaux-polymeres-recycles-par-inference-statistique-et-apprentissage-machine-hybride-ecully-4439"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvN254dC1nbWJoL3Nlbmlvci1iYWNrZW5kLWVuZ2luZWVyLWdvbGFuZy1iZXJsaW4tMTIyNzQxfChzZW5pb3IpIGJhY2tlbmQgZW5naW5lZXIg4oCTIGdvbGFuZ3w3bnh0IGdtYmg",
@@ -671,19 +710,6 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/fusionality/data-ml-engineer-fusion-data-lausanne-479954"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9pbnN0aXR1dC1taW5lcy10ZWxlY29tL3Bvc3QtZG9jdG9yYW50ZS1vdS1wb3N0LWRvY3RvcmFudC1lbi1ldmFsdWF0aW9uLWRlLWxhLXZ1bG5lcmFiaWxpdGUtZHVuLXJlc2VhdS1kYWNjZXMtdGVsZWNvbS1kZS10eXBlLXBvbi1wYXNzaXZlLW9wdGljYWwtbmV0d29yay12aXMtYS12aXMtZGVjb3UtNDk1MDUxfHBvc3QtZG9jdG9yYW50ZSBvdSBwb3N0LWRvY3RvcmFudCBlbiBldmFsdWF0aW9uIGRlIGxhIHZ1bG7DqXJhYmlsaXTDqSBk4oCZdW4gcsOpc2VhdSBk4oCZYWNjw6hzIHTDqWzDqWNvbSBkZSB0eXBlIHBvbiAocGFzc2l2ZSBvcHRpY2FsIG5ldHdvcmspIHZpcy3DoC12aXMgZOKAmcOpY291dGVzIHBvdGVudGllbGxlcyBwYXIgZGFzIChkaXN0cmlidXRlZCBhY291c3RpYyBzZW5zb3IpIC0gY2RkIGRlIDEyIG1vaXN8aW5zdGl0dXQgbWluZXMtdMOpbMOpY29t",
-      "title": "Post-doctorante ou Post-doctorant en Evaluation de la vulnérabilité d’un réseau d’accès Télécom de type PON (Passive Optical Network) vis-à-vis d’écoutes potentielles par DAS (Distributed Acoustic Sensor) - CDD de 12 mois",
-      "company": "Institut Mines-Télécom",
-      "location": "Palaiseau, Île-de-France, France",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-25T18:51:34.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-ou-post-doctorant-en-evaluation-de-la-vulnerabilite-dun-reseau-dacces-telecom-de-type-pon-passive-optical-network-vis-a-vis-decou-495051"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hYmx5MzAvc3RhZmYtdGVjaC1sZWFkLXdlYi1kZXZlbG9wZXItcHJvZHVjdHMtbG9uZG9uLTE2MzU2MnxzdGFmZiB0ZWNoIGxlYWQsIHdlYiAmIGRldmVsb3BlciBwcm9kdWN0c3xhYmx5MzA",
       "title": "Staff Tech Lead, Web & Developer Products",
       "company": "Ably30",
@@ -864,6 +890,32 @@
       "postedDate": "2026-10-25T09:40:16.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/senior-partner-deployed-engineer-united-kingdom-286644"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jb2Rlci9zYWxlcy1lbmFibGVtZW50LW1hbmFnZXItbG9uZG9uLTI1NDYxfHNhbGVzIGVuYWJsZW1lbnQgbWFuYWdlcnxjb2Rlcg",
+      "title": "Sales Enablement Manager",
+      "company": "Coder",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-25T09:40:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/sales-enablement-manager-london-25461"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy92b2xlb24vc2VuaW9yLW1hY2hpbmUtbGVhcm5pbmctZW5naW5lZXItbG9uZG9uLTIzNjgzMnxzZW5pb3IgbWFjaGluZSBsZWFybmluZyBlbmdpbmVlcnx2b2xlb24",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Voleon",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-25T09:40:15.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/voleon/senior-machine-learning-engineer-london-236832"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9hZXAtaW50ZXJuYXRpb25hbC9wcm9qZWN0LWVuZ2luZWVyLWFsYmxhc3NlcmRhbS00MzYyMTh8cHJvamVjdCBlbmdpbmVlcnxhZXAgaW50ZXJuYXRpb25hbA",
@@ -1243,19 +1295,6 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/research-engineer-zurich-318019"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zZXJlYWN0L3Nlbmlvci10ZWNobmljYWwtcmVjcnVpdGVyLWxvbmRvbi00NjM1OTV8c2VuaW9yIHRlY2huaWNhbCByZWNydWl0ZXJ8c2VyZWFjdA",
-      "title": "Senior Technical Recruiter",
-      "company": "Sereact",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-24T23:40:14.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sereact/senior-technical-recruiter-london-463595"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yb29tcHJpY2VnZW5pZS9yZW1vdGUtc2FsZXMtZGV2ZWxvcG1lbnQtcmVwcmVzZW50YXRpdmUtdW5pdGVkLWtpbmdkb20tMzQyOTM3fHJlbW90ZSBzYWxlcyBkZXZlbG9wbWVudCByZXByZXNlbnRhdGl2ZSB1bml0ZWQga2luZ2RvbSAobS9mL2QpfHJvb21wcmljZWdlbmll",
       "title": "Remote Sales Development Representative United Kingdom (m/f/d)",
       "company": "RoomPriceGenie",
@@ -1399,19 +1438,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/clearbank/talent-acquisition-coordinator-london-372347"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3RlYWx0aHJvY2tldHJ5c3RhcnR1cC9jb21wb3NpdGUtZGV2ZWxvcG1lbnQtZW5naW5lZXItZ2VybWFueS00ODQ4MDl8Y29tcG9zaXRlIGRldmVsb3BtZW50IGVuZ2luZWVyfHN0ZWFsdGhyb2NrZXRyeXN0YXJ0dXA",
-      "title": "Composite Development Engineer",
-      "company": "Stealthrocketrystartup",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-24T20:40:15.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/composite-development-engineer-germany-484809"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1haS1hdXRvbWF0aW9uLWVuZXJneS1iZXJsaW4tMzM5MzQ3fHdlcmtzdHVkZW50OmluIGFpICYgYXV0b21hdGlvbiAtIGVuZXJneSAobS93L2QpfDFrb21tYTXLmg",
       "title": "Werkstudent:in AI & Automation - Energy (m/w/d)",
       "company": "1KOMMA5˚",
@@ -1516,19 +1542,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-technology-strategy-analyst-physical-sciences-engineering-2027-start-389045"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLXBlcmZvcm1hbmNlLW1hcmtldGVyLWZ1bGwtcmVtb3RlLW5ldGhlcmxhbmRzLTIyMTQyOXxzZW5pb3IgcGVyZm9ybWFuY2UgbWFya2V0ZXIgKGZ1bGwgcmVtb3RlIC0gbmV0aGVybGFuZHMpfGV2ZXJhaQ",
-      "title": "Senior Performance Marketer (Full Remote - Netherlands)",
-      "company": "EverAI",
-      "location": "Netherlands",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-24T11:40:14.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/everai/senior-performance-marketer-full-remote-netherlands-221429"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZlcmFpL3Nlbmlvci1wZXJmb3JtYW5jZS1tYXJrZXRlci1mdWxsLXJlbW90ZS1nZXJtYW55LTQ5MjM1MnxzZW5pb3IgcGVyZm9ybWFuY2UgbWFya2V0ZXIgKGZ1bGwgcmVtb3RlIC0gZ2VybWFueSl8ZXZlcmFp",
       "title": "Senior Performance Marketer (Full Remote - Germany)",
       "company": "EverAI",
@@ -1553,32 +1566,6 @@
       "postedDate": "2026-10-24T11:40:13.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/senior-performance-marketer-full-remote-uk-united-kingdom-193087"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wbG9zL2Fzc29jaWF0ZS1lZGl0b3JpYWwtZGlyZWN0b3ItMi15ZWFyLWZ0Yy0zMDc0MDR8YXNzb2NpYXRlIGVkaXRvcmlhbCBkaXJlY3Rvci0gMiB5ZWFyIGZ0Y3xwbG9z",
-      "title": "Associate Editorial Director- 2 Year FTC",
-      "company": "Plos",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-24T08:55:28.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/plos/associate-editorial-director-2-year-ftc-307404"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy92bWxlbnRlcnByaXNlc29sdXRpb25zL3Nlbmlvci1jb250ZW50LWRlc2lnbmVyLXVrLWxvbmRvbi05NjkxNnxzZW5pb3IgY29udGVudCBkZXNpZ25lciB1a3x2bWxlbnRlcnByaXNlc29sdXRpb25z",
-      "title": "Senior Content Designer UK",
-      "company": "Vmlenterprisesolutions",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-24T08:55:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/vmlenterprisesolutions/senior-content-designer-uk-london-96916"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2tkc2UvdGFjdGljYWwtZGF0YS1saW5rLWV4cGVydC1hbGwtZ2VuZGVycy1tdW5pY2gtYmF2YXJpYS03Mjk4OXx0YWN0aWNhbCBkYXRhIGxpbmsgZXhwZXJ0IChhbGwgZ2VuZGVycyl8c2tkc2U",
@@ -1709,19 +1696,6 @@
       "postedDate": "2026-10-22T20:55:33.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/asm/senior-engineer-product-intelligence-materials-engineering-chemistry-thin-film-design-418449"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9oYXJtYXR0YW4tYWkvZW5lcmdldGljLW1hdGVyaWFscy1zY2llbnRpc3QtbXVuaXRpb25zLWxhdXNhbm5lLTQ2NTYwMXxlbmVyZ2V0aWMgbWF0ZXJpYWxzIHNjaWVudGlzdCAobXVuaXRpb25zKXxoYXJtYXR0YW4gYWk",
-      "title": "Energetic Materials Scientist (Munitions)",
-      "company": "Harmattan Ai",
-      "location": "Lausanne",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-21T14:40:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/energetic-materials-scientist-munitions-lausanne-465601"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9zY2hvbGFycm9jay9zZW5pb3ItZGlyZWN0b3ItcGF0aWVudC1hZHZvY2FjeS1jb21tdW5pY2F0aW9ucy1sZWFkLWVtZWEtenVnLTczNDA0fHNlbmlvciBkaXJlY3RvciwgcGF0aWVudCBhZHZvY2FjeSAmIGNvbW11bmljYXRpb25zIGxlYWQsIGVtZWF8c2Nob2xhcnJvY2s",
