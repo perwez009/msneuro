@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T16:51:30.340Z",
+  "generatedAt": "2026-10-31T21:00:36.048Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,45 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9va3gvc2VuaW9yLW1hbmFnZXItcHItYW5kLWNvbW11bmljYXRpb25zLWFwYWMtc3lkbmV5LWF1c3RyYWxpYS00NjE3MDF8c2VuaW9yIG1hbmFnZXIgcHIgYW5kIGNvbW11bmljYXRpb25zIGFwYWN8b2t4",
+      "title": "Senior Manager PR and Communications APAC",
+      "company": "Okx",
+      "location": "Sydney, Australia",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-31T18:55:28.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/okx/senior-manager-pr-and-communications-apac-sydney-australia-461701"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbnRocm9waWMvZW50ZXJwcmlzZS1hY2NvdW50LWV4ZWN1dGl2ZS1zZW1pY29uZHVjdG9ycy1sb25kb24tNDk2ODkwfGVudGVycHJpc2UgYWNjb3VudCBleGVjdXRpdmUgLSBzZW1pY29uZHVjdG9yc3xhbnRocm9waWM",
+      "title": "Enterprise Account Executive - Semiconductors",
+      "company": "anthropic",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-31T18:55:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/enterprise-account-executive-semiconductors-london-496890"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYm93YXR0L2ZvdW5kaW5nLXByb2R1Y3QtbWFuYWdlci1nZXJtYW4tc3BlYWtpbmctbXVuaWNoLTI4NTUxMnxmb3VuZGluZyBwcm9kdWN0IG1hbmFnZXIgKGdlcm1hbi1zcGVha2luZyl8Ym93YXR0",
+      "title": "Founding Product Manager (German-speaking)",
+      "company": "Bowatt",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-31T18:40:14.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/bowatt/founding-product-manager-german-speaking-munich-285512"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGhlLWV4cGxvcmF0aW9uLWNvbXBhbnkvc2VuaW9yLXNwYWNlY3JhZnQtdGhlcm1hbC1lbmdpbmVlci1tdW5pY2gtNDc0MDIxfHNlbmlvciBzcGFjZWNyYWZ0IHRoZXJtYWwgZW5naW5lZXJ8dGhlIGV4cGxvcmF0aW9uIGNvbXBhbnk",
       "title": "Senior Spacecraft Thermal Engineer",
@@ -112,6 +151,19 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/senior-research-scientist-health-economic-modelling-london-greater-london-344065"
     },
     {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9iYWNrbWFya2V0L2ZyYXVkLWFuZC1yaXNrLW9mZmljZXItaW50ZXJuLXBhcmlzLTM2NTcwNnxmcmF1ZCBhbmQgcmlzayBvZmZpY2VyIGludGVybnxiYWNrbWFya2V0",
+      "title": "Fraud and Risk Officer Intern",
+      "company": "Backmarket",
+      "location": "Paris",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-31T09:40:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/fraud-and-risk-officer-intern-paris-365706"
+    },
+    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9xdWFudGV4YS9wZXJzb25hbC1hc3Npc3RhbnQtbG9uZG9uLTEzNzE5MnxwZXJzb25hbCBhc3Npc3RhbnR8cXVhbnRleGE",
       "title": "Personal Assistant",
       "company": "Quantexa",
@@ -149,19 +201,6 @@
       "postedDate": "2026-10-31T09:40:17.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/customer-intelligence-solutions-lead-emea-london-119939"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9iYWNrbWFya2V0L2ZyYXVkLWFuZC1yaXNrLW9mZmljZXItaW50ZXJuLXBhcmlzLTM2NTcwNnxmcmF1ZCBhbmQgcmlzayBvZmZpY2VyIGludGVybnxiYWNrbWFya2V0",
-      "title": "Fraud and Risk Officer Intern",
-      "company": "Backmarket",
-      "location": "Paris",
-      "workModel": "On-site",
-      "opportunityType": "Internship",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-31T09:40:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/fraud-and-risk-officer-intern-paris-365706"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy8zYnJhaW4tYWcvZWxlY3Ryb25pY3MtZW5naW5lZXItZnJlaWVuYmFjaC00MTgwNzN8ZWxlY3Ryb25pY3MgZW5naW5lZXJ8M2JyYWluIGFn",
@@ -268,32 +307,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/data-scientist-manchester-199393"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZlcmFpL3Nlbmlvci1sZWFkLWxpZmVjeWNsZS1tYXJrZXRpbmctbWFuYWdlci1mdWxsLXJlbW90ZS1nZXJtYW55LTQxNzcxfHNlbmlvci9sZWFkIGxpZmVjeWNsZSBtYXJrZXRpbmcgbWFuYWdlciAoZnVsbCByZW1vdGUgLSBnZXJtYW55KXxldmVyYWk",
-      "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - Germany)",
-      "company": "EverAI",
-      "location": "Germany",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-31T03:40:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/everai/senior-lead-lifecycle-marketing-manager-full-remote-germany-41771"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb21lZ2dhL3Byb2R1Y3Qtb3duZXItaGFyZHdhcmUtbXVuaWNoLTMxMzE5OXxwcm9kdWN0IG93bmVyIGhhcmR3YXJlIChtL2YvZCl8b21lZ2dh",
-      "title": "Product Owner Hardware (m/f/d)",
-      "company": "Omegga",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-31T03:40:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/omegga/product-owner-hardware-munich-313199"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLWxlYWQtbGlmZWN5Y2xlLW1hcmtldGluZy1tYW5hZ2VyLWZ1bGwtcmVtb3RlLWZyYW5jZS05NzUwN3xzZW5pb3IvbGVhZCBsaWZlY3ljbGUgbWFya2V0aW5nIG1hbmFnZXIgKGZ1bGwgcmVtb3RlIC0gZnJhbmNlKXxldmVyYWk",
       "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - France)",
       "company": "EverAI",
@@ -318,6 +331,32 @@
       "postedDate": "2026-10-31T03:40:22.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/everai/senior-lead-lifecycle-marketing-manager-full-remote-netherlands-96246"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZlcmFpL3Nlbmlvci1sZWFkLWxpZmVjeWNsZS1tYXJrZXRpbmctbWFuYWdlci1mdWxsLXJlbW90ZS1nZXJtYW55LTQxNzcxfHNlbmlvci9sZWFkIGxpZmVjeWNsZSBtYXJrZXRpbmcgbWFuYWdlciAoZnVsbCByZW1vdGUgLSBnZXJtYW55KXxldmVyYWk",
+      "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - Germany)",
+      "company": "EverAI",
+      "location": "Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-31T03:40:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/everai/senior-lead-lifecycle-marketing-manager-full-remote-germany-41771"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb21lZ2dhL3Byb2R1Y3Qtb3duZXItaGFyZHdhcmUtbXVuaWNoLTMxMzE5OXxwcm9kdWN0IG93bmVyIGhhcmR3YXJlIChtL2YvZCl8b21lZ2dh",
+      "title": "Product Owner Hardware (m/f/d)",
+      "company": "Omegga",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-31T03:40:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/omegga/product-owner-hardware-munich-313199"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9seXJlYmlyZC1oZWFsdGgvc29mdHdhcmUtZW5naW5lZXItdW5pdGVkLWtpbmdkb20tOTMzODl8c29mdHdhcmUgZW5naW5lZXJ8bHlyZWJpcmQgaGVhbHRo",
@@ -788,32 +827,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/robco/senior-electrical-engineer-robotics-munich-246458"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jb2Rlci9zZW5pb3ItdGVjaG5pY2FsLXJlY3J1aXRlci1sb25kb24tMTc4NTc3fHNlbmlvciB0ZWNobmljYWwgcmVjcnVpdGVyIChsb25kb24pfGNvZGVy",
-      "title": "Senior Technical Recruiter (London)",
-      "company": "Coder",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-30T09:40:13.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/senior-technical-recruiter-london-178577"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9leGNsYWltZXIvc2VuaW9yLWRlc2lnbmVyLWxvbmRvbi0xMzA5NDZ8c2VuaW9yIGRlc2lnbmVyfGV4Y2xhaW1lcg",
-      "title": "Senior Designer",
-      "company": "Exclaimer",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-30T06:55:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/exclaimer/senior-designer-london-130946"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9leGEvcmVzZWFyY2gtZW5naW5lZXItY29udGVudC11bmRlcnN0YW5kaW5nLXp1cmljaC0zMzg4ODV8cmVzZWFyY2ggZW5naW5lZXIsIGNvbnRlbnQgdW5kZXJzdGFuZGluZ3xleGE",
       "title": "Research Engineer, Content Understanding",
       "company": "Exa",
@@ -1152,19 +1165,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/everai/senior-affiliate-manager-full-remote-netherlands-18823"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9uZXVyYWxjb25jZXB0L2FpLXdvcmtmbG93cy1lbmdpbmVlci1zd2l0emVybGFuZC1sYXVzYW5uZS0xNjEzMjZ8YWkgd29ya2Zsb3dzIGVuZ2luZWVyIC0gc3dpdHplcmxhbmR8bmV1cmFsY29uY2VwdA",
-      "title": "AI Workflows Engineer - Switzerland",
-      "company": "Neuralconcept",
-      "location": "Lausanne",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-27T18:40:34.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.ch/jobs/companies/neuralconcept/ai-workflows-engineer-switzerland-lausanne-161326"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9jZW50cmljL2NsaWVudC1zZXJ2aWNlLWRpcmVjdG9yLWdvdWRhLTQzNzczM3xjbGllbnQgc2VydmljZSBkaXJlY3RvcnxjZW50cmlj",
       "title": "Client Service Director",
       "company": "Centric",
@@ -1397,6 +1397,19 @@
       "postedDate": "2026-10-25T09:31:00.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/staffplanning-bv/netwerk-engineer-telecom-alphen-aan-den-rijn-43028"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9pbi1kaXZpZHUvaHItb2ZmaWNlci1pbi1kZW4taGFhZy10aGUtaGFndWUtMjg2MDkxfGhyLW9mZmljZXIgaW4gZGVuIGhhYWd8aW4tZGl2aWR1",
+      "title": "HR-officer in Den Haag",
+      "company": "In-Dividu",
+      "location": "The Hague",
+      "workModel": "On-site",
+      "opportunityType": "Vast dienstverband (onbepaalde tijd)",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-25T09:30:58.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.nl/jobs/companies/in-dividu/hr-officer-in-den-haag-the-hague-286091"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9hbnlib3RpY3Mvc2VuaW9yLXJlaW5mb3JjZW1lbnQtbGVhcm5pbmctZW5naW5lZXItenVyaWNoLXN3aXR6ZXJsYW5kLTM5MTIzNnxzZW5pb3IgcmVpbmZvcmNlbWVudCBsZWFybmluZyBlbmdpbmVlcnxhbnlib3RpY3M",
