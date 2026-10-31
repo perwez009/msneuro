@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:43:51.702Z",
+  "generatedAt": "2026-10-31T16:51:30.340Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,97 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGhlLWV4cGxvcmF0aW9uLWNvbXBhbnkvc2VuaW9yLXNwYWNlY3JhZnQtdGhlcm1hbC1lbmdpbmVlci1tdW5pY2gtNDc0MDIxfHNlbmlvciBzcGFjZWNyYWZ0IHRoZXJtYWwgZW5naW5lZXJ8dGhlIGV4cGxvcmF0aW9uIGNvbXBhbnk",
+      "title": "Senior Spacecraft Thermal Engineer",
+      "company": "The Exploration Company",
+      "location": "Munich, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-31T15:40:14.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/senior-spacecraft-thermal-engineer-munich-474021"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tYXBib3gvc29mdHdhcmUtZGV2ZWxvcG1lbnQtZW5naW5lZXItaWlpLW1hcHMtYXBpLW1hcGJveC11ay05MTQwNXxzb2Z0d2FyZSBkZXZlbG9wbWVudCBlbmdpbmVlciBpaWksIG1hcHMgYXBpfG1hcGJveA",
+      "title": "Software Development Engineer III, Maps API",
+      "company": "Mapbox",
+      "location": "Mapbox UK",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-31T15:40:14.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mapbox/software-development-engineer-iii-maps-api-mapbox-uk-91405"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy90aGUtZXhwbG9yYXRpb24tY29tcGFueS90ZXN0LWRldmVsb3BtZW50LWVuZ2luZWVyLWJvcmRlYXV4LTM2NzM5Nnx0ZXN0IGRldmVsb3BtZW50IGVuZ2luZWVyfHRoZSBleHBsb3JhdGlvbiBjb21wYW55",
+      "title": "Test Development Engineer",
+      "company": "The Exploration Company",
+      "location": "Bordeaux, France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-31T15:40:14.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/test-development-engineer-bordeaux-367396"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbWFwYm94L3Nlbmlvci1haS1lbmdpbmVlci1sb2NhdGlvbi1haS1tYXBib3gtZ2VybWFueS0xMzA4Njd8c2VuaW9yIGFpIGVuZ2luZWVyLCBsb2NhdGlvbiBhaXxtYXBib3g",
+      "title": "Senior AI Engineer, Location AI",
+      "company": "Mapbox",
+      "location": "Mapbox Germany",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-31T15:40:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/mapbox/senior-ai-engineer-location-ai-mapbox-germany-130867"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWNhZGlhLWpvYi1saXN0aW5ncy9zZW5pb3ItbWFuYWdlci1hc3NvY2lhdGUtZGlyZWN0b3ItY29tbWVyY2lhbC1vcGVyYXRpb25zLWdlcm1hbnktbXVuaWNoLWJhdmFyaWEtMjUwMjc2fHNlbmlvciBtYW5hZ2VyL2Fzc29jaWF0ZSBkaXJlY3RvciwgY29tbWVyY2lhbCBvcGVyYXRpb25zLCBnZXJtYW55fGFjYWRpYSBqb2IgbGlzdGluZ3M",
+      "title": "Senior Manager/Associate Director, Commercial Operations, Germany",
+      "company": "Acadia Job Listings",
+      "location": "Munich, Bavaria",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-31T12:55:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/acadia-job-listings/senior-manager-associate-director-commercial-operations-germany-munich-bavaria-250276"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kZWxpdmVyb28vZW5naW5lZXJpbmctbWFuYWdlci11bmlmaWVkLXBsYXRmb3JtLWxvbmRvbi00MTk5NTl8ZW5naW5lZXJpbmcgbWFuYWdlciAtIHVuaWZpZWQgcGxhdGZvcm18ZGVsaXZlcm9v",
+      "title": "Engineering Manager - Unified Platform",
+      "company": "Deliveroo",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-31T12:55:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/engineering-manager-unified-platform-london-419959"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9kdXJhLXZlcm1lZXIvcHJvamVjdG9udHdpa2tlbGFhci11dHJlY2h0LTQ4MjAxMnxwcm9qZWN0b250d2lra2VsYWFyfGR1cmEgdmVybWVlcg",
+      "title": "Projectontwikkelaar",
+      "company": "Dura Vermeer",
+      "location": "Utrecht, Utrecht, Nederland",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-31T12:31:45.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.nl/jobs/companies/dura-vermeer/projectontwikkelaar-utrecht-482012"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wcmVjaXNpb25tZWRpY2luZWdyb3VwL3Nlbmlvci1yZXNlYXJjaC1zY2llbnRpc3QtaGVhbHRoLWVjb25vbWljLW1vZGVsbGluZy1sb25kb24tZ3JlYXRlci1sb25kb24tMzQ0MDY1fHNlbmlvciByZXNlYXJjaCBzY2llbnRpc3QsIGhlYWx0aCBlY29ub21pYyBtb2RlbGxpbmd8cHJlY2lzaW9ubWVkaWNpbmVncm91cA",
       "title": "Senior Research Scientist, Health Economic Modelling",
@@ -203,32 +294,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/omegga/product-owner-hardware-munich-313199"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9seXJlYmlyZC1oZWFsdGgvc29mdHdhcmUtZW5naW5lZXItdW5pdGVkLWtpbmdkb20tOTMzODl8c29mdHdhcmUgZW5naW5lZXJ8bHlyZWJpcmQgaGVhbHRo",
-      "title": "Software Engineer",
-      "company": "Lyrebird Health",
-      "location": "United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-31T03:40:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lyrebird-health/software-engineer-united-kingdom-93389"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLWxlYWQtbGlmZWN5Y2xlLW1hcmtldGluZy1tYW5hZ2VyLWZ1bGwtcmVtb3RlLXVrLXVuaXRlZC1raW5nZG9tLTMyNjAyMnxzZW5pb3IvbGVhZCBsaWZlY3ljbGUgbWFya2V0aW5nIG1hbmFnZXIgKGZ1bGwgcmVtb3RlIC0gdWspfGV2ZXJhaQ",
-      "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - UK)",
-      "company": "EverAI",
-      "location": "United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-31T03:40:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/senior-lead-lifecycle-marketing-manager-full-remote-uk-united-kingdom-326022"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLWxlYWQtbGlmZWN5Y2xlLW1hcmtldGluZy1tYW5hZ2VyLWZ1bGwtcmVtb3RlLWZyYW5jZS05NzUwN3xzZW5pb3IvbGVhZCBsaWZlY3ljbGUgbWFya2V0aW5nIG1hbmFnZXIgKGZ1bGwgcmVtb3RlIC0gZnJhbmNlKXxldmVyYWk",
       "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - France)",
       "company": "EverAI",
@@ -253,6 +318,32 @@
       "postedDate": "2026-10-31T03:40:22.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/everai/senior-lead-lifecycle-marketing-manager-full-remote-netherlands-96246"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9seXJlYmlyZC1oZWFsdGgvc29mdHdhcmUtZW5naW5lZXItdW5pdGVkLWtpbmdkb20tOTMzODl8c29mdHdhcmUgZW5naW5lZXJ8bHlyZWJpcmQgaGVhbHRo",
+      "title": "Software Engineer",
+      "company": "Lyrebird Health",
+      "location": "United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-31T03:40:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lyrebird-health/software-engineer-united-kingdom-93389"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLWxlYWQtbGlmZWN5Y2xlLW1hcmtldGluZy1tYW5hZ2VyLWZ1bGwtcmVtb3RlLXVrLXVuaXRlZC1raW5nZG9tLTMyNjAyMnxzZW5pb3IvbGVhZCBsaWZlY3ljbGUgbWFya2V0aW5nIG1hbmFnZXIgKGZ1bGwgcmVtb3RlIC0gdWspfGV2ZXJhaQ",
+      "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - UK)",
+      "company": "EverAI",
+      "location": "United Kingdom",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-31T03:40:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/senior-lead-lifecycle-marketing-manager-full-remote-uk-united-kingdom-326022"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9tYXJnby9kYXRhLXNjaWVudGlzdC1wcm9qZXRzLXByaWNpbmctc2VnbWVudGF0aW9uLXByYWN0aWNlLWlhLW1hcmdvLXBhcmlzLTMzODk1M3xkYXRhIHNjaWVudGlzdCB8IHByb2pldHMgcHJpY2luZyAmIHNlZ21lbnRhdGlvbiDigJMgcHJhY3RpY2UgaWEgbWFyZ298bWFyZ28",
@@ -736,84 +827,6 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/exa/research-engineer-content-understanding-zurich-338885"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy91aXBhdGgvc2VuaW9yLXNhbGVzLWRpcmVjdG9yLXJ2cC1jb25zdW1lci1pbmR1c3RyaWVzLXVraS1sb25kb24tODEzMjB8c2VuaW9yIHNhbGVzIGRpcmVjdG9yIChydnApLCBjb25zdW1lciBpbmR1c3RyaWVzIHVrJml8dWlwYXRo",
-      "title": "Senior Sales Director (RVP), Consumer Industries UK&I",
-      "company": "UiPath",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-30T03:40:14.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/uipath/senior-sales-director-rvp-consumer-industries-uki-london-81320"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9mbGFnc3RvbmUvc2VuaW9yLXNlY29wcy1lbmdpbmVlci1sb25kb24tMTY0MDk5fHNlbmlvciBzZWNvcHMgZW5naW5lZXJ8ZmxhZ3N0b25l",
-      "title": "Senior SecOps Engineer",
-      "company": "Flagstone",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-30T03:40:13.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/flagstone/senior-secops-engineer-london-164099"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uc2NhbGVvcGVyYXRpb25zdWtsdGQvZGF0YS1jZW50ZXItb3BlcmF0aW9ucy1pbXBsZW1lbnRhdGlvbi1tYW5hZ2VyLTM1MzQ1N3xkYXRhIGNlbnRlciBvcGVyYXRpb25zIGltcGxlbWVudGF0aW9uIG1hbmFnZXJ8bnNjYWxlb3BlcmF0aW9uc3VrbHRk",
-      "title": "Data Center Operations Implementation Manager",
-      "company": "Nscaleoperationsukltd",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-30T00:55:21.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nscaleoperationsukltd/data-center-operations-implementation-manager-353457"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93cHBtZWRpYS9kaXJlY3Rvci1wbGFubmluZy11ay1sb25kb24tNDU3ODYwfGRpcmVjdG9yLCBwbGFubmluZywgdWt8d3BwbWVkaWE",
-      "title": "Director, Planning, UK",
-      "company": "wppmedia",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-30T00:55:20.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/director-planning-uk-london-457860"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93cHBtZWRpYS9hc3NvY2lhdGUtZGlyZWN0b3ItcGxhbm5pbmctdWstbG9uZG9uLTM4OTA2MXxhc3NvY2lhdGUgZGlyZWN0b3IsIHBsYW5uaW5nLCB1a3x3cHBtZWRpYQ",
-      "title": "Associate Director, Planning, UK",
-      "company": "wppmedia",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-30T00:55:20.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-director-planning-uk-london-389061"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9kYXRhaWt1L3JlbW90ZS1zZW5pb3ItbWFuYWdlci1nbG9iYWwtYmVuZWZpdHMtMjA2NTYxfHNlbmlvciBtYW5hZ2VyLCBnbG9iYWwgYmVuZWZpdHN8ZGF0YWlrdQ",
-      "title": "Senior Manager, Global Benefits",
-      "company": "dataiku",
-      "location": "Remote",
-      "workModel": "Remote",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-30T00:55:19.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-senior-manager-global-benefits-206561"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcm9vbXByaWNlZ2VuaWUvcmVtb3RlLXNyLXByb2R1Y3QtbWFuYWdlci1yZXZlbnVlLW1hbmFnZW1lbnQtMS15ZWFyLWNvbnRyYWN0LTIzNzg4M3xyZW1vdGUgc3IuIHByb2R1Y3QgbWFuYWdlciAtIHJldmVudWUgbWFuYWdlbWVudCAtIDEgeWVhciBjb250cmFjdCAobS9mL2QpfHJvb21wcmljZWdlbmll",
       "title": "Remote Sr. Product Manager - Revenue Management - 1 year contract (m/f/d)",
       "company": "Roompricegenie",
@@ -877,58 +890,6 @@
       "postedDate": "2026-10-29T21:55:19.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/hsogroupbv/senior-consultant-customer-engagement-d365-veenendaal-422897"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvb3ZpdmEvcmVtb3RlLWxhdy1zdHVkZW50LXJlc2VhcmNoLWFzc2lzdGFudC13aXRoLWZvY3VzLW9uLWRhdGEtcHJvdGVjdGlvbi00MDY0Mjd8bGF3IHN0dWRlbnQgLyByZXNlYXJjaCBhc3Npc3RhbnQgd2l0aCBmb2N1cyBvbiBkYXRhIHByb3RlY3Rpb258b3ZpdmE",
-      "title": "Law student / research assistant with focus on data protection",
-      "company": "Oviva",
-      "location": "Remote Germany",
-      "workModel": "On-site",
-      "opportunityType": "Part-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-29T18:40:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/oviva/remote-law-student-research-assistant-with-focus-on-data-protection-406427"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdmFlcmlkaW9uL3Nlbmlvci1wcm9wdWxzaW9uLWVuZ2luZWVyLWVsZWN0cmljLWVuZ2luZS1hbGwtZ2VuZGVycy1tdW5pY2gtMzEwNzAxfHNlbmlvciBwcm9wdWxzaW9uIGVuZ2luZWVyIC0gZWxlY3RyaWMgZW5naW5lIChhbGwgZ2VuZGVycyl8dsOmcmlkaW9u",
-      "title": "Senior Propulsion Engineer - Electric Engine (all genders)",
-      "company": "væridion",
-      "location": "Munich HQ",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-29T18:40:17.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/vaeridion/senior-propulsion-engineer-electric-engine-all-genders-munich-310701"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd29ybGR3aWRlLXBsYWNlbWVudC1saW1pdGVkL2ZvdW5kaW5nLWxwYS1lbmdpbmVlci1oYW1idXJnLTQ5Mjg4MXxmb3VuZGluZyBscGEgZW5naW5lZXIgKG0vZi9kKXx3b3JsZHdpZGUgcGxhY2VtZW50IGxpbWl0ZWQ",
-      "title": "Founding LPA Engineer (m/f/d)",
-      "company": "Worldwide Placement Limited",
-      "location": "Hamburg",
-      "workModel": "On-site",
-      "opportunityType": "Permanent employment (unbefristeter arbeitsvertrag), professional / experienced",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-29T18:30:41.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/worldwide-placement-limited/founding-lpa-engineer-hamburg-492881"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYWRkZmFtZS1nbWJoL3RlYW1sZWFkLWluZmx1ZW5jZXItbWFya2V0aW5nLWNhbXBhaWduLW1hbmFnZW1lbnQtbXVuaWNoLTM5Mjc5NXx0ZWFtbGVhZCAobS93L2QpIGluZmx1ZW5jZXIgbWFya2V0aW5nICAmIGNhbXBhaWduIG1hbmFnZW1lbnR8YWRkZmFtZSBnbWJo",
-      "title": "Teamlead (M/W/D) Influencer Marketing  & Campaign Management",
-      "company": "addfame GmbH",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Unbefristeter arbeitsvertrag, teamleitung",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-29T17:00:52.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/addfame-gmbh/teamlead-influencer-marketing-campaign-management-munich-392795"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9xdWFudHdhcmUvZXhwZXJpbWVudGFsLXF1YW50dW0tZW5naW5lZXItZGVsZnQtMTQ1NDMyfGV4cGVyaW1lbnRhbCBxdWFudHVtIGVuZ2luZWVyfHF1YW50d2FyZQ",
@@ -1126,19 +1087,6 @@
       "url": "https://www.arbeitnow.ch/jobs/companies/skydio/autonomy-engineer-intern-reinforcement-learning-2027-zurich-28218"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9jcmlzcC9sZWFkLXN1cHBseS1jaGFpbi1jb29yZGluYXRvci1hbXN0ZXJkYW0tMTc1ODk5fGxlYWQgc3VwcGx5IGNoYWluIGNvw7ZyZGluYXRvcnxjcmlzcA",
-      "title": "Lead Supply Chain Coördinator",
-      "company": "Crisp",
-      "location": "Amsterdam",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-27T18:40:38.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/crisp/lead-supply-chain-coordinator-amsterdam-175899"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9za3lkaW8vYXV0b25vbXktZW5naW5lZXItaW50ZXJuLXNpbXVsYXRpb24tcm9ib3RpY3MtMjAyNy16dXJpY2gtMTAxNTQ4fGF1dG9ub215IGVuZ2luZWVyIGludGVybiwgc2ltdWxhdGlvbiAmIHJvYm90aWNzLCAyMDI3ICh6dXJpY2gpfHNreWRpbw",
       "title": "Autonomy Engineer Intern, Simulation & Robotics, 2027 (Zurich)",
       "company": "Skydio",
@@ -1163,6 +1111,19 @@
       "postedDate": "2026-10-27T18:40:38.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.ch/jobs/companies/skydio/autonomy-engineer-intern-autonomy-infrastructure-systems-and-tools-2027-zurich-280117"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9jcmlzcC9sZWFkLXN1cHBseS1jaGFpbi1jb29yZGluYXRvci1hbXN0ZXJkYW0tMTc1ODk5fGxlYWQgc3VwcGx5IGNoYWluIGNvw7ZyZGluYXRvcnxjcmlzcA",
+      "title": "Lead Supply Chain Coördinator",
+      "company": "Crisp",
+      "location": "Amsterdam",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-27T18:40:38.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.nl/jobs/companies/crisp/lead-supply-chain-coordinator-amsterdam-175899"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9wb2xhcnN0ZXBzL3NvY2lhbC1mb2xsb3dlci1wcm9kdWN0LW1hbmFnZXItYW1zdGVyZGFtLTMyNzkxN3xzb2NpYWwgJiBmb2xsb3dlciAtIHByb2R1Y3QgbWFuYWdlcnxwb2xhcnN0ZXBz",
@@ -1436,19 +1397,6 @@
       "postedDate": "2026-10-25T09:31:00.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/staffplanning-bv/netwerk-engineer-telecom-alphen-aan-den-rijn-43028"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9pbi1kaXZpZHUvaHItb2ZmaWNlci1pbi1kZW4taGFhZy10aGUtaGFndWUtMjg2MDkxfGhyLW9mZmljZXIgaW4gZGVuIGhhYWd8aW4tZGl2aWR1",
-      "title": "HR-officer in Den Haag",
-      "company": "In-Dividu",
-      "location": "The Hague",
-      "workModel": "On-site",
-      "opportunityType": "Vast dienstverband (onbepaalde tijd)",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-25T09:30:58.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/in-dividu/hr-officer-in-den-haag-the-hague-286091"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9hbnlib3RpY3Mvc2VuaW9yLXJlaW5mb3JjZW1lbnQtbGVhcm5pbmctZW5naW5lZXItenVyaWNoLXN3aXR6ZXJsYW5kLTM5MTIzNnxzZW5pb3IgcmVpbmZvcmNlbWVudCBsZWFybmluZyBlbmdpbmVlcnxhbnlib3RpY3M",
