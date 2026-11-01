@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T12:42:56.344Z",
+  "generatedAt": "2026-11-01T21:43:35.807Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,32 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9jb250ZW50c3RhY2svYnVzaW5lc3MtaW50ZWxsaWdlbmNlLWRhdGEtYXJjaGl0ZWN0LTQzMDg2N3xidXNpbmVzcyBpbnRlbGxpZ2VuY2UgZGF0YSBhcmNoaXRlY3R8Y29udGVudHN0YWNr",
+      "title": "Business Intelligence Data Architect",
+      "company": "Contentstack",
+      "location": "Unspecified",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-11-01T18:55:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.nl/jobs/companies/contentstack/business-intelligence-data-architect-430867"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zYWhhanNvZnR3YXJlL2xlYWQtcHJpbmNpcGFsLWVuZ2luZWVyLWZ1bGwtc3RhY2stbG9uZG9uLTEyOTQ2OHxsZWFkIC8gcHJpbmNpcGFsIGVuZ2luZWVyIC0gZnVsbCBzdGFja3xzYWhhanNvZnR3YXJl",
+      "title": "Lead / Principal Engineer - Full Stack",
+      "company": "Sahajsoftware",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-11-01T15:55:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sahajsoftware/lead-principal-engineer-full-stack-london-129468"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wc2lxdWFudHVtL3Nlbmlvci1xdWFudHVtLWFwcGxpY2F0aW9ucy1hcmNoaXRlY3QtZGFyZXNidXJ5LTIwNzk0MnxzZW5pb3IgcXVhbnR1bSBhcHBsaWNhdGlvbnMgYXJjaGl0ZWN0fHBzaXF1YW50dW0",
       "title": "Senior Quantum Applications Architect",
@@ -528,6 +554,19 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/everai/senior-lead-lifecycle-marketing-manager-full-remote-netherlands-96246"
     },
     {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLWxlYWQtbGlmZWN5Y2xlLW1hcmtldGluZy1tYW5hZ2VyLWZ1bGwtcmVtb3RlLWZyYW5jZS05NzUwN3xzZW5pb3IvbGVhZCBsaWZlY3ljbGUgbWFya2V0aW5nIG1hbmFnZXIgKGZ1bGwgcmVtb3RlIC0gZnJhbmNlKXxldmVyYWk",
+      "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - France)",
+      "company": "EverAI",
+      "location": "France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-10-31T03:40:22.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/everai/senior-lead-lifecycle-marketing-manager-full-remote-france-97507"
+    },
+    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZlcmFpL3Nlbmlvci1sZWFkLWxpZmVjeWNsZS1tYXJrZXRpbmctbWFuYWdlci1mdWxsLXJlbW90ZS1nZXJtYW55LTQxNzcxfHNlbmlvci9sZWFkIGxpZmVjeWNsZSBtYXJrZXRpbmcgbWFuYWdlciAoZnVsbCByZW1vdGUgLSBnZXJtYW55KXxldmVyYWk",
       "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - Germany)",
       "company": "EverAI",
@@ -552,19 +591,6 @@
       "postedDate": "2026-10-31T03:40:22.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/omegga/product-owner-hardware-munich-313199"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLWxlYWQtbGlmZWN5Y2xlLW1hcmtldGluZy1tYW5hZ2VyLWZ1bGwtcmVtb3RlLWZyYW5jZS05NzUwN3xzZW5pb3IvbGVhZCBsaWZlY3ljbGUgbWFya2V0aW5nIG1hbmFnZXIgKGZ1bGwgcmVtb3RlIC0gZnJhbmNlKXxldmVyYWk",
-      "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - France)",
-      "company": "EverAI",
-      "location": "France",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-31T03:40:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/everai/senior-lead-lifecycle-marketing-manager-full-remote-france-97507"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9seXJlYmlyZC1oZWFsdGgvc29mdHdhcmUtZW5naW5lZXItdW5pdGVkLWtpbmdkb20tOTMzODl8c29mdHdhcmUgZW5naW5lZXJ8bHlyZWJpcmQgaGVhbHRo",
@@ -619,32 +645,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/margo/data-scientist-practice-ia-chez-margo-projets-marketing-optimisation-paris-251653"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93cHAvZW5naW5lZXJpbmctbGVhZC1sb25kb24tNTEyODh8ZW5naW5lZXJpbmcgbGVhZHx3cHA",
-      "title": "Engineering Lead",
-      "company": "Wpp",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-31T00:55:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wpp/engineering-lead-london-51288"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93cHAvZGF0YS1zdGV3YXJkLXBlb3BsZS1wbGF0Zm9ybXMtbG9uZG9uLWxvbmRvbi0zMzU1M3xkYXRhIHN0ZXdhcmQgLSBwZW9wbGUgcGxhdGZvcm1zfHdwcA",
-      "title": "Data Steward - People Platforms",
-      "company": "Wpp",
-      "location": "London, London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-31T00:55:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wpp/data-steward-people-platforms-london-london-33553"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZm91bmRlcnMtZmFjdG9yeS9jby1mb3VuZGVyLWN0by1haS1tbC1zdGFydHVwLWJlcmxpbi0xMzk4ODB8Y28tZm91bmRlciAmIGN0byB8IGFpICYgbWwgc3RhcnR1cHxmb3VuZGVycyBmYWN0b3J5",
       "title": "Co-Founder & CTO | AI & ML Startup",
       "company": "Founders Factory",
@@ -656,58 +656,6 @@
       "postedDate": "2026-10-31T00:40:13.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/founders-factory/co-founder-cto-ai-ml-startup-berlin-139880"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9zZW5pb3ItZnJhdWQtcmlzay1tYW5hZ2VyLWNhcmRpZmYtMjcwNzA3fHNlbmlvciBmcmF1ZCByaXNrIG1hbmFnZXJ8bW9uem8",
-      "title": "Senior Fraud Risk Manager",
-      "company": "Monzo",
-      "location": "Cardiff",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-30T21:55:29.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-fraud-risk-manager-cardiff-270707"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9lbmdpbmVlcmluZy1kaXJlY3Rvci1ldS1jYXJkaWZmLTM1NzIwOXxlbmdpbmVlcmluZyBkaXJlY3RvciwgZXV8bW9uem8",
-      "title": "Engineering Director, EU",
-      "company": "Monzo",
-      "location": "Cardiff",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-30T21:55:29.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/engineering-director-eu-cardiff-357209"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbG55bGFtcGhhcm1hY2V1dGljYWxzL2RpcmVjdG9yLWNsaW5pY2FsLXJlc2VhcmNoLWJlbmlnbi1oZW1hdG9sb2d5LWNhbWJyaWRnZS1tYS1waGlsYWRlbHBoaWEtcGEtbWFpZGVuaGVhZC03MDg2NnxkaXJlY3RvciwgY2xpbmljYWwgcmVzZWFyY2gtIGJlbmlnbiBoZW1hdG9sb2d5fGFsbnlsYW1waGFybWFjZXV0aWNhbHM",
-      "title": "Director, Clinical Research- Benign Hematology",
-      "company": "Alnylampharmaceuticals",
-      "location": "Cambridge, MA, Philadelphia, PA, Maidenhead",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-30T21:55:28.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/alnylampharmaceuticals/director-clinical-research-benign-hematology-cambridge-ma-philadelphia-pa-maidenhead-70866"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uZXdyZWxpYy9zZW5pb3Itc2FsZXMtbWFuYWdlci1ub3J0aGVybi1ldXJvcGUtYWNxdWlzaXRpb24tbG9uZG9uLTI2NTk4N3xzZW5pb3Igc2FsZXMgbWFuYWdlciAobm9ydGhlcm4gZXVyb3BlKSAtIGFjcXVpc2l0aW9ufG5ld3JlbGlj",
-      "title": "Senior Sales Manager (Northern Europe) - Acquisition",
-      "company": "newrelic",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-30T21:55:27.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/newrelic/senior-sales-manager-northern-europe-acquisition-london-265987"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvc29mdHdhcmUtZW5naW5lZXItZWRnZS1jbG91ZC1iZXJsaW4tMTYxMDd8c29mdHdhcmUgZW5naW5lZXIgLSBlZGdlICYgY2xvdWQgKG0vdy9kKXwxa29tbWE1y5o",
@@ -1293,45 +1241,6 @@
       "postedDate": "2026-10-26T18:29:11.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/8044955003?gh_jid=8044955003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9mdXNpb25hbGl0eS9jb21wdXRhdGlvbmFsLXNjaWVudGlzdC1zY2llbnRpZmljLW1hY2hpbmUtbGVhcm5pbmctbGF1c2FubmUtMzIzODk3fGNvbXB1dGF0aW9uYWwgc2NpZW50aXN0IC8gc2NpZW50aWZpYyBtYWNoaW5lIGxlYXJuaW5nfGZ1c2lvbmFsaXR5",
-      "title": "Computational Scientist / Scientific Machine Learning",
-      "company": "Fusionality",
-      "location": "Lausanne",
-      "workModel": "On-site",
-      "opportunityType": "Contract",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-25T21:17:29.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.ch/jobs/companies/fusionality/computational-scientist-scientific-machine-learning-lausanne-323897"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9mdXNpb25hbGl0eS9kYXRhLW1sLWVuZ2luZWVyLWZ1c2lvbi1kYXRhLWxhdXNhbm5lLTQ3OTk1NHxkYXRhL21sIGVuZ2luZWVyLCBmdXNpb24gZGF0YXxmdXNpb25hbGl0eQ",
-      "title": "Data/ML engineer, fusion data",
-      "company": "Fusionality",
-      "location": "Lausanne",
-      "workModel": "On-site",
-      "opportunityType": "Contract",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-25T21:02:24.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.ch/jobs/companies/fusionality/data-ml-engineer-fusion-data-lausanne-479954"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9jZGRzLWFnL3Nlbmlvci1zeXN0ZW0tc29mdHdhcmUtZW5naW5lZXItenVyaWNoLTQ5MzExMXwoc2VuaW9yKSBzeXN0ZW0gc29mdHdhcmUgZW5naW5lZXJ8Y2RkcyBhZw",
-      "title": "(Senior) System software engineer",
-      "company": "CDDS AG",
-      "location": "Zürich",
-      "workModel": "On-site",
-      "opportunityType": "Contract",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-25T13:00:52.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.ch/jobs/companies/cdds-ag/senior-system-software-engineer-zurich-493111"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy84MDQyMjg1MDAzP2doX2ppZD04MDQyMjg1MDAzfHNlbmlvciBhY2NvdW50YW50LCBjb3N0IGFuZCBtYW51ZmFjdHVyaW5nIGFjY291bnRpbmd8bmV1cmFsaW5r",
