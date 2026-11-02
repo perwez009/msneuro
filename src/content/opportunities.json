@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T21:43:35.807Z",
+  "generatedAt": "2026-11-02T04:33:51.020Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy90b210b20vcHJvZHVjdC1tYW5hZ2VyLXRyYWZmaWMtZmxvdy1qYW1zLXNwZWVkLXByb2ZpbGVzLW1vZGVyYXRpb24tYW1zdGVyZGFtLXRoZS1uZXRoZXJsYW5kcy0yMTY0Mzd8cHJvZHVjdCBtYW5hZ2VyIOKAkyB0cmFmZmljIChmbG93LCBqYW1zLCBzcGVlZCBwcm9maWxlcyAmIG1vZGVyYXRpb24pfHRvbXRvbQ",
+      "title": "Product Manager – Traffic (Flow, Jams, Speed Profiles & Moderation)",
+      "company": "Tomtom",
+      "location": "Amsterdam, The Netherlands",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-11-02T03:27:29.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/product-manager-traffic-flow-jams-speed-profiles-moderation-amsterdam-the-netherlands-216437"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yb2t1L3Nlbmlvci1tYWNoaW5lLWxlYXJuaW5nLWVuZ2luZWVyLXNlYXJjaC1yZWNvbW1lbmRhdGlvbnMtY2FtYnJpZGdlLTUxNjIxfHNlbmlvciBtYWNoaW5lIGxlYXJuaW5nIGVuZ2luZWVyLCBzZWFyY2ggJiByZWNvbW1lbmRhdGlvbnN8cm9rdQ",
+      "title": "Senior Machine Learning Engineer, Search & Recommendations",
+      "company": "Roku",
+      "location": "Cambridge",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-11-01T21:55:27.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-machine-learning-engineer-search-recommendations-cambridge-51621"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVuc29yZHluZS93b3JraW5nLXN0dWRlbnQtbGxtLWluZmVyZW5jZS1wZXJmb3JtYW5jZS1tdW5pY2gtMjI1MjQ1fHdvcmtpbmcgc3R1ZGVudCAtIGxsbSBpbmZlcmVuY2UgcGVyZm9ybWFuY2V8dGVuc29yZHluZQ",
+      "title": "Working Student - LLM Inference Performance",
+      "company": "Tensordyne",
+      "location": "Munich, Bavaria, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-11-01T21:45:31.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/tensordyne/working-student-llm-inference-performance-munich-225245"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdGVuc29yZHluZS9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItbWwtaW5mZXJlbmNlLW51bWVyaWNzLW11bmljaC0zNjAyNzh8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyIOKAlCBtbCBpbmZlcmVuY2UgJiBudW1lcmljc3x0ZW5zb3JkeW5l",
+      "title": "Senior Software Engineer — ML Inference & Numerics",
+      "company": "Tensordyne",
+      "location": "Munich, Bavaria, Germany",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-11-01T21:45:31.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/tensordyne/senior-software-engineer-ml-inference-numerics-munich-360278"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9oaW1zLWFuZC1oZXJzL3N0YWZmLWRhdGEtc2NpZW50aXN0LWxvbmRvbi0zOTA3OTB8c3RhZmYgZGF0YSBzY2llbnRpc3R8aGltcyBhbmQgaGVycw",
+      "title": "Staff Data Scientist",
+      "company": "Hims And Hers",
+      "location": "London, England",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-11-01T21:40:23.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/staff-data-scientist-london-390790"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9jb250ZW50c3RhY2svYnVzaW5lc3MtaW50ZWxsaWdlbmNlLWRhdGEtYXJjaGl0ZWN0LTQzMDg2N3xidXNpbmVzcyBpbnRlbGxpZ2VuY2UgZGF0YSBhcmNoaXRlY3R8Y29udGVudHN0YWNr",
       "title": "Business Intelligence Data Architect",
@@ -554,19 +619,6 @@
       "url": "https://www.arbeitnow.nl/jobs/companies/everai/senior-lead-lifecycle-marketing-manager-full-remote-netherlands-96246"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLWxlYWQtbGlmZWN5Y2xlLW1hcmtldGluZy1tYW5hZ2VyLWZ1bGwtcmVtb3RlLWZyYW5jZS05NzUwN3xzZW5pb3IvbGVhZCBsaWZlY3ljbGUgbWFya2V0aW5nIG1hbmFnZXIgKGZ1bGwgcmVtb3RlIC0gZnJhbmNlKXxldmVyYWk",
-      "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - France)",
-      "company": "EverAI",
-      "location": "France",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-31T03:40:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/everai/senior-lead-lifecycle-marketing-manager-full-remote-france-97507"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZXZlcmFpL3Nlbmlvci1sZWFkLWxpZmVjeWNsZS1tYXJrZXRpbmctbWFuYWdlci1mdWxsLXJlbW90ZS1nZXJtYW55LTQxNzcxfHNlbmlvci9sZWFkIGxpZmVjeWNsZSBtYXJrZXRpbmcgbWFuYWdlciAoZnVsbCByZW1vdGUgLSBnZXJtYW55KXxldmVyYWk",
       "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - Germany)",
       "company": "EverAI",
@@ -593,30 +645,17 @@
       "url": "https://www.arbeitnow.com/jobs/companies/omegga/product-owner-hardware-munich-313199"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9seXJlYmlyZC1oZWFsdGgvc29mdHdhcmUtZW5naW5lZXItdW5pdGVkLWtpbmdkb20tOTMzODl8c29mdHdhcmUgZW5naW5lZXJ8bHlyZWJpcmQgaGVhbHRo",
-      "title": "Software Engineer",
-      "company": "Lyrebird Health",
-      "location": "United Kingdom",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-31T03:40:22.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lyrebird-health/software-engineer-united-kingdom-93389"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLWxlYWQtbGlmZWN5Y2xlLW1hcmtldGluZy1tYW5hZ2VyLWZ1bGwtcmVtb3RlLXVrLXVuaXRlZC1raW5nZG9tLTMyNjAyMnxzZW5pb3IvbGVhZCBsaWZlY3ljbGUgbWFya2V0aW5nIG1hbmFnZXIgKGZ1bGwgcmVtb3RlIC0gdWspfGV2ZXJhaQ",
-      "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - UK)",
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9ldmVyYWkvc2VuaW9yLWxlYWQtbGlmZWN5Y2xlLW1hcmtldGluZy1tYW5hZ2VyLWZ1bGwtcmVtb3RlLWZyYW5jZS05NzUwN3xzZW5pb3IvbGVhZCBsaWZlY3ljbGUgbWFya2V0aW5nIG1hbmFnZXIgKGZ1bGwgcmVtb3RlIC0gZnJhbmNlKXxldmVyYWk",
+      "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - France)",
       "company": "EverAI",
-      "location": "United Kingdom",
+      "location": "France",
       "workModel": "On-site",
       "opportunityType": "Full-time",
       "source": "Arbeitnow",
       "sourceUrl": "https://www.arbeitnow.com",
       "postedDate": "2026-10-31T03:40:22.000Z",
       "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/senior-lead-lifecycle-marketing-manager-full-remote-uk-united-kingdom-326022"
+      "url": "https://www.arbeitnow.fr/jobs/companies/everai/senior-lead-lifecycle-marketing-manager-full-remote-france-97507"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9tYXJnby9kYXRhLXNjaWVudGlzdC1wcm9qZXRzLXByaWNpbmctc2VnbWVudGF0aW9uLXByYWN0aWNlLWlhLW1hcmdvLXBhcmlzLTMzODk1M3xkYXRhIHNjaWVudGlzdCB8IHByb2pldHMgcHJpY2luZyAmIHNlZ21lbnRhdGlvbiDigJMgcHJhY3RpY2UgaWEgbWFyZ298bWFyZ28",
@@ -929,19 +968,6 @@
       "postedDate": "2026-10-29T12:31:49.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.nl/jobs/companies/vdk-groep-bv/junior-accountmanager-software-barendrecht-59991"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9hbWYtYmFrZXJ5LXN5c3RlbXMtYnYvc2VuaW9yLWNvbnRyb2xzLWVuZ2luZWVyLWdvcmluY2hlbS0zODg1OTZ8c2VuaW9yIGNvbnRyb2xzIGVuZ2luZWVyfGFtZiBiYWtlcnkgc3lzdGVtcyBiLnYu",
-      "title": "Senior Controls Engineer",
-      "company": "AMF Bakery Systems B.V.",
-      "location": "Gorinchem, Zuid-Holland, Nederland",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-10-28T21:31:42.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-388596"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9wYW50ZWlhLWJ2L3ByaW5jaXBhbC1zZW5pb3ItY29uc3VsdGFudC1ldS10cmFuc3BvcnQtbW9iaWxpdHktcHJvamVjdC1kZWxpdmVyeS1leGNlbGxlbmNlLXpvZXRlcm1lZXItMTU3NDQ5fHByaW5jaXBhbCAvIHNlbmlvciBjb25zdWx0YW50IGV1IHRyYW5zcG9ydCAmIG1vYmlsaXR5IChwcm9qZWN0IGRlbGl2ZXJ5ICYgZXhjZWxsZW5jZSl8cGFudGVpYSBiLnYu",
