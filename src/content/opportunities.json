@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T23:16:16.505Z",
+  "generatedAt": "2026-11-23T05:52:48.710Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,58 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy9hbWYtYmFrZXJ5LXN5c3RlbXMtYnYvc2VuaW9yLWNvbnRyb2xzLWVuZ2luZWVyLWdvcmluY2hlbS0yNjE0MTZ8c2VuaW9yIGNvbnRyb2xzIGVuZ2luZWVyfGFtZiBiYWtlcnkgc3lzdGVtcyBiLnYu",
+      "title": "Senior Controls Engineer",
+      "company": "AMF Bakery Systems B.V.",
+      "location": "Gorinchem, Zuid-Holland, Nederland",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-11-23T03:31:39.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-261416"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9rd2FsZWUvc2VuaW9yLWdyb3d0aC1hbmFseXN0LWxlYW1pbmd0b24tc3BhLWVuZ2xhbmQtMzYyOTY5fHNlbmlvciBncm93dGggYW5hbHlzdHxrd2FsZWU",
+      "title": "Senior Growth Analyst",
+      "company": "Kwalee",
+      "location": "Leamington Spa, England",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-11-23T03:26:21.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kwalee/senior-growth-analyst-leamington-spa-england-362969"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9rd2FsZWUvc2VuaW9yLWRhdGEtYW5hbHlzdC1sZWFtaW5ndG9uLXNwYS1lbmdsYW5kLTMwNzQwMXxzZW5pb3IgZGF0YSBhbmFseXN0fGt3YWxlZQ",
+      "title": "Senior Data Analyst",
+      "company": "Kwalee",
+      "location": "Leamington Spa, England",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-11-23T03:26:21.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kwalee/senior-data-analyst-leamington-spa-england-307401"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9pbGx1aW4tdGVjaG5vbG9neS9zZW5pb3ItYWNjb3VudC1leGVjdXRpdmUtdGVsZWNvbW11bmljYXRpb25zLWYtaC1wdXRlYXV4LTI3NjczNnxzZW5pb3IgYWNjb3VudCBleGVjdXRpdmUgLSB0ZWxlY29tbXVuaWNhdGlvbnMgKGYvaCl8aWxsdWluIHRlY2hub2xvZ3k",
+      "title": "Senior Account Executive - Telecommunications (F/H)",
+      "company": "ILLUIN Technology",
+      "location": "Paris La Défense",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-11-23T00:40:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/senior-account-executive-telecommunications-f-h-puteaux-276736"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jaC9qb2JzL2NvbXBhbmllcy9sYWVsYXBzL3NvZnR3YXJlLWVuZ2luZWVyLXNpbXVsYXRpb24tZGlnaXRhbC10d2lucy16dXJpY2gtNDE1Mzk4fHNvZnR3YXJlIGVuZ2luZWVyLCBzaW11bGF0aW9uIChkaWdpdGFsIHR3aW5zKXxsYWVsYXBz",
       "title": "Software Engineer, Simulation (Digital Twins)",
@@ -786,19 +838,6 @@
       "postedDate": "2026-11-20T03:55:23.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/artefact/stage-assistante-chargee-de-communication-orientee-contenus-digitaux-f-h-9th-arrondissement-of-paris-75009-paris-14008"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hcnRlZmFjdGpvYnMvc3RhZ2UtY29tbXVuaWNhdGlvbi1zdHJhdGVnaWUtZGUtY29tbXVuaWNhdGlvbi1pbm5vdmFudGUtYWRvcHQtYWktOXRoLWFycm9uZGlzc2VtZW50LW9mLXBhcmlzLTc1MDA5LXBhcmlzLTMwODMxfHN0YWdlIGNvbW11bmljYXRpb24g4oCTIHN0cmF0w6lnaWUgZGUgY29tbXVuaWNhdGlvbiBpbm5vdmFudGUgKGFkb3B0IGFpKXxhcnRlZmFjdGpvYnM",
-      "title": "Stage Communication – Stratégie de communication innovante (Adopt AI)",
-      "company": "Artefactjobs",
-      "location": "9th arrondissement of Paris, 75009, Paris",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-11-20T00:55:32.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-communication-strategie-de-communication-innovante-adopt-ai-9th-arrondissement-of-paris-75009-paris-30831"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5ubC9qb2JzL2NvbXBhbmllcy93cHBtZWRpYS9zdGFnaWFpci1zb2NpYWwtcHJvamVjdC1tYW5hZ2VtZW50LXN0dWRpb20tYW1zdGVyZGFtLTQwNTIwN3xzdGFnaWFpciBzb2NpYWwgcHJvamVjdCBtYW5hZ2VtZW50IHN0dWRpb218d3BwbWVkaWE",
